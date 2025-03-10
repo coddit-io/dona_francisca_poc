@@ -39,27 +39,27 @@ This POC will demonstrate the viability of a Ship Management System that central
 ### Phase 1: Setup and Document Processing (4-6 hours)
 - [x] Project structure setup
 - [x] Add core dependencies
-- [ ] Implement document loading service (PDF and DOCX parsing)
-- [ ] Create basic prompt engineering for the LLM
+- [x] Implement document loading service (TXT parsing)
+- [x] Create basic prompt engineering for the LLM
 
 ### Phase 2: AI Integration (4-6 hours)
-- [ ] Integrate with OpenAI GPT for document Q&A
-- [ ] Refine prompt templates
-- [ ] Test with sample queries
+- [x] Integrate with OpenAI GPT for document Q&A
+- [x] Refine prompt templates
+- [x] Test with sample queries
 
 ### Phase 3: Frontend Implementation (4-6 hours)
-- [ ] Create Streamlit UI with chat interface
-- [ ] Implement document selection functionality (if needed)
-- [ ] Add basic styling and branding elements
+- [x] Create Streamlit UI with chat interface
+- [x] Implement document selection functionality
+- [x] Add basic styling and branding elements
 
 ### Phase 4: Testing and Refinement (2-4 hours)
-- [ ] Test with actual ship manuals
+- [x] Test with actual ship manuals
 - [ ] Refine AI responses
 - [ ] Prepare for demo
 
 ## Technology Stack (Simplified)
 - **Frontend**: Streamlit (single file implementation)
-- **Document Processing**: PyPDF, docx2txt
+- **Document Processing**: Text file loading and processing
 - **AI Services**: OpenAI GPT models
 - **Dependency Management**: Poetry
 
@@ -70,10 +70,10 @@ This POC will demonstrate the viability of a Ship Management System that central
 4. UI is intuitive enough for non-technical users to navigate
 
 ## Estimated Timeline
-- Setup and document processing: 4-6 hours
-- AI integration: 4-6 hours
-- Frontend implementation: 4-6 hours
-- Testing and refinement: 2-4 hours
+- Setup and document processing: 4-6 hours ✅
+- AI integration: 4-6 hours ✅
+- Frontend implementation: 4-6 hours ✅
+- Testing and refinement: 2-4 hours (In Progress)
 - **Total POC development time**: Approximately 1-2 days
 
 ## Notes

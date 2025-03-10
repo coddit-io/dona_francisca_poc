@@ -1,0 +1,4538 @@
+GOLETA
+
+Doha. SHrancisca
+
+Manual del propietario Goleta
+“Dona Francisca’
+
+1.1-
+1.2-
+1.3-
+1.4-
+1.5-
+1.6-
+1.7-
+1.8-
+1.9-
+1.10-
+
+2.1-
+
+3.1-
+
+GOLETA
+
+é Woria erancisca
+
+INDICE
+
+Informacién general.
+
+Nombre del astillero constructor y dominio.
+
+Tipo de embarcacién y nombre.
+
+Categoria de disefio.
+
+Caracteristicas generales.
+
+Descripcidn de informaci6én de la placa del astillero.
+Propulsidn primaria y secundaria.
+
+Plano velico.
+
+Plano de interior.
+
+Tapas de piso de interior.
+
+Caracteristicas de tanques.
+
+Informacién de carga.
+
+Maxima carga y capacidad de tripulacién recomendada.
+
+informacién de la planta propulsora.
+
+Plano, descripciédn y recomendaciones del fabricante de la planta propulsora.
+
+Informacién sobre inundaci6n y estabilidad.
+
+Consejos de estiba.
+
+4.2-
+4.3-
+4.4-
+4.5-
+4.6-
+4.7-
+
+5.1-
+5.2-
+5.3-
+5.4-
+
+6.1-
+6.2-
+6.3-
+6.4-
+6.5-
+6.6-
+6.7-
+6.8-
+6.9-
+
+7.1-
+7.2-
+
+Plano y descripcidn de pasa cascos y proteccidn catédica.
+Plano y descripcidn de tambuchos de cubierta.
+
+Plano de cubierta de trabajo.
+
+Plano y descripcidn de ojos de buey.
+
+Plano y descripcidén del sistema de achique.
+
+Informacién sobre estabilidad de la embarcaci6n.
+
+Lucha contra incendio.
+
+Descripcidn del sistema de ventilacidn de maquinas.
+
+Plano y descripcidn de manifold de refrigeraci6n de agua de mar.
+Plano y descripcidén del sistema de combustible.
+
+Plano de medios de evacuacién y lucha contra incendio.
+
+Informacién del uso seguro del sistema eléctrico.
+
+Generalidades.
+
+Plano unifilar simplificado
+
+Sistema de fuerza motriz 3 x 380 V- 50 Hz.
+
+Toma de Tierra
+
+Sistema de 3 x 220 V - 50 Hz.
+
+Sistema 2 x 24 VCC.
+
+Carga de baterias.
+
+Sistema de distribuciédn 380/220 VCA.
+
+Recomendaciones al realizar trabajos de mantenimiento del sistema eléctrico.
+
+Sistemas de aguas.
+
+Plano unifilar y descripcidn del sistema de aguas grises.
+Plano unifilar y descripcidn del sistema de aguas negras.
+7.3-
+
+8.1-
+
+10-
+
+10.1-
+10.2-
+10.3-
+
+11.1-
+11.2-
+11.3-
+
+12.1-
+12.2-
+12.3-
+
+GOLETA
+
+é Wotia. Francisca
+
+Plano unifilar y descripcién del sistema de agua potable.
+
+Informacién de movimientos en tierra.
+
+Plano de ubicacién de camas.
+
+Sistema de tim6n de emergencia.
+
+Sistema de amarre y fondeo.
+
+Descripcidn del sistema de fondeo.
+Dispositivos de amarre de cubierta.
+Maniobra de remolque.
+
+Recomendaciones e informacion general.
+
+Prevencidén de caida de hombre al agua y posicion de escaleras de rescate.
+Balsas salva vidas.
+Descripcion del sistema de planchada.
+
+Cuidado del medio ambiente.
+
+Leyes locales.
+Aceite y combustible.
+Descarga de aguas grises y negras.
+
+12.4-
+
+12.5-
+
+12.6-
+
+12.7-
+
+13-
+
+13.1-
+
+13.2-
+13.3-
+
+14-
+
+14.1-
+14.2-
+
+Emisién de ruidos.
+
+Gases de escape.
+Antifouling.
+
+Solventes.
+Mantenimiento.
+
+Limpieza y mantenimiento.
+
+Repuestos.
+Reparaciones.
+
+Notas.
+
+Notas finales y sugerencias.
+Listado de chequeo de mantenimiento general.
+GOLETA
+
+é Wotia. Francisca
+
+INTRODUCCION
+
+El objetivo de este manual es ayudar al usuario a navegar su embarcacion de modo seguro y placentero.
+
+Este manual contiene detalles del barco con informacidén que le ayudara a utilizar y mantener el buen funcionamiento de los sistemas y equipos abordo.
+
+Cabe mencionar que este no es un manual detallado de cada equipo en particular y en caso de dificultad con un sistema especifico, se recomienda leer el manual
+correspondiente al equipo en cuestion o consultar al fabricante.
+
+Si esta es su primera embarcacidn o tiene poco conocimiento de sus caracteristicas y del manejo de equipos, tenga en cuenta que antes de su navegacién debera
+
+aprender el manejo de cada sistema y capacidades de trabajo que corresponden a la categoria de disefio de la embarcacidn.
+
+Usted y su tripulacidn deberdan estar equipados y entrenados para el manejo del barco bajo todas las condiciones de navegacidn.
+
+Navegue con personal entrenado y competente para el uso y mantenimiento de la embarcacién y en caso de llevar invitados de menor experiencia nautica, tome
+mayores precauciones.
+
+Cualquier modificaci6n que desee realizar y pueda afectar las caracteristicas estructurales o de seguridad de la embarcaci6én, deberan ser evaluadas, ejecutadas y
+
+documentadas por personal competente en materia naval. El astillero no sera responsable de modificaciones futuras que no han sido aprobadas previamente.
+
+NOTA: Cualquier cambio en la disposicidn de los pesos a bordo (por ejemplo un radar, cambio de motor, etc.) puede afectar significativamente la estabilidad, asien-
+to y performance de su barco.
+
+El usuario de este barco estara avisaco de lo siguiente:
+
+-Se debera tener una tripulacidn entrenada adecuadamente.
+
+-No transportar mas de la carga recomendada por el disefio
+
+-Debe debera mantener al minimo el nivel de agua de sentina.
+
+-La estabilidad se reduce al agregar pesos en altura.
+
+-En condiciones de mal tiempo, las escotillas, tambuchos y puertas deberan permanecer cerrados para minimizar el riesgo de inundacién.
+-Las olas con rompiente son un grave peligro a la estabilidad.
+
+Siempre mantenga su barco en buen estado y tenga conacimiento del deterioro que puede ocurrir con el tiempo, como resultado del uso intensivo o el desuso del
+mismo.
+
+Cualquier barco, sin importar su fortaleza, puede ser severamente dafiado si no se usa correctamente.
+
+Lea cuidadosamente el manual de operacidn de las balsas salvavidas.
+
+La tripulacidn debe estar familiarizada con el correcto uso de todo los equipos de seguridad (arneses, bengalas, chalecos salvavidas, balsas, etc.), como asi también
+con las maniobras de emergencia (recuperaci6n de hombre al agua, remolque, etc.).
+GOLETA
+
+é Wotia. Francisca
+
+ESTE MANUAL FUE CONFECCIONADO BAJO LAS NORMAS RINA E ISO INTERNACIONALES. CUALQUIER
+MODIFICACION PODRIA VIOLAR DICHAS NORMAS RESULTANDO PELIGROSO PARA LA EMBARCACION Y
+SU TRIPULACION.
+
+EL PROPOSITO DE ESTE MANUAL ES BRINDAR INFORMACION DEL FUNCIONAMIENTO GENERAL DE LOS
+SISTEMAS ABORDO Y ADVERTIR A LA TRIPULACION DE LOS RIESGOS QUE IMPLICA NAVEGAR ESTA EM-
+BARCACION. DE ESTA FORMA, SE ENCONTRARAN A LO LARGO DE ESTA MANUAL, NOTAS Y CARTELES
+DE ADVERTENCIA CON EL OBJETIVO DE PREVENIR SITUACIONES DE RIESGO.
+
+POR OTRA PARTE, CONSIDERAMOS QUE ESTE MANUAL SERA UNA HERRAMIENTA DE TRABAJO A LA
+HORA DE TOMAR DECISIONES SOBRE LOS SISTEMAS ABORDO Y POR ESO RECOMENDAMOS LA IMPRE-
+SION DE DOS COPIAS DEL MISMO. UNA ENCUADERNADA COMO PARTE DE LA DOCUMENTACION Y LA
+OTRA ENCARPETADA A MODO DE BORRADOR PERMITIENDO TRABAJAR SOBRE LAS HOJAS A CONTI-
+NUACION.
+
+SE RECOMIENDA GUARDAR ESTE MANUAL EN UN LUGAR SEGURO Y SECO. DEBE
+ENTREGARSE EN LAS MISMAS CONDICIONES AL PROXIMO DUENO DE LA EM-
+BARCACION EN CASO DE QUE SEA VENDIDA.
+
+GOLETA
+
+c Wotia. Fra neisca
+
+ADVERTENCIAS
+
+PELIGRO: ADVERTENCIA DE RIESGO DE ACCIDENTE GRAVE TANTO PARA EL SER HUMANO COMO PARA LA EMBARCACION O MUERTE OCASIONAL
+
+PRECAUCION: ADVERTENCIA DE RIESGO GRAVE DE ACCIDENTE PERSONAL O DANO DE EQUIPO EN CASO DE NO TOMAR LAS MEDIDAS DE SEGURIDAD CORRES-
+PONDIENTES.
+
+ATENDIAN: ADVERTENCIA PARA EVITAR SITUACIONES DE RIESGO PERSONAL Y USO SEGURO DE SISTEMAS ABORDO.
+
+ATENCION
+
+-En caso de extravio o dafio de este manual pida al astillero una copia del mismo.
+
+-Este manual sera entregado al propietario y el mismo debera firmar un recibido como constacia de que la embarcacién se entrega con la correspondiente docu-
+mentacion de instrucciones de seguridad.
+
+PELIGRO
+
+NO FUMAR
+
+OS
+
+VER MANUAL
+
+co
+
+GOLETA
+
+é Wotia. Francisca
+
+SIMBOLOS
+PRECAUCION ALTA TEMPERATURA ALTA TENSION RIESGO DE INCENDIO
+ASFIXIA CO2 NO EXTINGUIR CON AGUA ALTA PRESION DESCARGA EN CUBIERTA
+
+A w
+
+LOS SIMBOLOS DE SEGURIDAD QUE CONTIENE EL MANUAL DEBEN REPETIRSE EN EL BARCO EN FOR-
+MA DE ADHESIVOS. DICHOS SIMBOLOS SON RECORDATORIOS GRAFICOS QUE AGILIZAN EL MENSAJE
+SEGUN EL RIESGO QUE SE QUIERA EVITAR Y PERTENECEN A LOS ESTANDARES DE NORMAS ISO.
+
+GOLETA
+
+c Wotia. Fra neisca
+
+1- INFORMACION GENERAL
+
+ATENCION
+
+-Como resultado de instalaciones realizadas luego de la entrega del astillero, la embarcaciédn puede tener diferencias respecto de este manual. No deje de consultar
+el resto de la documentacién técnica y planos adjuntos con este manual y en caso de duda, consulte al astillero para recibir instrucciones.
+
+PRECAUCION
+
+-Evite cualquier tipo de modificacién de la embarcacidn o los sistemas abordo. Sin embargo si alguna reparacién o mejora implica leves modificaciones, contacte al
+astillero para pedir instrucciones.
+
+1.1- Nombre del astillero constructor y dominio.
+
+Astillero: La embarcacién fue construida por Astilleros Buquebus S.A.
+Disefio: Javier Soto Aceval
+
+Ingenieria de proceso: Oficina técnica astillero
+Dominio: La embarcacién pertenece a Los Cipreses S.A.
+
+1.2- Tipo de embarcaci6n y nombre.
+
+Goleta de 52.55 metros de eslora “ Dofia Francisca”
+
+GOLETA
+
+é Wotia. Francisca
+
+1.3- Categoria de disefio.
+
+Categoria A oceanica: Una embarcacién disefiada dentro de la Categoria A se considera apta para operar en condiciones oceanicas donde el viento pueda exceder
+
+fuerzas de grado 8 en escala Beaufort, con altura de olas de 4 metros o mayores. Dicha embarcacién debe ser auto suficiente tanto en condiciones normales como
+extremas .
+
+Sin embargo, condiciones excepcionales como huracanes, tsunamis quedan fuera de los limites de disefio de la embarcacién.
+
+1.4- Caracteristicas generales.
+
+La goleta Dofia Francisca es un buque a vela con aparejo moderno y cons-
+
+truida en materiales compuestos totalmente en fibra de carbono, por lo Eslora total LOA 52,55 Metros
+cual se logro una embarcacién sumamente liviana para su tamafio con una Eslora de casco LOD 45,8 Metros
+relacidn peso potencia extraordinaria. Eslora en flotacion LWL 39,00 Metros
+Si bien el disefio en general remite a una embarcacidon antigua, tantos las Manga BEAM 3,6 Metros
+meas ce asco como la quilla y el timdén fueron disefiados y construidos Calado DRAFT 3,5 Metros
+con la ultima tecnologia.
+
+L 6 ., . Desplazamiento LIGHT D. 230 Toneladas
+El propdsito de esta embarcacidn es recorrer los mares del mundo sin
+restricciones. Area velica SAIL AREA 1100 M2
+
+DESPLAZAMIENTOS: AVERIGUAR !!
+
+Desplazamiento sin carga ISO 8666 (Lightship) 230 Toneladas; Calado 3.5 M
+Desplazamiento en carga 280
+Peso de la quilla (lastre) 82
+Tonelage de arqueo (Rina) 280
+
+1.5
+
+GOLETA
+
+é Wotia. Francisca
+
+Desplazamiento sin carga: Es el desplazamiento de la embarcacién sin considerar carga de tanques (agua, gasoil), tripulacidn y equipaje, estiba ni otros.
+
+Desplazamiento con carga: Es el desplazamiento de la embarcacion cargada con tanques llenos (aguas, gasoil), tripulacidn, equipaje, estiba y otros.
+
+PROPULSION:
+
+La potencia maxima del motor propulsor a instalar es de 873 HP. La embarcacion tiene instalado un Caterpillar C18 Acert rating “D” de esa cilindrada y cualquier
+modificacion en el sistema de propulsidn debera ser avalada por un profesional habilitado.
+Transmisién por caja reductora Hundested CPG32 y linea de eje con hélice de paso variable de 1,4 M de didmetro.
+
+GENERALIDADES DEL SISTEMA ELECTRICO:
+
+-La embarcacién cuenta con un sistema de 24 volts de corriente continua, uno de 220 volts de corriente alterna monofasica y una trifasica de 380 V.
+-Dos generadores de corriente alterna Caterpillar C4.4 SOkw cada uno.
+-Baterias: De gel; potencia instalada:
+
+-SERVICIO: 3000 Ah 24 baterias Matervolt MVSV 2/1500 A dividido en 2 bancos de 12 baterias cada uno. Estos bancos permiten autonomia suficiente para condi-
+cidn de navegacién “Verde” (Debajo del piso de salon)
+
+-COMUNICACIONES: 500 Ah compuesto po 12 baterias Matervolt MVSV 2/500. (Debajo de la bancada de proa del cockpit social)
+
+-MOTOR PRINCIPAL: 250 Ah Un banco de baterias de 24 volts, para arranque del motor principal. (a pra del motor)
+
+-GENERADORES: 100 Ah Dos bancos de baterias de 24 volts, 100 Ah para arranque de los generadores. (Junto a cada generador proa)
+
+-Un sistema de coleccién paralela entre las baterias de arranque del motor principal y las baterias de consumo general.
+
+Descripci6n de informaci6n de placa del astillero.
+
+La placa del astillero se ubicara en el lazareto de popa en conformidad con el inspector designado de RINA.
+La misma deba estar en una zona visible, preferentemente cerca de las timoneras y debe contener la siguiente informacidn:
+
+- Nombre del astillero
+
+- Categoria de disefio
+- Informacion de capacidad maxima de personas y carga.
+
+10
+1.6- Propulsién primaria y secundaria.
+
+SUPERFICIE DE LAS VELAS
+
+1 | Mayor 407 M2
+2 | Schooner 341 M2
+3 | Trinquetilla 158 M2
+4 | Foque 254 M2
+5 | Genoa 414 M2
+6 |Foque de tormenta |55 M2
+
+7 |Gennaker 1032 M2
+
+GOLETA
+
+c Wotia. Francisca
+
+La superficie velica total de los triangulos del aparejo es de aproximada-
+mente 1126 metros cuadrados constituidos por una mayor full batten, una
+mesana full batten, un foque y una trinquetilla.
+
+Segun la configuracion de velas puede obtenerse una mayor superfice o
+bien una menor achicando pajfio. Los mastiles fueron construidos en fibra
+de carbono.
+
+ESTE NO ES UN MANUAL DE NAVEGACION, EL CAPITAN O RESPONSABLE
+DE LA EMBARCACION DEBERA SER UNA PERSONA HABILITADA PARA REA-
+LIZAR DICHA ACTIVIDAD SIN PONER EN RIESGO A LA EMBARCACION OA
+LA TRIPULACION
+
+ATENCION:
+
+-Controle el correcta enrollado de las velas para evitar desgaste prema-
+turo.
+
+-Inspeccione periddicamente las velas en busca de defectos a reparar.
+-Controle que los grilletes y arraigos de las velas estén correctamente
+colocados.
+
+11
+
+GOLETA
+
+c Wotia. Fra neisca
+
+MOTOR PRINCIPAL
+
+La embarcacién cuenta con un motor caterpilar C18 Acert de 873 HPn con transmisién por caja reductora Hunested CPG32 y linea de eje con hélice de paso varia-
+ble de 1400 mm de diametro.
+
+Los graficos siguientes muestran las partes de los modelos Caterpillar C15 y C18. Para aplicaciones particulares, su motor puede verse algo diferente a los graficos.
+
+VISTA LATERAL IZQUIERDA
+
+Bomba de combustible
+
+Turbocargador
+
+Filtro de combustible secundario
+
+Filtro combustible primario
+
+Bomba de agua
+Modulo de control electrico (ECM)
+Medidor de aceite
+
+Polea de acople
+
+WlOIN TD OTR] WIN te
+
+Filtro de aceite
+
+BR
+oO
+
+Filtro de aceite
+
+=
+=
+
+Bomba de trasferencia de aceite
+
+12
+GOLETA
+
+c Woria. Fra neisca
+
+13
+
+VISTA LATERAL DERECHA
+
+12 | Carcasa de volante
+
+13 | Manifold de escape
+
+14 | Venteo de bloque
+
+15 | Regulador de temperatura
+16 | Enfriador de aceite
+
+17 | Carter
+
+CATERPILLAR C18 ACERT 873 BHP
+
+ESPECIFICACIONES:
+
+Diesel - 4 Tiempos; 6 Cilindros
+
+Desplazamiento..........0..0 000 cc eee eee 18.1L
+Regimen de vueltas........... 0.000000 e eee 2200
+Calibre... ccc cee 145 mm
+Carrera... eens 183 mm
+Aspiracion.. .. ...... Turbochargado-posenfriado
+Sistema... 6... eee nee Electronico
+Sistema de enfriado...... Intercambiador de calor
+Peso en seco aproximado............... 1673 kg
+Capacidad de Liquidos:
+
+Sistema de enfriado................0005. 45.8L
+Sistema de aceite... ...... eee 64L
+Intervalo de recambio de aceite........ 500 horas
+
+Usar aceite Caterpillar para motores Diesel :
+10W30 o 15Ww40
+
+Rotacion ..... 0... ccc cee eee ee Antihoraria
+Volante:
+
+Tapa... cece cece eee SAE No. 1 or SAE No. 0
+Cremallera
+
+SAE NO. 1... eee eens 113
+SAE NO. O... 0. ccc cece eens 136
+Escape
+
+Contrapresion......... 0.00000 eee ee 6.7 kPa
+
+GOLETA
+
+é Woiia, Francisca
+
+14
+
+HACER FOTO ABORDO
+GOLETA
+
+c Wotia. Fra neisca
+
+BI PUNTOS FUERTES PARA EXTRACCION DE MOTOR
+
+(o3}
+
+PRECAUCION
+
+[ou]
+
+DIMENSIONES DEL C18 ACERT:
+
+L: Largo del blogue | 1504.8 mm
+W: Ancho 1077.2 mm
+H: Altura 1143.9 mm
+Peso (seco) 1673 kg
+
+-Verifique el correcto flujo de agua de refrigeraci6n del motor periddicamente.
+-Evite accidentes con las cafierias de alta presidn del sistema.
+
+-Inspeccione periddicamente las lineas de carga y alimentacié6n de combustible.
+-Verifique el funcionamiento de la ventilacidn de sala de maquinas.
+
+-Consulte a un profesional habilitado ante una modificacién tanto del sistema de propulsidn como cualquier sistema de la embarcaci6n.
+-No accione el arranque del motor por mas de 15 segundos. Espere un minuto para enfriar el motor de arranque antes de intentar un préximo encendido.
+-Evite calentar los motores a minimas revoluciones por mas de 3-5 minutos. Esto puede ser un riego tanto para el motor como para el medio ambiente.
+
+15
+
+GOLETA
+Voia. . Mrancisca
+
+PELIGRO:
+
+-No fume durante la carga de combustible.
+
+-No manipular material inflamable en zonas de alta temperatura del motor y sala de maquinas.
+
+-En caso de incendio, no extinguir con agua.
+
+-El motor en combustién puede producir asfixia por emisién de mondxido de carbono.
+
+-No tocar piezas a alta temperatura y poleas en movimiento dentro de sala de maquinas.
+
+-En caso de derrames de combustible o aceite, no limpiar con agua. Usar estopa o material absorbente.
+
+-El aceite derramado es un contaminante grave y peligroso para el medio ambiente marino. Sea riguroso al manipular aceites.
+
+16
+
+GOLETA
+
+é Wotia. Hera neisca
+
+1.7- Plano velico ~~
+
+Dimensiones principales del aparejo
+
+15,8 Metros
+
+: 42,4 Metros '
+IT: 33,2 Metros |
+: 41,8 Metros |
+Ps: 11,7 Metros | i
+Es: 11,7 Metros i
+J: 17,87 Metros [~
+JINNER: 11,35 Metros
+TPS: 18,18 Metros 7
+BAS: 3,3 Metros 7
+
+S BAS: 2,97 Metros
+
+17
+GOLETA
+
+c Woria. Fra neisca
+
+1.8- Plano de interior y locales tecnicos
+11 2 3/13 4
+
+uw
+~
+oO
+
+10
+
+ii |
+|
+
+i= =
+(te Al = E @ @ = — 4
+il Sasa fh ee
+_ - — : °
+
+Vy
+
+11 1 3/13 4
+TIMONERA Oficna del armador.
+
+in
+‘OY
+co
+
+10
+
+Camarote del armador.
+
+Salon superior y timonera.
+
+Salon principal.
+
+Camarotes de invitados.
+
+Cocina.
+
+Camarote de invitados secundario.
+
+Camarote del capitan.
+
+WlOIN DOR lWINIte
+
+Comedor tripulacion.
+
+BE
+oO
+
+Camarotes de tripulacion.
+
+=
+=
+
+Lazareto.
+
+bP
+No
+
+Pique de proa.
+
+bP
+Ww
+
+Sala de maquinas.
+
+PRECAUCION
+
+-No estibe equipos que contengan combustible (como motores, tanques, generadores, etc.) en compartimentos que no fueron disefhados para tal uso.
+
+18
+GOLETA
+
+Dora SHrancisca
+
+1.9- Tapas de piso de interior.
+
+La embarcacion fue disefiada y construida de manera de permitir el simple acceso a todos los sistemas abordo. De esta manera se han ubicado estratégicamente
+tapas de acceso a la sentina en todos los pisos del interior.
+
+PLANO DE TAPAS DE ACCESO A SENTINAS
+
+w | i imme pan
+|
+
+- —_ ir i i
+
+if . =
+
+ae i ere Oo ot
+Le pales — mY f : ee 2 mal
+L_) ala ra
+
+=) —] IJ i | ere i
+
+. Q
+
+Si ima HL U J OF -
+
+ll iz Zs Wels | a
+
+ATENCION
+
+-En caso de requerirse detalles técnicos consultar plano de accesos de sentina ‘“GDF-622-102-R16 Technical Floor Access“ ploteado en escala grande. Dicho plano
+debe estar junto con este manual y el resto de la documentacién técnica de la embarcacion.
+
+GOLETA
+
+c Woria. if rancisca
+1.10- Caracteristicas de tanques
+
+Los tanques de la embarcacién fueron construidos a medida optimizandolos espacios disponibles de la sentina. Dichos tanques fueron construidos de composite en
+el astillero, salvo los tanques “sludge’’ que se fabricaron en acero inoxidable.
+
+Pd
+
+ATENCION
+
+-Se debera instalar sobre el tanque de aguas negras una calcomania con la oraci6n TANQUE DE AGUAS NEGRAS en letra grande y legible, ademas de la capacidad
+del tanque y la empresa constructora del mismo.
+
+-Se debera instalar sobre el tanque de aguas grises una calcomania con la oraci6n TANQUE DE AGUAS GRISES en letra grande y legible, ademas de la capacidad del
+tanque y la empresa constructora del mismo.
+
+-Vaciar los tanques de aguas grises y negras por medio de la toma de extraccién de cubierta segun las reglamentaciones locales vigentes.
+
+1 | Tanque de sentina 1250 Litros
+2 | Tanque de combustible diario | 1057 Litros
+3 | Tanque de combustible 3635 Litros
+4 | Tanque de combustible 4335 Litros
+5 | Tanque de combustible 3635 Litros
+6 | Tanque de combustible 4335 Litros
+7 | Tanque de agua potable 2450 Litros
+8 | Tanque de agua potable 2450 Litros
+9 | Tanque de aguas negras 1350 Litros
+10 | Tanque de aguas grises 2800 Litros
+11 | Tanque de aguas aceitosas 200 Litros
+
+20
+UBICACION DE TANQUES EN SENTINA
+
+GOLETA
+
+Doia. SHrancisca
+
+21
+
+| a
+| lat Cn Re
+a —_ || a a}
+II |
+a re _ —— a
+( . : = Le 24
+| : a
+oo = O
+q St
+| IE 1 — te J
+(eo a ee = J
+ae z ce —
+Y ‘| t a
+= 1 I] —
+Lope C _ — f=
+valk - ss
+_ a c a
+HS = A aa —
+— é
+= C]
+i—~\_| oY . [
+o7
+——
+ee
+GOLETA
+
+Dora SHrancisca
+
+POSICION DE TOMAS DE TANQUES
+
+Caja de embarque de combustible (babor)
+
+ATENCION
+
+Caja de embarque de combustible (estribor)
+
+Caja de embarque de agua (babor)
+
+Caja de embarque de agua (estribor)
+
+MPR TWIN Te
+
+Coneccion de agua de muelle.
+
+-Para vaciar los depdsitos de aguas grises o negras, se hara a través de la planta de tratamiento
+ubicada en sala de maquinas. Se debera ingresar la manguera de succidn de la marina a la sala
+de maquinas y conectarla en la toma correspondiente de la planta ubicada en popa a babor
+dentro de maquinas. Una vez realizada la coneccion se procedera al vaciado del deposito me-
+diante la bomba de marina.
+
+22
+
+GOLETA
+
+é Woria erancisca
+
+ATENCION
+
+-Verifique que los venteos de carga de tanques estén abiertos y libres de obstrucciones antes de cargarlos.
+-Controle el correcto cerrado de tapas de llenado luego de la carga.
+
+«~ AO A
+
+-Asegurese de no tener distracciones al momento de cargar los tanques y por ningun motivo cargar accidentalmente un tanque con un fluido errdéneo.
+-No fume durante la carga de combustible.
+
+-Cargue los tanques de agua potable en lugares de fuentes seguras para evitar la carga de agua contaminada.
+
+-Utilice la bomba externa de agua potable TECNICOMAR para filtrado del agua en caso de no conocer la calidad del agua a embarcar.
+
+-En caso de incendio NO combatir con agua.
+
+-El motor en combustién puede producir asfixia por emisién de mondxido de carbono.
+
+23
+GOLETA
+
+é Woria erancisca
+
+2- INFORMACION DE CARGA
+2.1- Maxima carga y capacidad de tripulacién recomendada. PELIGRO
+
+Para calcular la carga maxima de la embarcacidn se deberan tener en
+cuenta los siguientes pesos de referencia:
+
+-No superar la capacidad maxima de personas a bordo.
+
+-Se considera el peso de una persona adulta en 75 Kg. y lade un menor en -No sobrecargar la embarcaci6n con pesos innecesarios .
+
+37.5 Kg. -No superar la capacidad de asientos y camas disponibles de la embarcacién.
+-El equipaje maximo basico de cada persona sera de 42 Kg.
+
+-Los liquidos consumibles se consideraran a la maxima capacidad de tan-
+ques.
+-Las balsas salva vidas y dispositivos de salvamento.
+
+-Max 16 tripulantes abordo en condicién de navegacidn de crucero limita-
+dos por la capacidad de balsas salvavidas.
+-Para navegacion diurna no sobrepasar la cantidad de salvavidas persona-
+
+les abordo.
+
+ATENCION
+
+-El numero de tripulantes abordo de esta embarcacidn no esta restringido
+por factores de estabilidad, sino, por condiciones de comodidad de inte-
+rior y seguridad en cubierta en condicion de navegacién
+
+-Cargue la embarcacién de forma responsable distribuyendo los pesos
+apropiadamente para mantener el balance de pesos de la embarcacion.
+-Evite estibar pesos importantes por encima del nivel de flotacién.
+
+24
+GOLETA
+
+c Woria. Francisca
+
+3- INFORMACION DE LA PLANTA PROPULSORA
+
+3.1- Plano, descripci6n y recomendaciones del fabricante de la planta propulsora.
+
+PLANO DE LINEA DE EJE
+
+\
+
+25
+GOLETA
+
+é Wotia. Francisca
+
+ATENCION
+
+Helice ( Hundested VP 91/2 HP/HP;_diametro 1400mm ) -En caso de requerirse detalles técnicos consultar plano de linea de eje
+Pata de gallo maquinada en Ni-Al-Bz “D60-460-R8-Engine & Shaft Line Layout-AB-110908 “’ ploteado en esca-
+Eje (Hundested 1.4404. Diam. ext. 130mm, Diam. int. 40mm ) la grande. Dicho plano debe estar junto con este manual y el resto de la
+Sello eje ( Hundested ) documentacidén técnica de la embarcacién.
+
+Acople flexible ( Hundested hecho a medida )/Vulkan
+
+Caja ( Hundested CPG 32 - 3,96:1 )
+
+Motor propulsor ( Caterpillar C18 ACERT 876hp )
+
+Freno eje.
+
+WLOIN DL OIR WIN fe
+
+Bocina Hundested.
+
+La helice instalada es marca Hundested de paso variable 91/2 HP/HP tiene un diametro de
+1400mm de 4 palas construida en una aleacion de Ni-Al-Bz
+
+La pata de gallo fue construida de bronce maquinada por control numerico, contiene bujes-
+de goma para centrado del eje. Todo el conjunto fue provisto por Hundested.
+
+26
+Caracteristicas PTO:
+
+-Modulo: AH
+
+-Acople: Hidraulico
+
+-Relacion: 1.22:1
+
+-Torque: 1300 Nm Anti horario
+-Montaje: SAE D
+
+-Valvula solenoide: DHI 0631/2H-24 DC
+
+GOLETA
+
+é Woiia, SHrancisca
+
+CAJA HUNDESTED CPG32
+
+Caracteristicas caja:
+
+-Tipo: CPG 32
+
+-Potencia hélice: 885 Hp
+-Velocidad de hélice: 556 RPM
+-Relacion: 396:1
+
+-Sentido de giro motor: Antihorario
+-Rotacién de hélice: Horario
+-Clasificacién: RINA
+
+El conjunto Hundested de linea de eje y caja consiste en un sistema de paso
+variable de hélice para trasmitir el torque del motor de manera eficiente.
+
+El control de paso se logra con una bomba hidraulicas que accionan un pifién
+, dichas bombas se pueden accionar simultaneamente con la hélice en vueltas
+permitiendo un ajuste permanente del rendimiento del motor.
+
+27
+GOLETA
+
+é Wotia. Francisca
+
+El sistema propulsor cuenta con un motor diesel Caterpillar C18 ACERT 876hp de 6 cilindros, enfriado por agua y sistema de inyeccidn directa de combustible que
+produce una potencia de 873 BHP. Dicha potencia es transmitida al eje mediante una caja reductora CPG 32 - 3,96:1. La linea de eje cuenta con un acople flexible
+para evitar vibraciones y reducir la emision de sonidos. El eje tiene un diametro de 130 mm y fue construido en aquamet 22
+
+El sistema de paso variable Hundested entrega potencia a una hélice de 4 palas de 1.4 m de didmetro.
+
+Dicho sistema ofrece buena versatilidad en maniobras de amarre, un rendimiento optimo del motor con un bajo consumo y muy baja resistencia al avance durante
+navegacion a vela.
+
+ATENCION
+
+-Verifique periddicamente las lineas de combustible en busca de pérdidas o desperfectos.
+
+-Siga las recomendaciones de mantenimiento y buen uso que indica el fabricante del motor y linea de eje.
+-Limpie periddicamente los filtros de agua de refrigeracion.
+
+-Con el motor en funcionamiento se recomienda verificar periddicamente el flujo de agua de escape.
+
+-No acelere el motor en frio.
+
+-Asegurese de que el motor este en punto muerto durante el arranque, de lo contrario este no arrancara.
+
+PRECAUCION (a
+
+-Antes de arrancar el motor, controle que las valvulas del sistema de refrigeraci6n del mismo estén abiertas, luego asegurese que flujo de agua sea el apropiado.
+-La caja debe estar en neutro y los PTO desacoplados para que los motores admitan arranque.
+-No realice cambios bruscos de paso de hélice a altas revoluciones del motor.
+
+-Lea las indicaciones del fabricante de la linea de eje y sea cuidadoso durante maniobras.
+
+-El compartimento debajo del motor y caja no tiene imbornales para evitar contaminar toda la sentina de maquinas con aceites o combustible. El responsable de
+sala de maquinas controlara y vaciara el nivel de residuos con la bomba manual designada para tal fin. Dichos residuos se ubicaran en el tanque de aguas aceitosas
+ubicado en maquinas y mantendra hasta llegar a puerto.
+
+-El motor y generadores deben arrancarse uno por vez. Asegurese que no estén en cambio al arrancar.
+
+-Siempre utilice protectores de oido para entrar en la sala de maquinas.
+
+28
+
+GOLETA
+
+Voia. . Merancisca
+
+-ADABASA
+
+-No superar la potencia maxima del motor
+
+-Los motores de combustidn consumen el oxigeno del ambiente de maquinas, asegurese que los ventiladores de maquinas funcionen apropiadamente.
+-Evite el contacto de material inflamable con el motor en temperatura, eje o generadores.
+
+-No fume durante la carga de combustible.
+
+-En caso de pérdida de gases de escape en sala de maquinas, apague los motores o trabaje con mascara de oxigeno en dicho local. Los gases de combustién causan
+asfixia.
+
+-En caso de incendio, no combatir con agua.
+
+-No tocar piezas a alta temperatura y poleas en movimiento dentro de sala de maquinas.
+
+-El motor en combustién puede producir asfixia por emisién de mondxido de carbono.
+
+-En caso de derrames de combustible o aceite, no limpiar con agua. Usar estopa o material absorbente.
+
+-No pise el tubo bocina ni deje elementos sueltos que puedan obstruirse y dafiar el sistema.
+
+4- INFORMACION SOBRE INUNDACION Y ESTABILIDAD.
+4.1- Consejos de estiba.
+
+Antes de realizar una navegacién se debera estibar el barco de manera de optimizar el espacio tomando algunas simples precauciones:
+
+ATENCION
+
+-Distribuya los pesos de estiba de manera prolija y ordenada.
+
+-Verifique la temperatura de régimen de heladeras y freezer antes de cargar los alimentos perecederos.
+
+-Almacene los alimentos en lugares frescos y secos
+
+-Guarde sus objetos personales en los roperos y lugares disponibles asegurandose que queden bien estibados y no se caigan durante el movimiento de navegacién.
+-Controle y mantenga los niveles de tanques equilibrados para evitar escoras o trims no deseados.
+
+29
+GOLETA
+
+é Woiia, SHrancisca
+
+4,.2- Plano y descripcidn de pasa cascos y proteccion catddica.
+El sistema de descarga y tomas de agua fue disefado de manera simple minimizando la cantidad de pasa cascos.
+
+Los sensores de ecosonda y corredera son modelos estandar del fabricante de las mismas, pudiéndose reemplazar rapidamente en caso de averia.
+Las descargas de escapes son acoples especiales pegados al casco que aseguran la estanqueidad y fueron construidas de materiales compuestos.
+
+PLANO DE PROTECCION CATODICA
+
+—=
+ci
+
+e [
+
+MH Pasa cascos sobre nivel de flotacion
+ily Pasa cascos bajo nivel de flotacion
+Hl Coneccion a la proteccion catodica general
+
+ATENCION
+
+-En caso de requerirse detalles técnicos consultar plano de proteccion catdédica ‘““GDF-633-119-R2-PLAN.FOR.CATHODIC.PROTECTION “ ploteado en escala grande.
+Dicho plano debe estar junto con este manual y el resto de la documentacién técnica de la embarcaci6n.
+
+30
+GOLETA
+
+é Wotia. Francisca
+
+Ne ITEM DESCRIPCION
+
+1 Fondeo Inoxidable 316
+
+2 Bow Thruster Anodo incorporado
+
+3e/b | Ecosonda Plastica
+
+4 Ecosonda Plastica
+
+5 Ecosonda Corredera y profundidad (Plastica)
+
+6 Manifold agua de mar | Inox. 316; Diam. 3”; Valvula mariposa de inox. 316
+
+7e/b | Drenaje de cubierta Inox. 316; Diam 2 1/2”; Valvula esferica de inox. 316
+
+8 Quilla Acero naval
+
+9e/b | Drenaje de cubierta Inox. 316; Diam 2 1/2”; Valvula esferica de inox. 316
+
+10 Manifold agua de mar | Inox. 316; Diam. 5”; Valvula mariposa de inox. 316
+
+11 Manifold agua de mar | Inox. 316; Diam. 5”; Valvula mariposa de inox. 316
+
+12 Descarga Generador babor; inox 316 Diam 2”; Valvula mariposa inox. 316
+13 Descarga Inox. 316; Diam 4”; Valvula mariposa de inox. 316
+
+14 Descarga Generador babor; inox 316 Diam 2”; Valvula mariposa inox. 316
+15 Descarga Inox. 316; Diam 4”; Valvula mariposa de inox. 316
+
+16 Linea de eje Diam 130 mm Inox 1,4404
+
+17 Descarga Motor principal.; inox 316 Diam 4”; Valvula mariposa inox. 316
+18 Ecosonda Bronce
+
+19 Tubo bocina Inoxidavle 316 embujado
+
+20 Pata de gallo Maquinada en Ni-Al-Bz embujada
+
+21 Helice Maquinada en Ni-Al-Bz
+
+22e/b | Drenaje de cubierta Inox. 316; Diam 3”; Valvula esferica de inox. 316
+
+23 Stern Thruster Anodo incorporado
+
+24 Bujes de timon JP3 482050
+
+25 Descarga Drenajes de cubierta
+
+26 Descarga Gas de escape generador de babor
+
+27 Descarga Gas de escape Motor principal
+
+28 Descarga Gas de escape generador de estribor
+
+29 Descarga Gas de escape motobomba de emergencia.
+
+31
+
+| (ae ABIERTO
+a=
+
+CERRADO
+GOLETA
+
+c Wotia. Francisca
+
+ATENCION
+
+-Verifique periddicamente que los pasa cascos estén libres de obstrucciones.
+-Controle periddicamente el estado de abrazaderas y mangueras.
+-Al dejar el barco amarrado asegurese de mantener los pasa cascos en la posicién que minimice el riesgo de inundacion.
+
+PRECAUCION
+
+-Antes de arrancar el motor, controle que las valvulas del sistema de refrigeraci6n del mismo estén abiertas, luego asegurese que flujo de agua sea el apropiado.
+-Verifique la apertura de las valvulas de pasa cascos para el correcto funcionamiento de los sistemas refrigerados.
+-Los anodos de sacrificio debenran ser reemplazados cuando se vea que perdieron aproximadamente un 40 % de su peso.
+
+4.3-
+
+Plano y descripcién de tambuchos de cubierta.
+
+Se instalaron tambuchos de disefio flush construidos en materiales compuestos con fibra de carbono.
+
+Dichos tambuchos estan hechos a medida segun ubicacién y tamafio requerido.
+
+Cada tambucho cuenta con bisagras recesadas en cubierta de inoxidable, traba mecanica para cierre estanco y cilindros neumaticos para control de apertura.
+Los tambuchos que dan al exterior, tienen un sistema de apertura de seguridad desde afuera para impedir robos.
+
+Se instalaron prismas de cubierta tamafio Large y extra large segun se detalla en el plano. La funcidn de dichos prismas es de proveer con iluminacién natural los
+camarotes de interior.
+
+32
+
+GOLETA
+
+c Wotia. Francisca
+
+PLANO DE TAMBUCHOS DE CUBIERTA
+
+ATENCION
+
+-En caso de requerirse detalles técnicos consultar plano de cubierta ‘“GDF-724-R1-DECK HARDWARE “ ploteado en escala grande. Dicho plano debe estar junto con
+este manual y el resto de la documentacidn técnica de la embarcacidn.
+
+1 Tambucho pique de proa. 1330 mm x 1330 mm composite.
+2 e/b Tambuchos de carroza principal. 790 mm x 790 mm composite.
+
+3 e/b Tambuchos de sala de maquinas. 1000 mm x 900 mm composite.
+4e/b Tambuchos secundarios de lazareto. | 480 mm x 400 composite.
+
+5 Tambucho principal de lazareto. 1330 mm x 1330 mm composite.
+P Prismas de cubierta
+
+J Marine Skylights.
+
+E Tapas
+
+V Visor.
+
+33
+
+GOLETA
+
+c Wotia. Fra neisca
+
+PRECAUCION
+
+-Asegurese del cierre apropiado de los tambuchos y escotillas durante navegacién especialmente en dias con marejada, previniendo entradas de agua o salpicadu-
+
+ras al interior.
+-Estibe apropiadamente todas los elementos moviles de cubierta que puedan extraviarse durante navegacidén.
+
+PELIGRO
+
+-Cierre todos los tambuchos con Iluvia o navegacién con marejada previniendo entradas de agua.
+
+34
+GOLETA
+
+Doi SHrancisca
+
+PRISMAS MARINE SKYLIGHTS
+
+Caracteristicas prismas modelo “Large’”’
+
+-Base: 155 mm
+-Profundidad: 25 mm con extensién de 100 mm
+
+-Altura total: 178 mm
+
+Caracteristicas prismas modelo “Extra Large’
+
+-Base: 155 mm
+-Profundidad: 25 mm con extensién de 50 mm
+
+-Altura total: 228 mm
+
+35
+GOLETA
+
+é Wotia. if rancisca
+4.4- Cubierta de trabajo.
+
+PLANO DE CUBIERTA DE TRABA/O
+
+ME Cubierta de trabajo
+MEE Cubierta general
+
+PRECAUCION:
+
+-Asegurese del cierre apropiado de los tambuchos y escotillas durante navegacién especialmente en dias con marejada, previniendo entradas de agua o salpicadu-
+ras al interior.
+
+36
+GOLETA
+
+c Wora Lrancisca
+4.5- Plano y descripcién de ojos de buey.
+Los ojos de buey ubicados en las bandas, fueron construidos en fundicidn de bronce y un vidrio de 15 mm de espesor y una tapa de bronce acorazada, estan fijados
+
+al casco por medio de bulones y sellados con adhesivo de ultima generacidn asegurando la estanqueidad total. Todos los ojos de buey estan dotados de sensores
+de apertura.
+
+OJOS DE BUEY DE ESTRIBOR
+
+OLETA
+
+é Woiia, Francisca
+
+OJOS DE BUEY PLANTA
+Cc B A
+
+D
+e O
+
+rE
+
+E
+e
+
+Tit
+
+Vere
+
+G
+
+4.6- Plano y descripcién del sistema de achique.
+
+El sistema de achique esta conformado por dos bombas autocebantes duplicadas de 360 litros por minuto cada una. Dichas bombas son marca Gianneschi modelo
+ACM 502 BT y ambas pueden ser utilizadas tanto para el sistema de achique como para el sistema de lucha contra incendio que se describira mas adelante en este
+manual.
+
+Las bombas se accionan desde el tablero eléctrico y succionan la sentina seleccionando los compartimentos de achique a través de dos manifolds de achique.
+
+Los manifolds estan ubicados segun se indica en el plano, son de facil acceso y deben mantenerse rotulados y en perfecto estado.
+
+De manera secundaria, la embarcacién cuenta con 3 bombas sumergibles ubicadas estratégicamente en el pique de proa, en la sala de maquinas y en el lazareto.
+En el siguiente esquema se muestra la ubicacion de los sensores de sentina que fueron seteados del siguiente modo: Al primer nivel seteado se acciona la alarma, y
+al segundo nivel de agua se acciona la bomba de 24 volts. La embarcacion cuenta con mangueras de achique tanto en el pique de proa como en el lazareto.
+
+En forma paralela se intalo una bomba diesel autonoma en el pique de proa.
+
+38
+GOLETA
+é Woria erancisca
+
+COMPARTIMENTOS DE ACHIQUE
+
+L K | H F E C
+iil ee A
+
+PLANO DE ACHIQUE SIMPLIFICADO
+
+18 16 14 12 9 8
+
+_ | 43
+\ ——_—— Ae
+Orr LG
+ey 1
+el Lae
+hanes LEE _—_—
+£ __
+19 17 15 13 1110 7 5
+
+39
+GOLET
+
+é Wotia. Francisca
+
+a
+
+1 | Bomba Gienneschi MBMA 40 195 l/min | | 11 | Manifold de sentina. 195 |/min
+2 | Caja de anclas x 2. 12 | Tanque de barros purificadora de agua de sentina.
+
+3 | Bomba automatizada Rule mate 500 24 V. 28 l/min 13 | Bomba de achique autocebante Gianneschi ACM 502 BT 380 V. 400 |/min
+4 | Bomba sumergible automatizada Gianneschi Maxi sub vortex. 24 V. | 180 I/min 14 | Bomba de incendio autocebante Gianneschi ACM 502 BT 380 V. 400 I/min
+5 | Tanque de aguas grises. 2800 litros | | 15 | Separador agua-aceite RWO Skit-deb 0.1-0.25 100 I/hora
+6 | Tanque de aguas negras. 1350 litros 16 | Tomas de agua de mar x 2 uno a cada banda.
+
+7 | Manifol de achique de proa. 17 | Manifold de achique de maquinas.
+
+8 | Tanque de sentina. 18 | Puerta estanca
+
+9 | Bomba sumergible automatizada Gianneschi Maxi sub vortex 24 V. | 180 I/min 19 | Bomba sumergible automatizada Gianneschi Maxi sub vortex 24 V._| 180 1/min
+10 | Puerta estanca
+
+PRECAUCION
+
+-En una situacién limite de entrada de agua, ej. Una colisidn en el casco, el sistema a pleno funcionamiento puede no ser suficiente para achicar la embarcacién.
+Tome medidas de lucha contra averias con mantas u otros dispositivos rapidamente.
+
+-Mantenga las puertas estancas de maquinas cerradas durante navegacidon.
+-Controle el régimen de las bombas periddicamente, limpiando los ductos de obstrucciones.
+-Mantenga los pasa cascos del pique de proa y lazareto normalmente cerrados.
+
+-El nivel de agua de sentina debe mantenerse al minimo.
+
+-Cerrar las puertas estancas con llave al dejar la embarcacion sin cuidado.
+
+-Chequee regularmente los dispositivos eléctricos del sistema.
+
+-Las bombas de 24 volts que descargan al mar se activaran en emergencia.
+
+40
+
+GOLETA
+
+é Woria erancisca
+
+PLANO UNIFILAR DE ACHIQUE
+
+SALA DE MAQUINAS
+
+10
+
+ATENCION
+
+-En caso de requerirse detalles técnicos consultar plano de achique “GDF-529-100-R7 Bilge & Fire System-UNIFILAR” ploteado en escala grande. Dicho plano debe
+estar junto con este manual y el resto de la documentacion técnica de la embarcaci6n.
+
+41
+GOLETA
+
+é Woria erancisca
+
+1 | Dispositivo de lipieza de cadena Hecho a medida en inoxidable 316 ATENCION
+
+2 | Caja de ancla Vonif sa Sel fune snto dell
+ar , -Verifique periddicamente el funcionamiento de los
+
+3__| Bomba portatil Gienneschi MBMA 40 flotantes y bombas semisumergibles.
+
+4 | Manguera de incendio en cubierta Diametro 11/2” 18 metros -Haga funcionar periédicamente las bombas semi-
+
+5 | Bomba sumergible automatizada Rule mate 500 28 I/min sumergibles con agua limpia en zonas de sentina
+
+6 |Bomba sumergible automatizada Gianneschi Maxi sub vortex. | 180 |/min aceitosas o con particulas.
+
+7 | Del manifold de tomas de agua de mar. -Haga funcionar periddicamente las bombas manua-
+
+8 | Manifol de achique de proa. les de achique como medida de mantenimiento.
+
+- - -Controle el estado de abrazaderas y mangueras.
+9__|Tanque de aguas grises. 2800 litros -Es responsabilidad del usuario contar con baldes de
+10 | Tanque de aguas negras. 1350 litros achique y bombas manuales en lugares estratégicos
+11 | Bomba sumergible automatizada Gianneschi Maxi sub vortex | 180 1/min evitando perdidas ocasionales.
+
+12 | Venteo al mastil
+13 | Tanque de sentina 1230 litros
+14 | Tanque de aguas aceitosas 200 litros
+=> jvenieo PELIGRO
+16 | Manifold de descarga de agua de mar.
+17 | Descarga a la marina.
+18 | Separador agua-aceite RWO Skit-deb 0.1-0.25 100 I/hora
+19 | Bomba de achique autocebante Gianneschi ACM 502 BT 360 litros /min -En caso de entrada de agua considerable asegure-
+20 | Bomba de incendio autocebante Gianneschi ACM 502 BT 360 litros /min se de cerrar las puertas estancas inmediatamente
+21 | Manifold de achique de maquinas. evitando problemas de inestabilidad.
+-Mantenga la sentina limpia para prevenir obstruc-
+22 | Descarga al mar ciones en las bombas.
+23 | Bomba sumergible automatizada Gianneschi Maxi sub vortex. | 180 |/min
+24 | Coneccion manguera de incendio en lazareto.
+
+42
+
+GOLETA
+
+é Woiia, Francisca
+
+BOMBA DE ACHIQUE E INCENDIO GIANNESCHI ACM 502 BT.
+
+Bomba Gianeschi ACM 502 BT: Es una bomba autocebante que suc-
+ciona hasta 8 metros de columna de agua. Su capacidad es de 360
+litros /min a 7 Bar de presién
+
+Caracteristicas:
+
+-Cuerpo de bomba: Bronce
+
+-Turbina: Bronce
+
+-Eje: inoxidable AISI 316
+
+-Sello mecanico: Ceramico de alta calidad y grafito inoxidable
+-Potencia: 9.2 Kw 380 VDC
+
+PRECAUCION
+
+-La primera vez que se encienda la bomba o luego de largos periodos de desuso se debe cebar para evitar dafios en la misma.
+
+43
+DNm
+
+GOLETA
+
+é Woiia, Francisca
+
+{(*)
+
+h1
+
+h2
+
+DNa
+
+DNm
+
+Kg
+
+1100
+
+695
+
+845
+
+900
+
+760
+
+1040
+
+700
+
+250
+
+70
+
+2”
+
+2”
+
+270
+
+44
+
+GOLETA
+
+é Wotia. Francisca
+
+BOMBA JABSCO 8PIQUE DE PROA)
+
+Bomba sumergible Rule modelo Mate
+500. Esta bomba esta automatizada por
+medio de un switch flotante interno. La
+capacidad de la misma es de 28 |/min
+Alimentada por 24 V DC
+
+PRECAUCION
+
+-Estas bombas fueron disefiadas para trabajar con agua dulce o agua de mar.
+Cualquier otro fluido pueden dafiar la misma.
+
+45
+
+BOMBA SUMERGIBLE DE PIQUE, MAQUINAS Y LAZARETO
+GIANNESCHI MAXI SUB VORTEX
+
+CARACTERISTICAS
+
+-Cuerpo: ABS ; PPO-FG
+-Paletas: ABS
+
+-Eje: Acero inoxidable AISI 316
+-Potencia: 0.18 Kw
+
+-Voltaje: 24 V DC
+
+-Caudal: 8.4 m3/h
+
+h
+
+| 180
+’ 230
+h 350
+h’ 65
+DNm 1” M
+Kg 7
+Els
+6 E
+SS g 0
+7 ULE) ira
+ree =
+[ I 1 ih
+!
+
+GOLETA
+
+c Wotia. Francisca
+
+PRECAUCION
+
+-Cada bomba que descargue al mar debe estar instalada de manera que la descarga quede por arriba de flotacidn tanto con el barco adrizado o escorado o bien
+
+con su respectivo cuello de cisne.
+-Desconecte la bomba del suministro de energia al dejar la embarcacion.
+
+PELIGRO
+
+-No use las bombas de achique para combustible o hidrocarburos. Esto puede ocasionar una explosion.
+-Si un fusible falla repetidamente, no lo cambie por uno de mayor tamafio o instalando papel metdalico en el mismo. Esto puede recalentar el cableado y ocasionar
+
+un incendio.
+
+46
+
+GOLETA
+
+é Wotia. Francisca
+
+SEPARADOR DE AGUA Y ACEITE OIL SEPARATOR SKIT S 0.1
+
+CARACTERISTICAS
+
+-Capacidad: 1 m3/Hora
+
+-Presion: 3 Bar
+
+-Columna Max succién: 5 - 6 Metros
+-Alarma: Indicadora de contenido de aceite
+-Certificados: EC, IMO
+
+47
+GOLETA
+
+c Wotia. Francisca
+
+4.7- Informaci6n de estabilidad de la embarcaci6n.
+
+SE DETALLARAN LOS CALCULOS DE ESTABILIDAD CUANDO ESTE DISPONIBLE LA INFORMACION DE PARTE DEL ASTILLERO
+
+ATENCION
+
+-Los valores del grafico de estabilidad anterior son tedricos y no deben considerarse como definitivos hasta no realizar las pruebas de mar correspondientes.
+Dichos valores fueron obtenidos en el andlisis preliminar de estabilidad en ele estudio de Javier Soto Acebal.
+
+PRECAUCION
+
+-Cualquier modificacién en la ubicacién de pesos abordo, asi como el agregado de accesorios de peso considerable pueden afectar el asiento y la estabilidad dela
+embarcacién teniendo un impacto en la performance de navegacion.
+-La estabilidad sera reducida considerablemente al utilizar pescantes o la botavara para cargar pesos abordo.
+
+48
+GOLETA
+
+Voia. . Merancisca
+
+5- LUCHA CONTRA INCENDIO.
+
+5.1- Descripcidn del sistema de ventilaci6n de maquinas.
+
+La ventilacidn de sala de maquinas esta compuesta por una succidn y una extraccidn de aire por medio de ventiladores axiales independientes.
+
+La ventilaci6n de entrada consiste en un ventilador axial Gianneschi modelo ELL/APK 565 reversible que aspira a través de una trampa de agua en la caseta princi-
+pal. Asi como la ventilacién de extraccidn consiste en un ventilador axial Gianneschi modelo ELL/APK 634 reversible que extrae aire a través de una trampa de agua
+a la rejilla lateral ubicada en la caseta principal.
+
+La ventilacidn se acciona automaticamente al arrancar cualquiera de los motores o bien se puede accionar desde los comandos ubicados en sala de maquinas.
+
+El sistema de ventilacidn cuenta con filtros para separar la humedad del aires que ingresa a sala de maquinas.
+
+Por otra parte se instalaron dos corta fuegos Gianneschi que permiten cerrar completamente la entrada y salida de aire como medida de lucha contra incendio.
+Dichos corta fuegos cuentan con actuadores eléctrico - mecanicos que se pueden accionar automaticamente gracias a los sensores de temperatura o bien manual-
+mente.
+
+PRECAUCION
+
+-Controle el buen funcionamiento de los ventiladores de sala de maquinas asi como la temperatura de la misma que se indica en el display del panel eléctrico.
+-Luego del apagado de motores de maquinas la ventilacion debe permanecer encendida al menos treinta minutos para refrigerar la sala de maquinas. Verifique
+que el sistema corta luego del periodo mencionado.
+
+49
+GOLETA
+
+é Woiia, SHrancisca
+
+VENTILADORES GIANNESCHI ELL/APK 565 Y ELL/APK 634
+
+Voltage |Potencia |R.P.M_ | Caudal
+
+ELL/APK 565 230-400 | 2.2 Kw 1750 171-260 M3/h
+
+ELL/APK 634 230-400 | 4 Kw 1750 216-365 M3/h
+
+CORTAFUEGOS 560x560 Y 630 X 630
+
+[sje gh Sok Se af Sos are see ase -Cuerpo y alas internas de inoxidable con control de apertura eléc-
+trico.
+
+7 at ees eee eel + -Certificaci6n AO - A60
+MN n 34 -Con el sistema eléctrico en funcionamiento normal, se abren las
+alas internas y ante una falla en el sistema eléctrico se cierran auto-
+4 SSS See | maticamente las alas internas
+60/7120; | | a et
+
+: | ne
+
+a a ar
+B
+
+50
+SELECTOR DE CONTROL
+LOCAL O REMOTO
+
+\ REGULADOR DE RPM
+
+GOLETA
+
+c Woria. Francisca
+
+CONTROL DE VENTILADORES DE MAQUINAS
+
+—_ BOTON DE EMERGENCIA
+te oe PARA BLOQUEO DE SISTEMA
+ALARMA ra
+——_, <
+‘i af \
+
+{ 1
+| “
+
+\
+\
+
+J
+he wv
+
+SELECTOR DE ENCENDIDO DE
+
+< DE VENTILADOR es
+_ ‘ _ y _
+ones SCI | SlAVVEeS Cer
+pumps and owels i | pumps and blowers . SS
+f - Ty iF i a sy —g ge
+\ |
+5 |
+‘
+ — Pan IN ssiley LOcAL REMOTE iv aag Ss
+Ks Lf o> \y (AEN AN YraNS YY
+{ey | | } } | { \ } | as
+“=i Wy |
+\ Fs # ? ES
+MANUAL FAN CONTROL wT VAN UAL FAN CONTROL
+
+SS
+
+#
+
+51
+GOLETA
+
+é Woiia, Francisca
+
+ACTUADOR DE CORTAFUEGOS
+
+Tanto el cortafuegos de inyeccidn como el de extracciédn cuenta con
+un actuador eléctrico mecanico para el control de apertura de alas
+internas.
+
+El funcionamiento normal de estos dispositivos es de mantener
+abierta las alas internas del cortafuegos y permiten que ante una
+falla eléctrica se cierren automaticamente las mismas. En ese caso,
+pueden controlarse mecanicamente mediante las manijas de con-
+trol.
+
+Por otra parte, estos cispositivos cuentan con un sensor de tempe-
+ratura que acciona el cierre del sistema en caso de medir tempera-
+turas superiores a 72 grados.
+
+52
+
+915
+LS
+AoA
+Lo
+re)
+ifs]
+2
+Y
+Y
+CARACTERISTICAS
+-24 Volts
+
+-Consumo de potencia: 2.5 W
+-Torque motor: 6- 4 Nm
+
+GOLETA
+
+Pona, Yrrancisca
+5.2- Plano y descripcién de manifolds de refrigeraci6n de agua de mar.
+La embarcacién cuenta con dos manifolds de refrigeracidn de agua de mar y dos manifolds de descarga de aguas . Cada uno fue instalado mediante un pasacasco y
+
+valvula esférica de seguridad. Los manifolds fueron construidos en acero inoxidable y por medio de valvulas esféricas permiten el control de flujo de agua de refrige-
+racion a los sistemas deseados.
+
+PLANO UNIFILAR DE MANIFOLDS DE AGUA DE MAR
+
+SALA DE MAQUINAS O® © © ©
+
+9) 10 11) 12) 13
+
+8
+MANIFOLD BABOR MANIFOLD ESTRIBOR !
+re) \ \ \ \
+24
+' ' ' ' 20
+; 21
+MANIFOLD ESTRIBOR 22
+\ \ \ \ 23
+' ' ' ' DWL
+DESCARGAS PIQUE
+LCHax 7 ' ' ' ' DE PROA
+HOt
+
+GOLETA
+
+é Wotia. Francisca
+
+ATENCION
+
+-En caso de requerirse detalles técnicos consultar plano de escapes y
+refrigeracién “GDF-520-100-R3 Exhaust & Raw Water Sys-UNIFILAR”
+ploteado en escala grande. Dicho plano debe estar junto con este
+manual y el resto de la documentacion técnica de la embarcacién.
+
+1 | Generador estribor 2” Inox 316 13 | Hidraulica
+
+2 | Cafieria de incendio principal D 64 mm 14 | Coneccion rapida
+
+3 |Generador estribor 1 1/4” Inox 316 15 | Venteo 1/2” Inox 316
+
+4 | Sistema de inodoros. 16 | Venteo 1/2” Inox 316
+
+5 | Potabilizadora de agua 17 | Sistema de climatizacion
+
+6 | Venteo 1/2” Inox 316 18 | Bomba de lucha contra incendio diesel
+7 | Coneccion rapida 19 | Adicional sin uso
+
+8 | Motor principal 2 1/2” Inox 316 20 | Bomba de achique
+
+9 |Generador babor 1 1/4” Inox 316 21 | Sistema de climatizacion
+10 | Planta de tratamiento de aguas 22 | Drenaje de cubierta
+
+11 | Separador de agua - aceite 23 | Drenaje de cubierta
+
+12 | Adicional sin uso 24 | Coneccion entre manifolds
+PRECAUCION
+
+-Mantenga un control periddico a las tomas de mar y circuitos de refrigeracidn de agua de mar, esto puede prevenir inundaciones o hundimiento por falla.
+-Antes de abrir los filtros de agua de mar para su limpieza, siempre cierre las valvulas de entrada
+
+ATENCION
+
+-Recambie y limpie los filtros de agua periddicamente.
+-Recambie los anodos de sacrificio cada 4 meses o cuando se note corrosién galvanica.
+
+54
+
+GOLETA
+
+Voia. . Merancisca
+
+5.3- Plano y descripcion del sistema de combustible.
+
+El sistema de combustible carga diesel tipo gasoil de alta calidad “‘Ancap” o similar desde las cajas de embarque de combustible ubicadas en cubierta seguin se
+indica en el punto 1.9 de este manual. El fluido se carga directamente por gravedad en los tanques numero 3, 4, 5 y 6.
+
+Una bomba autocevante Gianneschi modelo FQ 40 transfiere combustible al tanque diario numero 2 tambien por medio de un manifold de combustible que permi-
+te tomar diesel de cualquiera de los tanques numero 2,3,4,5 o 6 (Ver referencias de tanques en pagina numero 21).
+
+Tanto el motor principal como los moto generadores pueden toman combustible del tanque diario o el tanque numero 2 a través de un filtro triple marca Racor.
+
+El sistema cuenta con un separador de Diesel-Agua que permite refinar el combustible antes de enviarlo al tanque diario o al tanque numero 2.
+
+Toda la cafieria del sistema de combustible es de acero inoxidable AS| 316
+
+ATENCION
+
+-Verifique periddicamente las lineas de combustible en busca de pérdidas
+o desperfectos.
+
+-Siga las recomendaciones de mantenimiento y buen uso que indica el
+fabricante del motor.
+
+-Recambie periddicamente los filtros de combustible.
+
+PRECAUCION
+
+-No olvide abrir los venteos de tanques durante la carga y transbaso de
+combustible.
+
+-Evite derrames de combustible durante la carga.
+
+-Nunca permita que el combustible caiga al mar, ya que por poco que se
+derrame provocara una gran contaminacién.
+
+55
+
+~ BA
+
+-No fume durante la carga de combustible.
+
+-Evite el contacto de material inflamable con el motor en temperatura, eje
+o generacores.
+
+-No cargue combustible con los motores encendidos.
+
+-En caso de incendio, no combatir con agua.
+
+-Al calcular la cantidad necesaria de combustible antes de una travesia,
+siempre tomese un margen considerable por condiciones climaticas adver-
+sas y otros factores.
+
+-Las altas temperaturas de sala de maquinas pueden evaporar combusti-
+bles derramados creando un ambiente propenso a incendiarse.
+
+EE Linea de combustible
+
+SDLETA
+Voia. : Mrancisca
+
+PLANO UNIFILAR DE COMBUSTIBLE
+
+5 Venteos
+T= Llenado 2
+: Les
+lo @¢|| | © ®
+Gy aor , a5)
+5 4oab
+: eae COE
+@
+Os Tae sn fp SS
+: © 8 ©
+ao 22) L_ Cubierta —
+° !
+nn
+2D F
+| Manifold 3" | ; Manifold 3"
+r | —_
+| = fix —=T i x x 6 8
+|
+ee i fof fo {|} od a
+8p 82)
+(@)-— i Soa
+
+GOLETA
+
+é Wotia. Francisca
+
+1 | Filtro triple marca racor 900 ma2 18 | Bomba autocebante de 24 Volts.
+
+2 | Tanque de aguas aceitosas 75 Its. 19 | Al separador de agua o bomba de desperdicio.
+3 | Bomba de camion en puerto. 20 | De la sentina de aguas oleosas.
+
+4 |Ala descarga del camion en puerto. 21 | Venteo de tanques en cubierta.
+
+5 | Separador de aceite GEA OTC 2 22 | Tanque de combustible diario estribor 1057 Its.
+6 |Generador de babor Caterpillar C 4.4 69 Hp. 23 | Venteos de tanques al mastil.
+
+7 | Enfriador de aceite incorporado en el motor. | 24 | Tanque de sentina babor 1250 Its.
+
+8 | Motor principal Caterpillar C18 873 Hp. 25 | Venteo de tanques en cubierta.
+
+9 | Generador de estribor Caterpillar C 4.4 69 Hp. | 26 | Carga en caja de babor.
+
+10 | Del separador de agua y aceite. 27 | Derrame de caja de embarque de combustible.
+11 | Ala descarga del camion en puerto. 28 | Derrame de caja de embarque de combustible.
+12 | Bomba de camion en puerto. 29 | Carga en caja de babor.
+
+13 | Tanque de aguas aceitosas babor 200 Its. 30 | Tanque de combustible babor 3635 litros.
+
+14 | Manometro. 31 | Tanque de combustible babor 4335 litros.
+
+15 | Manifold de succion y transferencia. 32 | Tanque de combustible estribor 4335 litros.
+
+16 | Medidor de combustible. 33 | Tanque de combustible estribor 3635 litros.
+
+17 | Bomba autocebante de 24 Volts.
+
+ATENCION
+
+-En caso de requerirse detalles técnicos consultar plano de combustible ““GDF-541-100-R6 Fuel System-UNIFILAR “ ploteado en escala grande. Dicho plano debe
+estar junto con este manual y el resto de la documentacion técnica de la embarcaci6n.
+
+57
+
+GOLETA
+
+c Woria. Fra neisca
+
+FILTRO TRIPLE RACOR 900 MA2
+
+SS; ETIQUETA = —
+,| CON N2 DE aoe
+is — I SERIE
+@- CARACTERISTICAS
+ENTRADA DE __
+: te
+COMBUSTIBLE Sse) -Cantidad: 3 unidades contectadas en serie
+i oO) -Tipo: Filtro de combustible y separador de agua.
+rn ry 412 -Capacidad por filtro: 341 LPH
+-Filtrado: 2 Micrones
+| e=s | -Conecciones: 7/8”-14 UNF (SAE J1926)
+-Max. Presidn de trabajo: 15 PSI (1 Bar)
+VISTA DE FRENTE CONECCION VISTA LATERAL
+
+PARA DRENAJE
+
+ATENCION
+
+-Inspeccione diariamente el recipiente y drene el agua del mismo
+-Reemplace el elemento de filtrado cédigo 2040SM-OR al observarse entre 6 y 10 pulgadas de mercurio o al primer signo de perdida de potencia.
+
+58
+
+GOLETA
+
+Doia. SHrancisca
+
+SEPARADOR DE ACEITE GEA OTC 2
+
+-Tratamiento de combustibles y aceites.
+-Tratamiento de combustibles y aceites
+usados .
+
+Velocidad: 10.000 Rem
+Volumen de solidos :1.2 Litros
+Rating: SO Hz /60 Hz 1.1 kW/ 1.3 kw
+
+Llenado de agua manual.
+
+Alimentacion de fluido.
+
+Descarga de fluido liviano.
+
+Bomba centrifuga.
+
+Disco de cetrifugado.
+
+Descarga de liquido pesado.
+
+Acumulacion de solidos.
+
+COIN IT HDPOPR WINE
+
+Disco de separacion.
+
+Peso: 60 Kilos
+Medidas: 640 x 640 x 710 mm.
+
+59
+GOLETA
+
+c Doria. Hrancisca
+
+BOMBA DE COMBUSTIBLE GIANNESCHI FQ 40 Y FQ 15
+
+CARACTERISTICAS
+-Cuerpo de acero G25
+FQ 15 0.37 Kw, 380 V 0.9 m3/h
+FQ 40 0.75 Kw 380 V 2.4 m3/h
+f
+—- £
+I i
+\ Ei
+m a
+|
+f h h’ I a m n Cc c’ DNa | DNm Kg
+FQ 15} 340 95 180 140 115 90 112 47 - 3/4” | 3/4” 16
+FQ 40} 450 100 195 155 135 100 125 47 - 1” 1” 20
+
+60
+
+GOLETA
+
+é Woiia, SHrancisca
+
+5.4- Plano de medios de evacuaci6n y lucha contra incendio.
+
+La embarcacién cuenta con 2 salidas de emergencia. Una ubicada en proa contigua a la cocina y la otra en el salén principal.
+El disefio de interiores fue pensado de manera de optimizar el flujo de personas abordo. Tanto los pasillos como las puertas o escaleras son lo mas amplias posi-
+bles.
+
+PLANO DE SALIDAS DE EMERGENCIA
+
+6 5 4 2 1
+--e
+t=o
+| aa
+Pe
+9
+3 1 | Salida a cubierta del pique de proa.
+J} CUE © | Ss 2 | Salida a cubierta de emergencia en proa.
+1 = | =I | 3 | Puerta estanca de proa en maquinas.
+= === =
+= | 4 | Escalera a caseta principal.
+J) te - | 7 7 5 | Puerta estanca de popa en maquinas.
+—— —_—_-* ne | 6 | Salida a cubierta del lazareto.
+EE) = j= 1tq |
+i= \ ll | 7 | €scalera desde camaroes de proa.
+E_ —
+7. === i 8 | Salida a cubierta de emergencia.
+S
+Sar == “ 9 | Salida a cubierta de emergencia.
+nS | 10 | Escalera desde camarotes de popa.
+8 10
+
+61
+GOLETA
+
+é Woiia, Francisca
+
+PLANO DE EVACUACION
+ma roll ® Fs —
+eo | Gj
+ac ple ,
+° E =
+im
+®
+eo |//f ® ©
+a
+® Bomba contra incendio principal. Pa 1 Espacio protegido por HFC-227ea
+HEG| 39788
+® Bomba contra incendio de emergencia. aa 1 Puesto de disparo de HFC-227ea
+HFG-22 7
+& Bomba de sentinas. a 1 | Control remoto valvulas de cierre rapido.
+Generadores principales. 2 | Cierre clapeta cond. ventilacién sala de maq.
+Matafuego de espuma de 10 Lts (Tipo AB). 5 |Campanilla de alarma general.
+F
+f. =
+; Matafuego polvo quimico seco de 4,5Kg (Tipo ABC). 4 | Pulsador de alarma de incendio.
+i: @
+Valvula para acople manguera - Agua. D 8 | Sensor de temperatura.
+Caja de manguera c/lanza univ. - Agua. ®) 20 | Sensor de humo.
+Puerta clase “A” : 1 | Manta inifuga.
+=
+
+62
+
+GOLETA
+
+c Wotia. Francisca
+
+ATENCION
+
+-En caso de requerirse detalles técnicos consultar plano de lucha contra incendio “05-GDF-000-436-R1-PLANO DE LUCHA CONTRA INCENDIO “ ploteado en escala
+grande. Dicho plano debe estar junto con este manual y el resto de la documentacion técnica de la embarcacion.
+
+PRECAUCION
+
+-La embarcaci6én fue provista del equipo de seguridad correspondiente a las normas internacionales. Sera responsabilidad del capitan instalar equipamiento adicio-
+nal requerido por registros locales asi como chequear periddicamente el estado de todos los dispositivos de seguridad y mantenerlos en optimas condiciones.
+-Todos los tripulantes e invitados que naveguen esta embarcacién deberdan saber la ubicacién de chalecos salvavidas y dispositivos de seguridad. Sera responsabili-
+dad del capitan brindar esta informacién antes de comenzar una navegacion.
+
+63
+
+GOLETA
+
+é Woiia, Francisca
+
+SISTEMA DE LUCHA CONTRA INCENDIO EN SALA DE MAQUINAS GA 3000 - 227
+
+~ ——
+
+MANGUERA DE SENSORES DE TEMPERATURA |
+
+INOXIDABLE TRENZADA
+
+INSTALACION TIPICA EN SALA DE
+MAQUINAS
+
+a
+
+MANIFOLD DE
+DESCARGA DE BRONCE
+
+Se GEMELOS CON ——  °}»
+
+GAS HFC-227 ea
+
+VVA,
+
+SEGURIDAD
+
+El sistema GA 3000 - 227 de la marca Fireboy esta constituido por
+4 sensores de temperatura, 2 que se ubican en el techo de sala de
+maquinas y uno en casa extinguidor. Dichos sensores al detectar
+temperatura igual o mayores que 79 grados, accionan la descarga
+automatica de los extinguidores que en fracci6n de segundos inun-
+dan el volumen de sala de maquinas con gas HFC-227. Aleatoria-
+mente, el sistema tiene la posibilidad de ser descargado manual-
+mente por medio de los cables de descarga.
+
+Este conjunto funciona en paralelo con el sistema eléctrico y al
+detectarse altas temperaturas se apagan automaticamente los mo-
+tores, ventiladores y cortafuegos de sala de maquinas de modo de
+evitar la propagacion del incendio.
+
+MODELO
+
+CAPACIDAD X ESTINGUIROR | CANT. DE ESTINGUIDORES
+
+DIAMETRO
+
+ALTURA
+
+VOLUMEN DE COVERTURA
+
+PESO TOT. X CILINDRO
+
+CERTIFICACION
+
+GA 3000-227
+
+29.5 Kgs 2
+
+10”
+
+32.4”
+
+35 M3
+
+47.9 Kgs
+
+162.029/240/0
+
+64
+
+GOLETA
+
+é Woiia, Francisca
+
+El HFC-227 es un agente incoloro, inodoro no conductor de la
+electricidad.
+
+Dicho gas es apto para combatir fuegos de clase A (materiales
+solidos) como para fuegos de clase B (liquidos inflamables)
+
+CARACTERISTICAS GENERALES
+
+-Sustituto del Halon 1301.
+
+-Rapida extincion.
+
+-Alta eficacia con baja concentracion de extincion.
+
+-Aplicable en areas ocupadas.
+
+-Baja presion de almacenamiento y descargas poco ruidosas.
+-Minimo espacio ocupado por contenedores.
+
+-No deja residuos tras aplicacion.
+
+-No conductor de electricidad.
+
+-No dafia la capa de ozono.
+
+-Incluido en normas: ISO 14520, UNE 23572, NFPA 2001
+
+() Caracteristicas fisicas del HFC-227ea
+
+Nombre quimico Heptafluoropropano
+Férmula quimica CGFsCHFCGFs
+Designacién segtin ($014250,UNE23570 y NFPA2001) HFC-227ea
+Peso molecular 170
+Punto de ebullicién a 1.103 bar -16.4°C
+Densidad del liquido a 20°C 1407 kg/m
+Temperatura critica 101.7°C
+Presién critica 29.12 bar
+Presién de vapor a 20°C 3.91 bar
+Resist. eléct. relativa ja 1 atm. 25°C (n2=1.0)) 2.0
+Densidad de llenado maxima 1.12 kg/l
+Concentracién tipica de disefo para heptano 8.6%
+Factor de inundacion para heptano a 20°C 0.686 ka/i m?
+Concentracion de disefo (para clase A superficial) 7.5%
+Factor de inundacidén (para clase A superficial) 0.591 kg/m?
+NOAEL 9%
+LOAEL 10.5%
+Poder destructor del ozono 0
+Potencial de efecto invernadero 2900
+Sobrepresuracién con nitrégeno 24 bar
+Presién de trabajo del cilindro a 50°C 34 bar
+Tuberia aconsejada DIN2440
+
+65
+
+GOLETA
+
+Voia. : Mrancisca
+
+ATENCION
+
+-Controle periddicamente el estado y fecha de vencimiento de los matafuegos.
+
+-Es responsabilidad del propietario que los extinguidores estén ubicados en lugares de facil acceso asi como informar a su tripulacion del correcto uso y ubicacién
+de los mismos.
+
+-Es responsabilidad del propietario informar a su tripulacidn el uso del sistema de achique e incendio.
+
+-Es responsabilidad del propietario informar a su tripulacion la ubicacidn de salidas de emergencia.
+
+-No instale cortinas o telas inflamables en la cercania de elementos de combustién.
+
+-Las salidas de emergencia adicionales a la escotilla principal, deben estar identificadas con carteles.
+
+= fp hk A®
+
+-Esta embarcacién debe contar con los matafuegos en vigencia que se detallan en el plano anterior y deben ubicarse a la vista sin obstrucciones.
+
+-La embarcacién debe tener una manta ignifuga ubicada debajo del asiento de la mesa de navegacion.
+
+-Todo el equipamiento de lucha contra incendio debe ser verificado segun los intervalos que indica el fabricante
+
+-Los extinguidores deben ser reemplazados por otros del mismo tipo y capacidad luego de la fecha de vencimiento.
+
+-Mantener la sentina libre de combustible y gases inflamables.
+
+-Cualquier reemplazo o reparacidn del sistema de lucha contra incendio debe ser realizada con componentes de calidad equivalente y resistencia ignifuga que los
+instalados.
+
+-Nunca obstruya tambuchos o salidas de emergencia 0 dispositivos de seguridad como valvulas, bombas, mangueras.
+
+-Nunca deje el barco sin atencidn durante coccidn de alimentos o uso de calefaccion.
+
+CARTELES DE PRECAUCION QUE DEBEN UBICARSE EN EL BARCO:
+
+Donde haya equipos o sistemas con riesgo de incendio o con riesgo de ubicacién abordo:
+
+-PRECAUCION: Entes de descargar, apagar motores y ventiladores (cartel amarillo)
+
+En la puerta de entrada de sala de maquinas:
+
+-PRECAUCION: La sala de maquinas cuenta con un sistema de extincidn de incendio, salga inmediatamente luego de accionar dicho sistema para evitar asfixia y
+ventile antes de volver a entrar (cartel naranja)
+
+En cercania de todos los extinguidores de Co2:
+
+-PRECAUCION: Este extinguidor usa Co2 y debe usarse solo para combatir incendios eléctricos o de la coccién, abandone la zona luego de la descarga para evitar
+asfixia (cartel amarillo o naranja)
+
+66
+
+GOLETA
+
+Voia. . Merancisca
+
+6-INFORMACION DEL USO SEGURO DEL SISTEMA ELECTRICO.
+6.1- Generalidades
+
+La embarcacién posee dos generadores trifasicos de 64 KVA, cada uno, de 3 x 380 V a 50 Hz para alimentacion de los sistemas de fuerza motriz.
+
+Los mismos pueden trabajar en paralelo
+
+Para alimentacién de los sistemas de habitabilidad cuenta con un transformador trifasico de 50 kVA, una relacién de tensién de 3 x 380/220 V, a 50 Hz.
+
+Para alimentacion de los servicios de iluminacién en 24 Volts, sistema de monitoreo, hidraulica (solo en green sail), etc, la embarcaci6n cuenta con un banco de
+baterias de 3000 Ah de 2 x 24 Vcc.
+
+Para alimentacién de los servicios de comunicaciones cuenta con un banco de baterias de 500 Ah de 24 Vcc Dispuestos en 2 sub-bancos de 12 Volts cada uno.
+Adicionalmete, se instalaron dos tomas de tierra, una para el sistema de 380 Vca de 75 KVA, la otra para el sistema de 220 Vca de 32 A.
+
+Tanto para el sistema de corriente alterna ( 380/220 Vca ) como para el de corriente continua ( 24 Vcc ) el esquema de distribucién es por medio de un tablero prin-
+cipal, ubicado en Sala de Maquinas, del cual se distribuye a tableros secundarios, que se encuentran ubicados en:
+
+- Lazarette
+
+- Crew Mess
+
+- Pique de Proa
+- Deck House
+
+PELIGRO
+
+-Antes de efectuar un trabajo sobre la instalacién eléctrica, desconecte el sistema eléctrico por completo.
+-Antes de conectar cualquier enchufe verifique que los mismos estén libres de corrosi6n y humedad.
+-Contactos pobres o defectuosos pueden causar sobrecalentamiento y riesgo de incendio.
+
+-Si un fusible falla repetidamente, verifique la cauda del problema.
+
+-Nunca reemplace un fusible por otro de mayor tamafio.
+
+-No conecte dispositivos eléctricos con requerimiento de 2000 Watts o mayor.
+
+67
+
+6.2-
+
+Plano unifilar simplificado.
+
+GOLETA
+C Hota. / rancisca
+
+ESQUELMA ELECTRICO UNIFILAR SIMPLIFICADO
+
+3X 380 VCA
+
+pf
+
+CONSUMOS 3 X 380 VCA
+(desde generadores)
+
+q
+wg
+
+g
+wu
+
+‘chr
+ae
+-
+
+68
+
+© (desde transformador) -
+ol Lt ;
+— 2) qg_ CONSUMOS
+hs aS (desde inverters)
+
+GOLETA
+
+é Wotia. Francisca
+
+1 Toma de Tierra 3x380 Vca/125 A
+
+2 Generador 1; 3 x 380 Vca 64 kVA- 51 kW98A
+
+3 Generador 2; 3 x 380 Vca 64 kVA- 51 kW98A
+
+4 Convertidor de frecuencia.
+
+5 Controlador electronico COMAP ID - EM 4A
+
+6 Controlador electronico COMAP IG-NTBB 4A
+
+7 Interruptor ACSC 3x160 A
+
+8 Interruptor ACB 3x125A
+
+9 Tablero de proa.
+
+10 | Tablero Lazaretto.
+
+11 | 380/220 Vca 50 kVA
+
+12 | Tablero de proa.
+
+13 | Tablero Lazaretto.
+
+14 | Inversores 1-2-3 24 Vcc / 220 Vca3 x5 kVA
+
+15 | Panel 2 x 24 Vcc
+
+16 | Transformador de aislacidn 32 A
+
+17 | Convertidor Asea Power AC 75Q-3 75 Kva
+ATENCION
+
+-En caso de requerirse detalles técnicos consultar planos eléctricos
+plateados en escala grande. Dichos planos deben estar junto con este
+manual y el resto de la documentacion técnica de la embarcacion.
+
+69
+
+6.3- Sistema de fuerza motriz 380 V — 50 HZ
+
+El sistema de fuerza motriz esta alimentado por dos generadores, Caterpi-
+llar C4.4 50 Kw:
+
+Estos generadores acometen a un panel de generacion, del cual por medio
+de un sistema de simple barra alimenta a un tablero de distribucién.
+
+Los generadores estan protegidos por sendos interruptores automaticos
+motorizados ( ACB1 — ACB2 ) de las siguientes caracteristicas:
+Capacidad:3x125A
+
+Regulacion :80-125A
+
+Corr. Ruptura : 35 kA
+
+Marca : ABB
+
+Dichos interruptores se encuentran supervisados por sendos controladores
+electrénicos de las siguientes caracteristicas:
+
+Modelo : IG — NT BB
+
+Marca : COMAP
+
+Los mismos poseen proteccion por:
+
+- Sobrecarga
+
+- Cortocircuito
+
+- Potencia Inversa
+- Sobre tensién
+
+- Baja Frecuencia
+
+- Alta Frecuencia
+
+Por medio de estos dispositivos se pueden conectar en paralelo los tres
+inverters, ya que el sincronismo entre ambos generadores lo realizan en
+forma automatica los dos controladores de forma que uno de ellos traba-
+jara como equipo “Maestro o Principal”, mientras que los dos restantes
+actuaran como “Esclavos o Secundarios”.
+GENERADOR CATERPILLAR C 4.4 50 Kw
+
+1-4, 4-Tiempos Diesel
+
+Calibre... cece eens 105 mm
+Carrera... 0... eee eee . 127mm
+Desplazamiento.................. 4.4L
+Aspiracion... ...turbochargado-posenfriado
+Compresion....... 0... ccs 16:2
+Sistema de combustion... . Inyeccion directa
+Rotacion ...... 0... cece eee eee Antihorarira
+Peso aproximado seco......... ....520kg
+
+1358 mm
+
+Largo 1358 mm.
+
+Ancho | 749 mm.
+
+Altura | 963 mm.
+
+Performance
+
+Velocidad (Rpm) | 2200
+Potencia (Kva) 64
+Torque (N*m) 556
+Tension (vlots) 3 x 380
+Corriente (Amp) | 98
+Torque (Lb-Ft) 410.1
+
+GOLETA
+
+Voia. : Mrancisca
+
+70
+
+6.4- Toma de tierra.
+
+El sistema posee ademas una toma de tierra de una capacidad de 125 A, la
+misma esta compuesta por un transformador de aislacidn de las siguientes
+caracteristicas :
+
+Potencia : 75 kVA
+
+Tension Entrada : 3 x 170-520 V
+Tension Salida : 3 x 3380 V
+Frecuencia : 40 — 70 Hz
+
+Marca : ASEA
+
+La toma de tierra es alimentada por un transformador de aislacion de las
+siguientes caracteristicas:
+
+Potencia : 12 kVA
+
+Tension Entrada : 2 x 170-520 V
+
+Tension Salida : 2 x 220 V
+
+Frecuencia : 40 — 70 Hz
+
+Marca : ASEA
+GOLETA
+
+é Wotia. Francisca
+
+-Nunca nade en las cercanias de una embarcacién conectada a tierra, y prevenga a otros de hacerlo si su embarcacién esta conectada.
+Si fuera necesario por razones de mantenimiento estar en el agua, desconecte tanto su embarcacién como las que la rodean.
+
+- La conexidn a la toma de amarra de CA nunca debera tocar el agua.
+
+-En caso de accidente eléctrico desconecte todos los medios de energia de la embarcacién inmediatamente.
+
+PRECAUCION
+
+A ®A
+
+Para evitar el peligro de un flujo excesivo de corriente o un incendio:
+
+-Siempre conecte la conexién a tierra primero en el barco y luego a la amarra. Para la desconexion, primero desconecte la amarra y luego la de la embarcacion.
+-Nunca altere la conexidn o cables de la toma de amarra.
+
+-Verifique el amperaje de la toma de amarra para evitar sobrecargarla activando muchos sistemas eléctricos abordo en simultaneo.
+
+-En caso de incendio, no combatir con agua.
+
+6.5- Sistema de 220 V —50 HZ
+
+El sistema de 3 x 220 V — 50 Hz tiene como fuente de alimentacién un transformador trifasico de las siguientes caracteristicas:
+Potencia : 50 kVA
+
+Tension Primario : 3 x 380 V
+
+Tension Secundario : 3 x 220 V
+
+Frecuencia : 50 Hz
+
+El panel de distribucidn de 3 x 220 Vca cuenta con una barra independiente la cual es alimentada por un conjunto de tres inverters de las siguientes caracteristicas:
+
+71
+
+Dora SHrancisca
+
+GOLETA
+
+INVERSOR PHONEX 24/5000 DE VICTRON
+
+CARACTERISTICAS
+Potencia 5000 W
+Tension de entrada | 2 x 24 Vcc
+Tension Salida 2 x 220 Vca
+Peso 30 Kg
+Medidas 444x328x240
+
+Phoenix Inverter
+24/5000
+
+ATENCION: Antes de realizar una navegacién debe controlar:
+
+Estos inverters tienen la posibilidad de trabajar en paralelo ya
+que poseen una interconexiédn Canbus que permite el sincro-
+nismo entre los tres equipos, debiendo uno de ellos trabajar
+como equipo “Maestro o Principal”, mientras que los dos
+restantes trabajan como “Esclavos o Secundarios”.
+
+Los tres inverters acometen interruptores termomagnéticos
+de una capacidad de 2 x 32 A, los cuales convergen a un con-
+tactor ( Cl1 ) de 3 x 100 A el cual es comandado por un con-
+trolador electrénico.
+
+-El voltaje y carga de baterias.
+-El correcto funcionamiento de las luces de navegacion.
+-Tener luces de navegacién de repuesto.
+
+72
+
+GOLETA
+
+c Wotia. Francisca
+
+6.6- Sistema de 2 X 24 VCC
+
+El sistema esta alimentado por dos grupos de baterias de gel de 24 Vcc compuestos por modulos de 2 Volts conectados en paralelo. Cada grupo tiene una capaci-
+dad de 1500 Ah. Dichos grupos de baterias es encuentran alojados en cajas estancas de fibra de vidrio ubicadas bajo el piso del salén principal.
+
+Las baterias estan protegidas por fusibles NH de 1200 A, para luego conectarse en paralelo y acometer al tablero principal de 24 Vcc a un fusible NH de 1500 A.
+El sistema de distribucién es de simple barra, realizandose la distribuci6n por medio de interruptores termomagnéticos
+
+Para proteccidn del sistema hidraulico se utiliza un fusible NH de 1350 A. que durante la navegacion green sail, estara potenciada por los bancos de baterias de 24
+Volts
+
+Para proteccidn de los tres inverters se utilizan interruptores automaticos de las siguientes caracteristicas:
+
+Capacidad : 3x 250A
+
+Regulacion :160-250A
+
+Corr. Ruptura : 35 kA
+
+Marca : ABB
+
+ATENCION
+
+-En caso de requerirse detalles técnicos consultar plano de Panel Distribucién 2 x 24 Vcc “‘N® SVT-302-301-R2 al SVT-302-304-R2” ploteado en escala grande.
+Dicho plano debe estar junto con este manual y el resto de la documentacién técnica de la embarcaci6n.
+
+6.7- ‘Carga de baterias
+
+Para la carga de baterias se dispone de cuatro cargadores automaticos Mastervolt o bien el alternador con su respectivo regulador de carga ambos de marca Mas-
+tervolt. Todo el banco de baterias debe estar a disposicién de los consumos cuando sea necesario, es por eso que no hay selectores de bancos de baterias instala-
+dos.
+
+73
+
+GOLETA
+
+Doia. SHrancisca
+
+CARGADOR MASS 24/100 MASTERVOLT
+
+CARACTERISTICAS
+Tension de salida 24V
+Tensidn entrada 230 V (50/60 Hz)
+Capacidad 100A
+Tension de carga Absorcion | 28.5 V
+Tension de carga flote 26.5V
+Peso 7.7 Kg
+Medidas 420x318x130
+
+ATENCION:
+
+-Tanto los cargadores como los inversores estan ubicados e instalados en un local hermetico y refrigerado dentro de la sala de maquinas. Controlar periodicamente
+la temperatura del local
+
+74
+
+GOLETA
+
+c Wotia. Francisca
+
+PRECAUCION
+
+LL)
+
+-Las baterias deberan estar almacenadas de modo seguro y seco, asegurese de instalar de manera segura a las baterias de reemplazo.
+-Controle periéddicamente tanto el estado de las baterias de arranque como las de servicio e instrumental con dispositivos de medicidn ade-
+cuados. Se recomienda el cambio de las mismas cada 3-4 afios de uso.
+
+-Las baterias son pesadas y se recomienda el uso de dispositivos mecanicos y aparejos para su manipuleo.
+
+-Controle los indicadores de carga periddicamente durante el proceso de carga.
+
+-No obstruir dispositivos de ventilacién de baterias.
+
+-En caso de duda, lea las especificaciones de las mismas.
+
+PELIGRO
+
+-Para prevenir un cortocircuito en las baterias, debe mantenerse alejado de los bornes todo tipo de material conductor (por ejemplo trozos de cable, herramienta
+metalicas, etc.)
+
+-No se debera desconectar el circuito de DC (24V) cuando el motor principal se encuentra en operacidn.
+
+-En caso de accidente eléctrico desconecte todos los medios de energia de la embarcacién inmediatamente.
+
+75
+
+GOLETA
+
+Doia. SHrancisca
+
+ALTERNADOR ALPHA 24/150 MASTERVOLT REGULADOR DE CARGA ALPHA PRO 24 V
+
+CARACTERISTICAS CARACTERISTICAS
+Corriente de carga 150A Medidas 90x 95x 30mm
+Tension de carga Absorcion | 28.5 V Tension de carga Absorcion | 28.5 V
+Tension de carga flote 26.5V Tension de carga flote 26.5 V
+Peso 13.1 Kg Peso 0.4 Kg
+
+76
+GOLETA
+
+c Wotia. Francisca
+
+6.8- Sistema de distribucién 3 X 380/220 VCA
+
+Tanto para el sistema de 3 x 380 Vca, como para el sistema de 3 x 220 Vca el sistema de distribuci6n esta conformado por un tablero principal, ubicado en sala de
+maquinas, y los siguientes tableros de distribucidn:
+
+- Tablero 380/220 Vca Lazarette
+
+- Tablero 380/220 Vca Crew Mess
+
+- Tablero 380/220 Vca Pique de Proa
+- Tablero 220 Vca Deck House
+
+PRECAUCION a AN
+
+-No use métodos caseros para reparar fusibles como envolverlos en papel aluminio.
+-Si un fusible se quema reiteradas veces se debe analizar el problema con un especialista.
+
+-Desconecte el circuito eléctrico en cuestién antes de realizar un cambio de fusible.
+
+-En caso de accidente eléctrico desconecte todos los medios de energia de la embarcacién inmediatamente.
+
+SE DETALLARAN LOS PANELES DE DISTRIBUCION INSTALADOS CUANDO ESTE DISPONIBLE LA INFORMACION DE PARTE DE
+SERVINTEL
+
+77
+
+GOLETA
+
+c Wotia. Fra neisca
+
+6.9- Recomendaciones al realizar trabajos de mantenimiento del sistema eléctrico.
+
+PRECAUCION 1 A\ @)
+
+-No intercambiar fusibles o sobrecargar interruptores.
+
+-No cambiar el cableado o los planos de cableado, esto solo podra ser hecho por un especialista.
+
+-No sobrecargar el sistema instalando aparatos o agregando partes que puedan exceder la carga limite.
+
+-No dejar el barco sin atenci6n con el sistema y equipos eléctricos en funcionamiento, mas alla de bombas de achique y alarmas contra incendio.
+-No manipule una instalacion eléctrica, llame a un técnico calificado en electricidad marina.
+
+-En caso de incendio, no combatir con agua.
+
+-No trabajar en el sistema eléctrico cuando este se encuentra en funcionamiento.
+-En caso de accidente eléctrico desconecte todos los medios de energia de la embarcacidn inmediatamente
+
+78
+
+é Woria erancisca
+7 -SISTEMAS DE AGUAS
+
+7.1- Plano unifilar y descripcién del sistema de aguas grises.
+El sistema de aguas grises esta compuesto por sumideros con bombas distribuidos en la sentina del barco. El agua cae por gravedad a los sanisplits y estos envian el
+liquido a la linea principal de aguas grises que por medio de un sistema de valvulas permite depositar el liquido en el tanque de aguas grises numero 10 del aparta-
+
+do 1.9 de este manual (pag 21) o bien enviarlo a la planta de tratamiento de agua para luego descargar al mar o puede ser vaciada desde la marina conectando una
+linea de succidén en la planta de tratamiento ubicada en sala de maquinas.
+
+Pd |
+
+ATENCION
+
+-Nunca descargue aguas grises por el casco en un puerto o amarradero, use los dispositivos de vaciado de holding tanks provistos en la marina o descargue una
+vez alejado de la costa.
+
+-Vaciar los tanques de aguas grises y negras al dejar el barco en reposo.
+
+-Se debera instalar sobre el tanque de aguas grises un calco con la oraci6n TANQUE DE AGUAS GRISES en letra grande y legible, ademas de la capacidad y la empre-
+sa constructora del tanque.
+
+-Toda la cafieria aguas grises debera estar identificada con su correspondiente sefal adhesiva.
+
+-Vaciar los tanques de aguas grises por medio de la brida internacional de cubierta segun las reglamentaciones locales vigentes.
+
+-Asegurese de usar siempre productos de limpieza biodegradables tanto para las cafierias como para el holding tank.
+
+79
+GOLETA
+
+C Hota. / rancisca
+
+PLANO UNIFILAR DE AGUAS GRISES
+
+(L) (K) oO (H) @) (F) ts ) (D) (©)
+oO
+15 _
+1567
+er) COS | |
+y 27 (28 29 37 38 52 53 54; 59 60 61
+wr 4 = Ww
+5 a 2 21 U 36 62 .
+17
+‘l 9 ¢ ) 4 4 _ ] ] pe i i
+af (gel eee eT
+22 Ee 39 47 55 63
+3 Ee SALA DE 30 34 40 a 48 64
+10 MAQUINAS 31 oa
+18 23 24 26 FB fa | 49 56 57 65 66
+aT eo) WPT ia J AE) OL
+4 13 32
+TL i
+(L) (K) oO (H) @) (F) (E) (D) (C)
+
+5 Agua gris de consumos
+M8 Agua grisde condensacion MN Aguas negras
+
+Ml Agua de mar
+
+80
+GOLETA
+
+é Wotia. Francisca
+
+1 | Drenaje camarote del duefio de babor. 29 | Drenaje de invitados secundaria babor.
+
+2 | Drenaje de ducha Rule 98-24 30 | Reservorio Sanisplit K3 270 L/min.
+
+3 | Drenaje de ducha Rule 98-24 31 | Bacha de cocina.
+
+4 | Drenaje oficina de estribor. 32 | Drenaje de cocina.
+
+5 | Ducha camarote del duefio. 33 | Drenajes de heladeras y fabricadora de hielo.
+
+6 | Bacha camarote del duefio. 34 | Tratamiento de desperdicios (opcional a instalar)
+7 ‘| Bidet camarote del duefio. 35 | Reservorio Sanisplit K3 270 L/min.
+
+8 | Bomba de drenaje Jabsco 50880-1100 36 | Bomba de drenaje Jabsco 50880-1100
+
+9 | Reservorio Sanisplit K3 270 L/min 37 | Ducha de invitados secundario.
+
+10 | Reservorio Sanisplit K3 270 L/min 38 | Bacha de invitados secundario.
+
+11 | Ducha officina. 39 | Reservorio Sanisplit K3 270 L/min.
+
+12 | Bacha officina. 40 | Drenajes de freezer y lavavajillas.
+
+13 | Bomba de drenaje Jabsco 50880-1100 41 | Tanque de aguas grises 2800 litros.
+
+14 | Ala descarga de popa en babor. 42 | Bomba autocebante 55 L/min Gianneschi MVI 60
+15 | Planta de tratamiento hamann ag 10220 43 | Descarga a la marina por toma de cubierta.
+
+16 | Drenajes de salon de babor proa y popa. 44 | Bomba autocebante 55 L/min Gianneschi MVI 60
+17 | Reservorio Rule 98-24. 45 | Drenaje de tripulacion de babor.
+
+18 | Drenajes de salon de estrib proa y popa. 46 | Del tanque de aguas negras.
+
+19 | Drenaje de invitados de babor. 47 | Venteo al mastil de proa.
+
+20 | Sumidero con bomba 800 Gph. 48 | Reservorio Sanisplit K3 270 L/min.
+
+21 | Bomba de drenaje Jabsco 50880-1100 49 | Drenaje del camarote del capitan.
+
+22 | Reservorio Sanisplit K3 270 L/min 50 | Al manifold de descargas de proa.
+
+23 | Drenaje de invitados de estribor. 51 | Sistema de agua de mar.
+
+24 | Ducha invitados estribor. 52 | Drenaje de lavarropa.
+
+25 | Bomba de drenaje Jabsco 50880-1100 53 | Drenaje de secarropa.
+
+26 | Bacha invitados de estribor. 54 | Drenaje de bacha de lavadero.
+
+27 | Ducha invitados de babor. 55 | Reservorio Rule 98-24.
+
+28 | Bacha invitados de babor. 56 | Ducha del camarote del capitan.
+
+81
+
+GOLETA
+
+c Wotia. Fra neisca
+
+57
+
+Bacha del camarote del capitan.
+
+62
+
+Bomba de drenaje Jabsco 50880-1100
+
+58
+
+Bomba de drenaje Jabsco 50880-1100.
+
+63
+
+Reservorio Rule 98-24.
+
+59
+
+Ducha de tripulacion babor.
+
+64
+
+Reservorio Sanisplit K3 270 L/min.
+
+60
+
+Bacha de tripulacion babor.
+
+65
+
+Bacha de tripulacion estribor.
+
+61
+
+Drenaje de tripulacion babor.
+
+66
+
+Drenaje de tripulacion estribor.
+
+ATENCION
+
+-En caso de requerirse detalles técnicos consultar plano de aguas grises “GDF-528-200-R7 Grey water system-UNIFILAR “ ploteado en escala grande. Dicho plano
+
+debe estar junto con este manual y el resto de la documentacién técnica de la embarcacion.
+
+PRECAUCION
+
+LL)
+
+-Nunca opere las bombas de descarga con los tanques vacios, esto puede quemar las mismas.
+-Controle el funcionamiento apropiado de los sumideros y en caso de falla consulte al manual de los mismos.
+
+82
+
+GOLETA
+
+é Wotia. Francisca
+
+DRENAJE DE AGUAS GRISES RULE 98-24 MULTIPORT INLET PUMP BOMBA DE DUCHAS JABSCO 50880-1100
+
+. CARACTERISTICAS
+CARACTERISTICAS
+
+-Autocevante hasta 3 m
+-24 Volts DC
+-16 litros por minuto
+
+-Capacidad: 800 GPH
+
+, -24 Volts DC
+
+i -Conecciones: 19 mm salida; 19 - 38 entrada
+-Dimensiones: 210mm x 285mm x 140mm
+
+nl -Fusible: 1.5 Amp
+
+res -Descarga: 50 LPMin
+
+PRECAUCION
+
+-Cada bomba que descargue al mar debe estar instalada de manera que la descarga quede por arriba de flotacidn tanto con el barco adrizado como escorado o
+bien con su respectivo cuello de cisne.
+-Desconecte la bomba del suministro de energia al dejar la embarcacion.
+
+PELIGRO
+
+-No use esta bomba para combustible o hidrocarburos. Esto puede ocasionar una explosidn.
+
+-Si un fusible falla repetidamente, no lo cambie por uno de mayor tamafio o instalando papel metdalico en el mismo. Esto puede recalentar el cableado y ocasionar
+un incendio.
+
+83
+GOLETA
+
+é Wotia. Francisca
+
+RESERVORIO SANISPLIT K3 270 L/min
+
+_ <=
+40
+
+_ << 240
+us 1 i!
+Y oo osA es
+
+Pail
+
+a
+
+<o
+
+PRECAUCION
+
+CARACTERISTICAS
+
+-24 Volts AC
+
+-25A
+
+-Caudal maximo 270 L/min.
+
+-Altura de descarga maxima 11 mts.
+
+-No use los dispositivos conectados al reservorio en caso de falla eléctrica.
+
+-No arroje objetos ni papel higiénico ni agua caliente al inodoro que pueden dajfiar al sanisplit. Coloque el sticker de aviso provisto por el equipo en los inodoros.
+-Controle que los dispositivos conectados al sumidero no pierdan liquido. Esto hara actuar el sumidero inutilmente.
+-En caso de no usar bafios o inodoros por un largo periodo se recomienda desconectar el suministro de agua.
+
+PELIGRO
+
+un incendio.
+
+-Si un fusible falla repetidamente, no lo cambie por uno de mayor tamafio o instalando papel metdalico en el mismo. Esto puede recalentar el cableado y ocasionar
+
+84
+
+GOLETA
+
+Poia SHrancisca
+
+PLANTA DE TRATAMIENTO HAMMANN AG 10220
+
+SENSOR DE NIVEL VVA 3 VIAS ENTRADA DE
+AGUAS A TRATAR
+
+CONECCION DE
+
+SALIDA DE AGUA AGUA POTABLE
+
+PROCESADA
+CONTENEDOR
+CENTRIFUGO
+LIMPIADOR DE
+VVA CIERRE TANQUE
+ENTRADA ouK nas
+BBA
+MACERADORA VVA CIERRE LIMPIEZA =
+CARACTERISTICAS
+-230 Volts AC
+-1.5 Kw
+-Peso: 82 Kg
+
+-Dimensiones: 918 x 730 x 560 mm
+-Capacidad: 2118 Litros de agua a tratar diarios
+
+85
+
+SENSOR DE NIVEL CARGA DE —
+CLORO
+
+VENTEO DE
+CcLORO
+
+ENTRADA DE
+AGUA
+PROCESADA
+
+VENTEO
+
+TABLERO
+ELECTRICO
+
+VVA CIERRE
+BASAMENTOS
+
+ATENCION
+
+-La planta de tratamiento fue calculada para un promedio de doce
+personas abordo. Los fabricantes estiman que cada persona des-
+echa 175 litros de agua diarios en situacidn de confort, lo que daria
+una suma de total de agua de desperdicio de 2100 litros
+
+- Consultar manual de planta Hammann AG 10220 para principio de
+funcionamiento y cuidados de uso. Dicho manual debe estar junto
+con este manual y el resto de la documentacidn técnica de la em-
+
+barcacion.
+
+GOLETA
+
+Doia. SHrancisca
+
+BOMBA AUTOCEBANTE GIANNESCHI MVI 60
+
+CARACTERISTICAS
+
+-230 Volts AC
+
+-1.1 Kw
+
+-Caudal maximo 55 L/min.
+
+-Altura de descarga maxima 11 mts.
+
+86
+
+A B Cc DNa|DNm| F G H I L M N oO P Q R Kg
+358 | 275 | 272 G G 105 | 155 | 187 | 223 | 580 | 80 | 313 | 120 | 130 | 200 | 224] 24
+11/2) 11/2
+L Us|
+B
+Qa ONm |ONa
+, __ ik
+: — | Y
+a) | SES = |
+OR En I <,
+o
+Mm ih I
+1 oO Cc |
+=
+
+GOLETA
+
+c Wotia. Fra neisca
+
+PRECAUCION
+
+-Desconecte la bomba del suministro de energia al dejar la embarcacion.
+
+PELIGRO
+
+-Si un fusible falla repetidamente, no lo cambie por uno de mayor tamafio o instalando papel metdalico en el mismo. Esto puede recalentar el cableado y ocasionar
+
+un incendio.
+
+7.2- Plano unificar y descripcién del sistema de aguas negras.
+
+El sistema de aguas negras esta constituido por inodoros maceradores Dometic 8700 Series que envian aguas cloacales al tanque de aguas negras de 1350 litros.
+Dos bombas conectadas en serie Gianneschi MVI 60 succionan del tanque numero 8 del apartado 1.9 de este manual (pag. 21) y por un sistema de valvulas se pue-
+de optar por mandarla o bien a la planta de tratamiento para luego ser descargada por la borda o a la toma de cubierta para descarga en la marina o al manifold
+
+de descargas de agua de mar.
+
+87
+
+CL
+
+GOLETA
+
+. =
+Woia, Yrrancisca
+
+PLANO UNIFILAR DE AGUAS NEGRAS
+
+au) @)
+-
+
+14 (E)
+fh
+4 “Le 13
+1 5 7 17
+OC o) aC BC 12 ¢ . BC
+€ er { FE
+11
+10
+
+H) ©
+
+fo]
+
+—_
+
+ARE
+
+=
+
+©)
+
+Mmm Aguas negras Ml Agua de consumo para inodoros
+M5 Aguas grises MG Venteos
+
+88
+
+He
+
+CL
+GOLETA
+
+c Wotia. Francisca
+
+1 | Inodoro del duefio babor Dometic serie 8700.
+
+2 | Inodoro del duefio stribor Dometic serie 8700.
+
+3 | Al manifold de descarga de mar.
+
+4 | Planta de tratamiento HMSA MSii/20
+
+5 | Inodoro invitados babor Dometic serie 8700.
+
+6 | Inodoro invitados estribor Dometic serie 8700.
+
+7 | Inodoro invitados secundario babor Dometic serie 8700.
+8 | Del sistema de agua potable.
+
+9 | Tanque de aguas negras 1350 litros.
+
+10 | Linea de venteo.
+
+11 | Del tanque de aguas grises.
+
+12 | Bombas autocebante 55 L/min Gianneschi MVI 60
+13 | Al manifold de descarga de mar de proa.
+
+14 | Descarga a la marina.
+
+15 | Inodoro capitan estribor Dometic serie 8700.
+
+16 | Inodoro tripulacion estribor Dometic serie 8700.
+17 | Inodoro tripulacion babor Dometic serie 8700.
+
+ATENCION
+
+-En caso de requerirse detalles técnicos consultar plano de aguas negras “‘“GDF-528-100-R4 Black Water System-UNIFILAR “ ploteado en escala grande. Dicho plano
+debe estar junto con este manual y el resto de la documentacién técnica de la embarcacion.
+
+89
+
+GOLETA
+
+c Wotia. Francisca
+
+ATENCION
+
+-Nunca descargue aguas negras en un puerto o amarradero, use los dispositivos de vaciado de holding tanks provistos en la marina o descargue una vez alejado de
+la costa.
+
+-Vaciar los tanques de aguas grises y negras al dejar el barco en reposo.
+
+-Se debera instalar sobre el tanque de aguas negras un stiker con la oracid6n TANQUE DE AGUAS NEGRAS en letra grande y legible, ademas de la capacidad y la em-
+presa constructora del tanque.
+
+-Toda la cafieria del sistema de aguas negras deberda estar identificada con su correspondiente sefial adhesiva.
+
+-Vaciar los tanques de aguas negras por medio de la toma de extraccién de cubierta segun las reglamentaciones locales vigentes.
+
+-Asegurese de usar siempre productos de limpieza biodegradables tanto para las cafierias como para el holding tank.
+
+co
+
+PRECAUCION
+
+-Nunca opere las bombas de descarga con los tanques vacios, esto puede quemar las mismas.
+-Controle el funcionamiento apropiado de los inodoros y en caso de falla consulte al manual de los mismos.
+
+90
+
+GOLETA
+
+c Wotia. Fra neisca
+
+INODOROS MACERADORES DOMETIC SERIE 8700
+
+CARACTERISTICAS
+
+-Sistema eléctrico: 24 V; 25 A; cableado 12 Ga
+-Entrada de agua: 1/2”; 15.1 L/min; 276 Kpa
+-Descarga: 25 mm (min); Tendido H 30 m (max); Tendido V 3 m (max)
+
+-Encendido
+-Llenado de agua
+-Descarga de agua
+
+PRECAUCION -Tanque lleno
+
+-No arroje objetos contundentes al inodoro que pueden dajiar el sistema.
+-En caso de no usar los inodoros por un largo periodo se recomienda desconectarlos del suministro de agua.
+
+PELIGRO
+
+-Si un fusible falla repetidamente, no lo cambie por uno de mayor tamafio o instalando papel metdalico en el mismo. Esto puede recalentar el cableado y ocasionar
+un incendio.
+
+91
+
+GOLETA
+
+é Wotia. Francisca
+
+7.3- Plano unifilar y descripcién del sistema de agua potable.
+
+El sistema de agua potable esta formado por una red de cafierias de agua fria y caliente que distribuyen a los consumos de la embarcacién por medio de manifolds
+ubicados en el compartimento de cada grupo de consumos (normalmente en el bafio de cada camarote dentro del mueble del vanitori).
+
+El sistema permite distribuir agua potable de los tanques numero 7 y 8 del apartado 1.9 de este manual (pag. 21). Dichos tanques de una capacidad de 2450 litros
+cada uno, abastecen a los consumos de la embarcacion por medio de un set de bombas dual ubicado en maquinas.
+
+El agua caliente se genera con 2 termotanques eléctricos de 80 y 250 litros ubicados uno en el camarote del armador (bajo el piso del bafio) y el otro en sala de
+maquinas que permiten calentar el agua para consumo y aseo de la tripulacidn. El circuito de agua caliente es un sistema cerrado que por medio de bombas circula
+el agua caliente permanentemente por las cafierias, de esta forma, la temperatura del agua se mantiene constante en todo el circuito.
+
+Tanto el circuito de agua fria como el de agua caliente son circuitos cerrados que permanecen a presidén positiva y cuando se abre un grifo automaticamente se
+activan las bombas de distribucién para mantener la presion a la cual fue seteado el sistema.
+
+ATENCION
+
+-Si el sistema no se usa por un largo periodo de tiempo, se recomienda limpiar las caferias con una solucién acida.
+
+-Si va a dejar el barco por un largo periodo, desconecte la corriente de las bombas de presién.
+
+-Se debe revisar y cambiar los filtros de agua periddicamente, seguin recomienda el fabricante para evitar obstrucciones.
+
+-El termotanque utiliza una gran cantidad de energia eléctrica para su funcionamiento. Evite el uso del mismo mediante el banco de baterias.
+-Toda la cafieria del sistema de agua potable debera estar identificada con su correspondiente sefial adhesiva.
+
+PRECAUCION
+
+-Nunca opere las bombas de agua con los tanques vacios, esto puede quemar las mismas.
+-Asegurese de utilizar desalinizador segun indica el fabricante y no mas horas diarias de lo recomendado.
+-Controle el funcionamiento de las bombas de presién, una tapa mal cerrada o una gotera puede causar inundacion.
+
+92
+GOLETA
+
+. =
+Woia, Yrrancisca
+
+PLANO UNIFILAR DE AGUA POTABLE
+
+57 ©
+32 33 34
+44 45
+|
+31
+43 IK 46 47
+a 29 30
+( 52 53 54
+b 3 & 4
+| ——
+25 . |] :
+i & 37 | “51
+=e. 27 28 4g 49
+7
+26 0
+15 16 1
+i ’ *
+55 56 39 40 41
+©
+5 Agua fria HES Venteos
+
+Mi Agua caliente MMM Agua de mar
+
+93
+
+GOLETA
+
+é Wotia. Francisca
+
+ATENCION
+
+-En caso de requerirse deta-
+lles técnicos consultar plano
+de agua potable ““GDF-533-
+100-R9 Fresh Water-UNIFILAR
+“ ploteado en escala grande.
+Dicho plano debe estar junto
+con este manual y el resto de
+la documentacién técnica de
+la embarcacién.
+
+1 | Manifold duefio babor. 30 | Lavamanos y ducha invitados babor.
+2 | |nodoro duefo estribor. 31 | Manifold invitados babor.
+
+3 | Lavamanos duefio babor. 32 | Inodoro invitados babor.
+
+4 | Ducha duefio babor. 33 | Coneccion en cubierta.
+
+5 | Bidet duefio babor. 34 | Lavamanos y ducha invitados babor.
+6 | Manifold duefo estribor. 35 | Manifold invitados babor.
+
+7 | Inodoro duelo estribor. 36 | Tanque de agua potable babor 2450 L.
+8 | Coneccion en cubierta. 37 | Tanque de agua potable estribor 2450 L.
+9 | Lavamanos duefio estribor. 38 | Manofold cocina.
+
+10 | Ducha duefo estribor. 39 | Lavaplatos Miele G1275SCVI
+
+11 | Bba externa Tecnicomar-ultrapur 800-2 40 | Lavamanos de cocina.
+
+12 | Ducha de cubierta. 41 | Agua de consumo.
+
+13 | Lavamanos sala de maquinas. 42 | Acumulador.
+
+14 | Manifold. 43 | Bomba presurizadora Gianneschi
+
+15 | Filtro de carbono. 44 | Al manifold de descarga de mar.
+
+16 | Filtro UV. 45 | Manifold de lavanderia.
+
+17 | Acumulador. 46 | Lavarropas Miele PW6065 VAIRO.
+
+18 | Bomba Gianneschi Idro Ecojet 2 (B-BB) 47 | Lavamanos de lavadero.
+
+19 | Agua desde el dezalinizador. 48 | Ducha y bacha tripulacion estribor.
+20 | Bomba de circulacion Jabsco 59520-0000 24V. 49 | Inodoro tripulacion estribor.
+
+21 | Termotanque camarote armador / GIANNESCHI 80L VPO. 50 | Manidold capitan.
+
+22 | Valvula mezcladora de ajuste manual. 51 | Manifold de tripulacion.
+
+23 | Drenaje de termotanque. 52. | Ducha y bachas tripulacion.
+
+24 | Termotanque maquinas GIANNESCHI 250L HORIZONTAL-OR2 53 | Coneccion del pique de proa.
+
+25 | Bomba de circulacion Jabsco 59520-0000 24V 54 | Inodoros tripulacion babor y estribor.
+26 | Manifold invitados estribor. 55 | Coneccion de cubierta
+
+27 | \Inodoro invitados estribor. 56 | Lavamanos sala de maquinas.
+
+28 | Lavamanos y ducha invitados estrib. 57 | Coneccion de cubierta.
+
+29 | Inodoro invitados babor.
+
+94
+
+GOLETA
+
+é Woiia, SHrancisca
+
+BOMBA EXTERNA TECNICOMAR ULTRAPUR 800-2 / 010UP008002351
+
+Este equipo esta ubicado en el lazareto, es una unidad de osmosis reversa para consumo de agua
+de rios o aguas de marina no seguras de modo que funciona como filtro para el agua de externa
+segura de consumo. El agua procesada es consumible, libre de bacterias y con bajo contenido de
+salinidad.
+
+CARACTERISTICAS
+
+-230 Volts AC 50 Hz
+
+-Capacidad: 220 litros por hora / 2280 litros diarios
+-Potencia: 0.3 Kw
+
+-Medidas: 500 x 280 x 700 mm
+
+-Peso: 28 Kilos
+
+95
+GOLETA
+
+Doi Francisca
+
+BOMBA GIANNESCHI IDRO ECOJET 2 (B-BB)
+
+a Cc H h’ F n I DNa|}DNm| Kg
+110 | 145 | 130 | 158 | 390 | 124 | 160] 1” 1” 11
+
+DNm
+
+CARACTERISTICAS
+
+ine
+
+-24 Volts DC
+
+. { ia HS Ig -0.3 kW
+
+-Caudal maximo 28 M3/hora.
+-Autocebante hasta 8 mts de columna
+
+Z
+y
+DDO
+
+Us
+
+96
+a
+al
+t)
+
+a os
+on
+bd a
+=
+MODULO FARALLON 1800 - 2800
+116.8 cm
+3 5 |
+= | 33cm
+e
+= aah a |
+71.1 cm 30cm
+
+PROFUNDIDAD: 61 cm
+
+GOLETA
+
+é Woiia, Francisca
+
+SPECTRA FARALLON 2800
+
+CARACTERISTICAS
+
+L /Dia 220 V Peso
+2800 10600 5.5A 118 Kg
+
+COMPONENTES
+
+FILTRO DE CARBONO Y FILTROS DE 5 / 20 MICONES
+
+ey
+PROF: 21.6 cm
+
+PROF: 21.6 cm
+
+97
+
+El dezalinizador Spectra farallon modelo 2800
+esta ubicado en la sala de maquinas, fue con-
+struido para un uso continuo y permite desalini-
+zar hasta 10600 litros por dia provenientes del
+mar.
+
+MODULO DE SELECTOR DE ENTRADA
+
+<15.2 >
+ie = 4
+= |
+22.9
+
+eres |
+
+IPROF: 19.7 cm
+GOLETA
+
+Dia, Francisca
+BOMBA CIRCULACION JABSCO 59520-0000
+
+RENDIMIENTO EN 24 VOLTS DC
+
+4 CARACTERISTICAS
+t
+2 3 -24 Volts DC
+= rr. -Consumo de potencia ajustable: 0.25 - 1.7 Amp
+Md PPS -Caudal variable: 5 posiciones .
+a 2 Pd -Temperatura: Agua hasta 80 grados
+= — —“~] -Presion de trabajo: Hasta 10 Bar
+= P3) > -Requiere cebado inicial
+= 4 a -No apta para agua salada
+es) IP2
+oO NY -Peso: 0.65 Kilos
+
+"I MN
+0 ——!P 1
+
+0 4 8 12 16 20 24 «28
+CAUDAL (L/MIN)
+
+RENDIMIENTO SEGUN SETEADO P11; P2; P3; P4; P5
+
+SOPORTE
+
+Nl
+ag
+8
+
+43
+
+82 |
+
+DIMENSIONES EN mm
+
+98
+GOLETA
+
+c Wotia. Fra neisca
+
+TERMOTANQUE GIANNESCHI 250L HORIZONTAL-OR2
+
+Dimensionado para proveer de agua caliente a todos los consumos de la embarcacion
+
+Entrada de agua fria 1 1/4” F con valvulad de seguridad y antirretorno
+
+Salida de agua caliente 1 1/4” F
+
+Resistencia electrica mas termostato
+
+Anodo de sacrificio
+
+Opcional para modelo trifasico
+
+Termometro
+
+Coneccion de recirculacion 1 1/4” F
+
+HNiI~alol|mIimiol/wi/>p
+
+Coneccion de descarga 1 1/4” F
+
+H1
+
+H2
+
+L
+
+L1
+
+L2
+
+L3
+
+PESO
+
+610 mm
+
+710 mm
+
+305 mm
+
+1200 mm
+
+140+-20 mm
+
+140+-20 mm
+
+300 mm
+
+88 KG
+
+99
+
+GOLETA
+
+c Wotia. Fra neisca
+
+TERMOTANQUES GIANNESCHI 80L VPO
+
+Dimensionado para proveer de agua caliente solo a los consumos del camarote del armador
+
+y Tse | “y
+Lim
+' “B : @e Re H 460
+| \ mm
+—— ee) j ! i | H1 520 mm
+! H2 180 mm
+| L 720 mm
+2. .-.F ee, | = ! ai 7 L1 140 +- 20 mm
+I = ee LoL Fe . “Oi t | | L2 140 +- 20 mm
+af RF a dn FE ! L3 360 mm
+| | ! pegs 5 © PESO | 25 Kilos
+4b -gp-------- —— amo-1) I “EP
+A wl |
+ee tre 7A
+st
+A | Entrada de agua fria 3/4” F con valvulad de seguridad y antirretorno
+B_ | Salida de agua caliente 3/4” F
+C | Salida de agua caliente secundaria 3/4” F
+D | Resistencia electrica mas termostato
+E | Anodo de sacrificio
+F | Opcional para modelo trifasico
+G_ | Termometro
+R_ | Coneccion de recirculacion 1 1/2” F
+R’ | Coneccion de recirculacion 3/4” F
+S| Coneccion de descarga 3/4” F
+S’ | Coneccion de descarga 1 1/2” F
+
+100
+LAVAPLATOS MIELE G1275SCVI
+
+CARACTERISTICAS
+
+-Consumo de agua para lavado: 10 Lts
+-Consumo Energético: 0.95 kW/h
+-Seteados de temperatura: 3
+-Programas: 6
+
+-Altura 87 Cm
+
+-Ancho: 59.8 Cm
+
+-Profundidad: 57 Cm
+
+GOLETA
+
+Doi Francisca
+
+LAVAROPAS MIELE PW6065 VAIRO
+
+CARACTERISTICAS
+
+-Capacidad de carga: 6.5 Kgs
+
+-Volumen del tambor : 59 Lts
+
+-Centrifugado: 1.400 rpm
+
+-Humedad residual 49% tras 5 minutos de centrifugado
+-Programas: 16
+
+-2N AC 400V 50Hz
+
+-Fusibles: 2x16 Amp
+
+-Potencia: 5.3 Kw
+
+-Coneccion de agua fria: 1 x rosca 3/4”
+
+-Coneccion de agua caliente: 1 x rosca 3/4”
+
+101
+
+SECAROPAS MIELE PT 7135 C VAIRO
+
+CARACTERISTICAS
+
+-Tambor de inoxidable
+-Consumo Energético: 3.68 Kw/h
+-Altura 84 Cm
+
+-Ancho: 59 Cm
+
+-Profundidad: 81 Cm
+
+-Peso: 60 Kg
+GOLETA
+
+é Wotia. Francisca
+
+8- INFORMACION DE MOVIMIENTOS EN TIERRA.
+
+8.1- Ubicacién de camas.
+
+Para una sacada a tierra de la embarcacién se debera contar con las camas que entrego el astillero, la ubicacidn de dichas camas se muestra en el plano de abajo.
+Para ubicar la cama de popa; . Se debe desplazar el centro de la cama 650 mm hacia proa del mamparo J de interior.
+De la misma forma, se debe hacer coincidir longitudinalmente el centro de la cama con el mamparo E de interior.
+
+PLANO DE UBICACION DE CAMAS
+
+0.65 —- =~
+
+102
+GOLETA
+
+é Woiia, Francisca
+
+PRECAUCION
+
+-Asegurese que las gruas y lingas soporten holgadamente el desplazamiento de la embarcaci6n.
+
+-Controle el estado general de las lingas y accesorios.
+-Tenga especial cuidado en la posicidn y manejo de las camas para evitar dafiar la linea de eje, timdn y sensores de corredera o ecosonda.
+
+9- SISTEMA DE TIMON DE EMERGENCIA
+
+El sistema de timon, es un circuito hidraulico cerrado que cuenta con 2 cilindros independientes que dan potencia al timon.
+Los pistones trabajan en un circuito cerrado y son potenciados por una bomba electrica. Simultaneamente, una bomba mecanica impulsada por el movimiento de
+la rueda complementa el sistema. De manera que en caso de falla del sistema electrico, el sistema de timon seguira trabajando solo con la bomba mecanica.
+
+PRECAUCION
+
+-Inspeccione periddicamente el sistema hidraulico en busca de perdidas de aceite hidrdaulico, o fallas.
+-Realice el mantenimiento de las bombas hidraulicas segun indica el fabricante de las mismas.
+
+103
+GOLETA
+
+c Wotia. Francisca
+
+10- SISTEMA DE AMARRE Y FONDEO
+10.1-Descripcion del sistema de fondeo.
+
+La embarcacién cuenta con 2 sistemas de fondeo independientes.
+
+El sistema secundario consiste en un ancla C.Q.R. de 182 kg que estard ubicada a estribor y se accionaran con el malacate de estribor MUIR-VRC11000/VF185.
+
+El sistema primario consiste en un ancla tipo “Pool anchor’ de 280 kg que sale del casco y se acciona con el malacate de babor MUIR-VRC11000/VF185.
+
+El sistema “pool anchor” consiste en un sistema hidraulico que acciona un mecanismo que permite bajar el ancla por debajo del casco de manera de evitar manio-
+
+bras complejas.
+Como complemento a estos sistemas, la embarcacién cuenta con un ancla Fortress de 70 Kilos para uso en maniobras rapidas y una segunda C.Q.R. de kg ubiadaa
+babor sin cadena instalada.
+
+Las anclas cuentan con la siguiente cadena calibrada reglamentaria:
+
+-192.5 metros de cadena galvanizada U2 de 17.5 mm con grilletes giratorios.
+-220 metros de cadena galvanizada U2 de 16 mm con grilletes giratorios .
+
+ATENCION
+
+_ bf ; a _
+
+-Utilice guantes para manipular los elementos de este sistema.
+-Controle periddicamente el estado de cabos de amarre, cadena y fundamentalmente los grilletes giratorios de unidn de cadena.
+
+104
+GOLETA
+
+c Wotia. Fra neisca
+
+PLANO DE AMARRE Y FONDEO VISTA LATERAL
+
+Ancla C.Q.R. 182 kg
+
+Ancla tipo ‘Pool anchor” de 280 kg
+Malacates MUIR-VRC11000/VF185
+Freno de cadena MUIR
+
+Bow thruster reversible Max Power R600
+
+ATENCION
+
+-En caso de requerirse detalles técnicos consultar plano de sistema de fondeo ““D60-412-R3-ANCHOR SYSTEM” ploteado en escala grande. Dicho plano debe estar
+junto con este manual y el resto de la documentacion técnica de la embarcacion.
+
+105
+
+GOLETA
+
+c Woria. Fra neisca
+
+PLANO DE AMARRE Y FONDEO VISTA SUPERIOR
+
+PRECAUCION
+
+-Asegurese de quitar el freno de cadena de seguridad antes de accionar el cabrestante.
+
+-Segun la marejada, profundidad y espacio disponible para borneos, el responsable de la embarcacién evaluara la distancia de la linea de fondeo (nunca menor a
+tres profundidades)
+-Realice las maniobras de amarre y fondeo a baja velocidad y de manera prudencial
+
+106
+
+GOLETA
+
+é Wotia. Hera neisca
+
+ANCLA SECUNDARIA C.Q.R. 182 KILOS
+
+PELIGRO
+
+CARACTERISTICAS
+PESO KG | CADENA A B Cc D E MATERIAL
+182 16mm | 1.86M | 0.76M]0.16M ] 1.31M 0.82 M Inox 316 pulido
+©
+a
+1 |
+et
+= — is | lojo
+=
+)
+
+- Antes de des enclochar el cabrestante, controle que el ancla este asegurada.
+- Nunca manipule cadena o ancla durante el funcionamiento del cabrestante.
+
+107
+
+CARACTERISTICAS
+~ TIRO MAXIMO.......ceecccesseeeeeeee 5000 KG
+- TIRO CONTINUO.\...... cece 3850 KG
+- VEL. MIN. RECOMENDADA.....10 M/min
+- VEL. MAXIMA, .....cceeeeccseceeeeeeees 20 M/min
+- ENERGIA... .cccececcccecesssseeeseeeees Hidraulica
+- FLUJO HIDRAULICO..............06 30 L/min
+- MAX FLUJO HIDRAULICO........... 60 L/min
+- PRESION.,.....cccceccccsseceeeeesseeeereees 175 Bar
+- PRESION MAX,.....ccccssecessceeeeeees 200 Bar
+- CADENA ESLABON CORTO......... 20 mm
+- CADENA ELABON STANDARD.....20.5 mm
+- FRENO TIPO... ce cccceeceseceeteeeenees 356
+~ PESO\...ccceeccccsecsssceessecssseeesueeesees 315 Kg
+
+GOLETA
+
+Voia. : Mrancisca
+
+MALACATE MUIR-VRC11000/VF185
+
+eat
+
+[27 1/8]
+
+$231
+
+ia
+tA 8
+aS
+
+oo
+
+sa
+
+uo
+
+a
+
+co
+
+~
+
+ee
+
+Tons
+cy
+~
+—
+Se
+som
+ms
+
+108
+GOLETA
+
+Doia. SHrancisca
+
+BOWTHRUSTER Y STERN TRHRUSTER MAX POWER R600
+
+CARACTERISTICAS
+~ POTENCIA....ccccccesessseesesesesteeeee 100 HP
+- SUMINISTRO DE POTENCIA.....PTO
+- SISTEMA RETRACTIL..w. cece. A PISTON
+~ HELICE. cceeeeesesesesesestseeeeesesees 4 PALAS
+- DIAMETRO DE TURBINA.......... 600 mm
+~ PESO. cceccesesesessesesessscecseseeeesees 320 Kg
+
+PELIGRO
+
+-El cabrestante y dispositivos de fondeo deben usarse solo por tripulates con experiencia.
+
+109
+
+GOLETA
+
+c Wotia. Francisca
+
+10.2- Dispositivos de amarre de cubierta.
+
+Los dispositivos de amarre de cubierta se ubicaron de manera de facilitar las maniobras de amarre y en todos los casos se ubican prdximos a la regala.
+
+Tanto las cornamusas como los pasacabos, son de fundicién de bronce.
+
+Para una maniobra de amarre se usaran tanto los pasa cabos y bitas de proa y popa como los centrales a modo de retenidas. Para facilitar la maniobra, en algunos
+casos se recomienda usar los molinetes de cubierta a modo de reducir esfuerzos.
+
+Para una maniobra de remolque, se debera pasar el cabo de remolque por los 2 pasa cabos de proa generando la maniobra cruzada que se hard fija a la cornamusa
+como indica el plano mas abajo. Dicho cabo de remolque se unira a los dos metros de la roda con un largo total de 2 esloras.
+
+La distancia entre el remolque y la embarcacion sera variable entre una y 2 esloras segun la distancia entre olas, nunca menor a una eslora.
+
+PRECAUCION
+
+-Se recomienda usar guantes para manipular cabos de amarre.
+-Los cabos de amarre deberan marrarse de forma simple y marinera de modo de facilitar liberarlos rapidamente.
+-Controle periddicamente el estado de cabos de amarre y lubricacién del sistema de cornamusas.
+
+-Sera responsabilidad del propietario el uso adecuado al porte de la embarcacion de los sistemas de amarre asi como también el mantenimiento de los mismos.
+
+PELIGRO
+
+- No intente frenar la estropada de la embarcacién con sus manos.
+-El manejo de lineas de amarre en maniobras debe ser realizado por tripulaci6n con experiencia.
+
+110
+GOLETA
+
+Dora SHrancisca
+
+PLANO DE DISPOSITIVOS DE AMARRE
+
+=. LS
+
+1 | Ojo de buey babor y estribor.
+
+2b | Traba cadenas para Pool anchor
+
+2e | Traba cadenas para C.Q.R.
+
+3 | Bitas de proa babor y estribor.
+
+4 |Cabrestante MUIR VRC11000/VF185 babor y estribor
+5
+
+6
+
+Cornamusa standard babor y estribor.
+
+Pasacabos abierto popa, babor y estribor.
+
+ATENCION
+
+-En caso de requerirse detalles técnicos consultar plano de cubierta ‘“GDF-724-R1-DECK HARDWARE” ploteado en escala grande. Dicho plano debe estar junto con
+este manual y el resto de la documentacidn técnica de la embarcacidn.
+
+111
+
+GOLETA
+
+c Wotia. Francisca
+
+10.3- Maniobra de remolque.
+
+Para una eventual maniobra de remolque, se debera contar con un cabo de remolque no menor a 40 milimetros de did4metro armado en forma de pata de gallo
+
+como indica la figura de abajo.
+Se debera pasar por los segundos pasacabos a cada banda (contando desde proa) y hacerse firme en los molinetes grandes del mastil de proa. La distancia a la
+union de estos cabos en crujia no debera ser menor a 8 metros desde la roda y la distancia total minima entre el remolcador y la roda de la embarcacidén sera de
+
+45 metros.
+Se incrementara la distancia entre el remolcador y la embarcacion hasta diez esloras dependiendo de la altura de ola y condiciones climaticas.
+
+PLANO DE REMOLQUE
+
+45 M = 1 ESLORA (min)
+
+112
+GOLETA
+
+c Wotia. Francisca
+11- RECOMENDACIONES E INFORMACION GENERAL
+
+11.1-Prevencién de caida de hombre al agua y posicién de escaleras de rescate.
+
+Para prevenir de la caida de un tripulante al agua, se debera prestar atencidn al estado de los elementos de seguridad. Verifique el estado de pulpitos, candeleros y
+guardamancebos de cubierta asi como arneses, salvavidas, Mob, lineas de vida, etc.
+
+En condiciones de mar gruesa, es de suma importancia usar linea de vida y arneses de seguridad, estando la tripulaci6n equipada con su correspondiente equipo
+salvavidas.
+
+Todo el equipo de seguridad debera estar en buen estado y al alcance de la tripulacion.
+
+Para recuperar un tripulante caido al mar, se debe proceder del siguiente modo:
+
+-Realizar la maniobra de rescate de hombre al agua con el apoyo del motor auxiliar arrojandole previamente un salvavidas circular al hombre en el agua.
+-Desplegar las escaleras de rescate de cubierta ubicadas en ambas bandas como se indica en la figura siguiente.
+
+-Enviar 2 tripulantes robustos a la banda de barlovento donde se procedera a subir a bordo al damnificado.
+
+-Preparar una camilla 0 bolsa de vela para trasladar al paciente y dispositivos de asistencia médica.
+
+-Desplazar al tripulante en camilla o bolsa vela si fuera necesario a un lugar calido y seco donde se procedera con las maniobras de rehabilitacién
+
+ATENCION
+
+-Mantenga la cubierta despejada de velas y cabos de mafiobra o amarre.
+-Evite maniobras con tripulacién inexperta.
+
+-Sea riguroso con el uso de elementos de seguridad con tripulacién inexperta.
+-Instruya a sus tripulantes de la ubicacién de los elementos de seguridad.
+
+113
+GOLETA
+
+c Wotia. Fra neisca
+
+PRECAUCION
+
+-No navegue ni intente maniobras de amarre en condiciones de ebriedad o bajo efectos de drogas.
+-Evite trabuchadas o viradas accicentales.
+
+-Instale todos los elementos de seguridad con prondstico de mar gruesa.
+-Durante la maniobra de hombre al agua o en navegacién a motor en zonas de recreacidn (ej., playas) se debera asignar uno o varios tripulantes para controlar la
+
+ubicacion de los individuos en el agua evitando accidentes por atropello o extravid en caso de hombre al agua.
+
+1 Escalera de rescate estribor.
+
+Escalera de rescate babor.
+
+3 Balsa salvavidas.
+
+PLANO DE UBICACION DE ESCALERAS DE RESCATE Y BALSAS
+
+114
+GOLETA
+
+c Wotia. Francisca
+
+BALSAS ZODIAC COASTER 8P ISO 9550
+
+ACCESORIOS
+
+- Boya de rescate, linea de 30 mts - Bomba de achique
+
+- Cuchillo flotante - Instrucciones
+
+- Ancla de mar y cabo - Bengala de mano 3
+
+- Achicador - Bengala paracaidas 2
+
+- Esponja - Silbato
+
+- Remos flotantes - Espejo
+
+- Kit de reparacién - Linterna y pilas de repuesto
+
+- Medicina antimareo 6 personas - Kit medico
+Capacidad Compartimentos Dimensiones Dimensiones de caja | Peso de caja | Dimensiones de balsa | Peso balsa
+8 personas 2 201 x 201 cm 0.79 x 0.49 x 0.29 mts 42 Kilos 0.72 x 0.45 x 0.26 mts 38 Ks
+
+115
+GOLETA
+
+é Wotia. Francisca
+
+12- CUIDADO DEL MEDIO AMBIENTE
+12.1- Leyes locales.
+
+Se debera estar en conocimiento actualizado de las normas y regulaciones locales de la zona de navegacidn, siendo consciente del incumplimiento de estas, con
+sus consecuencias legales.
+
+Ademas, todo navegante sabe que no debera arrojar basura o desechos por la borda, incluso los biodegradables. Se debera contar con un depdsito de residuos a
+bordo y vaciarlo una vez llegado a puerto.
+
+12.2- Aceite y combustible.
+
+Se debera tener especial cuidado en el Ilenado de los tanques. Un trapo humedo alrededor de la boca de Ilenado puede prevenir derrames.
+
+En el manual de su motor encontrara un diagrama con la curva de consumo especifico de combustible, que le ofrecera informacion para el uso 6ptimo del mismo.
+Asi mismo se describen los intervalos de cambios de aceite y filtros para el correcto mantenimiento.
+
+Un motor en buenas condiciones de mantenimiento, no debera gotear aceite ni combustible.
+
+Se debera contar con aglutinantes de aceite a bordo.
+
+12.3- Descarga de aguas grises y negras.
+
+Se debe tener especial cuidado al descargar aguas de la embarcacidn. Ya sean aguas grises o negras es importante estar informado de las leyes locales de la zona
+que se esté navegando.
+
+ATENCION
+
+-Nunca descargue aguas grises 0 negras en un puerto o amarradero, use los dispositivos de vaciado de holding tanks provistos en la marina o descargue una vez
+alejado de la costa.
+
+-Se debera instalar sobre el tanque de aguas negras una calcomania con la oraci6n TANQUE DE AGUAS NEGRAS en letra grande y legible, ademas de la capacidad y
+la empresa constructora del tanque.
+
+-Se debera instalar sobre el tanque de aguas grises una calcomania con la oraci6n TANQUE DE AGUAS GRISES en letra grande y legible, ademas de la capacidad y la
+empresa constructora del tanque.
+
+-Toda la cafieria tanto del sistema de aguas negras como el de aguas grises debera estar identificada con su correspondiente sefial adhesiva.
+
+116
+GOLETA
+(P., Fron:
+C Potia. francisca
+12.4-Emision de ruidos.
+Los bujes, apoyos de goma, acoples elasticos del equipo abordo asi como la insonorizacién de sala de maquinas instalada minimizan la emisién de sonido. Sin em-
+bargo, se aconseja realizar un encendido gradual del motor, como asi también desacelerarlo en zonas de navegacion con trafico denso y evitar trabajos de manteni-
+miento ruidosos fuera de areas destinadas al trabajo abordo.
+
+12.5-Gases de escape.
+
+Se debera controlar el gas escape de los motores regularmente. El escape no debera mostrar humo negro ni nubes azuladas. En este caso se debera o bien limpiar
+el filtro de aire o revisar el funcionamiento del motor por un mecanico especializado.
+
+12.6-Antifouling.
+La obra viva de la embarcacion debe ser protegida con un revestimiento antifouling debido a que diversas especies marinas se adhieren al casco, aumentando su
+resistencia y asi el requerimiento de energia para la propulsion.
+Actualmente existe una amplia gama de pinturas protectoras para prevenir o minimizar la adherencia de organismos al casco. Confie en las recomendaciones de
+especialistas en su decisidn. En caso de necesidad de lijado, se recomienda la colocacién de plasticos bajo el casco para la recoleccidn de polvo.
+
+12.7-Solventes.
+
+La mayoria de los solventes contienen sustancias agresivas para el medio ambiente, por lo que deben ser usadas lo menos posible y con los cuidados correspon-
+dientes. Una remocién mecanica de pinturas es una mejor opcidén.
+
+13-MANTENIMIENTO
+13.1 - Limpieza y mantenimiento.
+VELAS:
+Las velas deben ser tratadas con cuidado tanto durante su uso como en el guardado. Se debe tener especial cuidado a la exposicién de los rayos UV y a la interperie
+
+en general.
+En caso de tener dudas, no dude en consultar al fabricante.
+
+117
+G
+
+OLETA
+(%/) Verna
+Pora. f rancisca
+Se deben proteger con materiales suaves las zonas de contacto que pueden ocasionar roturas, tales como crucetas, rieles, etc.
+
+LIMPIEZA:
+
+Es importante hacer una limpieza del casco luego sacarlo a tierra. Debe usarse agua dulce a presion para limpiar cualquier suciedad adherida al casco. Seguido de
+un tratamiento de la superficie que debe ser especificado por el fabricante de pintura a colocar.
+
+TECA:
+
+La teca no tratada a la intemperie tiene un color gris plata, sin perder la dureza u otras propiedades mecanicas. Debido a las excelentes propiedades de durabilidad
+y resistencia al clima de esta madera, el uso de pinturas protectoras o revestimientos no es necesario ni aconsejable.
+
+Los aceites protectores penetran profundamente en la madera y bajo condiciones de calor y humedad, pueden afectar la adhesion del material de las juntas, po-
+sibilitando la entrada de agua.
+
+Las pinturas y lacas forman una capa sobre el material de las juntas y pueden no secarse debidamente en esta zona. Con el tiempo la mayoria de las pinturas se
+debilitaran en las lineas de las juntas, esto ademas de arruinar la apariencia de la teca, genera quiebres a lo largo de las juntas.
+
+Los limpiadores de teca pueden contener sustancias corrosivas para las juntas y la madera, causando envejecimiento prematuro.
+
+Es por eso que se recomienda que la cubierta de teca sea limpie con trapo y agua dulce, a la cual se le puede agregar una pequefia cantidad de jabon.
+
+No se recomienda el uso de agua a presién, para no dafiar la madera y las juntas.
+
+Se recomienda mojar regularmente la cubierta en los periodos largos de calor y clima seco, para prevenir que la madera se contraiga y genere tensiones en las
+juntas.
+
+ACERO INOXIDABLE:
+
+A diferencia del acero cromado, que posee una delgada capa de cromo como capa protectora, el acero inoxidable permanece con buen aspecto por mucho tiempo,
+si se tienen los cuidados necesarios:
+
+Es conveniente tomar el habito de limpiar con agua dulce a los elementos de este material, tales como pulpitos y candeleros, elementos de maniobra, bisagras,
+etc.; ya que el agua dulce eliminara la sal y toda particula de suciedad, que pueda afectar al metal a largo plazo.
+
+Si llegaran a verse puntos marrones, puede usarse un producto de limpieza de inoxidable, o hacer un pulido.
+
+Ciertamente el cuidado no podra ser de ayuda si la pieza no esta confeccionada de manera correcta. Antes comprar una pieza de inoxidable consulte si tiene el puli-
+do adecuado.
+
+TANQUES DE AGUAS GRISES Y NEGRAS:
+
+Se recomienda limpiar periddicamente los tanques de aguas grises y negras asi como el sistema de cafierias de los mismos con productos de limpieza para tal fin asi
+
+118
+GOLETA
+
+é Wotia. Francisca
+
+como desodorantes de sistema. Se deberda realizar esta tarea de limpieza antes de dejar en barco en reposo por largos periodos para evitar malos olores al regreso.
+13.2 - Repuestos.
+
+Los manuales de motores o equipos especifican los repuestos necesarios al realizar un service. Dichos repuestos se consiguen facilmente en almacenes nauticos.
+Sin embargo, en caso de dificultad en obtener repuestos y partes originales, no dude en consultar al astillero o a un profesional.
+
+Es de suma importancia que el capitan o encargado de maquinas asuma la responsabilidad de hacer cumplir los services de cada equipo luego de las horas de uso
+correspondientes. Se debera llevar junto con este manual y resto de la documentacién de la embarcaci6én, un libro de comunicados con agenda anual donde que-
+den asentados los services realizados con su respectivas fechas.
+
+PRECAUCION
+
+-Designe al encargado de mantenimiento de la embarcacidn y respete el calendario de reparaciones y services que recomiendan los fabricantes de equipos.
+
+13.3 - Reparaciones.
+
+Si fuera necesaria una reparacidn del casco o cubierta, podra consultar al astillero constructor o un astillero de su confianza. El interior fue disefiado de modo que
+diversas reparaciones puedan ser llevadas a cabo de un modo no destructivo.
+
+Se recomienda siempre contactar a profesionales del tema y trabajar con personal iddneo en reparaciones nauticas.
+
+En caso de desperfectos de equipos, verifique las garantias de compra de los mismos y consulte al fabricante por la falla en cuestion. Junto con este manual debe-
+ran estar todos los manuales de equipos instalados por el astillero.
+
+119
+GOLETA
+(P., Fron:
+C Potia. francisca
+14- NOTAS.
+14.1 - Notas finales y sugerencias.
+Este manual se realiz6 en conformidad con las directivas de la norma ISO 10240. Asimismo esperamos que los capitulos de este manual lo ayuden a entender los
+sistemas técnicos abordo, como se menciona en la introducci6én, el propdsito de este manual es contribuir al correcto uso de la embarcaci6n.
+Entre las cosas que no son tratadas en el manual, esta el equipo personal de seguridad. Esto es responsabilidad del capitan, y se debera cumplir con las normas de
+
+seguridad actuales teniendo los medios adecuados para el rescate de todas las personas a bordo. Esto incluye el proveer y mantener la balsa salvavidas, equipos de
+sefializacion, primeros auxilios y herramientas varias.
+
+Para la lucha contra incendio, debera controlarse con regularidad el estado de los extintores, y la responsabilidad de dicho mantenimiento recae en el capitan,
+como asi también que la tripulacid6n este capacitada para su uso.
+
+14.2 - Listado de chequeo y mantenimiento general.
+
+Este punto tiene como objetivo proveer una lista de chequeos y advertencias que deben ser realizados para mantener la embarcacién en optimas condiciones. De
+todas formas el siguiente no es un listado exhaustivo y la experiencia de navegar esta embarcacidn le permitira realizar chequeos simplificados rapidamente.
+
+ANTES DE NAVEGAR:
+
+El siguiente es un listado completo de chequeos que deben hacerse en el barco si el mismo estuvo en desuso por un periodo largo. Sin embargo si el barco estuvo
+en desuso por poco tiempo algunos de los items de la lista podran ser omitidos. Los items en negrita no deben ser omitidos nunca.
+
+-VENCIMIETOS DEL EQUIPO DE SEGURIDAD
+
+-DOCUMENTACION DE LA EMBARCACION PASAJEROS Y TRIPULACION ABORDO
+-QUITAR CARPAS, COBERTORES Y COLCHONETAS DE CUBIERTA
+
+-VERIFICAR CABRESTANTE Y FUACION DE FONDEOS
+
+-NIVEL DE AGUA POTABLE
+
+120
+GOLETA
+
+c Wotia. Francisca
+
+-SISTEMA DE REFRIGERACION DE MOTOR PROPULSOR
+
+-NIVEL DE COMBUSTIBLE
+
+-ACEITE LUBRICANTE DE MOTOR
+
+-ACEITE LUBRICANTE DE CAJA
+
+-NIVEL DE ACEITE DE GENERADORES
+
+-SISTEMA DE REFRIGERACION DE GENERADORES
+
+-ESTADO DE BATERIAS
+
+-NIVEL DE ACEITE HIDRAULICO
+
+-~CHEQUEAR CORREAS, EJES Y JUNTAS DE EQUIPOS MECANICOS
+
+-CHEQUEAR NIVEL DE SENTINAS Y FUNCIONAMIENTO DE BOMBAS DE ACHIQUE
+
+-CERRAR TAMBUCHOS DE CUBIERTA
+
+PRECAUCION
+
+-Asegure todos los objetos que estén sueltos en el interior
+
+121
+
+GOLETA
+
+c Wotia. Francisca
+
+-CHEQUEAR EL ESTADO DE LOS PANELES ELECTRICOS
+
+PRECAUCION
+
+-Desconecte todos los circuitos eléctricos que no sean necesarios.
+
+-DESCONECTE EL CABLE A LA MARINA ANTES DE SALIR
+
+-ANALICE EL ESPACIO DISPONIBLE Y DIRECCION DEL VIENTO EN LA AMARRA PARA LA MANIOBRA DE SALIDA
+
+PELIGRO
+
+-No arranque el motor propulsor ni realice maniobras con personas en el agua en cercania del barco.
+
+-CONECTE LOS CIRCUITOS DE INSTRUMENTOS DE NAVEGACION
+
+-CONTROLE EL FUNCIONAMIENTO DE CONTROLES HIDRAULICOS
+
+122
+
+GOLETA
+
+c Woria. Fra neisca
+
+PRECAUCION
+
+-Realice las maniobras de amarre los mas lento posible. Esto le dara tiempo para corregir errores de maniobra y atenuara el dafio en caso de colisién.
+
+-S| EL SISTEMA DE FONDEO ESTABA EN USO, ASEGURE EL CABRESTANTE Y ANCLAS CON LOS DISPOSITIVOS DE FIACION
+
+DURANTE LA NAVEGACION:
+
+PRECAUCION
+
+-La estabilidad del barco puede ser afectada por olas y condicién de mar. Recuerde a sus invitados moverse con precaucién y en cercania de puntos firmes.
+
+SIEMPRE:
+
+-ESTE ATENTO A LOS INSTRUMENTOS DE MOTORES, ALARMAS Y SIGNOS VISUALES
+
+CADA DOS HORAS:
+
+-CONTROLE SALA DE MAQUINAS EN BUSCA DE AGUA EN SENTINA, SONIDOS EXTRANEOS, HUMO Y CONTROLE LOS PANELES ELECTRICOS
+CADA CUATRO HORAS:
+
+-CONTROLE CAMAROTES Y OTROS COMPARTIMENTOS EN BUSCA DE TAMBUCHOS ABIERTOS O ANOMALIAS.
+
+123
+
+GOLETA
+
+c Woria. Fra neisca
+
+PRECAUCION
+
+-El acceso a sala de maquinas debe ser realizado solo por personas responsables que entiendan el peligro de exponerse a la cercania de motores en combustién,
+piezas en movimiento, liquidos inflamables, y piezas a alta temperatura.
+
+AL LLEGAR A DESTINO:
+
+-ANTES DE LLEGAR CONTROLE NIVELES DE SENTINA, TANQUES DE AGUAS GRISES Y NEGRAS
+-CONTROLE EL FUNCIONAMIENTO DEL CABRESTANTE Y DISPOSITIVOS DE AMARRE
+-PREPARE CABOS DE AMARRE, DEFENSAS Y DEMAS DISPOSITIVOS DE AMARRE
+
+-CONTROLE EL FUNCIONAMIENTO DE MARCHAS DE MOTOR Y BOW THRUSTER ANTES DE ENTRAR A PUERTO
+
+PRECAUCION
+
+-Realice las maniobras de amarre los mas lento posible. Esto le dara tiempo para corregir errores de maniobra y atenuara el dafio en caso de colisién.
+
+-LUEGO DE AMARAR APAGUE TODOS DISPOSITIVOS ELECTRICOS NO NECESARIOS
+
+124
+
+GOLETA
+
+é Woria erancisca
+
+PRECAUCION
+
+-Las piezas moviles y del sistema de escapes de sala de maquinas permaneceran muy calientes durante horas. Evite el contacto con las mismas.
+
+-EN CASO DE CONECTAR CABLE A TIERRA VERIFICAR SU ESTADO GENERAL Y QUE SE ENCUENTRE SIN HUMEDAD
+DURANTE LA ESTADIA DE AMARRE:
+
+-CONTROLE PERIODICAMENTE LOS PANELES ELECTRICOS Y ESTADO DE LA CONECCION A TIERRA
+
+-CONTROLE PERJUDICATEME EL ESTADO DE SENTINAS
+
+-CONTROLE PERIODICAMENTE EL CARGADOR DE BATERIAS Y NIVEL DE CARGA DE GENERADORES
+
+-AL DEJAR LA EMBARCACION APAGUE TODOS LOS CIRCUITOS ELECTRICOS Y CIERRE LAS VALVULAS DE PASA CASCOS
+LISTADO DE CHEQUEO GENERAL:
+
+PANEL ELECTRICO: Verificar que estén todas las teclas apagadas al dejar el barco salvo sistemas ce seguridad necesarios.
+TABLERO: Controlar fusibles.
+
+SISTEMA DE FONDEO: Controlar estado de grilletes y accesorios.
+
+BATERIAS: Controlar el estado de bornes, voltaje y capacidad de carga.
+
+BOMBAS DE ACHIQUE: Controlar estado de flotantes y rejillas de succién.
+
+125
+
+GOLETA
+(Yona : Merancisca
+
+BOMBAS: Controlar fusibles y caudal.
+
+TANQUES: Controlar estado de carga.
+
+MOTORES: Controlar temperatura, niveles de aceite, combustidn, gases de escape y fechas de services.
+
+EXTINGUIDORES: Controlar fecha de vencimiento.
+
+AGUA POTABLE: Controlar carga de agua potable segura.
+
+HELADERAS Y FREEZERES: Limpiar periddicamente y no sobrecargar.
+
+COMBUSTIBLE: Controlar pérdidas o eventuales derrames y estado de filtros.
+
+INODOROS: Limpiar con productos biodegradables.
+
+TERMOTANQUE: Controlar corrosién.
+
+LUCES: Evitar consumos innecesarios.
+
+JARCIA: Controlar corrosién y signos de fatiga de obenques y puntos firmes.
+
+VELAS: Controlar costuras y estado general.
+
+MOLINETES Y ENROLLADORES: Limpiar y lubricar periddicamente.
+
+ENCHUFES: Colocar dispositivos de seguridad de descarga eléctrica.
+
+HORNO: Controlar el apagado adecuado.
+
+RADAR: No exponerse a los rayos del radar.
+
+AGUA DE REFRIGERACION: Controlar apertura de valvulas y flujo de agua.
+
+126
+GOLETA
+(Yona : Merancisca
+
+FILTROS DE AGUA DE MAR: Limpiar periddicamente.
+
+SISTEMA DE TIMON: Lubricar y controlar estado de piezas moviles.
+
+PUERTAS ESTANCAS: Controlar el cierre adecuado.
+
+PASA CASCOS: Controlar apertura y corrosién galvanica.
+
+EQUIPOS ELECTRICOS: Verificar funcionamiento, uso y mantenimiento segdn manuales de fabricante.
+
+SISTEMA HIDRAULICO: Controlar el nivel de aceite.
+
+CLIMATIZACION: Controlar signos de humedad.
+
+CARPA TOLDILLA: No estibar humedos.
+
+TAPIZADOS: Limpiar periddicamente con productos en seco.
+
+PISOS: No usar tacos o zapatos de trabajo.
+
+DESALINIZADOR: Cambiar filtros segun fabricante.
+
+BALSAS: Controlar fecha de service.
+
+DESCARGA DE AGUAS: Verificar normas locales para descarga de aguas grises o negras.
+
+127
