@@ -1,0 +1,2338 @@
+ELETTROVENTILATORI
+EL/BLOWERS
+
+YyD4
+
+oT |
+ip
+
+7
+a
+
+C — VCP — VCR - ELL —ELL/R —-
+ELL/AP- EL/SR — EL/ST
+
+MANUALE USO E MANUTENZIONE VENTILATORI CENTRIFUGHI E ASSIALI
+
+USE AND MAINTEINANCE MANUAL FOR AXIAL AND CENTRIFUGAL BLOWERS
+
+zz SGIANNESCHI fF
+os PUMPS and DIOWErS Se
+
+ASSOCIATION
+
+Ed. 02/2011
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ z
+
+MAIN INDEX
+1 INTRODUCTION ........ccccceeeeenee eee eeee eee e ee ee eee naan ener ee seen ea aan seen ee seen eaee sees eae eee eesaeeseeeeeseeeeeseeeenaeeeees 4
+1.1 PURPOSE OF THIS MANUAL .00.....ccccccceccceeeceeceeeeeeeeeecneeeeeceneeeeeeecneeeeesucteeeeeeectieeeeesiiieesessnieeeetennees 4
+1.2 GENERAL SAFETY SYMBOLS USED .00......eeccccceccceeeceeeeeeeeeeeeccneeeeeeenceeeeecteeeeeeeiceeeescniieeeeetineeeeeeneas 4
+2 GENERAL INFORMATION........ccccceeecceeeeeeeeeeeeeee eee eeee ee eee ee aee ee eeeeeeeeeesnaeeeeeeeeneeeeesseeeeeeeeesseeeeeeseene 5
+2.1 BASIC PRINCIPLES AND TERMINOLOGY USED 00.0... ..ecccceeccceeeecreeeeeeeeeeeeeeteeeeeeeccnteeeetetteeeeesnnieeeeeennees 5
+2.2 BLOWERS AVAILABLE .0.....cccccccccecccceeeeeceeeeeeeeneceeeeccneeeeecetceeeeecnieeeeeseiceesescniteeeetitteteessnnieeeesenies 6
+2.2.1 FAM OFIONARION eect ctr e eee e EEE DEED DD DDDE EDD EEEEEEEED DEDEDE AIEEE LEED EEDA EDAD DODD DoE EE REEDED Etna naa 7
+3. WARNING AND MAIN SAFETY INDICATIONS 1.0.0.0... ccccccceeeeeceeeeeeeeeeeeeeeeeeeeeeeneeeeesseeeeeeeeesseeeeeeeeees 8
+3.1 INSTALLATION 000... cccccccceceeceeeeeceeeeeceeeceeeeeeecceeeeecececeeeeeecceeeeeeseeeeeeeeccieeeeesitctteeesccnieeeestiieteeessnneeees 8
+3.2 RISKS INVOLVED IN INCORRECT HANDLING OR USE .........ceeccceeececceeeeeeeeeeeeeeeecnteeeesetneteeeesnneeeeetneees 9
+3.3 OTHER RISKS RELATED TO FANS. ......ccccccccceceeceeeeeeeeeneceeeecetneeeeeecceeseeecctneeeeesiteeeesntnteeeenieeeeese 10
+3.3.1 Specific risk involved in transporting and installation... ccc cece ect ettettntneetneee 10
+3.3.2 Specific risks involved in fan M@INtENANCE............. cece e eee e cette te cee eee ne teen etna enennnenees 17
+4 TRANSPORT AND INSTALLATION ........cccccccceeeeceeeeeceeeeeeeeeeeeeeeeseeeeeeeeeeeeeeeesseaeeeeeeeeeeeeeesseeeeeeeeeees 12
+4.1 TRANSPORT AND LIFTING .......ccccccececcceeececcceeeeeeeceeeeeeecccceeeeeceeeeescctceesesecseeeescniceeetesteeeesentneees 12
+4.2 STORAGE IN A WAREHOUSE 0.00... .cccceccceceeccceeeccceeeeeeececeeeeecctneeeeeseceeeeccnneeesesiteeessntnteeeenieeeeeee 12
+4.3 LIFTING METHODS FOR FANS .........cccccccceeeceeeeeeeeeeecccceeeeeeceeeeeeecctneeeeeecneeeeecctceeesenieteeesnnnireeeeenes 12
+4.3.1 Lifting centrifugal fans C SCLOS 0.0... en teen en eee e te eeeteeteeeceeeeneaeteneanneaannaetnees 12
+4.3.2 Lifting centrifugal fans VCP — VCR SEVIOS...20.. 000.0 ee cece ee tt ee cet eee ne see nae nn nttnnnenenes 13
+4.3.3 LIPING AXIAL FANS «20. lle c eee e cette ete e etna nnn nnn DED tnd E Deeb bee beeteeeeteeennessnnaanneasenesennes 13
+4.3.4 Lifting fans packed In Creates 000.0... e nent bette eeeeteeeeeeeeeeenesennannneaaneaetnees 14
+4.4 NESS 00] 14
+4.4.1 Minimum distances between components ..............0..c cece eee ee ee eee ee eee eeeeeeeceeeeeeee ee nasnneetenneenenes 14
+4.5 NOTE FOR D.C. VERSION. ........ceecccceeeccceeeceeeeeeeeeecccneeeeeeneeeeeeccnieeeeeecceeeeeeectneeeeesieteeesniineeeeenes 16
+46 ELECTRICAL CONNECTION. ..0....ccecccccecccceeeceeeeeeeeeeeccceeeeeeeeeceeeeeccnieeeeeecceeeeecctdeeeeesiseeeesninireeeeenes 16
+4.7 CONNECTIONS TO PIPES .......ccccceccccececeeeeceeeeeececneeeeeeneeeeeecctieeeeeeecceeeecniceeeeesiteeessnnnteeeesseeeeeee 17
+5 CHECK TO BE MADE BEFORE AND AFTER STRATING .........cccecccceeseeceeeeseeeeeeeeeeeeeeeeesseeeeeeeeees 17
+5.1 PRELIMINARY CHECK ..00...cccccccccceecceeecccneeeeeeeneeeeeecccneeeeeeecceeeeeectneeeeecneteeeectieeeseniiteeeeniinieeeeenes 17
+5.2 CHECKS TO BE CARRIED OUT WITH THE FAN RUNNING .........cccccccecccececeeceeeeeeeeeeteeeeesetnteeeesteeeeeen 17
+6 MALFUNCTIONS AND CAUSES .......cccecceeceee cece cent ee eeeeeeeeeneeeeeeeeceeeeeeeeeeeeeeesseeeeeseeeeaeeeesseeeeeeeeenes 18
+6.1 CENTRIFUGAL AND AXIAL FANS.......ccccccccecccececcceeeeeeeecnceeeeecctneeeeeeceeeeeeccnneeeeesieeeeesctnteeeenieeeeeene 18
+7 MAINTENANCE Looe. ceeetee eee cee ener ene ee ee eee eee eee e eee reese een ee eee e eae eee eaee eee eace eee naeeaeeeeneeeeeeeeeeee 19
+7.1 CHECKING AND CLEANING PARTS IN THE CONTACT WITH THE FLUID.........cceccccceeeeteeeeeeeeeeeeeesteeeeee 20
+8 DISASSEMBLY .... ccc ceeeecceeee cence renee ee ee eee seen eee seen eee e eee e ene e eee aaeeeeeeaaeeeeeeeaaeeeeeseeeeseeeesseeeeeeennes 20
+8.1 NAN =il (0224 Be 20
+8.2 O10 5S] (Cre 20
+8.3 FAN ROTOR... .cccccccceeecceeeecceneeeeeeeceeeeeeccceeeeeeseneeeeeecccieeeeeecseeeeecccneeeeeseeteeecctieeeeessiteeesntiireeeennes 20
+9 SCRAPING THE FAN ........cccecceeeeeeeeeee eens eeeeee eee eeee ee eeeesaeeeeeeeeeeseeeaaaaeeeeeeeeeseeeegseaeeeeseeeeseeeesneeeeeeeenees 21
+10 SPARE PARTS LIST .........ccccccceseeeeeeeeee eee ee eeee eee eees esse ees eaeeeeeesaaaeeeeeeeeeeeesaaaeeeeeseeeeeeessseeeeeeeeeneaeeeess 21
+10.1 EXPLODED DRAWING (00... cece ceectre eee cte tees tenn eeeeeectneeeeeeeneteeeesctteeeeesiteeeesntineeeeenes 22
+10.2 BLOWER PLATE 2.0... ccccccccecccee eee cceeeeeteeeeeeeeccneeeeeteeeeeeeectneeeeeeneteeesscnieeeeesiiteeesonineeeeenees 23
+De eS CO) BL 07-4 (©) \\| nnn 24
+ss eed 1 ©: © 21 © 24
+11.2 SIMBOLOGIA GENERALE DI SICUREZZA .........eeccccceeccceeeeceteeceeeeeecteeeeeeeeeneeeesctieeeeeeniteeesnnieeeeennes 24
+12 GENERALITAY oo. ce cece e cece eee reece eee e ee ee eee ena e eee e ea eee e ee naee eee eee ees e eee eee ee saaee eee eeeceeeeeseeeeneneees 25
+12.1 NOZIONI DI BASE E TERMINOLOGIA........cccccccecccceeeecceeeeeeeeeceeeeeecnnneeeeeeneteeeescineeeetitieteeesntieeeeetnnes 25
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ z
+
+12.2  TIPOLOGIE DI VENTILATORI DISPONIBILI.........:ccccceecceeeeeeeeeeceeeeecceeeeeeeeeeteeeesccneeeeeeniteeesntneeeeennes 26
+12.2.1 — OFPONEAIMONEE cece cect tt eee teen EEE Ent Dn DDDe Dee eeeeetettpeDDDDA AAA AEEEEEEettett aa anaaaaanabebeteng® 27
+
+13. AVVERTENZE E PRINCIPALI INDICAZIONI DI SICUREZZA 1... ..eecccceeeseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 28
+13.1. MODALITA DI INSTALLAZIONE........ccccecccceececececeeeeeneeeeeeeeeceeeeeceeeeeeceeeeccseeeeteeeecieeeecieeeetitesetireeeneeeed 28
+13.2 RISCHI CONNESS! CON MANOVRE E/O USI IMPROPRI.........c0cccccecceeeeeceeeeeteeeeececeeeeeetteeeesntneeeeennees 29
+13.2.1 Rischi specifici con ventilatore in fase di trasporto e di installazione ..0...00. ee 30
+13.2.2 Rischi specifici con ventilatore in ManuteNZIONe 0... e nett teettteeees 30
+
+14 TRASPORTO E INSTALLAZIONE .......cccccceseeeceeeeeeeeeeeeeeeeeeeeeseeeeeeeeeaeeeeeesaeeeesseeeeeeeeeseeeeeesseneaeneess 31
+14.1. TRASPORTO E SOLLEVAMENTO. ......0:ccccccceeeeeceeeeecceeeeeeeecceeeeeectceeeeeeentteeeesccieeeeetieteteeesntieeeeetinees 31
+14.2 IMMAGAZZINAMENTO 0... eeeeccceeeceeeecceeeeeeceeeeeeeeeccneeeeetecceeeeeectiieeeetiteeeeeectieeseetiiieeeesonieeeeennees 31
+14.3. MODALITA DI SOLLEVAMENTO DEI VENTILATOR] .....0...00cccccececcecceeeeeeeecseeeeueeeecteeeeceeeetateeeteeeeneee 32
+14.3.1 | Sollevamento dei ventilatori centrifughi SCL Coc ccccceccccccee tet tttteettteeetteeetteeeeeeeees 32
+14.3.2 Sollevamento dei ventilatori centrifughi in CSECUZIONG 4 ........ 0c. et ete tee ee tttees 32
+14.3.3  Sollevamento dei ventilator! ASSIA 0.00... c ete cece cee eeeetttnntaeteetettetttnnnntnseaneaeeteteneg® 33
+14.3.4 Sollevamento dei ventilatori imballati CON C@SSA ooo... eee cette cece eee tttennnnneeeneteetenens 33
+
+14.4 —INSTALLAZIONE 000... ccc cccceccceseeceeeeeceeeeeccneeeeeteceeeeeeccneeeeetecceeeeeectnieeestiteteeecciieeeeessitteesscniieeeeeenees 34
+14.4.1 Distanze minime Ai POSIZIONAMEONTO...0.. eee cece eect eect nett ane tntnentnettbetettneteeeeeee 34
+
+14.5  AVVERTENZE GENERAL! PER IL SOLLEVAMENTO E MONTAGGIO DELLE PARTI SCOLLEGATE DEL
+VENTILATORE ....cccccccccceeeceeceeeeceeeeecceeeeeceeeeeeeeecteeeeeeeceeeeesectieeeesiceeeeecccieeeeesieceeeecccieeeeetiiteeeescnieeeeeeenes 35
+14.6 NOTE SUI MOTORI IN CORRENTE CONTINUA ......0ccccccecccseeceeeeeecteeeeeeeeneeeeesctneeeeeetiteeeesntieeeeeenes 36
+14.7 COLLEGAMENTO ELETTRICO 00... eeeccccccceeeeceeeeneeeeeeccceeeeeeenceeeeectneeeeesneteeeescnieeseetitteteeescnieeeeeeenes 36
+14.8 COLLEGAMENTO ALLE TUBAZIONI 000.0... cccccccceececeeeecceeeeeeeeeceeeeectneeeeeeneeeeescineeeesitieeeesntieeeeeennes 37
+15 VERIFICHE DA EFFETTUARE PRIMA E DOPO L’AVVIAMENTO .........ccceceeceeseeeeeeesseeeeeeeeeeneeeens 37
+15.1. CONTROLLI PRELIMINARI .....00..::cccccceecceeeeeeeeeeeeeeeeccneeeeetecceeeeeectieeeeetiteteeeecnieeseetistteeesnniieeeseniees 37
+15.2 CONTROLLI DA EFFETTUARE A REGIME. .........cccccceccceeeececeeceeeeeecceneeeeeeneeeeeectteeeeeetteeeesnnnieeesennes 37
+16 ANOMALIE DI FUNZIONAMENTO E LORO CAUSE ........cccecceceeeeeeeeeeeeeeseeeeeeeeneeeeeeenseeeeeeeseeeeeneess 38
+16.1. VENTILATORI CENTRIFUGHI E ASSIALI......0...:cccccceccceeeceeeecceeeeectneeeeeeneeeeesctteeeeesiieeeesntieeeeennes 38
+17) MANUTENZIONE .... 0. ccceeeeceeeeeeeee eee ee cece eee e ea eee eee eee eee eeeaaeee sees aaaeeeeseeeseeeeaaeeeeessneeeeeessseeeeeeseeeaeeeeas 39
+17.1. CONTROLLO E PULIZIA DELLE PARTI A CONTATTO CON IL FLUSSO........ eee cecceceeeceeeeetteeeecttneeeeeenes 40
+18 SMONTAGGIO 2.0... eect cece cece eee cence eee eee e eee eee eee nese enna e eee ee caee ee eaee eee ee sees seaeeeeeeesceeeeesseeeaeneees 40
+18.1 BOCCAGLIO DI ASPIRAZIONE O MANDATA.......0000ccccccceeecceeeeceeeeectceeeeeeeeeeeeeccneeeeesttteeesntneeeeennes 40
+18.2  CASSA Lic cccccccccccceeeeeeeeeetne eee eteeeeeeeeeecieeeeeseeceeeeeecnteeeetecceeeeectieeesesiceteeesctieeeestiesetesescnieeeeeennes 40
+eC 1) ce 40
+19 SMANTELLAMENTO DEL VENTILATORE .........cccccccceeeeeeeeeeseeeeeeeeeeneeeeeeseaeeeeeeeeeeeeeesseeeeeeeeeeeeeeess 41
+20 LISTA RICAMBI .........ceeeecceeeeecee ener eee e eee eeaee seen eee e eens eee eee eeee eee aaaeeeeeeaeeeeeesegaeeeeeseneeaeeeseneieeeeeennes 41
+20.1 DISEGNIESPLOSI..00... cece cece eect cece tnneeeeeceeeeeecctceeeeeecieeeeesttteeeeesteeeesennineeeeenes 42
+20.2 TARGHETTA VENTILATORE 0.000... cccccccccccecceeeeeeeeeecteeeeecctceeeeecseeeeecnnteeeeesteeeeesntieeeeennees 43
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ z
+
+1 INTRODUCTION
+
+1.1 Purpose of this manual
+
+This manual contains instructions and warnings and constitutes the documentation that must be
+supplied and kept together with the product, otherwise the product would be lacking in one of its
+fundamental safety requisites.
+
+The manual must be kept with care and made available to all persons involved in operating the
+equipment.
+
+The warning are intended to ensure the safety of persons exposed to the risks inherent in the
+operation and handling of this equipment.
+
+The instructions in this manual describe how to use the fan correctly as intended by the
+manufacturer.
+
+IMPORTANT: The safety measures adopted for using the fan must also
+be tailored to suit the specific applications for which the fan will be used.
+The safety measures taken differ depending on the type of fan
+installation, as specified in paragraph 3.1.
+
+( Therefore, the information in this manual is indispensable for the use
+
+appropriate and hazard-free use of the fan.
+
+This manual may not, even in part, be copied, reproduced or transmitted in any form by any
+electronic, mechanical, photographic or another means without the express permission of
+Gianneschi Pumps and Blowers
+
+1.2 General safety symbols used
+In this manual, certain particularly important pieces of information may be preceded by one of
+the following symbols:
+
+DANGER: This symbol indicates possible causes of personal injury
+
+DANGER: Electrified components
+
+IMPORTANT: This symbol indicates particularly important information of
+general interest.
+
+O>b>
+
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+2 GENERAL INFORMATION
+
+2.1
+
+Basic principles and terminology used
+
+Gianneschi Pumps and Blowers fans can be divided into the following categories:
+
+Radial (or centrifugal) fans: these fan are so called because the fluid enters the fan
+axially and exit it radially. The fan blades can have the following different configurations:
+negative (the rear, or convex face of the blade work on the fluid), positive (the front, or
+concave face of the blade works on the fluid) radial (straight, the blade can work on the
+fluid with the same efficiency with its front and its rear face. Neither side of the blade has
+particular reinforcement).
+
+Axial fans: These fans are so called because the fluid enters the fan radially and exit it
+axially.
+
+Le grandezze fondamentali che caratterizzano un ventilatore sono le seguenti:
+
+Volumetric flow rate: This is the volume of fluid passing through the fan in a given length
+of time: per second (m*/s), per minute (m°/min) or per hour (m°/h)
+
+Static pressure: This is the force exerted by the fan blade to overcome the resistance that
+the fluid encounters as it flows through a circuit (measured in mm WC or Pascal=Pa)
+Dynamic pressure: This is the force that the fluid has due to the kinetic energy conferred
+to it by the rotating fan rotor as it exits the fan outlet (measured in mm WC or Pa)
+
+Total pressure: This is the algebraic sum of the static pressure and the dynamic pressure
+(measured in mm WC or Pa)
+
+RPM: This is the speed of the fan rotor in revolutions per minutes
+
+Efficiency: This is the ratio, expressed as a percentage, between the amount of energy
+that the fan confers to the fluid and the energy supplied to the fan rotor by the motor. This
+value depends on the fan rotor configuration and is dimensionless.
+
+Power absorptions: This is the power required (supplied by the motor) for the fan to work.
+It is expressed in kW.
+
+Nominal motor power. This is the nominal power that the motor is able to supply. This
+value must always be greater that the power absorption value for the fan, and is
+expressed in kW.
+
+Sound pressure level: This is the energy transmitted into the outer ear, which generates
+vibrations in the eardrum: in other words, this is the noise level of the fan and is
+measured on the decibel A scale (this scale evaluates in relation to its frequency)
+go,
+——wv
+
+2.2 Blowers Available
+
+SoliAnNVUeSSsCri
+PUMps and blowers ———ss_
+
+EA
+
+UCINA
+
+IALIAN MARINE
+
+ELL/AP
+
+The axial fans ELL/AP series
+use high efficiency aerofoil
+profile impellers.
+
+They are suitable for
+compartments ventilation
+where is required large
+capacities at pressure relatively
+low, like yachts and mega-
+yachts engine rooms.
+
+ELL —ELL/R
+
+The helicoidally “TIL — ELL —
+ELL/R” blower series are built
+for to obtain big air flow rates
+at low pressure.
+
+VCP-VCR
+
+VCP series is high performance
+and low noise el/blower, this
+series is built to obtain high air
+flow rates at medium pressure.
+VCR el/blower series is similar
+to VCP series but it can reach
+greater values of pressure and
+delivery tanks to a different
+blade’s profile.
+
+Cc
+
+The “C” blowers series are built
+to obtain low and medium
+pressure at low and medium
+flow rates.
+
+EL-SR
+
+Impeller is made of die cast
+aluminium, aerofoil blade
+profile, manual adjustable
+blade angle in still position and
+dynamically balanced.
+
+EL-ST
+
+Impeller made with an conical
+collet with cast iron nozzle,
+steel Fe360B formed cap,
+aerofoil blade profile made in
+spark-proof aluminium alloy.
+Manual adjustable blade’s
+orientation in still position
+accurately balanced.
+
+Te AEE
+———wv
+
+2.2.1
+
+colLaAnVNeS=SscCri
+PUMps and blowers ———ss_
+
+Fan orientation
+
+UCINA
+ALIAN MARI
+
+N
+
+Centrifugal fans can be built in 16 different orientations ( 8 rotated clockwise, RD and 8 rotated
+anticlockwise, LG) The orientations of a fan is expressed as seen from the transmission side.
+Orientations RD LG 180 and 225 are only possible if special mechanical modifications are
+
+made.
+
+Rotazione ANTIORARIA LG (Viste lato motore o trasmissione)
+
+LG Counterclockwise rotation (engine or transmission side view)
+
+LG oF LG 45° LG 90° LG 135° LG 180° LG 225° LG 270° LG 3157
+— a
+n yr —\ / i = a
+“i ( ly \
+\ i \
+J ld \ \ y
+ST =| —
+Rotazione ORARIA RD (Viste lato motore o trasmissione)
+RD Clockwise rotation (engine or transmission side view)
+RD o* RD 45* RD 90° RD 135° RD 180° RD 225° RD 270° RD 315*
+
+Ni }
+
+By
+
+Oe
+
+@)
+
+))
+
+«ie
+
+Centrifugal Blower Orientation
+
+FLUSSO "A"
+—_>
+
+FLUX "A"
+——_ >
+
+a.
+
+FLUSSO "B"
+“——
+
+FLUX "B"
+<.__
+
+Axial Blower Execution
+
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+3 WARNING AND MAIN SAFETY INDICATIONS
+
+3.1 Installation
+
+specifications
+- Type A: open intake and outlet
+- Type B: open intake and outlet connected to pipe
+- Type C: intake connected to a pipe and open outlet
+- Type D: intake and outlet connected to a pipe
+
+G) There are four possible installation types, in compliance with UNI 12499:2009
+
+Clearly Gianneschi Pumps and Blowers cannot be aware of which of these four installation types
+will be used by the user. Therefore, the installer or end client themselves must analyse the risk
+involved for the chosen installation type used in the specific applications.
+
+Depending on the applications that the client intends to use the fan for in the factory and on the
+type installation chosen, the following safety shield must be fitted:
+
+- Type A Installation: fixed shield at the intake and outlet
+
+- Type B Installation: shield fitted only at the outlet
+
+- Type c Installation: shield fitted only at the intake
+
+- Type A Installation: no shield at either the intake or outlet.
+
+The user or the installer of the fan must censure that adequate shielding is fitted to the pipe
+system at the point where it connects to the working pipes, as follows:
+
+- Type A installation: no shield necessary
+
+- Type B Installation: shield fitted to the outlet pipe
+
+- Type C Installation: shield fitted to the intake pipe
+
+- Type D Installation: shields fitted to the intake and outlet pipes
+The shielding must be constructed to impede access to the parts of the fan that could cause
+injury. It must be robustly built enough to stand the vibrations and stress caused by the machine
+and by environmental conditions. It must be securely fixed in position by devices that will not
+become loosened by vibrations and that cannot be removed without the use of tools.
+
+replace promptly in case of damage or breakage.
+
+WARNING:
+/\ Check all safety guards regularly to make sure they are efficient and
+
+It is, in any case, the person installing the fan who is responsible for ensuring that adequate
+measures have been taken to prevent accidental contact with the fan’s moving parts. The user
+must also bear in mind the risk inherent in maintenance work, which must always be with the
+fan separated from the motor or isolated using suitable equipment.
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+Once the installer and/or user has decided which installer type is to be used and all the above
+procedures have been applied, the machine can now be considered a “complete machine” as
+describe by machinery directive 2006/42/CE use regulations.
+
+3.2 Risks involved in incorrect handling or use
+
+Never, for any reason whatsoever, disable, remove, modify or render in operative in any
+other way any of the safety, protective or control devices of any single component or of the
+fan itself
+
+Never place hands, arms or any other parts of the body near any moving part
+
+Never extended any part of the body past the limits of the safety barriers. Do not use any
+means that will increase normal accessibility to the fan components
+
+Never use the fan (in standard condition) in atmospheres where there is a risk of explosion
+Unauthorised operators must not attempt to rectify any malfunction of the fan and/or modify
+the functional characteristics or installation type
+
+After any un programmed maintenance operation that required the removal of shield,
+barriers or any other protective device, before restarting the fan ensure that all these
+components have been refitted and are fully functional
+
+All protective and safety devices must be kept in perfect working order at all times. All
+indicative and warning plates fixed to the fan must also be kept in perfect condition at all
+times and must never be removed or moved from their original position
+
+When troubleshooting for the cause of any malfunction of the fan, ensure that all precautions
+described in this manual have been taken to prevent personal injury and/or damage to
+property
+
+Remember to tighten every screw, bolt and lock ring of every component subject to
+adjustment or maintenance
+
+Before starting the fan, ensure that all safety devices have been correctly installed and are in
+perfect working order; if the above is not the case, do not start the fan and inform the head
+of safety or department manager immediately
+
+The operator must be equipped with Personal protection Equipment in accordance with
+current legislation; the use of bulky clothing and accessories (ties, loose sleeves, etc.) is
+prohibited.
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+3.3 Other risks related to fans
+The following is a list specific hazards related to the fan’s mechanical characteristics
+
+A persons may receive injuries as a result of:
+
+a)
+b)
+c)
+qd)
+e)
+
+f)
+9)
+
+Becoming caught up between a moving part and a stationary part, for example, between a fan rotor and
+the fan housing or any other stationary fan component
+
+Becoming caught up between two moving parts.
+
+Suction of a part of the body into the fan and subsequent contact with the shaft or rotor
+
+Contact with a moving part, such as the rotor
+
+An object becoming sucked into the intake of the fan and expelled at high speed from the otlet of the
+fan
+
+Contact with surface of the fan at dangerous temperatures for example temperatures below —20°C or
+above +50°C
+
+Hazard caused by the over speed of a fan component, which can lead to the breakage of part of the
+machine
+
+The aspiration of air at temperatures above the specified operating range, which can lead to the
+deformation and breakage of the housing.
+
+3.3.1 Specific risk involved in transporting and installation
+
+Before installation the user must prepare a perfectly level surface onto which the fan will be
+mounted. If this surface is not perfectly level, this can cause abnormal vibrations in the fan.
+This can over time lead to the deformation and/or breakage of fan components with the
+subsequent expulsion at speed of broken parts: these expelled parts can cause even fatal
+injuries to any persons exposed
+
+Before installation, the user must also prepare adequate connections to earth for the fan
+case or for the fan structure to prevent the build-up of electrostatic charges.
+
+All installed protective devices must remain fixed to the fan together with their respective
+fixings (screw, bolt, etc.) The removal of one or more fixing may compromised the
+functionality and tightness of the safety shield.
+
+In its standard form, the fan is not intended for use in a potentially explosive environment.
+The installation location of the fan must be kept clean at all times. Any eventual oil or water
+spillages not caused by the fan must be removed immediately.
+
+The minimum installation distances specified in the manual must always be respected to
+ensure correct functionally without any further hazards. The incorrect positioning of a
+component can compromise the functionality of the fan.
+
+10
+°
+i. SoliANNNESsCri nin
+ZA PUMPS and blowers ——_ s
+
+3.3.2 Specific risks involved in fan maintenance
+
+During maintenance and cleaning of the fan rotor, be particular careful of the rotation of the
+rotor. This can lead to parts of the body becoming trapped and seriously injured between the
+rotor itself and fixed parts of the fan housing.
+
+Even when the fan is disconnected from the power supply, the rotating parts can still turn
+due to any air movement through the fan. This air flow may be natural or may be caused by
+the current induced by another fan installed elsewhere in the connected tubing system. This
+can also lead to parts of the body becoming trapped and Seriously injured between the rotor
+itself and fixed parts of the fan housing.
+
+A fan maintenance program must be draw up and followed to prevent the mechanical failure
+or breakage due to wear or insufficient maintenance.
+
+DANGER: IT IS ABSOLUTELY FORBIDDEN TO:
+
+Carry out any maintenance work without first ensuring
+
+g that the fan rotor is effectively stationary.
+
+Start any maintenance work on the fan (including lubrication) without first disconnecting the fan from
+the mains power supply.
+
+Clean the fan while it is running.
+
+Open any shield or inspection hatch while the fan is running.
+
+11
+°
+ZL olaAnnNe=SscCr-i tr
+es PUMPps and blowers ss cg
+
+4 TRANSPORT AND INSTALLATION
+
+Lifting and manoeuvring the fan may crate hazards for any persons in the vicinity it is therefore
+important to follow the indications given by Gianneschi Pumps and Blowers and use suitable
+equipment.
+
+4.1. Transport and lifting
+
+Therefore, all operation involving the lifting and manoeuvring of the fan must be carried out with
+the utmost caution, avoiding any knocks that could compromise the functionality or damage the
+fan component.
+
+THERE USER IS RESPONSIBLE FOR THE SELECTION OF EQUIPMENT,
+
+ROPES, AND CHAINS BEST SUITED FOR BOTH LOAD AND
+FUNCTIONALITY.
+
+4.2. Storage in a warehouse
+
+Should it be necessary to store the fan in a warehouse, it must be protected from atmospheric
+conditions, humidity, dust and any harmful substances present in the air.
+
+We recommend that you periodically check that the fan is in a good condition and turn the fan
+rotor manually approximately once a month to prevent the deformation of its bearings
+
+4.3 _ Lifting methods for fans
+4.3.1 Lifting centrifugal fans C series
+
+Fans C series are equipped with a motor without the specific holes similar VCP — VCR series,
+you must connect the lifting belt under the electric motor (as shown Fig. 4.1)
+
+)
+
+Fig. 4.1 Example of lifting centrifugal fans C series
+
+12
+°
+ZL SoliAnNVUeSSsCri nin
+ZS Pumps and blowers ——_ s
+
+4.3.2 Lifting centrifugal fans VCP — VCR series
+
+Fans VCP-VCR series are equipped with a motor. When lifting these fans, as well as using the
+specific holes in fan structure, the eyebolt for lifting the motor must also be used (as shown Fig.
+4.2)
+
+Fig. 4.2 Example of lifting centrifugal fans VCP — VCR series
+
+4.3.3 Lifting axial fans
+
+Fig. 4.3 Example of lifting axial fans
+
+13
+°
+ZZ CcoLAnNeS=SsCr-i tr
+ee PUMPs and blowers ———s__ cg
+
+4.3.4 Lifting fans packed in creates
+
+Fig. 4.4 Example of lifting fans packed in creates
+
+4.4 Installation
+The fan does not required the preparation of a special machine bed for its installation. A well-
+levelled surface that can support the weight of the fan is sufficient.
+
+ALWAYS USE ANTI-VIBRATION SUPPORT AND COUPLING TO PREVENT
+
+G) TRANSMISSION OF VIBRATIONS WHILE THE FAN IS RUNNING.
+
+The support base must be perfectly level and flat to prevent any torsion effects or misalignment
+of the supports: if necessary, install metal shims between the machine base and the surface to
+censure a perfect.
+
+All connecting tubing must be supported separately and must be axially aligned with the fan’s
+intake and outlet nozzles, to prevent any deformation occurring while tightening the bolts.
+
+ALL INSTALLATION WORK MUST ONLY BE CARRIED OUT BY QUALIFIED AND
+IAN AUTHORISED PERSONNEL USING SUITABLE EQUIPMENT
+4.4.1 Minimum distances between components
+
+If the available space permits, in installations where the intake is connected to a pipe we
+recommend fitting a straight length of pipe with a length approximately 2.5 times the diameter of
+the fan rotor, to guarantee correct air flow into the intake
+
+14
+°
+ZL SoliAnNVUeSSsCri nin
+ZS Pumps and blowers ——_ s
+
+:
+may
+
+Fig. 4.5 Minimum installation distances with intake pipe
+
+With installation with an open air intake, we recommend leaving a distance equal to
+approximately 1.5 times the diameter of the fan rotor between the fain intake and the nearest
+
+wall or machine.
+
+t.3
+
+la
+
+LL
+
+1
+
+Ye
+
+Fig. 4.6 Minimum installation distances with open intake
+General warning for lifting and installing parts disconnected from the fan for shipping
+
+For transport purposes, the fan may be delivered with a number of its components
+disconnected.
+
+WARNING: ALL TRANSPORT, INSTALLATION AND ASSEMBLY OPERATIONS MUST ONLY
+
+/\ BE CARRIED OUT BY QUALIFIED PERSONNEL
+
+WARNING: DISCONNECTED OR DISASSEMBLED COMPONENTS MUST ONLY BE
+HANDLED AND MANOEUVRED USING SUITABLE TRANSPORT EQUIPMENT
+
+15
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+LIFTING AND REFITTING THE FAN COMPONENTS.
+
+SHOULD THE INSTALLATION OF A COMPONENT REQUIRED A SPECIAL
+PROCEDURE, Gianneschi Pumps and Blowers WILL SUPPLY THE
+SUPPLEMENTARY INFORMATION NEEDED FOR A CORRECT INSTALLATION.
+
+G) USUALLY NO SPECIAL OR DEDICATED EQUIPMENT IS REQUIRED FOR
+
+4.5 Note for D.C. Version
+
+- Check periodically the brushes wear
+
+- The voltage increase (<24V) may cause the increasing of the speed rotation and the
+power absorption increment.
+
+- Excessive power absorption may cause the engine overheat
+
+- Before starting operation check the power supply
+
+For more details please consult the D.C. motors manual.
+
+4.6 Electrical connection
+
+The fan’s power supply line must have a sufficiently high power rating.
+
+Connection to the mains power grid must only be carried out by qualified personnel. Also, the
+client is responsible for the entire electrical system up to motor terminal board.
+
+We remind you of the importance of installing a safe connection to earth for the fan.
+
+The earth connection system must comply with legislation in effect in the country of installation
+and must be periodically checked by qualified personnel.
+
+Make the connection to earth before any other connection
+
+Check that the connection layout (See fig. 4.7) is suitable to the mains power voltage.
+
+Usually, standard electric motors can run in both directions indifferently. To invert the direction
+of rotation, simply swap over any two power cables directly on the terminal box.
+
+The client must also install an electrical disconnecting device near the fan so that maintenance
+personnel can have direct control over the power supply to the fan.
+
+IS RESPONSIBLE FOR CHOOSING THE EQUIPMENT AND CABLES USED FOR
+CONNECTING THE FAN ELECTRICALLY, BASED ON THE DIMENSIONS OF THE
+MOTOR INSTALLED AND THE CHARACTERISTICS OF THE MAINS POWER
+SUPPLY
+
+CAUTION: THE CLIENT AND/OR THE INSTALLER OF THE ELECTRIC SYSTEM
+
+All work performed on the electrical system must only be carried out with the fan at rest and
+electrically disconnected from the mains.
+
+Before installing/starting up, ensure that the information on the identification plate on the motor
+is compatible with the mains power supply.
+
+16
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+4.7 Connections to pipes
+
+Connections between the fan and pipes must be made ensuring that all components are
+correctly aligned and that there are no obstruction in the tubing caused by gaskets or flexible
+parts. The weight of the tubing must not be supported by the fan and care must be taken not to
+deform any part of the fan during tightening of the connections to the pipes.
+
+5 CHECK TO BE MADE BEFORE AND AFTER STRATING
+
+5.1 Preliminary check
+
+PRELIMINARY CHECKS MUST ONLY BE PERFORMED WITH THE FAN AT REST AND
+
+/\ DISCONNECTED FROM THE POWER SUPPLY
+
+When starting the fan for the first time, the following preliminary checks are necessary
+
+Check the lubrication of the fan and motor bearing; if necessary, degrease
+
+Check that all rotating parts can turn freely
+
+Check that there are not foreign object inside the fan
+
+Check that the fan turns in the correct direction: power the motor for a brief moment to see if
+it turns in correct direction indicated by the arrow on the fan housing: if necessary, invert the
+direction of rotation (See electrical connection)
+
+You may now start the fan. With centrifugal fans, close off the air intake partially to reduce the
+power peak at the start-up and the motor starting time. Axial fans must never be run with
+completely closed nozzles
+
+5.2 Checks to be carried out with the fan running
+
+Check that the power absorption does not exceed the value indicated on the motor identification
+plate, if it does, stop the fan immediately and contact the manufacturer.
+
+The fan must run without excessive vibration and noise.
+
+Check, with the fan at rest and at an outside air temperature of 20°C, that the bearing do not
+exceed the maximum operative temperature (maximum bearing temperature 70°C). During the
+first few hours of operation, it is normal for the bearings to reach slightly higher temperatures, as
+long as they later stabilise at a lower value. In the event of overheating of the bearings, contacts
+the Gianneschi Pumps and Blowers technical assistance department.
+
+17
+_
+erste
+
+olaAnNeESsCri cis
+PUMPS and blowers ———se INA
+
+6 MALFUNCTIONS AND CAUSES
+
+6.1. Centrifugal and axial fans
+The following table lists the main problems that you may encounter using a fan. For problems
+that are not common to both types of fan, we have specified whether it is specific to centrifugal
+
+or axial fans.
+
+PROBLEM
+
+REASON
+
+CAUSE
+
+Power absorption much lower
+than nominal value
+
+Insufficient air flow
+(centrifugal fans only)
+
+Rotational speed too low
+
+Nozzle or tubing partially obstructed
+(centrifugal fans only)
+
+Fan rotor partially obstructed (centrifugal
+fans only)
+
+Pressure resistance offered by the system
+higher than the design value (centrifugal fans
+only)
+
+Inverted direction of rotation (centrifugal fans
+only)
+
+High power absorptions
+
+Excessive air flow
+(centrifugal fans only)
+
+Excessive rotational speed
+
+Pressure resistance offered by the system
+lower than the design value (centrifugal fans
+only)
+
+High power absorptions
+
+Air flow already rotating in the opposite
+direction to the fan rotation direction
+Motor power supply voltage lower than
+the value indicated on the identification
+plate
+
+Faults in the motor windings
+
+Air flow value lower than the design
+value (axial fans only)
+
+Insufficient pressure
+
+Rotational speed to low
+
+Inverted direction of rotation (axial fans only)
+Air flow value higher than the design value
+(axial fans only)
+
+Fluctuating fan operation
+
+Unstable air flow
+
+Low air flow
+
+Fluctuations in air flow due to fans working in
+parallel
+
+Vortices in the air induced by equipment near
+the air intake
+
+Vibrations Fluctuating fan operation e (See previous cause)
+
+e  ~=Fan rotor wear
+Vibrations Unbalanced rotating components |e Deposits on the fan rotor
+
+e Contact between moving and _ stationary
+Vibrations Mechanical malfunction or defects components
+
+Intrinsic fault in the bearing
+Malfunction of the bearings due to
+unbalanced rotor or excessive belt tension
+
+Excessive noise
+
+Contact between moving and _ stationary
+components
+
+Vibrations
+
+Fluctuating fan operation
+
+Electromagnetic fault in motor
+
+Orifices or sharp angles in tubing
+
+18
+
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+7 MAINTENANCE
+
+Read this section carefully before starting any maintenance work on the fan: these
+
+indications will censure safer working conditions for the personnel involved and more
+
+reliable results of the maintenance work carried out.
+
+Safety procedures adopted during fan maintenance must take into account the following:
+
+e Maintenance and lubrication operations must only be carried out by qualified and export
+personnel, authorised by the factory technical management department in accordance
+with safety directives and regulations and using only Suitable tools, equipment’s and
+materials for the job.
+
+e While performing maintenance work, all personnel involved must wear appropriate
+clothing, such as tight fitting works overalls and accident prevention shoes. Loose fitting
+clothes with hanging parts must be avoided at all costs.
+
+e During maintenance, cordon off the fan and place signs around the fan indicating “FAN
+UNDERGOING MAINTENANCE”
+
+During any maintained procedure, the fan must be:
+e Disconnected and insulated from the electric power supply
+« Disconnected from elastic coupling to the motor, if fitted
+
+The head of maintenance must set up a team made up of persons capable working in a
+coordinate fashion and ensuring the utmost safety of those surrounding them. All persons
+involved in maintenance must be in constant visual contact among themselves to be able warn
+each other of any hazards present.
+
+CAUTION: ANY TRANSPORTING OPERATION OF PARTS DISMANTLED FROM
+THE FAN OR TO BE FITTED TO THE FAN MUST ONLY BE CARRIED OUT
+WITH SUITABLE TRANSPORT EQUIPMENT
+
+USUALLY, NO SPECIAL OR DEDICATED EQUIPMENT IS REQUIRED FOR LIFTING AND
+REFITTING THE FAN COMPONENTS
+
+AN INTEGRATED MAINTENANCE PROGRAM IS NECESSARY FOR NORMAL AND CORRECT
+OPERATION OF THE FAN, AND ALSO ENSURES GREATER SAFETY FOR THE OPERATOR
+
+REGULAR CLEANING AND MAINTENANCE, TOGETHER WITH LUBRICATION, ARE VITAL FOR
+ENSURING CORRECT OPERATION AND GREATER DURABILITY OF THE FAN
+
+CICIONr,
+
+19
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+7.1. Checking and cleaning parts in the contact with the fluid
+
+The fan rotor should be cleaned regularly to prevent vibration caused by dust accumulating on
+the blades during operation.
+
+If the fan is used to pump even slightly dusty air, air containing abrasive powders or for the
+pneumatic transport material, the cleanliness and wear of the fan rotor must be checked
+regularly.
+
+Dirt deposits on the rotor or wear of parts of the rotor can cause undesirable vibration during fan
+operation.
+If any part of the rotor is excessive worn, it is imperative that the rotor be replaced.
+
+8 DISASSEMBLY
+
+MUST ONLY BE CARRIED OUT BY QUALIFIED AND AUTHORISED PERSONNEL.
+FOR NO REASON WHATSOEVER MUST THE OPERATOR OR FACTORY
+MAINTENANCE PERSONNEL CARRY OUT THESE OPERATIONS.
+
+ALL THE DISASSEMBLY AN RE-ASSEMBLY OPERATIONS DESCRIBED BELOW
+
+caution: all disassembly and re-assembly work must be carried out with the following
+conditions:
+
+a) you must be absolutely certain that the fan is completely stationary (fan rotor at rest);
+disconnect the electrical power at the main panel with a padlock and hand the key of
+the lock to the head of maintenance
+
+b) The working environment must be equipped with every tool necessary and must be
+free of any hazards
+
+c) every piece to be refitted must be thoroughly cleaned, degreased and lubricated as
+necessary before refitting
+
+8.1 Intake nozzle
+Undo the nozzle securing nuts from the fan housing. Slide out the nozzle.
+
+8.2 Housing
+
+With all orientable fans, the housing is secured to the frame by bolts. Simply undo the securing
+nuts at the frame plate.
+
+With non-orientable fans with single-piece housings, the housings cannot be disassembled.
+The housing in certain fan types may be divided into two or more pieces, secured together by
+bolts.
+
+8.3. Fanrotor
+
+Remove the nozzle and, where possible, the fan housing.
+
+With single intake fan: remove the screw together with the lock ring and use a suitably sized
+extractor.
+
+We recommend setting up a support for the rotor before extracting it completely.
+
+20
+°
+ZL olaAnnNe=SscCr-i tr
+es PUMPps and blowers ss cg
+
+9 SCRAPING THE FAN
+
+At the end of the fan’s useful life, the user company is responsible for scraping the fan, taking
+care in particular of emptying all lubricating liquids, generally cleaning all components and then
+separating the fan’s parts into components and electrical material. Different materials must be
+collected separately, for example: electric motors (copper winding), metal components
+(structural components, etc.) plastics, etc., and then correctly disposed of separately.
+
+10 SPARE PARTS LIST
+
+e AXIAL BLOWERS e CENTRIFUGAL BLOWERS
+1. Fan Fixing Screw 1. Screw
+2. Grower 2. Inlet Connection
+3. Washer 3. Protection Grate
+4. Impeller 4. Impeller Screw
+5. Blower Case 5. Grower
+6. Nut 6. Washer
+7. Washer 7. Impeller
+8. Screw 8. Spacer (Only ATEX version)
+9. Motor 9. Bolt
+10.Blower Casing
+11.Nut
+12.Discharge Connection
+13.Screw
+14.Nut
+
+15.Motor With Flange
+
+21
+EA
+
+UCINA
+ITALIAN MARINE
+INDUSTRY
+ASSOCIATION
+
+DUMPS and blowers ———s=
+
+SoANNE=SCril
+
+_
+ce &
+
+EXPLODED DRAWING
+
+10.1
+
+a PUMps and blowers ———s___ INA
+
+Z2 SIANNEscH (ff)
+
+10.2 BLOWER PLATE
+
+The identification plate is the only means of fan identification recognized by the manufacturer. It
+must not be modified
+
+IMPORTANT: When you order a new spare parts. Always indicate the serial number
+
+SERIAL NUMBER TERE
+\
+\, :
+CoD. Type
+PRESSURE MP/1100325 Ts, __| | DELIVERY
+Pt 33/32 mm/H20Q3.7/10 m/min ABSORBTION AND
+MOTOR TYPE 1) PV CSPTEGE
+INSTALLED ‘Mot. 3PH 230/400 V |1.4/0.81 A
+~~ 1 Po.25kw 2800 ~rpm) 50 —rHz}-|- FREQUENCY
+NSO On. LCL. F Serv. S1/ IP Sate
+Jorient.re| | Ss |” SPEED
+ES 7 J
+ORIENTATION | PROTECTION
+SERVICE paeha=
+
+23
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ z
+
+11 INTRODUZIONE
+
+11.1 Scopo
+
+Il manuale contiene istruzioni ed awertenze e costituisce documentazione che deve
+necessariamente accompagnare il prodotto stesso. Se questo non avviene il prodotto risulta
+privato di uno dei suoi requisiti essenziali di sicurezza.
+
+Il manuale va conservato con cura, diffuso e reso disponibile a tutte le persone interessate.
+Le aweertenze hanno lo scopo di salvaguardare la sicurezza delle persone esposte contro i
+rischi residui.
+
+Le istruzioni forniscono le indicazioni per il comportamento piu idoneo al corretto impiego del
+ventilatore cosi come previsto dal costruttore.
+
+AVVERTENZE: La sicurezza del ventilatore va adattata anche in
+funzione della destinazione specifica che ad esso si intende dare.
+Essa, infatti, varia anche a seconda della modalita di installazione del
+ventilatore medesimo, in conformita a quanto specificato nel successivo
+paragrafo 3.1 di questo manuale.
+
+J\ Pertanto, le informazioni contenute nel presente manuale sono
+indispensabili per un impiego conforme alla destinazione del prodotto ed
+
+esente da pericolo.
+
+Nessuna parte di esso pud essere duplicata, riprodotta o trasmessa sotto qualunque forma o
+con qualunque mezzo elettronico, meccanico o fotografico senza esplicito permesso della
+Gianneschi Pumps and Blowers
+
+In ogni caso l'ufficio tecnico della Gianneschi Pumps and Blowers é a Vostro completo servizio
+per qualsiasi chiarimento.
+
+11.2 Simbologia generale di sicurezza
+In questo Manuale, alcune informazioni di interesse particolare possono essere precedute da
+uno dei seguenti simboli:
+
+PERICOLO: Evidenzia situazioni fonte di possibili lesioni o danni alla
+persona
+
+PERICOLO: Parti elettriche poste sotto tensione
+
+AVVERTENZE: Evidenzia indicazioni importanti di particolare interesse
+generale
+
+O>>
+
+24
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+12 GENERALITA’
+
+12.1
+
+Nozioni di base e terminologia
+
+| ventilatori prodotti dalla Gianneschi Pumps and Blowers possono essere classificati nel
+seguente modo:
+
+Ventilatori centrifughi (o radiali): si definiscono in questo modo perché il fluido entra
+assialmente e esce radicalmente dalla girante, le pale possono avere le seguente ,
+diverse conformazioni: negative (la pala elabora il fluido con la parte posteriore o
+convessa), positive (la pala elabora il fluido con la parte anteriore 0 concava), radiale
+(iritta, la pala pud elaborare indistintamente il fluido con la parte posteriore o anteriore,
+se non sono previsti dei rinforzi da una parte o dall’altra della pala).
+
+Ventilatori assiali: si definiscono cosi perché il fluido entra assialmente ed esce
+assialmente , le pale hanno un profilo alare.
+
+Le grandezze fondamentali che caratterizzano un ventilatore sono le seguenti:
+
+Portata Volumetrica: é il volume di fluido che attraversa il ventilatore in un certo periodo
+di tempo, in un secondo (m*/s), in un minuto (m*/min.), in un ora (m*/h).
+
+Pressione Statica: é l'energia che la girante fornisce per vincere le resistenze opposte
+dal circuito al passaggio del fluido ( si misura in millimetri di colonna d’acqua (mm c.a.) o
+in Pascal (Pa)).
+
+Pressione Dinamica: é lenergia posseduta dal fluido per effetto della velocita impressa
+dalla girante all’uscita della bocca premente del ventilatore (si misura in mm c.a. 0 in Pa)
+Pressione Totale: é la somma algebrica della pressione statica e la pressione dinamica
+(si misura in mm c.a. 0 in Pa).
+
+Numero di giri: 6 la velocita della girante e si misura in giri minuto.
+
+Rendimento: é il rapporto in percentuale tra lenergia che il ventilatore riesce a
+trasmettere al fluido e lenergia fornita dal motore alla girante, dipende dalla
+conformazione della girante ed é dimensionale.
+
+Potenza Assorbita: é la potenza necessaria (fornita dal motore) al ventilatore per il
+proprio funzionamento, si misura in kW.
+
+Potenza di targa del motore: é la potenza nominale che il motore é in grado di fornire,
+deve sempre essere maggiore della potenza assorbita dal ventilatore, si misura in kW.
+Livello di Pressione sonora: é l'energia che si propaga nel canale dell’orecchio esterno e
+che genera le vibrazioni del timpano, in altre parole é il livello di rumorosita del ventilatore
+e si valuta secondo la scala A dei decibel (Scala che permette di valutare l’impatto del
+rumore sull’orecchio umano in relazione alla frequenza dello stesso)
+
+25
+SoliAnNVUeSSsCri
+PUMps and blowers ———ss_
+
+12.2 Tipologie di ventilatori disponibili
+
+EA
+
+UCINA
+
+IALIAN MARINE
+
+ELL/AP
+
+| ventilatori assiali serie ELL/AP
+utilizzano giranti a profilo alare
+ad alto rendimento. Sono
+destinati ad ambienti in cui
+sono necessarie grandi portate
+d’aria con pressioni
+relativamente modeste, come
+sale macchine di Yachts e
+Super Yachts.
+
+ELL —ELL/R
+
+| ventilatori elicoidali serie “TIL
+— ELL - ELL/R” sono concepiti
+per trasportare grandi portate
+di aria a basse pressioni.
+
+VCP-VCR
+
+La serie di ventilatori VCP, ad
+elevata efficienza e bassa
+rumorosita, € concepita per
+ottenere medie pressioni ad
+alte portate.
+
+La serie di ventilatori VCR é
+simile alla serie VCP ma riesce
+a raggiungere valori piu elevati
+di pressione e portata d’aria
+grazie alla differente forma
+delle pale.
+
+Cc
+
+| ventilatori serie “C” sono
+concepiti per ottenere basse e
+medie pressioni a basse e
+medie portate.
+
+EL-SR
+
+Girante presso fusa in lega di
+alluminio anti scintilla, pale a
+profilo alare orientabili da fermo
+ed equilibrate dinamicamente.
+
+EL-ST
+
+Girante formata da una
+bussola conica con boccaglio
+in ghisa, calotta stampata in
+acciaio Fe360B, pale a profilo
+alare in lega di alluminio anti
+scintilla.
+
+Pale orientabili manualmente
+da fermo ed accuratamente
+equilibrate.
+
+26
+
+°
+ZL SoliAnNVUeSSsCri nin
+ZS Pumps and blowers ——_ s
+
+12.2.1 Orientamenti
+| ventilatori centrifughi possono essere costruiti secondo 16 posizioni di orientamento (8 in
+
+senso orario RD e 8 in senso antiorario LG).
+Il senso di rotazione di un ventilatore é definito per un osservatore posto al lato trasmissione. Gli
+
+orientamenti RD e LG 180 e 225 sono possibili solo con opportuni adattamenti costruttivi.
+
+Rotazione ANTIORARIA LG (Viste lato motore o trasmissione)
+
+LG Counterclockwise rotation (engine or transmission side view)
+LG 135° LG 180° LG 225° LG 270° LG 3157
+
+f © ©, ©»
+
+Rotazione ORARIA RD (Viste lato motore o trasmissione)
+
+LG oF LG 45° LG 90°
+
+RD Clockwise rotation (engine or transmission side view)
+
+RD 90° RD 135° RD 180° RD 225° RD 270° RD 315*
+
+© ©,|@ ©
+
+RD o* RD 45°
+
+Ni }
+
+By
+
+i
+7
+FLUSSO "A" , FLUSSO "B"
+—> 1 SS
+OO )
+| p= I | y
+FLUX "A" FLUX "B"
+—————_} <f$_—_—_—_—_
+Ga grecificare a faie Oi arene | To spaily in ete orae |
+Centrifugal Blower Orientation Axial Blower Execution
+
+27
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+13 AVVERTENZE E PRINCIPALI INDICAZIONI DI SICUREZZA
+
+13.1 Modalita di installazione
+
+UNI 12499:2009:
+- Tipo A: aspirazione libera e mandata libera
+- Tipo B: aspirazione libera e mandata collegata a tubazione
+- Tipo C: aspirazione collegata a tubazione e mandata libera
+- Tipo D: aspirazione e mandata collegate a tubazione
+
+G) | ventilatori possono essere installati con quattro diverse modalita secondo la norma
+
+La Gianneschi Pumps and Blowers non conosce e non puo conoscere quali delle seguenti modalita
+sara prescelta e realizzata dall’utilizzatore, pertanto l’installatore o il cliente finale dovra condurre
+un’analisi dei rischi, specificatamente rapportata alle modalita ed alla tipologia di installazione
+prescelta.
+
+A seconda delle modalita con le quali il cliente intende installare ed inserire il ventilatore
+all'interno dell’impianto devono essere predisposti i seguenti ripari, in base alla tipologia:
+-  Installazione di tipo A: ripari fissi installati al’aspirazione e mandata
+- Installazione di tipo B: riparo installato soltanto sulla mandata
+- Installazione di tipo C: riparo installato soltanto sullaspirazione
+- Installazione di tipo D: nessun riparo fisso installato sull’aspirazione e mandata.
+
+L’utilizzatore o l'installatore del ventilatore deve assicurare che il sistema di tubazioni sia
+equipaggiato con ripari in conformita ai collegamenti delle tubazioni di lavoro, come segue:
+
+- Installazione di tipo A:nessun riparo
+
+- Installazione di tipo B: riparo montato sulla tubazione di mandata
+
+- Installazione di tipo C: riparo montato sulla tubazione di aspirazione
+
+- Installazione di tipo D: riparo montato sia sulla tubazione di mandata che su quella di
+
+aspirazione.
+
+Il riparo deve, in base al progetto impedire l’'accesso a parti del ventilatore e degli accessori che
+possono causare lesioni. Deve essere di costruzione robusta, tale da sopportare le
+sollecitazioni generate dalla macchina e dalle condizioni ambientali. Deve essere fissato in
+modo sicuro nella propria posizione usando dei dispositivi che non si allentino con le vibrazioni
+e richiedano Il’ausilio di un utensile per la rimozione.
+
+danneggiamento o rottura provvedere all’immediata sostituzione.
+
+AVVERTENZA:
+/\ Verificare periodicamente l’efficienzZa di tutti i ripari, in caso di
+
+E’ comunque responsabilita di chi esegue l’installazione garantire che vi sia un adeguato grado
+di protezione contro il rischio di contatti accidentali con parti ed organi in movimento.
+
+28
+°
+as olaAnnNe=SscCr-i tr
+eae pumps and blowers ———s_ a
+
+L’installatore e lutilizzatore devono tenere presente anche altri tipi di rischio, in particolare quelli
+derivanti dall’ingresso di corpi estranei e dal convogliamento di gas esplosivi, infiammabili,
+tossici o ad alta temperatura.
+
+Inoltre sono da considerare i rischi inerenti alle operazioni di manutenzione che dovranno
+avvenire sempre in condizioni di massima sicurezza mediante l’isolamento del ventilatore dal
+motore o con altri opportuni dispositivi.
+
+Al termine delle scelte e in base alle modalita d’installazione definite ed applicate da parte
+dell’installatore e/o del cliente , la macchina definitiva potra essere considerata come
+“macchina finita” ai sensi della direttiva macchine. Dovra essere effettuata una valutazione
+complessiva dei rischi e si dovra redigere una dichiarazione di conformita in base alla direttiva
+macchine 2006/42/CE.
+
+13.2 Rischi connessi con manovre e/o usi impropri
+
+e E’ assolutamente proibito neutralizzare, rimuovere, modificare o rendere comunque
+inefficiente qualsiasi dispositivo di sicurezza, protezione , o controllo sia dei singoli dispositivi
+che del ventilatore.
+
+e Non introdurre le mani, le braccia o qualsiasi parte del corpo in prossimita di organi in
+movimento.
+
+e E’ vietato protendere parti del corpo oltre le strutture di protezione. E’ vietato ’uso di mezzi
+che possono aumentare l’accessibilita neutrale.
+
+e —E vietato utilizzare i ventilatori in atmosfere o ambienti con rischi di esplosione. Se non
+hanno i dovuti accorgimenti di antideflagranza.
+
+e E’ vietato alloperatore non autorizzato eliminare eventuali difetti o anomalie nel
+funzionamento del ventilatore e/o alterare la tipologia di funzionamento e d’installazione.
+
+e Al termine di qualsiasi intervento straordinario che abbia comportato la rimozione di ripari,
+barriere o altre protezioni, provvedere, prima di riavviare il ventilatore, al ripristino
+accertandosi del loro corretto posizionamento e della loro efficacia.
+
+e Tutti i dispositivi di protezione e di sicurezza devono essere mantenuti in condizioni di
+perfetta. e costante efficienza. Anche le targhette segnaletiche di indicazione, di
+raccomandazione e di pericolo devono essere conservate in piena efficienza e al loro posto.
+
+e Per la ricerca di qualsiasi causa di guasto o avaria inerente i ventilatori, adottare tutte le
+precauzioni descritte nel Manuale idonee a prevenire qualsiasi danno alle persone o alle
+cose.
+
+e Ricordarsi di serrare ogni vite, bullone o ghiera di fissaggio di ciascun elemento meccanico
+oggetto di regolazione o messa a punto.
+
+e Prima di avviare il ventilatore verificare che tutti i dispositivi di sicurezza siano installati e
+perfettamente funzionanti. In caso contrario € assolutamente vietato attivarlo, e deve essere
+immediatamente informato il responsabile della sicurezza interno.
+
+e L’operatore deve essere dotato dei Dispositivi di Protezione Individuale (DPI) secondo i
+termini di legge in vigore; sono vietati abiti ingombranti e accessori vari (cravatte, maniche
+larghe, ecc.)Altri rischi connessi con i ventilatori
+
+29
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+| pericoli specifici definiti di sequito sono quelli derivati da aspetti meccanici del
+ventilatore.
+
+Una persona puo subire lesione come risultato di:
+
+h) Trascinamento tra una parte mobile ed una fissa, per esempio una
+girante e la cassa o altra parte fisa del ventilatore
+
+i) Trascinamento tra due parti mobili.
+
+j) Trascinamento nel ventilatore attraverso l’aspirazione dal moto dell’aria
+con conseguente contatto con l’albero o la girante
+
+k) Un contatto con una parte mobile come la girante
+
+l) Un oggetto che viene trascinato nella bocca del ventilatore e proiettato
+ad alta velocita all’aspirazione o alla mandata
+
+m) Un contatto con superfici del ventilatore che si trovino a temperature
+pericolose per esempio minori di —20°C o maggiori di +50°C
+
+n) Pericolo derivante dalla sovra velocita del motore che puo provocare
+delle rotture di parti della macchina
+
+0) Aspirazione di aria con temperature anomale superiori a quelle definite
+possono provocare deformazioni della cassa e pericoli
+
+13.2.1 Rischi specifici con ventilatore in fase di trasporto e di installazione
+
+L’utilizzatore deve prevedere un piano di fissaggio del ventilatore ben livellato, un
+livellamento errato pud generare vibrazioni anomale sul ventilatore che possono nel tempo
+provocare deformazioni e/o rotture con distacco di parti del ventilatore stesso con pericolo
+anche mortale per le persone esposte.
+
+Sara inoltre cura dellutilizzatore predisporre i collegamenti al circuito di terra dell’impianto
+della cassa o della struttura del ventilatore per evitare l’eventuale formazioni e l’accumulo di
+cariche elettrostatiche.
+
+Tutte le eventuali protezioni se installate, devono rimanere correttamente collegate al
+ventilatore con tutti i rispettivi organi di fissaggio (viti, bulloni, ecc.) la rimozione di uno o piu
+punti di fissaggio puo compromettere la funzionalita e la tenuta del riparo.
+
+Il ventilatore in condizioni standard di fornitura non é destinato all’utilizzo in ambienti
+potenzialmente esplosivi.
+
+Il luogo d’installazione del ventilatore deve essere mantenuto il pil: possibile pulito, eventuali
+chiazze di olio o di acqua non dovute al ventilatore dovranno essere rimosse quanto prima.
+Le distanze minime di installazione, definite nel Manuale devono essere sempre rispettate
+per garantire un corretto funzionamento, un errato posizionamento potrebbe compromettere
+il corretto funzionamento del ventilatore.
+
+13.2.2 Rischi specifici con ventilatore in manutenzione
+
+Durante le operazioni di manutenzione e pulizia della girante prestare particolare attenzione
+alla rotazione della stessa, potrebbe causare impigliamento e cesoiamento con le parti fisse
+della cassa.
+
+Quando il ventilatore non é alimentato le parti rotanti possono ancora muoversi a causa
+dell’aria che attraversa il ventilatore, sia per cause naturali o per corrente fluida indotta da un
+
+30
+
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+ventilatore che si trova in altre parti del sistema di tubazioni collegate, anche in questo caso
+esiste il rischio di impigliamento e cesoiamento con le parti fisse della cassa.
+
+e E’ necessario prevedere una manutenzione programmata del ventilatore al fine di evitare
+cedimenti meccanici o rotture derivanti da una usura o generate da una carente
+manutenzione.
+
+ATTENZIONE E’ FATTO ASSOLUTO DIVIETO DI:
+
+e Eseguire qualsiasi operazione di manutenzione senza aver verificato
+che la girante del ventilatore sia effettivamente ferma.
+
+e Procedere a qualsiasi operazione di manutenzione del ventilatore
+(compresa la lubrificazione) prima di aver separato lo stesso
+dall’alimentazione generale di linea
+
+e Pulire il ventilatore durante il funzionamento
+
+e Aprire i ripari, o i portelli di ispezione del ventilatore durante il
+funzionamento dello stesso.
+
+14 TRASPORTO E INSTALLAZIONE
+
+L’operazione di sollevamento e movimentazione del ventilatore pud creare situazioni pericolose
+per le persone esposte; si raccomanda pertanto di attenersi alle disposizioni fornite dalla
+Gianneschi Pumps and Blowers e di impiegare attrezzature idonee.
+
+Le operazioni di installazione devono essere sempre eseguite esclusivamente da tecnici
+specializzati.
+
+14.1. Trasporto e sollevamento
+
+Si raccomanda di eseguire tutte le operazioni di sollevamento e movimentazione del ventilatore
+o delle sue parti con estrema prudenza, evitando urti che ne possano compromettere il buon
+funzionamento o danneggiare parti rivestite. Utilizzare esclusivamente i punti previsti per il
+sollevamento del ventilatore distribuendo il carico in modo uniforme.
+
+E’ LASCIATA RESPONSABILITA ALL’UTILIZZATORE CIRCA LA SCELTA
+DELLA ATTREZZATURA E DELLE FUNI, FASCE O CATENE RITENUTE PIU
+IDONEE SIA COME FUNZIONALITA SIA COME PORTATA
+
+14.2 Immagazzinamento
+
+Qualora il ventilatore fosse destinato ad un immagazzinamento o ad uno stoccaggio, deve
+essere protetto dalle intemperie e dall’umidita, dalla polvere e dall’aggressione di agenti
+atmosferici e ambientali.
+
+E’ consigliabile effettuare controlli periodici per verificare il buono stato di conservazione del
+ventilatore e far ruotare manualmente la girante all’incirca una volta al mese per evitare
+deformazioni dei cuscinetti.
+
+31
+°
+—-s CcoLAnNeS=SsCr-i oi
+ZS Pumps and blowers ——_ s
+
+14.3. Modalita di sollevamento dei ventilatori
+
+14.3.1. Sollevamento dei ventilatori centrifughi serie C
+
+| ventilatori serie C non sono prowisti dei golfari presenti sui ventilatori serie VCP-VCR, per la
+movimentazione quindi, la fascia di sollevamento va passata al disotto del motore elettrico
+(come indicato in Fig. 4.1).
+
+fh
+)
+
+Figura 14.1 Esempio di sollevamento ventilatori centrifughi serie C
+
+14.3.2 Sollevamento dei ventilatori centrifughi in esecuzione 4
+
+| ventilatori serie VCP-VCR sono completi di motore, per il sollevamento é necessario utilizzare,
+oltre agli appositi fori realizzati nella struttura. Il golfare di sollevamento del motore (come
+indicato in Fig. 4.2).
+
+Figura 14.2 Esempio di sollevamento ventilatori centrifughi serie VCP-VCR
+
+32
+ge SlANUNESscCr-ii
+
+_—————_
+ne PUMps and blowers ss
+
+14.3.3 Sollevamento dei ventilatori assiali
+
+Figura 14.3 Esempio di sollevamento ventilatori assiali
+
+14.3.4 Sollevamento dei ventilatori imballati con cassa
+
+Figura 14.4 Esempio di sollevamento ventilatori imballati con cassa
+
+EA
+
+UCINA
+TALIAN MARINE
+
+GLI ESEMPI RIPORTATI SONO DEI CASI ESEMPLIFICATIVI, NON ESSENDO
+POSSIBILE DETERMINARE A PRIORI TUTTE LE CONFIGURAZIONI CON CUIE
+POSSIBILE SOLLEVARE UN VENTILATORE DELLA G/ANNESCHI.
+
+33
+°
+ZL olaAnnNe=SscCr-i tr
+es PUMPps and blowers ss cg
+
+14.4  Installazione
+
+Per il posizionamento del ventilatore non sono necessarie particolari fondazioni é sufficiente
+predisporre un piano ben livellato, idoneo a sopportare il carico dovuto alla massa del
+ventilatore.
+
+SI RACCOMANDA L’USO DI SUPPORTI ANTIVIBRANT| PER MINIMIZZARE LA
+PROPAGAZIONE DELLE VIBRAZIONI DURANTE IL FUNZIONAMENTO DEL VENTILATORE
+
+La base di appoggio deve essere orizzontale e piana (ventilatori centrifughi) per evitare
+fenomeni di torsione ed il disallineamento dei Supporti: se si rendesse necessario si dovranno
+collocare opportuni spessori metallici tra il basamento e il piano d’appoggio per ottenere la
+perfetta aderenza. Utilizzare i punti di fissaggio predisposti assicurandosi che il serraggio della
+bulloneria non deformi la struttura del ventilatore.
+
+Le tubazioni di collegamento al ventilatore vanno sostenute separatamente e devono essere
+coassiali con le bocche di aspirazione e mandata del ventilatore, al fine di non indurre
+deformazioni dovute al serraggio della bulloneria.
+
+TUTTE LE OPERAZIONI DI INSTALLAZIONE DEVONO ESSERE ESEGUITE SOLO
+ED ESCLUSIVAMENTE DA PERSONALE QUALIFICATO, AUTORIZZATO E
+IAN DOTATO DI IDONEA ATTREZZATURA.
+
+14.4.1. Distanze minime di posizionamento
+
+Compatibilmente con gli spazi a disposizione é consigliato (al fine di garantire un corretto
+ingresso del fluido nella bocca aspirante) prevedere, per i ventilatori con aspirazione collegata a
+tubazione, un tratto di condotta rettilineo, pari a circa 2.5 volte il diametro della girante del
+ventilatore.
+
+Vey
+ray
+
+4
+
+Figura 14.5 Distanza minima di posizionamento con tubazione sull'aspirazione
+
+34
+°
+—-s CcoLAnNeS=SsCr-i oi
+ZS Pumps and blowers ——_ s
+
+Nel caso che il ventilatore funzioni con bocca aspirante libera é consigliato posizionarlo lontano
+da pareti o altri macchinari ad una distanza minima pari a 1.5 volte il diametro della girante del
+ventilatore.
+
+1,5 d
+
+ee
+
+LLL 1
+
+Figura 14.6 Distanza minima di posizionamento con aspirazione libera
+
+14.5 Avvertenze generali per il sollevamento e montaggio delle parti
+
+scollegate del ventilatore
+Per motivi di trasporto alcune parti del ventilatore possono essere smontate.
+
+ATTENZIONE: TUTTE LE OPERAZIONI DI TRASPORTO, INSTALLAZIONE E MONTAGGIO
+DEVONO ESSERE ESEGUITE ESCLUSIVAMENTE DA PERSONALE QUALIFICATO
+
+ATTENZIONE: LA MOVIMENTAZIONE DI PARTI SCOLLEGATE O SMONTATE DALLA
+MACCHINA DOVRA ESSERE ESEGUITA CON MEZZI DI TRASPORTO IDONEI
+
+>>
+
+GENERALMENTE NON SONO NECESSARIE ATTREZZATURE PARTICOLARI O
+DEDICATE PER IL SOLLEVAMENTO E IL RIMONTAGGIO DELLE PARTI DEL
+VENTILATORE.
+
+NEL CASO DI MONTAGGIO DI PARTI PER CUI E RICHIESTA UNA PROCEDURA
+SPECIFICA SARA CURA DELLA GIANNESCHI FORNIRE LE INFORMAZIONI
+SUPPLEMENTARI PER LA CORRETTA ESECUZIONE DELLE OPERAZIONI
+
+35
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+14.6 Note sui motori in Corrente Continua
+
+- Verificare periodicamente lusura delle spazzole
+
+- L’ aumento della tensione (<24V) pud causare l’incremento dei giri del motore e il
+conseguente aumento dell’ assorbimento elettrico
+
+- Un assorbimento elettrico eccessivo pud causare il surriscaldamento del motore
+
+- Verificare sempre prima di ogni avvio la tensione di alimentazione
+
+Per maggiori dettagli sui motori in C.C. consultare il manuale uso e manutenzione specifico
+
+14.7 Collegamento elettrico
+
+La linea di alimentazione elettrica del ventilatore deve essere prevista di adeguata potenza.
+L’allacciamento all’impianto elettrico deve essere eseguito da personale qualificato e comunque
+si ricorda che il cliente 6 responsabile di tutta la parte di alimentazione elettrica fino alla
+morsettiera del motore.
+
+Si richiama I’attenzione del cliente sulla necessita di prevedere tutte le condizioni di sicurezza
+necessarie per la messa a terra del ventilatore.
+
+L’impianto di messa a terra deve essere conforme alle normative vigenti nel paese di
+installazione e regolarmente verificato da personale qualificato.
+
+Eseguire il collegamento del conduttore di terra prima di ogni altro collegamento.
+
+Verificare che lo schema di collegamento (vedi figura 4.7) sia predisposto per la tensione di
+alimentazione.
+
+Normalmente i motori elettrici standard possono funzionare indifferentemente nei due sensi di
+rotazione. Per invertire il senso di rotazione é sufficiente scambiare tra loro due qualsiasi dei
+cavi di alimentazione direttamente sulla morsettiera.
+
+Sara inoltre cura del cliente predisporre un sezionatore elettrico vicino al ventilatore in modo
+che il personale addetto alla manutenzione abbia il diretto controllo sull’alimentazione elettrica
+del ventilatore.
+
+DIMENSIONARE E SCEGLIERE IL DISPOSITIVO E | CAVI DA UTILIZZARE PER | COLLEGAMENTI
+ELETTRICI DEL VENTILATORE, IN FUNZIONE DEL MOTORE INSTALLATO E DELLA LINEA DI
+ALIMENTAZIONE A MONTE.
+
+f! ATTENZIONE: E’ RESPONSABILITA DEL CLIENTE E/O DELL’INSTALLATORE ELETTRICO
+
+| lavori sulla parte elettrica devono avvenire a ventilatore fermo, scollegato elettricamente dalla
+rete.
+
+Prima della installazione /messa in servizio bisogna verificare che i dati di targa del motore
+elettrico siano adeguati alle caratteristiche della rete di alimentazione.
+
+36
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+14.8 Collegamento alle tubazioni
+
+Il collegamento del ventilatore alle condotte deve essere effettuato in modo che le parti siano
+correttamente allineate e che non Si creino ostruzioni delle canalizzazioni per effetto di
+guarnizioni o parti flessibili. Il peso delle tubazioni non deve gravare sul ventilatore e bisogna
+evitare di deformare parti della macchina per mezzo del collegamento.
+
+15 VERIFICHE DA EFFETTUARE PRIMA E DOPO L’AVVIAMENTO
+
+15.1 Controlli preliminari
+
+LE VERIFICHE AL PRIMO AVVIAMENTO DEVONO ESSERE ESEGUITE ESCLUSIVAMENTE A
+‘ VENTILATORE FERMO ED ISOLATO DALLE FONTI DI ENERGIA
+
+Al primo avviamento dell'impianto bisogna procedere ad alcuni controlli preliminari:
+
+e Verifica del serraggio della bulloneria (girante, supporti, ancoraggi a terra, eventuale
+trasmissione)
+
+e Controllo dello stato di lubrificazione dei cuscinetti del ventilatore e del motore; se
+necessario sostituire il grasso
+
+e Verificare che tutte le parti rotanti possano girare liberamente
+
+e Verificare che non vi siano oggetti o corpi estranei all’interno del ventilatore
+
+e Verificare che il senso di rotazione sia quello corretto: per fare questo é sufficiente un breve
+impulso di corrente per determinare se il senso di rotazione é quello indicato dalla freccia
+posta sulla cassa del ventilatore; se necessario invertire il senso di rotazione (vedi
+Collegamento elettrico paragrafo 4.7)
+
+Procedere all’'avwviamento dei ventilatori centrifughi parzializzando il flusso dell’aria attraverso la
+
+macchina in modo da ridurre l’'assorbimento allo spunto ed il tempo di avwwiamento del motore.
+
+| ventilatori assiali invece non devono mai funzionare a bocche completamente chiuse
+
+15.2 Controlli da effettuare a regime
+
+Verificare che l’'assorbimento di corrente non superi il valore di targa del motore, in caso
+contrario arrestare immediatamente il ventilatore e contattare il costruttore.
+
+Il funzionamento del ventilatore deve essere privo di vibrazioni eccessive e rumorosita anomale.
+Verificare, a ventilatore fermo, che la temperatura dei cuscinetti non ecceda i limiti tollerabili con
+temperatura ambientale di 20°C (temperatura massima dei supporti 70°C) bisogna tenere
+presente che nelle prime ore di funzionamento un valore della temperatura (Superiore a quello
+indicato) pud essere ritenuto normale salvo poi stabilizzarsi su un valore inferiore. In caso di
+surriscaldamento anomalo dei cuscinetti contattare il servizio tecnico della Gianneschi Pumps
+and Blowers
+
+Dopo 3-4 ore di funzionamento, a ventilatore fermo ed isolato dalle fonti di energia, verificare
+nuovamente il serraggio della bulloneria, la temperatura dei cuscinetti e per i ventilatori a
+trasmissione anche la temperatura e la tensione delle cinghie
+
+37
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+16 ANOMALIE DI FUNZIONAMENTO E LORO CAUSE
+
+16.1 Ventilatori centrifughi e assiali
+Nella tabella seguente sono riportati i principali problemi riscontrabili su un ventilatore con
+riferimento esplicito al tipo di ventilatore, qualora essi non siano comuni a tutte le tipologie.
+
+PROBLEMA INCONVENIENTE CAUSA
+
+e ~§=6©- Velocita di rotazione troppo bassa
+
+e Bocca o tubazione parzialmente ostruite
+(solo per ventilatori centrifughi)
+
+e Girante parzialmente ostruita (solo per
+ventilatori centrifughi)
+
+Assorbimento di potenza molto Portata d’aria insufficiente * Pressione resistente dellimpianto superiore
+inferiore al valore di progetto (solo per ventilatori centrifughi) al valore di progetto (solo per ventilatori
+centrifughi)
+® Senso di rotazione invertito (solo per
+ventilatori assiali)
+e = Velocita di rotazione eccessiva
+e  Pressione resistente dell’impianto inferiore al
+Elevato assorbimento di Portata d’aria eccessiva valore di progetto (solo per i ventilatori
+potenza (solo per ventilatori centrifughi) centrifughi)
+e Flusso dellaria contraria al senso di
+rotazione del ventilatore
+Elevato assorbimento di e §©Alimentazione del motore ad una tensione
+potenza inferiore a quella di targa
+
+e = Difetti negli avvolgimenti del motore
+
+e Portata d’aria inferiore al valore del progetto
+(solo per ventilatori assiali)
+
+e = Velocita di rotazione troppo bassa
+
+e Senso di rotazione invertito (solo per
+ventilatori assiali)
+
+Pressione insufficiente e Portata d’aria superiore al valore di progetto
+
+(solo per ventilatori assiali)
+
+e  Condizioni di portata molto bassa
+
+e §6©Fluttuazione della portata per ventilatori
+
+Funzionamento Pulsante Instabilita della portata d’aria funzionanti in parallelo
+
+® Vortici cellaria incdotta dallimpianto vicino
+alla bocca di aspirazione
+
+Vibrazioni Funzionamento pulsante e (vedi punto precedente)
+
+e  Usura di parti della girante
+Vibrazioni Squilibrio di parti rotanti e _Deposito di materiali sulla girante
+Vibrazioni Anomalie o difetti meccanici e — Strisciamento tra parti in moto relativo
+
+e —_ Difetti intrinseci dei cuscinetti
+e = Avarie dei cuscinetti dovute a squilibrio della
+girante o a tiro cinghia eccessivo
+
+Strisciamento tra parti i moto relative
+Vibrazioni
+
+Funzionamento pulsante
+
+Anomalie elettromagnetiche del motore
+Presenza di orefizi o spigoli vivi
+
+Rumorosita
+
+38
+
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+17 MANUTENZIONE
+
+Leggere attentamente questa sezione prima di eseguire le operazioni di manutenzione sul
+
+ventilatore: questo garantira maggiori condizioni di sicurezza al personale preposto e
+
+maggiore affidabilita degli interventi eseguiti.
+
+Le regole di sicurezza nelle fasi di manutenzione del ventilatore devono tenere conto che:
+
+e Le operazioni di manutenzione e/o lubrificazione devono essere eseguite solo da
+personale qualificato ed esperto, appositamente autorizzato dalla direzione tecnica dello
+stabilimento/cantiere, secondo le direttive e€ norme di sicurezza vigenti, utilizzando gli
+attrezzi, gli strumenti ed i prodotti idonei a tale scopo.
+
+e Durante le fasi di manutenzione é necessario utilizzare abbigliamenti idonei, quali tute da
+lavoro aderenti, scarpe antinfortunistiche, evitando tassativamente capi larghi o con parti
+sporgenti.
+
+e Si consiglia, durante le fasi di manutenzione del ventilatore di delimitarlo e identificarlo
+con cartelli riportanti la dicitura “VENTILATORE IN MANUTENZIONE”
+
+Durante qualsiasi operazione di manutenzione il ventilatore deve essere:
+e Scollegato e isolato dall’ alimentazione elettrica
+« Ove presente, sconnesso il giunto elastico dal motore
+
+Il responsabile della manutenzione deve avvalersi di una equipe di persone in modo da
+garantire un coordinamento assoluto tra le stesse e la massima sicurezza delle persone
+esposte al pericolo. Tutte le persone che si accingono ad operazioni di manutenzione devono
+essere in pieno contatto visivo per segnalare eventuali pericolo.
+
+ATTENZIONE: L’EVENTUALE MOVIMENTAZIONE DI PARTI DA SCOLLEGARE
+O SMONTARE DALLA MACCHINA DOVRANNO ESSERE ESEGUITE CON
+MEZZI DI TRASPORTO IDONEI
+
+GENERALMENTE NON SONO NECESSARIE ATTREZZATURE PARTICOLARI O DEDICATE PER
+LA MANUTENZIONE DEI VENTILATORI
+
+L’INTEGRALE SISTEMATICA MANUTENZIONE DEL VENTILATORE E NECESSARIA PER IL
+NORMALE CORRETTO FUNZIONAMENTO ED INOLTRE COSTITUISCE UN FATTORE DI
+SICUREZZA PER L’OPERATORE
+
+PULIZIA E MANUTENZIONE PERIODICA, CONGIUNTAMENTE ALLA LUBRIFICAZIONE, SONO
+INDISPENSABILI PER OTTENERE IL CORRETTO FUNZIONAMENTO E LA PIU LUNGA DURATA
+OPERATIVA DEL VENTILATORE
+
+CICIONE
+
+39
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ a
+
+17.1 Controllo e pulizia delle parti a contatto con il flusso
+
+La periodica pulizia della girante consente di evitare le vibrazioni provocate da eventual
+depositi di polvere accumulatisi durante il funzionamento del ventilatore.
+
+Qualora il ventilatore sia destinato al trasporto di fluidi anche leggermente polverosi, contenenti
+polveri abrasive o a trasporti pneumatici 6 necessario ispezionare periodicamente lo stato di
+pulizia e/o di usura della girante.
+
+Depositi di materiale o usura di alcune parti della girante inducono vibrazioni anomale nel
+ventilatore.
+
+Nel caso in cui vi fossero parti eccessivamente usurate é indispensabile provvedere alla
+sostituzione della girante.
+
+18 SMONTAGGIO
+
+DEVONO ESSERE ESEGUITE ESCLUSIVAMENTE DA PERSONALE QUALIFICATO
+ED AUTORIZZATO, IN NESSUN CASO L’OPERATORE DEVE PROCEDERE AD
+ESEGUIRE TALI OPERAZIONI.
+
+TUTTE LE OPERAZIONI DI SMONTAGGIO E RIMONTAGGIO DI SEGUITO INDICATE
+
+ATTENZIONE: OGNI OPERAZIONE DI SMONTAGGIO E RIMONTAGGIO DEVE ESSERE ESEGUITA:
+
+d) CON L’ASSOLUTA CERTEZZA CHE IL VENTILATORE SIA COMPLETAMENTE FERMO (GIRANTE NON IN
+MOVIMENTO); TOGLIERE TENSIONE AL QUADRO DI COMANDO GENERALE TRAMITE IL SEZIONATORE E
+APPORRE UN LUCCHETTO CHE DEVE ESSERE CONSEGNATO AL RESPONSABILE DELLA MANUTENZIONE
+
+€) DOPO AVER CREATO L’AMBIENTE DI LAVORO ADEGUATAMENTE DOTATO DI OGNI ATTREZZATURA
+NECESSARIA E PRIVO IDI PERICOLOSE COMBINAZIONI
+
+f) AVENDO ACCURATAMENTE PULITO, SGRASSATO, O LUBRIFICATO A SECONDA DELLA DESTINAZIONE
+OGNI PEZZO RIMONTATO.
+
+18.1 Boccaglio di aspirazione o mandata
+Svitare i dadi di fissaggio del boccaglio alla cassa del ventilatore. Estrarre il boccaglio
+
+18.2 Cassa
+
+Per tutti i ventilatori orientabili la cassa é fissata alla sedia per mezzo di bulloni. E’ sufficiente
+svitare i dadi di bloccaggio al disco sedia.
+
+Per i ventilatori non orientabili con cassa intera non é possibile effettuare lo smontaggio.
+
+18.3 Girante
+
+Smontare il boccaglio (se presente) e dove possibile anche la cassa del ventilatore.
+
+Per i ventilatori centrifughi: togliere la vire con rondella di bloccaggio e utilizzare un estrattore
+di dimensioni adeguate.
+
+E’ opportuno predisporre un sistema di sostegno della girante prima di ultimare l’estrazione.
+Per i ventilatori assiali: Svitare il dado di bloccaggio, togliere la bussola conica se presente
+
+40
+°
+ZL oLiAnNNe=_SsCr-il tr
+eae pumps and blowers ———s_ z
+
+ed estrarre la girante eventualmente ricorrendo ad un estrattore.
+In ogni caso questa operazione deve essere effettuata con cura, evitando urti che possano
+alterare l’equilibratura della girante o deformarla.
+
+19 SMANTELLAMENTO DEL VENTILATORE
+
+Alla fine del ciclo di vita del ventilatore il cliente deve procedere alla demolizione del ventilatore
+prevedendo innanzitutto allo svuotamento dei fluidi lubrificanti e alla pulizia generale dei vari
+elementi. Successivamente si passera alla separazione dei pezzi costituenti il ventilatore in
+componenti e materiale elettrico.
+
+A questo punto ad un ulteriore separazione in materiali; ad esempio: i motori elettrici
+(avvolgimenti in rame, ecc.), particolari metallici (carpenterie, ecc.) materiali plastici, ecc.
+Quindi una volta ultimata questa fase si passera allo smaltimento differenziato
+
+20 LISTA RICAMBI
+
+e VENTILATORI ASSIALI e VENTILATORE CENTRIFUGO
+1. Vite Fissaggio Ventola 1. Vite
+2. Grower 2. Flangia di Aspirazione
+3. Rondella 3. Griglia di Protezione
+4. Girante 4. Vite fissaggio Ventola
+5. Cassa Ventilatore 5. Grower
+6. Dado 6. Rondella
+7. Rondella 7. Girante
+8. Vite 8. Distanziale (Solo ATEX)
+9. Motore 9. Bullone
+10.Chiocciola Ventilatore
+11.Dado
+12.Flangia di Mandata
+13. Vite
+14.Dado
+15.Motore
+
+41
+EA
+
+UCINA
+
+FTALIAN MARUNE
+
+NOUSTRY
+0
+
+I-l
+
+SLAM eS
+
+OUMIPS and blowers ———s=
+
+_
+eM
+
+DISEGNI ESPLOSI
+
+20.1
+
+ZZ GSIANNESCHI EA
+OUMPS and blowers SS sar
+
+20.2 TARGHETTA VENTILATORE
+
+La targa rappresenta l’unico mezzo di identificazione del ventilatore riconosciuto dal
+costruttore e che deve rimanere inalterata nel tempo.
+
+IMPORTANTISSIMO: Comunicare sempre il numero di matricola del ventilatore quando si
+rende necessario ordinare un pezzo di ricambio.
+
+NUMERO DI
+MATRICOLA HES
+% (y oy
+CiANVESCH
+COD. Type “
+PRESSIONE MP/1100325 c 302 ee PORTATA
+TPO DI'MOTORE.._||PPSsS=. mavlec os 7/10 ~ mymin! | ASSORBIMENTO E
+. oo TENSIONE
+POTENZA “Mot. 3PH 230/400 V71.4/0.81 A
+INSTALLATA™ ~~ 0.25 kw 2800 -rpm| 50 —H=eP> FREQUENZA
+CLASSE D]__-} .cL. Fs |Serv.s1| IP 55_ Ce
+ISOLAMENTO' |levenkcel — ~ VELOCITA'
+Ae Bt H ==
+ORIENTAMENTO | See
+SERVIZIO
+
+43
+ZX GIANNESCHe 2
+DUMPS and bowes SS catia
+
+ELL, ELL/R, ELL/AP, EL/SR, EL/ST Ventilatori / Blowers
+
+DICHIARAZIONE C E DI CONFORMITA’
+
+Ai sensi dell’ allegato II della direttiva macchine 2006/42/CE e successivi emendamenti.
+
+Il sottoscritto costruttore:
+GIANNESCHI Pumps and Blowers §.r_l.
+Dichiara sotto la propria responsabilita che gli elettroventilatori assiali serie:
+ELL, ELL/R, ELL/AP, EL/SR, EL/ST, e loro derivati,
+destinate alla movimentazione di aria pulita in ambienti ove non vi sia il pericolo di esplosione sono conformi
+a quanto prescritto dalle direttive:
+DIRETTIVA MACCHINE (MSD) 2006/42/CE
+DIRETTIVA BASSA TENSIONE (LVD) 2006/95/CE
+e successivi emendamenti.
+
+E fatto divieto di mettere in servizio gli elettroventilatori, oggetto di questa dichiarazione, prima che
+Pimpianto o il sistema in cui sara incorporato sia stato dichiarato conforme alle disposizioni delle
+direttive vigenti e ai regolamenti di classe applicabili.
+
+Dichiara inoltre che la marcatura C € € apposta sulla targhetta del prodotto.
+
+DECLATATION C E OF CONFORMITY
+Under Annex Il of the Machinery Directive 2006/42/CE as amended.
+
+The undersigned manufacturer:
+GIANNESCHI Pumps and Blowers S.r.L.
+Declare on own and exclusive risk, that the axial blowers series:
+ELL, ELL/R, ELL/AP, ELL/SR, ELL/ST, and their derivate,
+Suitable for move clean air and to work in not danger of explosion areas are conformity with the provisions
+of:
+MACHINERY DIRECTIVE (MSD) 2006/42/CE
+LOW VOLTAGE DIRECTIVE (LVD) 2006/95/CE
+and subsequent amendments.
+
+It’ is forbidden to operate the blowers referred to in this declaration before the finished product in
+each it will be incorporated or assembled has been declared to be in conformance with the directive
+in force and class rules applied.
+
+It also declares that the marking C € is affixed in the product plate.
+
+GIA NESsCH poet and Blowers S.rl.
+
+44
+ZX GIANNESCHe 2
+DUMPS and bowes SS catia
+
+Cc 5 vc P 5 vc R Ventilatori / Blowers
+
+DICHIARAZIONE C E DI CONFORMITA’
+
+Ai sensi dell’ allegato II della direttiva macchine 2006/42/CE e successivi emendamenti.
+
+II sottoscritto costruttore:
+GIANNESCHI Pumps and Blowers §.r_l.
+Dichiara sotto la propria responsabilita che gli elettroventilatori centrifughi serie:
+C, VCP, VCR, e loro derivati,
+destinate alla movimentazione di aria pulita in ambienti ove non vi sia il pericolo di esplosione sono conformi
+a quanto prescritto dalle direttive:
+DIRETTIVA MACCHINE (MSD) 2006/42/CE
+DIRETTIVA BASSA TENSIONE (LVD) 2006/95/CE
+e successivi emendamenti.
+
+E fatto divieto di mettere in servizio gli elettroventilatori, oggetto di questa dichiarazione, prima che
+Pimpianto o il sistema in cui sara incorporato sia stato dichiarato conforme alle disposizioni delle
+direttive vigenti e ai regolamenti di classe applicabili.
+
+Dichiara inoltre che la marcatura C € € apposta sulla targhetta del prodotto.
+
+DECLATATION C E OF CONFORMITY
+Under Annex Il of the Machinery Directive 2006/42/CE as amended.
+
+The undersigned manufacturer:
+GIANNESCHI Pumps and Blowers S.r.L.
+Declare on own and exclusive risk, that the centrifugal blowers series:
+C, VCP, VCR, and their derivate,
+Suitable for move clean air and to work in not danger of explosion areas are conformity with the provisions
+of:
+MACHINERY DIRECTIVE (MSD) 2006/42/CE
+LOW VOLTAGE DIRECTIVE (LVD) 2006/95/CE
+and subsequent amendments.
+
+It’ is forbidden to operate the blowers referred to in this declaration before the finished product in
+each it will be incorporated or assembled has been declared to be in conformance with the directive
+in force and class rules applied.
+
+It also declares that the marking C € is affixed in the product plate.
+
+GIA " Hi Pym . ‘and Blowers S.r.l.
+
+45
+ZX GIANNESCHe 2
+DUMPS and bowes SS catia
+
+SUPPLEMENTO ALLA DICHIARAZIONE DI CONFORMITA’
+SOLO PER MOTORI IN C.C.
+
+La sottoscritta ditta GIANNESCHI Pumps and Blowers &.r_l.
+dichiara che i ventilatori serie C ed ELL rispettano i contenuti della norma ISO 9097 ad eccezione di quanto
+richiesto nel punto 4.2.
+Come infatti indicato nel manuale uso-manutenzione dei prodotti
+IL DISPOSITIVO NON PUE’ ESSERE AZIONATO IN ATMOSFERA ESPLOSIVA,
+e pertanto si ritiene tale requisito non applicabile (RIF. ISO 8846 — Punto 1).
+
+E fatto divieto di mettere in servizio gli apparecchi, oggetto di questa dichiarazione, prima che la
+macchina o il sistema in cui sara incorporato sia stato dichiarato conforme alle disposizioni delle
+direttive vigenti e i regolamenti di classe
+
+IN ADDITIONAL TO THE CONFORMITY DECLARATION
+ONLY FOR D.C. MOTORS
+
+The undersigned manufacturer GIANNESCHI Pumps and Blowers S.rt.
+Declare that the blowers series C and ELL obey the standard into a ISO 9097 except the point 4.2
+As indicated in the instruction manuals
+THE BLWER CAN’T BE START IN EXPLOSIVE ATMOSPHERE
+And therefore considerer that requirement not applied
+
+It’ is forbidden to operate the blowers referred to in this declaration before the finished product in
+each it will be incorporated or assembled has been declared to be in conformance with the directive
+in force and class rules applied.
+
+i NEsC| pie ps and Blowers S.r.l.
+ane i
+
+46
+=
+eM
+
+olLAnrnIe Ss
+OUMIPS and blowers SS
+
+I-l
+
+EA
+
+UCINA
+
+TALIAN MUSLIN
+NOUST
+
+Always check the diagram inside the tenminal box
+The connection diagram could differ trom this
+depending on market avallabllity
+
+Market avallabllity.
+
+AMWays Check the diagram inside the terminal box
+The connection diagram could differ depending o
+
+es)
+
+ame
+| M
+
+220/240 Sphases | S60/420 sphasces
+
+360/415‘ sphases | 660/690 sphases
+
+2 poles
+
+Hight velocity
+
+4 poles
+
+&
+
+Low velocity
+
+4 poles
+
+Hight velocity
+
+6 poles
+
+Low velocity
+
+2velocities sphases
+
+single winding single voltage
+
+2velocitles sphases.
+
+double winding single voltage
+
+2poles / \,
+
+Wwe U2 iW
+
+oO ao 0
+
+dy
+
+Va TW TA
+
+Oo 0 ©
+
+Hight velocity
+
+4 poles /
+
+Wwe We
+
+Spoeles
+jf awe te ne
+
+Oo oOo oO
+wt ot owt
+Oo o
+
+Hight velocity
+
+4 poles pu
+
+Wwe tue wz }
+
+aut Twi oH
+rc rt
+
+Low velocity
+
+(IB
+
+S2velociiles sphases
+
+double winding double voltage
+
+aveloclitles Sphases
+
+double winding double voltage
+
+47
+Zz GSIANNESCHI FA
+pumps and blowers ——_ sca
+
+NOTE:
+
+Blower Plate
+
+ASSISTENZA — SERVICE
+
+Gianneschi Service S.r.l.
+Via dei Calzolai 2/b 55041 Capezzano Pianore (LU) ITALY
+
+Tel.: +39 0584-361087 (r.a.) Fax: +39 0584 361088
+E-Mail: service@gianneschi.net
+
+Gianneschi Pumps and Blowers S.r.|. - Via G. Pastore, n°19/21
+
+55040 Capezzano Pianore (LU) - ITALIA
+@ Tel.: +39 0584 969391 Hi Fax: +39 0584 969411
+Cod. FIS. e P.IVA IT: 01619620469 — (REA 154940 Lucca) — Cap. Soc. 54.000 €
+
+Web site: www.gianneschi.net; E-Mail: info@gianneschi.net
+
+48

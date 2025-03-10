@@ -8,16 +8,17 @@ This POC demonstrates how AI can be used to process and retrieve information fro
 
 ## Features
 
-- **Pre-loaded Documents**: Process ship manuals in PDF and DOCX formats from a static folder
+- **Pre-loaded Documents**: Process ship manuals in TXT format from a static folder
 - **AI-Powered Chat**: Ask questions about the ship in natural language
 - **Quick Information Retrieval**: Get precise answers extracted from technical documentation
+- **Multiple AI Providers**: Switch between OpenAI and Google Gemini models
 - **Simple Interface**: Easy-to-use Streamlit interface for demonstration
 
 ## Tech Stack
 
 - **Frontend**: Streamlit
-- **Document Processing**: PyPDF, docx2txt
-- **AI Services**: OpenAI GPT models
+- **Document Processing**: Text file processing
+- **AI Services**: OpenAI GPT models and Google Gemini models
 - **Dependency Management**: Poetry
 
 ## Getting Started
@@ -26,7 +27,7 @@ This POC demonstrates how AI can be used to process and retrieve information fro
 
 - Python 3.10 or higher
 - Poetry (dependency management)
-- OpenAI API key
+- API key for either OpenAI or Google Gemini (or both)
 
 ### Installation
 
@@ -37,8 +38,13 @@ This POC demonstrates how AI can be used to process and retrieve information fro
    ```
 3. Set up your environment variables:
    ```
-   # Edit the .env file with your OpenAI API key
-   OPENAI_API_KEY=your_api_key_here
+   # Edit the .env file with your API key(s)
+   OPENAI_API_KEY=your_openai_api_key_here
+   OPENAI_MODEL=gpt-4o-mini
+   
+   # Google Gemini Settings
+   GEMINI_API_KEY=your_gemini_api_key_here
+   GEMINI_MODEL=gemini-2.0-flash-lite
    ```
 4. Place ship manual TXT files in the `app/data/manuals` directory
 
@@ -70,28 +76,35 @@ poetry run streamlit run app/ui/main.py
    - The application will check for prerequisites and launch
    - Access the web interface at http://localhost:8501
 
-2. **Select Manuals**:
-   - Use the checkboxes in the sidebar to select which manuals to include in your search
-   - The system will search only the selected manuals when answering questions
+2. **Select a Manual**:
+   - Use the radio buttons in the sidebar to select which manual to search
+   - Only one manual can be active at a time for optimal performance
    - Each manual name is shown with its size for easy reference
 
-3. **Ask Questions**:
+3. **Choose AI Provider**:
+   - Select either Gemini or OpenAI from the Settings section in the sidebar
+   - Gemini has a larger context window and may handle larger manuals better
+   - OpenAI may provide different response quality for certain types of queries
+
+4. **Ask Questions**:
    - Type your question in the text input field at the bottom of the page
-   - Click the "Ask" button or press Enter to submit
-   - The system will process your question and search through the selected manuals
+   - Click the "Ask" button to submit
+   - The system will process your question and search through the selected manual
    - Questions can be asked in either English or Spanish
 
-4. **View Answers**:
+5. **View Answers**:
    - The AI's response will appear in the chat history
-   - The answer is based solely on the information in the selected manuals
-   - If the information is not found in the manuals, the AI will indicate this
+   - The label at the top of each response indicates which AI provider was used
+   - The answer is based solely on the information in the selected manual
+   - If the information is not found in the manual, the AI will indicate this
+   - The system shows response metrics like processing time and token usage
 
 ### Example Questions to Try
 
-- "¿Cuáles son las características generales de la embarcación?"
-- "What is the engine model number?"
-- "How do I perform routine maintenance on the generator?"
-- "¿Cuál es el procedimiento de emergencia en caso de fallo del motor?"
+- "¿Cuáles son las características generales de la embarcación?" (with the GFD-Owner manual)
+- "What is the engine model number?" (with the DESPIECE_MMAA manual)
+- "How do I perform routine maintenance on the generator?" (with the DESPIECE_MMAA manual)
+- "¿Cuál es el procedimiento de emergencia en caso de fallo del motor?" (with the GFD-Owner manual)
 
 ## Project Structure
 

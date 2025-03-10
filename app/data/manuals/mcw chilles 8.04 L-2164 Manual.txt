@@ -1,0 +1,3434 @@
+mew chiller.
+
+ananaanaa
+LMA NO
+
+i
+Lie
+
+Installation, Operation & Maintenance Manual
+for MCW Chillers Using the
+
+DDC — Digital Diagnostic Control
+
+MARINE AIR SYSTEMS ©
+
+AUIRRRRR
+
+8/04 L-2164
+PREFACE
+
+Congratulations on the purchase of your air conditioning chilled water system. No matter which of the
+following features was the reason you purchased this chilled water system, we are sure it will meet
+your needs and will give you many years of efficient and trouble free use.
+
+The chiller® series of modular chilled water systems are designed for boat applications starting at
+approximately 40 foot in length. They are available in capacities from 24,000 to 600,000 BTU’s and
+voltages of 208, 230, and 460 volt 60 hertz and 220 or 380 volt 50 hertz, single or three phase. These
+systems can provide ideal solutions for problems of space requirements, amperage consumption and
+weight for both new boat and retrofit applications and are designed for marine applications
+incorporating the following features:
+
+Spiral fluted cupronickel condenser coil for maximum heat transfer
+
+Compressors offering reduced amperage draw, up to 25% less than conventional units
+Stainless steel brazed plate chilled water heat exchangers
+
+Remote mountable electrical box
+
+Pre-charged and pre-wired systems for easy field connections
+
+Charge Guard® protection to insure refrigerant integrity during handling and installation
+Light weight aluminum construction for corrosion protection
+
+Control circuit provides multiple fail-safes for system protection
+
+This manual is intended to provide the information necessary to ensure proper operation and
+maintenance of the chiller® series units. Misunderstood operating procedures can result in
+unsatisfactory performance and/or premature failure of these units, so before proceeding please read
+this manual completely.
+
+The chiller® series units are covered under the existing Marine Air Systems warranty policy contained
+in this manual. In the interest of product improvement, Marine Air Systems’ specifications and design
+are subject to change without prior notice.
+
+MARINE AIR SYSTEMS
+
+Marine Air Systems (MAS) is a division of Dometic Corporation. Dometic is a recognized leader in
+the design and manufacture of high-performance comfort control systems, refrigeration products and
+battery charging products for demanding environments, including commercial and recreational marine
+craft, vehicles and other applications. We offer an unparalleled scope of products, dealer networks,
+applications support, engineering resources and production capabilities throughout the world. Our
+team has many years of experience in the design, manufacture, application and support of our products.
+Our practical experience and design capability allows our application engineers and_ sales
+representatives to offer optimum solutions for your environmental control requirements. Product lines
+also include well-known Cruisair, Grunert, and Sentry.
+
+Original print date: 4/98
+Revised: 12/98, 10/99, 4/00, 8/01, 8/04
+TABLE OF CONTENTS
+HOW It Works oo... cecececeeecceeeeseeeeeeeeceeneceeesenevsecerecaeeeteceeceesecneeseneeevevnessereeeersesecneeseneviteniesisieeneerserereteets 1
+Safety Considerations .....0..0.cccccecccccecceceececeeececeseeeeceeceeecaeeeseeeeaeeaeesecaecseesecceeseeaeeeeesesaeeaeeneseseneeneneeeesenes
+Definition of Terms Used in this Martial oo... cccceececccecceeeeeescereeenecneeevseeeeceenesasuesaeersareeserserersnrseeeneats
+Electrical Grounding and Bonding
+3 Phase Notice.........cceseeseeceeereeereetees
+Condensing Unit and Electric Box
+Ait Handlers... ceccececcececeeceeseceeeeeeeececesceececnecseceesecaenecaeeeseeecaesecneceeneveeceeceveeesurescersecsaseeseeeesesesneetnertees
+Mounting Digital Air Handler Controls 2.0.00... 0ccceccecceccececeeee cee eeeeeeeeeceeceeecaeeeseseteeeaeeeeseeeeieeeeeneenes
+DUCting oo... eee ce cece tee ceeseeeeeeeeeeeeeentens
+Supply and Return Air Grilles
+Sizing of Ducting and Grilles for Draw Thru & Flex Duct Air Handlers
+Draw Thru & Flex Duct Air Handlers........0.ccceccecececeeeceeeeeeeeeneeeceeecnecenevnreescriesitieesenreeetrentueneenteees
+Blow Thru Air Handlers .......ccceccccesccceeceeeeeeesceenscneeeneenecsneceeeeeeeeceesecnevseneseceriesiserserersereneerenreeess
+Slim Line Air Handlers we
+Condensate Drains... cccecceecceeeeeceseeeeeeeeeeeeseeceenecnecaeevaecasneeeserseeeecaenecnevensevaecesieeeserteeeresnieetenreeess
+Seawater PUMP ........cccccceccccccececcececeeceeeeeeecaeceeceeceseeseeecaeceeeeereeseeseeeceeceeeeeeseeseeeeeceeecresneeeceeseeeeresitesieeees
+Seawater Plumbing 200.0... cece eee ceceeeececeeceeeceeeeeceecaeceeceecaessescecaeeseeeeseeeneecaeeeeseeeaesieseseeesieeeeeeaees
+Seawater & Chilled Water Manifold S1Zes oc eccccecccseeeeeeeeeeeeeeeeerceeeecnecaensenevatneversetcevesitnevrstieeaeees
+Chilled Water Circulation Circuit we
+Recommended Pipe or Hose Size vs. System Capacity ...0..0..0ccccccccccceceeeceeceeeeeeeeseceeneetesesensenaneees
+Circulation Circuit Pressure .........cccecececcesceeesceeeeceeceeesenseeesesreaeueeaeeesureecesceeeesaeeeenesatnetnestnevsreteenareas
+Chilled Water Pump .......0......00 cee
+Suggested Piping to Air Handlers
+Fresh Water Fill System .....0.00.0..005 ve
+Trnstlations 2... cccecceccccececeeceeeeeeeeeseeeceeeeceenseneeaenevecacuesaeeeseeersaeseeneenenesnessiesaseesrersnrssneesisireeeerseeneentnets
+Piping Installation... ccecceccccece eee cecceeeseeeeeeeecaeceeeeececeseeeecaecseecaeeeeesecaecaeeeesseeseeieeeesseeseeeeatees
+Typical Chilled Water System Installation Diagram...........
+Miscellaneous Optional Components
+Flushing the Circulation Circuit ........0..000..
+Filling & Purging the Circulation Circuit
+Generic Wiring Diagram for Line Voltage MCW System .....0..00.cccccecece cece cee ceeeeeeeeeeeteeteeteseeeneeeaee
+Individual Unit Wiring Diagrams (see chiller electric box for unit specific wiring diagram) ........... 23-28
+DDC — Digital Diagnostic Controller... ccc ceceeeene eee ceeeeeeee cee ceeeaecaeeeeceeeaeceeceetaeeseseeseeneeseeatens
+DDC Specifications... c cece ccecccceccceceeceeceeceseeeeceeeseeeeceeceeecaeeeceeeaeeeeeeeaesaeceesseeseeseseesaeeseesaeeeeeesaeeaes
+DDC Programmable Parameters.........0.0..0ccccccccceccecceceeeeeeeseeeecceeeeeceececeeeeaesaeeeesaeeseeseceesseesaeeeeneeeaeeaes
+Fault Display Codes (see also Trouble-Shooting Guidelines)
+Using the Bimini Jumpers for Trouble-Shooting ..........0.0.000..00: ve
+Sequencing the CoMpressors.........0c.ccccecceecceceseeeeeseeeceeceeeseceeceeeeeecaeceeseecaeceeceesaeeseeeesseeseesaeeeeseeseeatens
+Start-Up of the System .....0..cccccccccccccceceeceeeccececeeeeeecesecaeeaeeecaecseesecceceeeaesaeeeecaeeaecsecaecseesaseeseseeaeeaeesesaeeaes
+Maintenance...
+Routine Maintenance.......
+Extended Maintenance
+Winterization and the Use of Glycol
+De-W inter izing oo. ceeeceec cece ccc ce cee ceeececeeceeecaeceeeeecaeeaeeseceeceeeeseeceeesaeeeeeeeaecaeeeessesaesieseesaeeeeseeeeseeateaes
+Seawater Condenser Coil Cleaning Procedure
+Trouble Shooting Guidelines .....0.....0.0.ceeeeee
+Manufacturer’s Limited Warranty Agreement
+System Specific Settings... cccccccecceccececececeeeeeeceeceeecaeeeceseesecaeceecaeeseesecaesseecaeeseeeeesecaeeeesaeeceesesaeesesaeeaes
+Maintenance Record 00... ceceecceeceseeeeeceeceeecneeseneeneceeneceeesneeeceeseenecieneenesascesiecnieeeserserersersureeserseneeteets
+Distributor Listing... ccc ccccccec cece cece cecceceeeeeceseeeecaeeeeceecaecsececaeeseeescesseeaeceeeeessecaesessesesensesaeeeeeeeeeaeess
+
+HOW IT WORKS
+
+Your chilled water air conditioning system consists of the chiller, air handlers installed throughout the
+vessel, fresh water piping connecting the chiller to the air handlers, and the seawater system. The
+chiller consists of three major components: the compressor, the “tube in tube” condenser coil and the
+evaporator (or heat exchanger). The chiller is charged with a refrigerant that circulates throughout
+these components. The air handlers consist of two major components: the blower and coil. Fresh
+water circulates through the piping from the chiller to each air handler and back.
+
+In cooling mode, warm cabin air is drawn (or blown) across the air handler coil by the blower. Heat is
+removed from the air as it passes across the coil. The cooled air is then blown back into the cabin. The
+heat from the cabin air is transferred to the fresh water circulating through the coil. The warmed water
+is pumped back to the chiller. The water is circulated through the chiller evaporator where the heat is
+transferred to the refrigerant in the evaporator coil, thus cooling the “chilled” water. The “heated”
+refrigerant gas is returned to the compressor, compressed, and then circulated through the outer tube in
+the chiller condenser coil. Seawater is circulating through the inner tube of the condenser coil via the
+seawater system. The heat is transferred from the refrigerant to the seawater and pumped overboard
+taking the original cabin air heat with it. The chilled water (not seawater) is then pumped back through
+the piping to the air handlers in a continuous loop as the cycle repeats.
+
+If the vessel is heated, it is either by reverse cycle or electric heat. Each method pumps warm water
+from the chiller to the air handlers. For reverse cycle heating, the chiller refrigerant flows in the
+opposite direction through a reversing valve, thus adding heat to the fresh water loop, instead of
+removing it as in the cooling mode. Electric heat systems use a heater barrel to warm the fresh water.
+Some systems also use “chill chasers” which are electric heating coils built into the air handlers that
+warm the air directly.
+
+SAFETY CONSIDERATIONS
+
+Installation and servicing of this system can be hazardous due to system pressure and electrical
+components. Only trained and certified service personnel should install, repair, or service equipment.
+When working on this equipment, always observe precautions described in the literature, tags, and
+labels attached to the unit. Follow all safety codes. Wear safety glasses and work gloves and place a
+fire extinguisher close to the work area.
+
+Never install your air handlers in the bilge or engine room areas. Insure that the selected
+location is sealed from direct access to bilge and/or engine room vapors. Do not terminate
+condensate drain line within four (4) feet of any outlet of engine or generator exhaust systems,
+nor in a compartment housing an engine or generator, nor in a bilge, unless the drain is
+connected properly to a sealed condensate or shower sump pump.
+
+Danger! Electrical shock hazard. Disconnect voltage at main panel or power source before opening
+any cover. Failure to comply may result in injury or death.
+
+Warning! To minimize the hazard of electrical shock and personal injury, this component must be
+effectively grounded. Refer to installation guidelines for further information.
+
+(Continued)
+Notice: This component is charged with a HYDROCHLOROFLUOROCARBON (HCFC) refrigerant
+R22. Effective July 1, 1992 it shall be unlawful for any person to knowingly vent or otherwise
+knowingly release any class I (CFC) or class II (HCFC) substance as a refrigerant in a manner which
+permits such substance to enter the atmosphere per the clean air act of 1990. Public law 101-549 title
+IV section 608-C. Failure to comply may result in severe penalties, including fines and imprisonment.
+
+DEFINITION OF TERMS USED IN THIS MANUAL
+
+AIR HANDLER: The fan coil unit that circulates air into a specific area for heating or cooling. Three
+types of air handlers are available:
+
+Draw Thru & Flex Duct - Air handlers with the fan positioned to draw air from the cabin
+across the air handler coil and deliver the conditioned air through duct work back into the cabin.
+Blow Thru - An air handler with the fan positioned to push or blow cabin air across the air
+handler coil directly into the cabin. No duct work is used on this type of air handler.
+
+Slim Line - A modular blow thru air handler with interchangeable panels for alternate supply
+and return air locations. Duct work may be used on this type of air handler, however, it must be
+a short plenum with the same size as the supply air opening in the unit to a same sized grille.
+
+BLEEDER PORTS: Capped ports connected to 1/4” flexible tubing located on the air handlers for
+purging air from the chilled water circulation system.
+
+BONDING: In the vessel’s electrical system, any metal that might come into contact with salt water is
+connected to the bonding circuit to help alleviate the effects of electrolysis (follow ABYC standards).
+
+BTU: (British Thermal Unit) A common term used to define and measure capacity or refrigeration
+effect.
+
+CFM: Abbreviation for “cubic feet per minute”, a term used to specify the volume of airflow through
+the air handlers and ducting.
+
+CHILL CHASER: An auxiliary electric heater located in the air handler.
+
+CHILLED WATER CIRCULATION CIRCUIT: This is supply and return piping from the chiller
+to the air handlers. The supply piping carries chilled water (in cool mode) from the chiller to the air
+handlers. Return piping carries warmed water (in cool mode) from the air handlers back to the chiller.
+The supply and return piping form a continuous closed loop.
+
+CHILLED WATER CIRCULATION PUMP: A centrifugal pump used to circulate the fresh water
+between the chiller and the air handlers for heat transfer. Since this pump is located in a “closed loop”
+system, it does not need to be installed below the water line of the vessel. Whereas the seawater pump
+does need to be installed below the water line.
+
+CIRCUIT BREAKER: An electrical device which provides high current and short circuit protection
+for the compressor, air handlers and pumps used in the chilled water system. HACR (heating, air
+conditioning & refrigeration) type circuit breakers are recommended for the ship’s panel. HACR
+circuit breakers have a long delay to compensate for the electrical surge associated with compressor.
+COMPRESSOR: An electrical motor/pump that draws cool, low pressure refrigerant gas and
+compresses the gas into a hot, high pressure gas.
+
+COMPRESSOR OVERLOAD: An electrical device used to protect the compressor from excessive
+heat or current draw.
+
+CONDENSATE DRAIN PAN: The pan directly under the air handler’s coil for removal of the
+“condensed” moisture taken out of the cabin air. Two drain spud attachments are provided for
+connection to drain hoses for proper removal of the water to a sump. There is also a condensate drain
+pan located under each chiller and the chilled water pump.
+
+CONDENSER: The heat exchanger through which heat is transferred between the refrigerant in the
+chiller and the seawater flowing through the coils and manifold.
+
+DDC: Digital Diagnostic Controller circuit board mounted in the electric box monitors and protects the
+system through the use of an aquastat, timer, freeze stat, high limit switch and high & low pressure
+switches, all programmed to read out on a LED panel for immediate diagnosis.
+
+ELECTRIC HEAT: Electric resistance heaters are used as a chill chaser in the air handlers to warm
+the air, or in the chiller heater barrels to warm the circulating water in heat mode.
+
+EXPANSION TANK: A container housing a diaphragm (20 psig) to cushion against any water
+hammer in the circulation system piping. It also provides for expansion of the water volume as the
+water is heated.
+
+FAN SPEED CONTROL: An “on/off” switch that also regulates the amount of voltage supplied to
+the fan motor, thus controlling the speed at which the motor turns.
+
+FLOW SWITCH: A control device located on the chilled water supply side of each of the brazed
+plate heat exchangers that prevents the system from operating until water flow has been established,
+and turns the system off if the water flow is insufficient.
+
+FREEZE STAT: A low temperature thermostat used as a control device to sense chilled water
+temperatures and shut the entire condensing unit off when supply water temperatures in the circulation
+piping system reach 38°F. This prevents the possibility of rupturing the chilled water evaporator coil,
+as well as any other piping in the system, due to the water freezing.
+
+FRESH WATER FILL SYSTEM: Components installed on the return line to the chiller for filling
+the circulation circuit piping system.
+
+GPM: Abbreviation for “gallons per minute”, a term used to specify the amount of water flow through
+the chilled water or seawater system.
+
+HIGH LIMIT SWITCH: A high temperature thermostat used as a safety device to shut down the
+condensing unit when the water temperature in the circulation piping circuit reaches 120°F. This
+prevents the possibility of damaging any PVC piping or any other components due to the water getting
+too hot.
+HIGH/LOW PRESSURE SWITCHES: Electrical control devices operated by high and low side
+system refrigerant pressures respectively. If pressure is too high (425psig) or too low (35psig) the
+appropriate switch automatically opens the electrical circuit and shuts down the respective compressor.
+These switches reset automatically.
+
+MOTORIZED WATER VALVE: An electrically operated 3-way water regulating valve on an
+individual air handler controlled by the thermostat. This valve provides water flow through the air
+handler when opened, and bypasses water flow from the supply side to the return side when closed.
+
+PUMP RELAY PANEL (PRP): Used with more than one chiller, the PRP is a circuit board module
+wired between the chillers and the chilled water or seawater pump (one PRP for each pump). When
+any of the chillers is turned on to heat or cool both PRPs are energized and switch each pump on. Each
+PRP should have its own circuit breaker sized for the pump, but not to exceed 20 amps.
+
+REVERSING VALVE: (on reverse cycle units only) An electromagnetically controlled valve that
+reverses the flow of refrigerant between the condenser and evaporator of the chilled water condensing
+unit, thereby permitting heat to be extracted from the cabin in the cooling mode and added into the
+cabin in the heating mode.
+
+RUN CAPACITOR: An electrical storage device used to reduce amperage to some electric motors for
+more efficient operation.
+
+SEAWATER PUMP: A pump and motor combination that provides a continuous water flow through
+the condenser coil(s). The seawater pump must be installed below the water line for proper operation.
+
+SEAWATER STRAINER: A housing containing a screen made of metal or nylon to filter out debris
+drawn into the seawater circuit that could foul up the seawater pump or piping. The strainer must
+located between the thru hull inlet and seawater pump.
+
+START CAPACITOR: An electrical component that assists the compressor by releasing stored
+current during initial start up.
+
+START RELAY: An electrical device that controls the duration of voltage supplied from the start
+capacitor to the compressor on start up.
+
+THERMOSTAT: An adjustable control device that senses room temperature, via an air thermistor or
+sensor, and operates the motorized valve (if installed) on an air handler for water flow.
+
+THERMOSTATIC EXPANSION VALVE (TXV): A metering device used to convert high pressure
+liquid refrigerant to low pressure liquid refrigerant.
+
+THRU HULL FITTING: There are two different thru hull fittings used in the seawater circuit. The
+speed scoop strainer inlet fitting is mounted below the water and serves as the inlet for the seawater
+circuit. The discharge thru hull fitting is mounted above the water line and serves as the outlet for the
+seawater circuit.
+
+TON: In refrigeration/air conditioning, a ton is the amount of heat absorbed in melting a ton (2000 Ibs)
+of ice over a 24-hour period. The ton of refrigeration is equal to 288,000 Btu in 24 hours. Divide
+288,000 by 24 and get 12,000 Btu per hour. Therefore, one ton of refrigeration = 12,000 Btu/hr.
+
+4
+ELECTRICAL GROUNDING AND BONDING
+
+NOTE: Field wiring must comply with ABYC electrical codes. Power to the unit must be
+within the operating voltage range indicated on the data plate in the electric box. Properly
+sized HACR circuit breakers must be installed for branch circuit protection. See data
+plate for maximum fuse/circuit breaker size (mfs) and minimum circuit ampacity (mca).
+
+All chillers are supplied with a terminal strip mounted inside the electrical box. The electrical supply,
+
+ground wires, and pump circuits are all connected at this terminal strip. All units must be effectively
+
+grounded to minimize the hazard of electric shock and personal injury. The following are to be
+observed:
+
+1. AC (alternating current) grounding (green wire) must be provided with the AC power
+conductors and connected to the ground terminal (marked “GRND”) at the AC power input
+terminal block of the unit(s), per ABYC standard E-8, or equivalent.
+
+2. Connections between the vessel’s AC system grounding conductor (green wire) and the vessel’s
+DC (Direct Current) negative or bonding system should be made as part of the vessel’s wiring,
+per ABYC standard E-9, or equivalent.
+
+3, When servicing or replacing existing equipment that contains a chassis-mounted “ground” stud,
+the service person or installer must check the vessel’s wiring for the existence of the connection
+required in item 2 above.
+
+ABYC standards are available from: |§ American Boat and Yacht Council
+
+3069 Solomon’s Island Rd.
+Edgewater, MD 21036 Telephone: (410) 956-1050
+
+The condenser manifold comes equipped with a tab for wiring to the ship’s bonding system. The
+chiller must be connected to the ship’s bonding system to prevent corrosion due to stray
+electrical current or voltage. All pumps, metallic valves and fittings in the seawater circuit that are
+isolated from the unit by PVC or rubber hoses must be individually bonded to the vessels bonding
+system also. This will help eliminate any possibility of corrosion due to stray current or voltage.
+FAILURE TO PROPERLY GROUND AND BOND THE SYSTEM WILL VOID
+WARRANTY!
+
+3 PHASE NOTICE
+
+For all three phase chillers (power source is either 208-230VAC/3@or 380-460VAC/3@), it is
+extremely important to insure that wiring and phase sequencing of the three phase power source is
+correct. Marine wiring standards call for power source phases L1, L2, and L3 to be color-coded
+BLACK, WHITE, and RED, respectively. These must be connected to the unit with the proper
+sequence. Otherwise, it will not operate properly. If the wiring sequence is incorrect, the unit’s
+compressor (Scro// type only) and pump (if applicable) will run in the reverse direction at a
+significantly increased noise level. Reverse compressor operation will result in increased suction
+pressure and reduced head pressure. No cooling will be produced. If the circulating pump runs in the
+reverse direction, the closed water loop will not achieve high enough operating pressures and air can
+not be eliminated from the system. If the seawater pump runs in the reverse direction, it will not
+deliver cooling water to the condenser. The electric heat may work properly, but reverse cycle heating
+will not.
+CONDENSING UNIT AND ELECTRIC BOX
+
+The chilled water condensing units are designed to be installed below deck either in the engine room,
+machinery compartment, lazarette, or similar type area. They are unaffected by vibration, moisture or
+ambient temperatures up to 140°F (60°C). These units must be well secured on a sturdy, level surface
+with the two mounting brackets provided. The MCW Chiller must be installed so that it is accessible
+for service when required. Multi-stage chillers must have at least 12" of free space on the side for
+plumbing to the manifolds. The condensing unit is hermetically sealed and requires no ventilation for
+proper operation. Normal engine room temperatures will not affect operation of the condensing unit.
+The electric box can either remain mounted on the chiller, as shipped from the factory, or remote
+mounted. Single phase units have position sensitive start relays in the electric box. If the electric box
+is to be remote mounted, ensure that the start relay is in the up position. The start relay bracket inside
+the electric box may be rotated to accommodate a vertical mounting position. Three phase chillers
+have electric boxes that can be remote mounted either vertically or horizontally.
+
+AIR HANDLERS
+
+Air handlers are designed in three types of configurations - Draw Thru & Flex Duct, Blow Thru and
+Slim Line - to allow for flexibility in any application. All types must be fastened securely and level for
+proper operation and condensation removal. All air handlers must have an unrestricted return air
+stream. VERY IMPORTANT: Never install air handler in bilge or engine room areas. Insure that the
+selected location is sealed from direct access to bilge and/or engine room vapors. Do not terminate
+condensate drain lines within three (3) feet of any outlet of engine or generator exhaust systems, nor in
+a compartment housing an engine or generator, nor in a bilge (vapors can travel up the drain line),
+unless the drain is connected properly to a sealed condensate or shower sump pump. Failure to comply
+may allow bilge or engine room vapors to mix with the air conditioners return air and contaminate
+living areas. For installations on sailboats that heel over 15°, position air handlers so that the
+condensate pans drain port and starboard and use both drains teed together (see “Condensate Drains”
+section of this manual).
+
+MOUNTING DIGITAL AIR HANDLER CONTROLS
+
+Before mounting the digital display panel touch pad consider the location. The air sensor built into the
+display panel will provide excellent room air temperature sensing given a proper installation. The
+display panel should be mounted on an inside wall, slightly higher than mid-height of the cabin, in a
+location with freely circulating air where it can best sense average temperature. Do not mount the
+display in the supply air stream. Do not mount the display in direct sunlight, near any heat
+producing appliances or in a bulkhead where temperatures radiating from behind the panel may effect
+performance. Do not mount the display above or below a supply or return air grille. Do not mount the
+display behind a door, in a corner, under a stairwell or any place where there is no freely circulating air.
+Mount the display within display cable length (custom lengths available) of the a/c unit. Plug the
+display cable (8-pin connector) into the circuit board in the electric box and into the back of the display
+panel. Secure the display panel to a bulkhead with the adhesive strips provided. Clean the mounting
+surface with isopropyl alcohol only prior to placement (test alcohol on hidden portion of surface first).
+If the adhesive strips cannot be used directly on the bulkhead then use a plastic bulkhead adapter. The
+bulkhead adapter (sold separately) is mounted to the bulkhead with screws and the display panel is
+secured to the adapter with adhesive strips. Do not use a screw gun and do not over-tighten screws
+when mounting adapter.
+If a proper location for room temperature sensing cannot be found for the display, an optional remote
+air sensor may be used. Mount the remote air sensor in the return air stream behind the returm air
+grille/opening and plug its cable (6-pin connector) into the circuit board. Installing the remote air
+sensor will override the face plate sensor. An optional outside air temperature (O.A.T.) sensor and 6-
+pin cable may also be used (only if the remote air sensor is not used). Mount the sensor outside but not
+in direct sunlight. Secure all cables but do not staple when mounting. See air handler control manual
+for water sensor mounting instructions.
+
+DUCTING
+
+Good air flow is critical for the performance of the entire system. It is highly dependent on the quality
+of the ducting installation. The ducting should be run as straight, smooth and taut as possible
+minimizing the number of 90 degree bends (two tight 90 degree bends can reduce airflow by 25%).
+The following table shows minimum duct diameters and their corresponding return and supply air
+grille areas in square inches. If a transition box is used, the total area of supply air ducts going out of
+the box should equal the area of the supply duct feeding the box. To calculate the square inch area of a
+round duct: divide the diameter by two to get the radius (1), multiply the radius by itself (1°), and
+multiply that number by 3.1416 (7). The following is a summary of proper ducting connections:
+
+1. Pull back the fiberglass insulation exposing the inner mylar duct hose.
+
+2. Slide the mylar duct hose around the mount ring until it bottoms out.
+
+3. Screw 3 or 4 stainless steel sheet metal screws through the duct hose into the mount ring. Make
+sure to catch the wire in the duct hose with the heads of the screws. Do not use band clamps,
+the mount rings are tapered and the hose will slide off.
+
+4. Wrap duct tape around the ducting and ring joint to prevent any air leaks.
+
+5. Pull the insulation back up over the mylar to the ring and secure with tape.
+
+All ducting should:
+e Be appropriately sized for each application.
+Run as smoothly and taut as possible.
+Have as few bends or loops as possible.
+Be securely fastened to prevent sagging during boat operation.
+Have all excess ducting lengths trimmed off.
+Not be flattened or kinked.
+Be insulated when located in high heat load areas (hull side, mechanical compartments, etc.).
+
+The design of a proper supply ducting system in a boat begins with the outlet from the blower. The
+blower ring sizes used by MAS are designed to keep the air velocity and frictional pressure drop
+relatively /ow on the supply air side. Reducing the blower ring size will create higher air velocities.
+Higher air velocities will increase pressure drop and increase air flow noise. Increased pressure drop
+will reduce the overall air flow (CFM) and the heating or cooling capacity of the unit (BTU/hr). In
+order to keep the air to an acceptable velocity a ducting system should have the same cross sectional
+area as the blower ring. The following table shows the cross sectional area needed for each size unit as
+well as the size of the duct ring supplied on the unit.
+
+Several circumstances may be encountered where a larger duct size may be needed to achieve the
+desired air flow for a particular unit. These include excessively long duct runs (greater than twenty
+feet), large numbers of bends in the duct runs (greater than 3-90° bends), or a transition box located at
+the outlet of the blower. In each of these cases a duct size one inch larger than that shown in the
+following table should be used.
+MAS recommends that ducting not be used on the return air side of a unit. However, if the unit must
+be return air ducted, it is recommended that the return air duct size be at least one inch larger in
+diameter than the recommended supply air duct size.
+
+The recommended minimum duct length for a draw thru type air handler is five feet (1.52m). This
+length prevents motor noise or vane tip noise on the blower wheel from being audible in the cabin area.
+The maximum duct length of twenty feet (6.04m) should not be exceeded. These longer duct runs can
+prevent proper air flow delivery, causing poor operation and performance.
+
+When using ducting transition boxes, the total outlet area should be at least equal to the inlet area.
+
+Built-in air plenums should be constructed to deliver proper air flow and minimize air noise. Plenums
+should be fully pressurized by the air delivery through the duct work and incorporate diffusers when
+necessary to create an even flow across the entire surface of the supply grille or outlet. The cross
+sectional area of the plenum should be equal to, or slightly bigger than, the supply duct. Undersized
+plenums create air turbulence and generally cause “noisy” air delivery. Oversized plenums do not
+pressurize sufficiently and cause poor or no air flow. All air plenums must be thoroughly sealed to
+prevent air leakage. Plenums constructed of conductive materials must be insulated properly to prevent
+condensation and possible water damage. Wood is a conductive material and should be sealed to
+prevent delamination, and insulated where necessary.
+
+SUPPLY & RETURN AIR GRILLES
+
+The retum air grille should be placed as close as possible to the air handler to maintain direct
+uninterrupted airflow to the coil. It should also be mounted as low as possible. The return air grille
+should not be located in such a way that the supply air blows directly into it. This will cause “short
+cycling” which results in poor performance and inadequate air conditioning. All return air grilles must
+have a filter attached to prevent dust or particle build up in the coil. If return air grilles are not used
+(i.e., louvered doors, hidden cut outs, etc.) a filter should be attached to the air handler making sure that
+there is enough clearance for access to the filter for cleaning.
+
+The supply air grille should be mounted as high as possible in the cabin to ensure proper air flow. This
+application permits air flow across the ceiling of the cabin and causes natural convection currents with
+the cool supply air falling, and forcing the warm air through the return air stream or up to the ceiling to
+mix with the cooler air being distributed. Failure to deliver the supply air high can result in
+stratification of the air in a cabin, causing cooler temperatures near the floor and warmer temperatures
+near the ceiling.
+
+SIZING OF DUCTING AND GRILLES FOR DRAW THRU &
+FLEX DUCT AIR HANDLERS
+
+BTU/HR 4,000 6,000 9,000 12,000 16,000 18,000 24,000
+Duct 4" dia 5” dia 5” dia 6” dia 7" dia 7" dia 8” dia
+Diameter
+Duct 12.6 sq in 19.6 sq in 19.6sqin | 28.3 sqin | 38.5sqin | 38.5 sqin | 50.3 sqin
+Area
+Return 49 sq in 70 sq in 98 sq in 140 sq in 168 sq in 200 sq in 280 sq in
+Air Grille
+Supply 24 sq in 35 sq in 50 sq in 70 sq in 84 sq in 100 sq in 140 sq in
+Air Grille
+
+DRAW THRU & FLEX DUCT AIR HANDLERS
+
+These units are ductable air handlers with rotatable blower assemblies, providing diverse arrangements
+for supplying air to one or more cabins. They are designed to be installed low in a cabin area, under
+seats or berths, or in the bottom of lockers to maintain a return air stream close to floor level.
+Fastening the air handlers is accomplished through the mounting brackets and screws provided. The
+blower assembly should be rotated, if necessary, to provide the most direct ducting run possible.
+
+Supply Air.
+Grille
+
+Remote Mounted
+
+i , Box
+= Supply Air Transition Box
+
+\
+‘|
+
+DC_Ie@
+
+Blower Assembly
+
+tical iti
+(vertical position) — Flexible
+
+Ducting
+
+“A || || :
+A hat Return Air
+f i r Blower Assembly
+5) <== i Grille (horizontal position)
+Se =>
+as
+Insulated z
+Reinforced = :
+_ Hose |
+Condensation Soe
+Drain Lines Service Return Air Grille
+
+(teed) Valves WY |
+
+To Cirulcation Condensation
+Circuit Lines to Sump
+BLOW THRU AIR HANDLERS
+
+These units are nonductable air handlers designed to be installed high in a cabin area: at the top of
+lockers, bulkhead corners or overhead compartments. They can be fastened securely using the four
+mounting grommets located in the upper four corners of the mounting plate.
+
+As no duct work is used, blow thru air handlers must be able to deliver air directly into cabin areas.
+They must be located against the inside of a bulkhead or partition common to the cabin to be
+conditioned. The supply air grille must be at least equal in surface area and dimensions to the coil.
+
+If the air handler cannot be flush mounted against the bulkhead or partition, a plenum chamber can be
+attached between the face of the coil and the inside of the partition. This plenum must be equal or
+slightly larger than the coil surface, sealed completely, and be a short, straight run. Due to their design,
+the blow thru air handlers cannot be connected to excessively long plenums, multi-directional plenums,
+or any duct work.
+
+The return air to a blow thru air handler is provided through a properly sized grille (at least equal to the
+size of the coil) located underneath, alongside, or behind the air handler. While this return air grille is
+located higher in the cabin and close to the air handler than a typical draw thru application, proper air
+circulation is still achieved.
+
+— 1 +— _AH-BT Series
+| Unit — Single‘Blower AH-BT Series
+
+(typical installation) Unit — Dual Blower
+——— ao (typical installation)
+
+_= Return Air
+
+Flexible
+
+Reinforced. Grille
+Hose (insulated)
+Condensation
+
+| Service Drain
+Valves Lines
+
+10
+SLIM LINE AIR HANDLERS
+
+Slim line air handlers are used in limited space situations. They are similar in application to the blow
+thru air handlers; however, slim lines can be mounted low in side panels and narrow bulkhead spaces.
+Currently, the slim line is constructed in two modules, the blower and the coil. The two modules can
+be configured horizontally or vertically. The horizontal configuration is used for overhead mounting
+and the vertical configuration is used for mounting behind bulkheads and panels. The return air grille
+must be the same size as on the unit. Slim line units can be ducted with the use of plenums. Follow
+the same guidelines for the blow thru units for plenum construction.
+
+Supply
+Air Grille
+
+/
+
+Suppl
+Air Grille
+
+SLL
+Horizontal
+Application
+
+Return
+Air Grille
+
+Vertical
+Supply Air
+Grille
+
+fj
+Ducted SSS
+Plenum i
+
+Return
+Air Grille
+
+Service
+
+oe Valves
+
+Vertical
+Application
+
+Removable Filter
+To Circulation
+
+\
+' System
+Return Air Grille 7) LU
+Flexible Hose Dual
+(insulated) Consensation
+
+Drain
+
+11
+CONDENSATE DRAINS
+
+All units come with condensate drains. Under adverse climate conditions (for example, high humidity)
+condensate water could be produced at a rate of approximately one gallon per hour. With this in mind,
+it is important to route condensate drains properly utilizing all standard practices for securing hoses and
+mounting thru-hull fittings. After the condensate installation is complete, test the installation by
+pouring a quart of water into the pan and checking for flow. For installation of the condensate drain:
+e Attach a 5/8" LD. reinforced hose to the hose barb drain spud with a hose clamp and tighten.
+e Install the condensate drain downhill from the unit and aft to a proper drainage area.
+e¢ IMPORTANT NOTE: Do not terminate any condensate drain within three (3) feet of the
+outlet of engine or generator exhaust systems, nor in a compartment housing an engine or
+generator, nor in a bilge, unless the drain is connected properly to a sealed condensate or
+shower sump pump. Fumes and vapors can travel up the condensate line and contaminate the
+supply air to living quarters.
+e The drain lines should be installed as short and direct as possible with a continuous downhill
+pitch, free of loops, kinks, or upward bends.
+e For installations on sailboats that heel over 15°, position air handlers so that the condensate
+pans drain port and starboard and use both drains teed together.
+e If dual drain fittings are used they may be connected to a single condensation drain line if a
+minimum 2" (5.1cm) drop exists from the base pan drains to the connection fittings.
+
+SEAWATER PUMP
+
+The chillers condensing units are water-cooled and require a properly sized seawater pump for
+optimum operation. The seawater pumps are sized according to the BTU capacity of the chilled water
+unit. The seawater pump must be installed so that it is always at least one foot below the water line
+regardless of which tack the vessel is on. If the capacity of your air conditioning system is greater than
+or equal to 24,000 BTU/hr, the seawater pump is most likely air cooled and will need occasional oiling.
+See manufacturer’s labeling on the pump for maintenance instructions.
+
+e IMPORTANT: Each pump relay panel (PRP) must have a dedicated circuit breaker sized for
+the pump but not to exceed 20 amps maximum.
+
+e IMPORTANT: Pumps greater than 3/4 horsepower (HP) must be connected through a pump
+relay panel and not the DDC. This is true even for single stage units because the DDC control
+relay is not designed to handle the amp load of a larger pump.
+
+e Three phase pumps must be equipped with an overload.
+
+SEAWATER PLUMBING
+
+WARNING! Seawater cooling system pressure should not exceed 30psig. Seawater temperature will
+directly affect the chiller’s efficiency. This chiller can effectively cool your boat in water temperatures
+up to 90°F and heat (if reverse cycle option is installed) in water as low as 40°F. Use electric heat (if
+installed) in seawater temperatures below 40°F.
+
+Install the seawater speed scoop intake as far below the water line and as close to the keel as
+possible in any application, but especially on a sailboat, to keep the intake in the water when the
+boat heels over so that air does not get into the system. A speed scoop should be utilized to insure
+positive water flow while the vessel is underway. The speed scoop must be installed facing forward
+and not be shared with any other pump. A full flow bronze sea cock (ball valve), connected directly to
+
+12
+the speed scoop intake, must be used to be able to disrupt the incoming water to the sea strainer and
+pump should the need arise. The thru-hull, strainer, and hoses should be equal in size to the pump
+inlet. Bed the speed scoop and thru hull with a marine type sealant.
+
+Since the seawater pump is centrifugal and not self-priming, it must be mounted so that it is always
+at least one foot below the water line regardless of which tack the vessel is on. The pump may be
+mounted horizontally or vertically, however the discharge must always be above the inlet. The pump
+head should be rotated toward the direction of water flow. It is recommended that all hose connections
+be secured by means of double/reversed stainless steel hose clamps. A sea strainer between the sea
+cock and pump is mandatory to protect the pump from foreign matter, such as seaweed. Not using a
+seawater strainer will void the pump warranty and jeopardize the entire system. The seawater system
+must be installed with an upward incline from the seacock through the strainer to the inlet of the
+pump and then up to the chiller condenser coil/manifold inlet.
+
+From the discharge outlet of the pump, route the plumbing to the inlet connection on the condenser
+coil/ manifold. This hose should be plumbed as straight and smooth as possible, with no loops or
+vertical bends, so that it is self-draining and consequently self-purging. The discharge outlet of the
+condenser must be plumbed overboard using a discharge thru-hull located above the water line. The
+location selected for the overboard discharge thru-hull should be accessible for periodic visual
+inspection and as close to the water line as practicable to reduce noise. It is recommended that marine
+grade reinforced hose be used as well as double/reversed stainless steel hose clamps throughout the
+seawater system.
+
+Follow these guidelines for installing the seawater system:
+
+e The entire system from the speed scoop inlet to the chiller should be plumbed on a slight uphill
+incline to prevent air traps and provide a self-purging system.
+
+e The pump must be located well below the water line and as close to the seawater strainer and
+thru hull fitting as possible.
+
+e The seawater strainer must be installed below the pump with access to the strainer basket.
+
+e The inlet size of the thru hull fitting and the seawater strainer must be equal to the inlet size of
+the seawater pump.
+
+e The speed scoop thru hull fitting must be dedicated to the chilled water system only and be
+located as far below the water line and as close to the keel as possible in such a way as to not be
+obstructed or affected by other fittings or components attached to the underside of the hull.
+
+e The thru hull fitting must have a speed scoop (or equivalent), facing forward, to maintain a
+column of water to the seawater pump.
+
+e Bed the scoop with a marine type sealant designed for underwater applications.
+
+e Install a bronze, full flow seacock on the thru-hull.
+
+e The pump must be securely fastened in a horizontal position with the discharge outlet higher
+than the suction inlet.
+
+e Flexible reinforced hose must be used for connections to provide vibration isolation between
+components.
+
+e Discharge the water through a hull-side thru-hull fitting above the water line with access for
+visual inspection.
+
+e All flexible hose runs should be free of kinks and loops and be securely fastened. Avoid the
+use of 90° elbows whenever possible.
+
+e All hose connections must use double/reversed stainless steel hose clamps.
+
+e Use Whitman Blue Magic industrial grade pipe thread compound (our best recommendation) or
+teflon tape on all threaded connections.
+
+e Ground and bond all metal components of the seawater system.
+
+13
+SEAWATER & CHILLED WATER MANIFOLD SIZES
+
+Chiller Capacity (tons) 4-10 11-18 19-33 34-50
+Chiller Capacity (BTU/hr x 1,000) 48-120 132-216 228-396 408-600
+Manifold & FPT Connection Size 14" 2" 2" 3"
+
+CHILLED WATER CIRCULATION CIRCUIT
+
+The water circulation system is designed as a closed loop circuit connecting all air handlers to the
+chillers. Piping size and type are determined by the overall BTU capacity of the system and the type of
+heat used. For COOL ONLY systems use SCH 40 PVC minimum. For REVERSE CYCLE or
+ELECTRIC HEAT systems use SCH 80 PVC, CPVC or Copper Pipe. The following chart
+provides information for sizing the chilled water piping. Installing pipe that is too small will increase
+water velocities that may cause erosion of piping. Also, excessive water-side pressure drops can occur
+which will reduce the water flow to the air handlers resulting in reduced performance. See center
+pages of this manual for a typical chilled water and seawater systems installation diagram.
+
+RECOMMENDED PIPE OR HOSE SIZE vs. SYSTEM CAPACITY
+Capacity
+(BTU/hr x 4-21 24-45 48-81 84-129 132-225 228-405 408-600
+
+1,000)
+
+Tons 0.33-1.75 2-3.75 4-6.75 7-10.75 11-18.75 | 19-33.75 34-50
+GPM 1-5.25 6-11.25 12-20.25 | 21-32.25 | 33-56.25 | 57-101.25 | 102-150
+
+(3/ton)
+
+Nominal 34" * 1" 1%" 14" 3" Al 3 '"
+
+Size
+
+*5/8" hose may be used when piping to a single 4K to 16K air handler.
+
+If individual piping runs exceed fifty feet (15.24m), the next larger pipe size is recommended, this will
+help reduce the pressure drop through the system. The “System Capacity” listed in the chart above is
+measured at any given point in the chilled water loop. Size the piping according to the total capacity of
+air handlers fed from that point. Counter flow piping of the supply and return lines from the chiller
+will assure equal water flow through all air handlers (i.e., the air handler closest to the chiller will have
+the shortest length of supply water piping and the longest length of return water piping and vice versa).
+Excessive pressure drops between air handlers will be eliminated with this type of piping arrangement.
+Ends of main and branch chilled water lines should be extended and capped. This will help to balance
+the water pressure, act as a cushion against water hammer, provide a clean-out port, guard against pipe
+erosion and provide proper water flow to all air handlers. See sample piping schematic on center pages
+of this manual.
+
+The chilled water circulation circuit shall not be connected to the potable water system.
+
+NOTICE: Check valves should not be used in the chilled water loop, seawater plumbing system or any
+condensate drain line.
+
+14
+CIRCULATION CIRCUIT PRESSURE
+
+The return side circulation circuit pressure gauge should read approximately 12psig when the system is
+running in cool mode and up to 20psig in heat mode. See “Fresh Water Fill System”.
+
+No part of the system should ever drop below atmospheric pressure. Pay special attention to the
+pressure in the return water piping at its highest points. Negative pressurization can draw air into the
+loop through the air handler bleeder ports.
+
+CHILLED WATER PUMP
+
+The chiller requires a properly sized chilled water pump for operation. Centrifugal pumps are
+recommended due to their quiet operation and longevity with minimal maintenance. The chilled water
+pumps are sized according to the BTU capacity of the chilled water unit. Service (ball) valves should
+be placed close to the inlet and the outlet of the chilled water pump for aid in servicing and flushing
+chilled water loop. A strainer should be placed between the inlet of the pump and the ball valve to
+catch any particles in the circulation circuit. Avoid the use of elbows or other restrictive fittings at the
+pump inlet and outlet unless the pump has been sized to handle the associative pressure drop.
+
+SUGGESTED PIPING TO AIR HANDLERS
+
+Marine Air Systems strongly recommends the use of 3/4" ball valves at each air handler to assist in
+start-up and overall serviceability of the system. The hose barbs supplied by MAS are for 5/8" marine
+grade hose (hose has 1/2" L.D.). Flexible reinforced hose is recommended for vibration isolation
+between the water circuit valves and the air handlers. Couple the 5/8" hose from the air handler to the
+3/4" ball valve and run pipe or hose (5/8" for 4-16K, 3/4" for 18-24K, 1" for 36-48K) from the ball
+valve to the chilled water lines. Each hose connection should use double/reversed stainless steel hose
+clamps. See the diagram below. NOTE: Air handlers larger than 24K use 1" hose connections and ball
+valves.
+
+PIPE OR HOSE FROM BALL VALVE MARINE GRADE HOSE WITH
+CHILLED WATER LINES AND COUPLING DOUBLE/REVERSED STAINLESS
+TO BALL aa STEEL HOSE CLAMPS
+
+{ = | —= &
+nad
+i == OP Puss ox | —
+
+HOSE BARB BRASS HOSE
+ADAPTER
+
+BARB ADAPTER
+
+| — a — ie
+AIR HANDLER
+
+FRESH WATER FILL SYSTEM
+
+The fresh water fill system must be installed on the return side of the circulation circuit and can be
+teed into the main return line at any convenient location. The system consists of a water pressure
+regulating valve assembly (with ball valve, check valve and hose bib, model HWRV), an expansion
+tank (model HXTK) and a pressure gauge. The system is installed with the pressure gauge closest to
+the main return line, then the expansion tank and then the water pressure regulating valve with the hose
+bib at the end (see the diagram on pages 15 & 16 of this manual). All three components are single
+direction position sensitive. Check each component’s markings (inlet, outlet, and water flow direction)
+before assembling system.
+15
+The water regulating valve (ball valve) is opened during filling and/or purging of the circulation circuit,
+and is closed while the system is in normal operation. While filling the system, this valve reduces the
+incoming water pressure to approximately 12psig (factory set), which is the static pressure for the
+chilled water system. The expansion tank allows the water in the system to expand as it gets hot when
+the chiller is in heat mode. The expansion tank also acts as a cushion against “water hammer’. The
+expansion tank must be securely mounted to prevent vibration, and can be mounted in a horizontal or
+vertical position. The return side circulation circuit pressure gauge should read approximately 12psig
+on the return side of the system when running in cool mode and up to 20psig in heat mode.
+
+INSULATION
+
+Proper insulation of the chilled water circuit is necessary to insure maximum performance as well as
+protect against excessive condensation and possible water damage to the vessel. Use a closed cell type
+insulation rated down to 40°F. Follow these instructions for installing insulation:
+
+1. 1/2” thick tube insulation may be used for 5/8” hose. For pipe/hose less than 1" in diameter, use
+3/4" thick tube insulation. For pipes equal to or greater than 1" in diameter, use 1" thick tube
+insulation. Slide the tube insulation on each section of pipe prior to making the connections.
+
+2. After making the connections, push the tube insulation flush against the fitting. Trim if necessary
+to ensure a smooth application with no air pockets.
+
+3. Pipe insulation should be glued and not tie wrapped. Tie wrapping will compress the insulation
+and cause poor performance. There must be no air pockets between the pipe and the insulation.
+All joints must be glued. All insulation must be air tight.
+
+4. If the tube insulation is installed after the circulation piping circuit is connected, proceed as
+follows:
+
+e Use pre-slit insulation or cut existing tube insulation.
+
+e Apply insulation adhesive thoroughly along both cut edges.
+
+e Wrap around pipe and press the glued edges back together making sure a proper bond is made
+with no openings or gaps. Do not attempt to use wire ties to hold insulation around pipe in
+licu of adhesive.
+
+5. When insulating fittings, follow the manufacturer's recommendation for the application of tube
+insulation. If insulation tape is used, follow the manufacturer’s specifications to achieve equivalent
+R-value to the insulation of adjacent pipes. Overlap insulation with tape to insure that no ambient
+air is in contact with pipes or fittings. All insulation must be air tight.
+
+PIPING INSTALLATION
+
+The entire circulation circuit piping must be securely fastened in the vessel. The following
+
+recommendations should be followed:
+
+1. Secure the insulated piping into the vessel using:
+
+e Properly sized clamps to hold the pipe in place without compressing the tube insulation.
+e A rigid material used as a collar with a strap-type fastener to prevent compression of the
+insulation.
+
+2. Compressing the tube insulation will cause condensation through the surface, resulting in saturation
+of the insulation and possible water damage to the interior of the vessel.
+
+3. Any insulated pipe passing through a bulkhead should be supported with a piece of rigid material of
+sufficient length to distribute the weight evenly over a large surface. This will prevent excessive
+compression of the insulation.
+
+(Continued on page 19.)
+
+16
+PIPE SIZING NOTES:
+
+1) AT ANY GIVEN POINT IN THE CHILLED
+WATER LOOP, ADD UP TOTAL BTU’S
+FOR ALL AIR HANDLERS ‘DOWN STREAM’
+TO GET SUPPLY PIPE SIZES.
+
+2) RETURN PIPING IS SIZED BY ADDING
+TOTAL BTU’S FED FROM AIR HANDLERS
+RETURNING TO ANY GIVEN POINT.
+
+3) AS STATED IN CHILLER MANUAL, THE AIR
+HANDLER CLOSEST TO THE MAIN CHILLED
+WATER LINE WILL HAVE THE SHORTEST
+SUPPLY LINE RUN AND THE LONGEST
+RETURN LINE RUN.
+
+4) NOTICE THE DIRECTION OF WATER FLOW AS
+INDICATED BY THE ARROWS.
+
+5) SEE THE ‘CHILLED WATER CIRCULATION
+CIRCUIT’ SECTION OF CHILLER MANUAL.
+
+SUPPLY PIPING
+
+RETURN PIPING
+
+CHILLER CAPACITY vs. SYSTEM CAPACITY
+
+CHILLER CONDESING UNITS ARE ENGINEERED TO
+BE AT APPROX. 80% OF TOTAL SYSTEM CAPACITY.
+
+PIPING AND INSULATION NOTES:
+
+1) FOR COOL ONLY SYSTEMS USE SCH 40 PVC MIN.
+FOR REVERSE CYCLE OR ELECTRIC HEAT SYSTEMS
+USE SCH 80 PVC, CPVC OR COPPER PIPE.
+
+2) FOR PIPES LESS THAN 1” IN DIAMETER, USE 3/4”
+THICK TUBE INSULATION. FOR PIPES EQUAL TO
+OR GREATER THAN 1” IN DIAMETER, USE 1” THICK
+TUBE INSULATION. FOR 5/8” HOSE, USE 1/2”
+THICK TUBE INSULATION.
+
+3) PIPE INSULATION SHOULD BE GLUED AND NOT TIE
+WRAPPED. TIE WRAPPING WILL COMPRESS THE
+INSULATION AND CAUSE POOR PERFORMANCE.
+THERE MUST BE NO AIR POCKETS BETWEEN THE
+PIPE AND THE INSULATION. ALL JOINTS MUST
+BE GLUED, INSULATION MUST BE AIR TIGHT,
+
+4) WHEN INSULATING FITTINGS, FOLLOW THE MANUFAC—
+TURER’S RECOMMENDATION FOR THE APPLICATION
+OF TUBE INSULATION. IF INSULATION TAPE IS
+USED, FOLLOW THE MANUFACTURER’S SPECS TO
+ACHIEVE EQUIVALENT R-VALUE TO INSULATION OF
+PIPES. OVERLAP INSULATION WITH TAPE TO INSURE
+THAT NO AMBIENT AIR IS IN CONTACT WITH PIPES
+OR FITTINGS, INSULATION MUST BE AIR TIGHT.
+
+5) MARINE AIR SYSTEMS STRONGLY RECOMMENDS THE
+USE OF 3/4” BALL VALVES AT EACH AIR HANDLER
+C1” OVER 24K) TO ASSIST IN START-UP AND OVER-—
+ALL SERVICEABILITY OF THE SYSTEM (SEE DETAIL).
+
+6) ENDS OF MAIN AND BRANCH CHILLED WATER LINES
+SHOULD BE EXTENDED AND CAPPED. THIS WILL
+HELP TO BALANCE THE WATER PRESSURE, ACT AS
+A CUSHION AGAINST ‘WATER HAMMERING’, PROVIDE
+A CLEAN-OUT PORT, GUARD AGAINST PIPE EROSION
+AND PROVIDE PROPER WATER FLOW TO ALL AIR
+HANDLERS.
+
+7) SIZE PIPING/HOSE TO AIR HANDLERS AS FOLLOWS:
+FROM 4K TO 16K, USE 5/8” MINIMUM I.D.
+
+FROM 18K TO 24K, USE 3/4” MINIMUM I.D.
+FROM 36K TO 48K, USE 1” MINIMUM ILD.
+(SEE DETAIL FOR 4K—24K AIR HANDLER PIPING)
+CHILLER 8) ALL PIPE SIZES ARE IN INCHES.
+ENGINE ROOM 2 SPIROVENT™
+5 p<
+PRESSURE SEAWATER
+CAUCE OUTLET WYE STRAINER
+
+WATER LINE
+
+SEAWATER PUMP
+
+SEAWATER STRAINER
+
+SEAWATER SYSTEM NOTE:
+
+SEAWATER SYSTEM (INLET, STRAINER, PUMP)
+MUST BE INSTALLED UNDER THE WATER LINE
+WITH A CONTINUOUS INCLINE FROM THE
+SPEED SCOOP INLET TO THE CHILLER.
+
+SPEED SCOOP
+SEA COCK SHUT—OFF VALVE
+
+PRESSURE
+GAUGE
+
+CHILLED WATER
+CIRCULATION
+CIRCUIT PUMP
+
+INLET WITH
+
+FL 10/17/01 ADD SPIROVENT,GUAGES & VALVES,CAD1019—01 DRR | JES
+E | 9-15-99 [REV’D PIPING SPECS TO INCLUDE 5/8” HOSE DKM | DKM
+G 13/27/02 |EDIT CENTERFOLD AREA,CAD165—02 DRRIJES
+C | 5/5/98 [REVISED PIPE SIZES DKM/E_S
+B 5/5/98 [REVISED PIPE SIZES DKM/E_S
+A | 5/5/98 [REVISED PIPE SIZES DKM/E_S
+REV DATE REVISION DWG LAPR
+
+PROPRIETARY NOTE:
+DOCUMENT IS THE PROPERTY OF TAYLOR MADE ENVIRONMENTAL INC.
+ANY ATTEMPT TO COPY OR DISTRIBUTE WITHOUT WRITTEN CONSENT
+FROM MARINE AIR SYSTEMS INC. SHALL BE CONSIDERED
+
+UNLAWFUL AND CAN BE CONTESTED IN A COURT OF LAW,
+
+THE INFORMATION CONTAINED WITHIN THIS
+
+l 1-1/4 1-1/4
+AH—24K—-SL2Z AH-24K-SL2Z *
+ORT SALON ISTBD.—INBOARD| FORWARD ‘\
+SALON SALON ‘
+1-1/2 1-1/2 1-1/4 1-1/4 1
+1-1/2 1-1/2 1-1/2
+AH—24K-SL2Z
+STBD.—OUTBOARD! AH-24K—SL2Z \
+SALON GALLEY A
+NX
+N N
+MOM
+Thy 1 11/4
+EXTEND AND CAP (TYP)
+3/4 1
+AH—12K—DT2Z AH—12K—DT2Z AH—12K—DT2Z
+MID PORT MID—FWD PORT FWD PORT
+STATE ROOM STATE ROOM V—BERTH
+ht /4 1-1/4 1-1/4 1 1 3/4
+NX
+11/4 11/4 11/4
+a AH—12K—DT2Z AH—12K—DT2Z AH—12K—DT2Z
+PRESSURE] wip STBD MID—FWD STBD FWD STBD
+GAUGE STATE ROOM STATE ROOM V-BERTH
+3/4 1 1
+SUGGESTED PIPING TO AIR HANDLERS 4K—24kK
+5/8” OR 3/4" PIPE 3/4° BALL VALVE 5/8" MARINE GRADE HOSE
+EXPANSION OR HOSE FROM BALL | AND COUPLING WITH DOUBLE/REVERSED
+TANK HYXTK VALVES TO CHILLED (SUPPLIED BY 5.5. HOSE CLAMPS
+
+WATER LINES
+(SEE NOTE 7)
+
+CUSTOMER) (SUPPLIED BY CUSTOMER)
+
+== RETURN [J Tow =
+HWRV ASSEMBLY WITH
+J CHECK VALVE, WATER 6 SUPPLY = Ord {th FLOW
+PRESSURE REGULATOR, NOTE:
+SHUT-OFF VALVE AND PIPING AND 3/4°MPTx5/8"HB 1 /2’MPTx5/8HB
+FRESH WATER HOSE BIB FITTINGS (SUPPLIED BY BRASS (SUPPLIED
+AIR) TIGHT CUSTOMER) BY MARINE AIR) AIR HANDLER
+“7110/97 SAMPLE PIPING SCHEMATIC FOR ; ;
+ETS CHILLED WATER SYSTEM Dometic Corporation
+>: SHOWING CHILLED WATER LOOP, . .
+ET 4 OF 1 AIR HANDLERS AND SEA WATER SYSTEM - Marine Air -
+“OKM | DD |. HOO50001G Cruisair - Marine Air - Grunert - Sentry - Tundra
+
+METAL TO PVC FITTINGS: If connections are made between PVC fittings and metal fittings, always
+use a male pipe thread on the PVC fitting and a female pipe thread on the metal fitting. Reversing the
+type of fittings can cause the PVC to crack if over-tightened.
+
+90° ELBOWS: All PVC piping should be installed with as few 90° elbow fittings as possible.
+Excessive bends can cause pressure drop in the system, affecting performance. Every 90° elbow is
+equivalent to adding 2’ feet of additional pipe.
+
+MISCELLANEOUS OPTIONAL COMPONENTS
+
+The following are suggested for better maintenance and operation of a chilled water system.
+
+Sight Glass: Installed in the supply or return main pipes of the circulation circuit at an accessible
+location, the sight glass will provide visual inspection of the water flow for proper volume or air
+pockets.
+
+Strainer: Installed in the return line to the circulation pump to catch debris and particles from
+installation of the piping (see diagram in center of this manual). The strainer basket should be made of
+a fine mesh material to contain small particles. A clear base strainer could act as a sight glass also.
+
+Ball Valves: Installed at the inlet and outlet of the circulation circuit pump are used to isolate the pump
+and access the circuit for maintenance, etc. If using a strainer as mentioned above, install the strainer
+between the ball valve and the pump inlet.
+
+Water Pressure Gauges: Two gauges installed in the circulation circuit, one in the supply side and one
+in the return side, to monitor continuously for pressure drops in the system (the supply side gauge is
+recommended, the return side gauge is mandatory).
+
+Autobleeders: MAS recommends the use of Spirovent® and Spirotop® autobleeders.
+
+The Spirovent is an inline autobleeder. Install the Spirovent in the main return line upstream of the
+circulating water pump but downstream of all air handlers, the fill assembly, expansion tank, strainer,
+etc. In applications where the system water flow would exceed the maximum recommended flow
+rating of the Spirovent, the Spirovent may be installed in a sidestream (i.c., parallel circuit). The
+sidestream should be located above the main return line such that air bubbles can easily flow up into
+the sidestream. Isolate the Spirovent with ball valves to allow for service. The bottom port of the
+Spirovent should ordinarily be plugged. The bottom port may be used to bleed out accumulated debris.
+
+The Spirotop is a single port autobleeder. Install a Spirotop at the top of each return riser. It is
+important to ensure positive pressurization at the Spirotop. If the water pressure at the Spirotop is less
+than atmospheric pressure, then any autobleeder will actually draw air into the system rather than bleed
+air out. Isolate the Spirotop with a ball valve to allow for service.
+
+Spirovent® and Spirotop® are registered trade names of Spirotherm, Inc.
+
+19
+FLUSHING THE CIRCULATION CIRCUIT
+
+After the chilled water system has been completely installed, the circulation circuit should be flushed to remove
+any contaminants or particles in the piping. Follow these instructions for flushing the circulation circuit:
+
+1.
+
+2.
+3.
+4
+
+eC PND
+
+Shut off the service valves to the air handlers and autobleeders if installed.
+
+Remove the flexible hose connection from the inlet hose barb on each air handler.
+
+Remove the flexible hose connection from the outlet hose barb on the chilled water circuit.
+
+Attach these two hoses using a hose barb. Do this at each air handler.
+
+NOTE: The circuit may be flushed prior to attaching air handlers by following steps 4-9.
+
+Install a strainer in-line to the suction side of the circulation pump to catch any particles. The strainer can
+be permanently installed in the system at this point to provide continuous trapping of any loose
+contaminants as well as provide a means to visually inspect water flow to determine air entrapment,
+glycol concentrations, etc.
+
+Fill the system circulation circuit with water and run the circulation pump for fifteen minutes.
+
+Turn off the circulation pump and close the service valves to the pump.
+
+Remove and clean the strainer basket.
+
+This procedure (steps 6-8) should be repeated until no particles or contaminants are visible in the strainer
+basket.
+
+. Upon completion of the above, drain the circulation circuit and reconnect the air handlers and
+
+autobleeders if installed.
+
+FILLING AND PURGING THE CIRCULATION CIRCUIT
+
+Pre-mix a glycol and fresh water solution per manufacturer’s specifications for your application. Use enough
+glycol to prevent freezing of pipes when vessel is not in use, but do not use more glycol than recommended.
+Mix the solution in a large container and either use a submersible MAS PML-500 pump (recommended) or use
+the circulation circuit pump, priming the pump first, to mtroduce the solution into the circuit pipmg. Follow
+these instructions:
+
+1.
+
+11.
+12.
+13.
+14.
+
+Connect hose from submersible pump to bib on water fill valve and open the valve. Or, if using the
+circulation pump, prime the pump first then disconnect inlet hose and place it in the solution container.
+Another temporary hose can be connected to the manifold where the inlet hose was disconnected, and that
+hose should empty into the solution container to complete the chilled water loop.
+
+Turn the air handler circuit breakers ON
+
+Set all the air handler controllers to open their motorized water valves if installed (refer to air handler
+control manual). Water valves may be opened manually if no power is available. Access the lever on top
+of the valve by removing the rubber boot. NOTE: if air handlers have no water valves then ignore this
+instruction.
+
+Locate the bleeder ports on the air handlers on the highest deck.
+
+Loosen the bleeder port on each air handler to allow air and water to drain into the air handlers’
+condensate pans.
+
+Start the pump. If a submersible pump is used, do not run the circulation pump at the same time.
+Periodically check the condensate pans for proper drainage.
+
+When no more air is coming out of bleeder, and a continuous stream of water is visible, tighten the cap on
+the bleeder port.
+
+Repeat steps 5-8 on every remaining air handler working down from the top deck.
+
+. Leak check all fittings and connections at this time. Ifa leak is found, close the fresh water fill valve and
+
+repair the leak. Repeat steps 1-9.
+
+Steps 4-8 may need to be repeated until all air is removed from the circulation circuit.
+
+Turn the air handler circuit breakers OFF.
+
+Turn pump off and reconnect original hose. Close the fresh water fill valve.
+
+The pressure gauge should read between 12-15psig. Use the water regulating valve to adjust system
+pressure. See “Fresh Water Fill System”.
+
+For protecting the environment, collect and discard discharged glycol solution in accordance with federal, state
+or local regulations.
+
+20
+OM
+
+NOISIAdd
+
+Add “MYT 40 LHNOD ¥ NI GALSSLNOD 3G N¥O ONV TN4AMVINO
+
+EET
+
+pO-8¢G0Vo 105150 dl Wye¥o0ud Ol SION dsddV] 70/6/8
+
+GSaXd3SqISNCD 3A TIVHS “ONI SW3LSAS aI¥ JNIYVA WOdd
+
+WoO
+
+00-£9¢0V0 dY¥vVOd OGG MSN YOs Ady 00/00/47
+
+AN3SNOD N3LUYM LNOHLIM SLNEIMLSIG YO AdOd OL LdWALLY ANY
+
+Wod
+
+d00-O0L6—-45d_ dev0d Odd MSN YOs Ady] vO/Z1
+
+SIHL NIHLIM GSNIVINOD NOLWAYOJNI SHL -SLON AdWvlalddodd
+
+|
+
+H
+
+4 “ON| TWLINSAINOYIANS JOVW YOTAVL JO ALYadOdd JHL SI LNSWNOOd
+G$L9
+
+“LIND HOV4S NO SYSA09
+NI SWVYOVIC ONIMIM
+“*XINO S3ONSYAS5Y YO SI
+
+XO@ OYLOATS
+TWONIAIGNI JSS
+ONIMVAC SIHL
+
+G9onvd 81
+
+CI/N dWAd Y4aLVM G3ATIIHS
+
+sonvo 8h) 11 dWnd Ysl¥m GSTIH9
+
+(H9NVD 81) CI/N dANd YSLVMVSS
+
+Janvs el) TT dad ssalvavas
+
+aYyvOs TIOYMINOO
+L# MSTGNVH IV
+
+SNELL
+
+&
+>
+g
+
+ma wd dco @ TET
+
+§[9[919[9[S[S]9]O
+
+rata
+Ned 3NTWA dhao
+
+O/| LYOdSSVd—-HV
+
+‘G40NO€ GNV GSQ0NN0YX9
+
+AldadOud 3a LSNW SLNJNOdWOO TI¥ ‘NMOHS LON
+
+ind GaWNssv SI SLNSNOdNOO TIV OL 3Y¥IM GNNOYS ‘OS TV
+“SdWV O@ Ga4d0X4 OL
+
+LON LNG dWNd 3HL YO4 G3ZIS YaxVaYNE LINDYHIO dsaLlvoldsa
+V SAVH LSNW (dud) TaNVd AVIdY dANd HOWa ‘S3ZIS
+JYIM JONWD OL ONV ALIOVdWNY WNWININ ‘YSNVaNE LINDID
+WNWIXYA YO4 Sdl¥1d ViVd LNAWdINOA 3aS “S4d00
+WOMLOATA DAGV HLIM ATdWOD LSNW ONIXIM GTAald “ADILON«
+
+dWNd NOLWVINOYID
+YalVM daTIHHO
+
+©
+
+SdW¥ OZ G3a4d9xa OL LON INE dANd
+SHL x04 d3ZIS Yaxvsds LindHlo dalvoldsd
+
+Yo SAVH ISMN T3N¥d Av1SY dWNd TINVISOdMT (¢
+LINDHID
+
+dnd NO (avO1 TINd) SdW¥ OZ d3FOxXa LON Od (Z
+"YSTIIHO HOWE LY STYNINASL dd
+
+YALWMWaS OL LOANNOO SQVI1 JYIM SLIHM 9 FJONVYO CL
+
+SSION ddd
+SLIOAOET/S LL
+
+GNNOeS
+
+dnd
+
+wo4 Aviad ann Wt Saas
+
+g3azis
+
+WONT aoe
+(ddd9-Z)
+SIMIM KINO = © SNOLVIS +
+
+SNOWWLS Z o o TWNOILIGaY
+
+)|a-< L — 5-3]
+
+awdsia
+zr
+
+(GLVINSNI 3% ~dNW19)
+
+OL GSHOVLLY 32 LSM
+YOSNAS YALVM
+
+YALVAH TWNOILdO
+a
+
+ISIN| SSLVM YSTONVH lv
+
+TANVd
+AV1dSI0
+
+TAT |e-!
+
+BETS) om hale &
+
+@ |Ez1-ane a es &
+Cv-+]&
+
+a-e| &)
+OF Gx Qep|®
+
+(SALON 33S) NOWWYSdO YadOYd YO4 JOVI NI
+
+SLIHM
+
+MOW1d
+
+SLIHM
+
+AdIS SIHL NO LOANNOO
+SLINA YSTIIHO “WNOILIGGY
+
+MOW 1d
+
+dNAd x04 GaZIS
+
+SIM
+
+(dud) TANVd AVISY dd YSLVM GSTIIHO
+
+QIZ1/N
+
+QIZ1/N
+
+Z1/N
+
+1 Z1/N
+
+BIZ1/N
+
+QZ1/N
+
+SLIHM
+
+MOW1d
+
+QI Z1/N
+
+SLIHM
+
+MOW1d
+
+@Il1 ¢# YATGNVH UV
+@Il1 @# YSTGNVH UV
+QL L# YaTGNVH UV
+@IL1 dWNd NOLWINONID
+Il1 dWNAd YaLYMV3S
+@l1 Z# YSTIHO
+
+ld t# YaTIHIHO
+
+}
+
+dnd YSLVMVsS SdNV OZ dad9x4 OL LON LNG dANNd
+
+SHL ¥O4 QSZIS HanvsHa LINDHIS GALVoIdad
+
+¥Y GAVH ISN TSN¥d AVISY dWNd “INVISOdMT (¢
+ALND
+
+dnd NO (a¥o1 Tin4) SdA¥ OZ G359xXa LON Od (Z
+"SSTIIHS HOWE LY STYNINASL dANd
+
+MALVMVaS OL LOSNNOO SGV31 3uIM SLIHM % JONVHO (1
+
+‘SSION dud
+SLIOAOET/S LL
+
+dg LSMW M3Y¥9S ONILNNOW OVIdL iLNVLYOdNI
+
+aNnowd
+
+dnd
+
+yO4 Aviad annd Sakis
+
+dazis
+
+WOX—1L1—8od
+
+(dud9-Z)
+Saul XINO = © SNOLVIS +
+SNOILWIS Z o o TWNOILIGaY
+
+Tek: [}—,.5 @
+
+SNYO
+
+dANAd 404 CaZIS
+
+* IINVd Y4MOd S,dIHS
+
+SIaIM,
+
+Tat |8-!
+
+SNYO
+
+SLIHM
+
+Mow 1d
+
+SLIHM YAMOd
+
+Adis SIHL NO LOANNOO
+SLIINA YSTIIHOD WNOLLICAV
+
+(A9NVS 8L) ZI/N dWAd SalvM CATHHO
+
+aonvd 8l) 11 dWad Y3lvmM GSTIHO
+
+Fonvd 8l) f1I/N dANNd SSLVMVsS
+
+Gonve 81) 11 dnd
+
+YALVMWSS
+
+MOw1d
+
+— owl OWN
+aie = Q=p- [8
+
+(SALON 33S) NOlWasdO YadOYd YO4 JOvVId NI
+ag LSAW M3YOS ONILNNOW OVldl LLNVLYOdWI
+
+(dud) TANVd AVISY dWNd YaLVMVaS
+
+DIGITAL DIAGNOSTIC
+CONTROLLER (DDC) #1
+
+STAGE #1 UNIT
+SYSTEM CONTROL
+SWITCH PLATE
+
+RETURN SHOWN FROM REAR
+—— SS SHIELDED CABLE, FIELD JOBS - 3a © Ted
+SENSOR [- WIRING IF REMOTE SWITCH
+a -— A , A
+| vr “]_LED DISPLAY | (WIRING. IF SWITOH. IS, MOUNTED
+| | [J (I im iim ON ELECTRIC BOX LID.
+(ell et (el a4 —— Je ——4 —
+Stee ! [2] MASTER FILM FREEZE RETURN ae 1
+V
+SENSOR | [o] $
+| i |. DIGITAL_ DIAGNOSTIC He
+MIXED ouTLET | CONTROLLER (DDC) 5
+"RE SESH | | -
+ay —_— uy
+oe = El, z=
+we oe USED ONLY WITH ez} |O} 8
+wy a ELECTRIC HEAT OR | Ea] loli
+a a WITH THE CWMC | Ee} [oh FS
+xm r
+GS 3B |
+om oe | cw SwP wy |
+o 3 clTT cour PRESSURE FLOW
+fa a | SWITCHES SWITCH
+Ww uw It NOTE:
+a a CONNECT TO CWMC al pulps DDC MUST BE PROGRAMMED
+- o IF USED, THEN SWITCH allo TO ENABLE LOW PRESSURE
+ts is PLATE MAY BE REMOVED ? DETECTION (LPE).
+ce &
+= = IL = veroy [REVERSING
+aT veto VALVE
+Po ELOW_I (OPTIONAL)
+| —P—PUMP_WIRING NOTE: FOR MULTIPLE CHILLER
+APPLICATIONS, TWO PUMP RELAY PANELS MAY
+BE USED AS SHOWN. HOWEVER, PUMPS MAY
+BE WIRED DIRECTLY TO THE #1 CHILLER (AS
+IN A SINGLE CHILLER INSTALLATION). IF THIS
+IS DONE AND THE #1 CHILLER IS TAKEN OFF
+LINE FOR ANY REASON, MOVE THE PUMPS
+TO THE #2 CHILLER. PUMPS LARGER THAN
+3/4HP REQUIRE A PRP. SEE PRP NOTES.
+DIGITAL DIAGNOSTIC STAGE #2 UNIT
+CONTROLLER (DDC) #2 OMIT PLATE
+SHOWN FROM REAR
+RETURN
+WATER SHIELDED CABLE, FIELD 4805 30 Tea
+SENSOR WIRING IF REMOTE SWITCH
+L_ TO AIR | es | LED DISPLAY PLATE IS USEB, OR FACTORY
+HANDLER #2 WIRING IF SWITCH IS MOUNTED
+| im im im ON ELECTRIC BOX LID
+CONTROL 4 ot RED \
+I |fe] fe (el fa She | — sie
+TO AIR Siete | |= MASTER FILM FREEZE RETURN 7 BLACK i
+WT
+-——. SENSOR | [e] ,
+HANDLER. if 5 | “ DIGITAL DIAGNOSTIC He
+CONTROLLER (DDC) :
+| je es
+ae I aE
+I ze ole 2| =
+I La) |o| eg
+AIR | Ee] [2 fet
+HANDLER #1 | |
+CWP ‘SWP VL
+WATER --——- coMP PRESSURE FLOW
+VALVE | SWITCHES SWITCH
+I NOTE:
+eoONNECT TO GWM lalsis| DDC MUST BE PROGRAMMED
+FAN . TO ENABLE LOW PRESSURE
+( otor PLATE MAY BE REMOVED : rn DETECTION (LPE).
+| — REVERSING
+| Lo — veltow VALVE
+Lit — —j_ b — — — — 4L0"_] (op TIONAL)
+DATE:
+D ti C ti 12/15/98 2—STAGE MCW CHILLER
+ometic orpora ion SCALE N.S SAMPLE WIRING DIAGRAM INCLUDING:
+aE _ Marine Air _ TEE DDC CONTROLS, AH—-PASSPORT I/O & PRP’S
+DKM 115—230VAC/50—60HZ/1¢
+MEG so : . DRAWN BY: |APPROVED BY: | DRAWING NO:
+APE] Cruisair - Marine Air - Grunert - Sentry - Tundra | DKM H2510002H
+
+du ‘Ad udv
+
+Z| 06001S-€62 SLN
+OZ LO LO¢H a MSEANN LYvd | MAY -Ag OMG
+
+66/6/E
+
+‘A1VOS
+‘alvd
+
+.S)
+Awd
+
+TOYNLNOD OCG Sl/ZH09-0S/OVANES
+uY/I/S 09-7CMOW
+
+Ity euuey| uOol}e10dJO4 919WO0G
+
+FTOAO ASHSARY YO ONIMIM TWNOILdO
+XOg NI 9M GNNOYS OL SSYIM GNNOYNS TV
+
+GBLON JSIMY3HLO SSIINN StF JYVY S3YIM TV “JLON
+
+"SHOLOVLNOD dWNd HLIM SLO SWNMO dWnd vas -
+
+YO ‘ddd V JyINOAY dHb/E NVHL
+MFO SdNNd “(dud) TANVd AV1dy
+dWnd YO dWNd YO4 S3MIM 3ZIS
+SALON
+
+BLON 33S ‘ONIMIM Cad
+
+dWAd “Ould
+
+4aZIS JYIM YO4
+-— 3lV¥ld SWVN 34S
+
+“LA ano uaMOd
+Z1 1/09-0¢
+L1 OWA O£z
+
+‘WMO,
+
+HIM aasn LON
+XO8 SIMLIITA NI
+GRLNNOW SI HOLS
+dl ONIIIM ANOLOY4
+
+IEEE)
+SUH _{
+yovla 7
+
+‘aasn S| alvld
+HOLIMS 3LOWSY
+Al SNISIM O73
+Flava G3013HS
+
+‘(ad1) NOI
+AUNSSIYd MOT TIGYNA OL
+CAWAVYOONd Ja ISNW 9Gd
+
+SION
+
+(WNOLLdO)
+SAWA
+ONISMAAZY
+
+ywaed WOds NMOHS
+aLW1d HOLIMS.
+
+TOYLNOS WALSAS.
+— 1
+
+PT a 0 es Be Tene J
+a oe
+
+SEINE
+SLIM
+Owe
+SONVAO
+ama
+
+Zi# BONWHO
+Zig SLIHM
+
+Zl# NAINO
+THs
+Yovle
+
+Zl# Howe
+
+Woo
+
+TH SONVET
+Zl# SIH
+
+on
+
+sghalanl
+Wied
+Oo
+
+aH
+wove
+
+(oda) YaATIONLNOO
+JISONDVIG TWLIOIG s
+
+[2]
+
+NYMISY () (| MaisyN aes
+Ao og [eI
+
+(EU fa tay
+
++|NOILISOd S¥H
+Awiae Levis [al <TF SUM |
+
+cle owe
+
+YOSNAS
+
+ane |
+
+pati
+YalVM
+fake
+
+gasn al
+
+Lou
+OWMO OL
+
+YOSNAS
+YaLVM
+Ia1LNo
+daxin
+
+TH Te
+
+ZF ALIH
+
+SOVLS HOWE OL
+
+ONINECUSY YaLYM JH. 40 SALVLNaSSadaa
+
+“NOLLWHAdO HadOdd YO4 SLINN
+
+OWMS SNISN JI GadS3N INO
+L 39vLS NO G3d3aN 41NO
+
+MalV¥M ONULWINOMID HLIM LOVLNOO TWWYSHL TTY 40 WW3elS NMOd d30v1d 3d
+NIVLNIVA, LSM, HOSN3S YaLWM NYOL3Y LSNW YOSN3S YalvM LTLNO GaXxi
+
+MOW/MOS HOI GOOOLSIH SMA “TIONDS *ZMOW NOS ZZLOLOZH OMG “44
+
+O4W | yd yO-8€SdvVoO'GuVO”d 94d MAN YOs Ady | 0/2/8 ‘M140 LUND V NI GALSSLNOO 3a NYO
+
+Sar | MWY L0-8Zb0VO'SPZMOW SQN TIONI OL ‘NOSAC ASH | 10/60/40 CNV TN4MWINN GAYSCISNOO 3d TIVHS NOLLWYOdHOO:
+
+LO-SEECVvO‘ILON LA ILAd GaXxIW Gagay | LO/F2/eo OLLSWOd WOus LNSSNOO N&LLTM LOOHLIAA
+ALNGIULSIG YO AdOO OL IdWALLW ANY ‘NOILVHOduOO
+
+Saft_| MWY.
+
+sar 00-LSPCVO‘NOILISOd AV13u v# NO OSA GADNVHO | _OO/9L/8
+
+srw OAWOd JO ALYadOUd SHL SI LNSWNOOC SIHL NIHLIM
+
+fils \zlalo
+
+ba] GANIVLNOO NOILVWYOSNI SHL ‘ALON AMVLalddOud
+
+NOLLdIY9S3d NOISIARY aivd
+
+Ydv | Sd
+
+PROPRIETARY NOTE: THE INFORMATION CONTAINED REV} DATE REVISION DESCRIPTION DWG | APR
+WITHIN THIS DOCUMENT IS THE PROPERTY OF DOMETIC
+CORPORATION, ANY ATTEMPT TO COPY OR DISTRIBUTE Cc 417/00 | REV TO NEW DDC BOARD,CAD257-00 DKM | DKM
+WITHOUT WRITTEN CONSENT FROM DOMETIC D | 03/21/01 | ADD CWMC OTS/MIXED SENSOR NOTES,CAD335-01 RMW | JES
+CORPORATION SHALL BE CONSIDERED UNLAWFUL AND E | 03/21/01 | INCLUDE 7.5/10TON COMPS,CAD335/36-01 RMW | JES
+CAN BE CONTESTED INA COURT OF LAW. F | 5/26/04 | REVISE DESIGNATORS ON CONTACTOR,CAD353-04 DRR | MFG
+G 8/7/04 REVISED FOR NEW DDC BOARD,CAD538-04 DRR | MFG
+MIXED OUTLET WATER SENSOR MUST
+Se La ——
+ONLY NEEDED ON STAGE 1. . i
+ONLY NEEDED IF USING CWMC. rs) 8 5 8 we a g g
+io) 1 ae
+RETURN WATER SENSOR MUST MAINTAIN oy] 4 | 73 5 a} 5) &
+THERMAL CONTACT WITH CIRCULATING WATER e O 2 eo eye
+REPRESENTATIVE OF THE WATER RETURNING TI T2 Ta = ib & =
+TO EACH STAGE. 8 5 =| 2] =
+LS BOIS 8 &]5
+Sian a} 8) 3
+WHITE #12 | ol ELS
+BLACK FI 3] =|§ 230 VAC
+50—60/3¢
+ser |] smc] (Sa POWER
+WaTER ee [Raed +2 St L1
+TO CWwMC
+IF USED — T—] 7 7] @ L2
+aUeseliO 1 7 @ L3
+TT]. w > ol
+Sag weer ily 22
+a 2
+| O 2e GND
+| I [ex
+| = SEE DATA
+| PLATE FOR
+| WIRE SIZE
+|
+|
+\ |
+I n
+1 T
+T T |
+YELLOW ~l 4 |
+ed | oof LI Ios ec
+| rT 8 ls Fa] SYSTEM CONTROL 5 fal . &
+Fa | SHOWN PROM REAR . - & -
+| wamwmomme) =) | 2] =
+| S009 - FAD - TASH o o fa °
+REVERSING | 4 2) Be
+VALVE & E fay a
+(OPTIONAL) | a a} =] #2
+NOTE; u4-—— — ft _
+DDC MUST BE PROGRAMMED T
+TO ENABLE LOW PRESSURE
+DETECTION (LPE). Loyietoeo caBLe
+FIELD WIRING IF
+REMOTE SWITCH
+A sack 11 PLATE IS USED,
+WHITE L FACTORY WIRING IF
+POWER WIRE SIZE GREEN SWITCH IS MOUNTED
+IN ELECTRIC BOX.
+
+NOT USED WITH
+
+L1 /TIL2/T2L3 /TAGRND CWMC
+
+CIRC. PUMP
+FIELD WIRING, SEE NOTE
+
+I24K—72K |10GA |10GA |10GA }126A
+
+90K 8GA |8GA | 8GA |10GA
+
+NOTES:
+
+slack LI
+{ware L
+
+GREEN GND)
+
+120K 6GA | 6GA | BGA | 8GA
+
+RELAY PANEL (PRP).
+
+NOTE: ALL WIRES ARE #18 UNLESS OTHERWISE NOTED
+ALL GROUND WIRES TO GROUND LUG IN BOX
+---- OPTIONAL WIRING FOR REVERSE CYCLE
+
+SIZE WIRES FOR PUMP OR PUMP
+
+PUMPS LARGER
+
+THAN 3/4HP REQUIRE A PRP, OR
+SEA PUMP CWMC OTS WITH PUMP CONTACTORS.
+
+Dometic Corporation Marine Air
+
+MCW24-120K-RC
+
+230VAC/50-60Hz/3°, DDC CONTROL
+
+DATE: 2/10/99 |[DWGBY: RMW_ | PART NUMBER: g
+SCALE: NTS |APRBY: RP 293-510078 [5
+
+H2010171
+
+REV
+
+PROPRIETARY NOTE: THE INFORMATION CONTAINED REV| DATE REVISION DESCRIPTION DWG | APR
+
+WITHIN THIS DOCUMENT IS THE PROPERTY OF DOMETIC
+
+CORPORATION. ANY ATTEMPT TO COPY OR DISTRIBUTE E | 03/12/01 | INCLUDED 7.5T & 10 TON COMPS,CAD336-01 RMW | JES
+
+WITHOUT WRITTEN CONSENT FROM DOMETIC F 8/21/03 | ADDED 150K INFORMATION,CAD647-03 DRR | MFG
+
+oo a CONTE Sinn COURT OR LAWFUL AND G 9/2/03 | REMOVED 150K VERSION,CAD659-03 DRR | MFG
+, H 8/9/04 | REVISED FOR NEW DDC BOARD,CAD538-04 DRR | MFG
+
+REF. H2010198 FOR NO NEUTRAL
+
+MIXED OUTLET WATER SENSOR MUST
+BE PLACED DOWN STREAM OF ALL
+UNITS FOR PROPER OPERATION. SY
+ONLY NEEDED ON STAGE 1. gala
+ONLY NEEDED IF USING CWMC. OG N) BO c is ays
+TI] 12 Pye «|
+O sole
+RETURN WATER SENSOR MUST MAINTAIN OQ |= Syeype
+THERMAL CONTACT WITH CIRCULATING WATER od vw Mile =| | &
+REPRESENT/ F THE WATER RETURNING 5 a) =] =
+TO EACH STAGE: SH 8 HYS fo) ol
+wif GH} to
+WHITE #12 Is) Le 3 ey) 2
+BLACK #12 a E a
+BE 5 380 VAC
+5 a SOHZ/3¢
+MIXED Wel E] RETURN 3 z O12 /-
+OUTLET | | WATER |é WATER
+WATER aa E| SENSOR Qe N
+to cwwc | | | __ SENSOR Cc)
+IF USED “OD et 4
+SUeeeL) e[) am (J == — oar Qe L2
+DIGITAL DIAGNOSTIC Qe L3
+CONTROLLER (DDC) | —
+5 -—
+B | fe) 2 @ GND
++
+Ole, =
+oi ©
+ali | = Oo] SEE NAME
+A =
+| PLATE FOR
+ow [| | WIRE SIZE
+ollie) 6) |
+| = |
+| | |
+1 T
+i} | |
+veLLow, _| w al o a
+rT veroy_ JL | g dl olek! ay SB} 8)
+| 5 gg 15 SYSTEM CONTROL =] & we %
+SWITCH PLATE ira 2 5 g£
+LI | SHOWN FROM REAR i i - te
+| commen) =| =| Ef =
+FS 4000 2 390 = TAH ra rad z fay
+REVERSING | io ied L ~
+VALV a} el el &
+(OPTIONAL) | eS ed
+NOE L
+DDC MUST BE PROGRAMMED
+ek eer i.
+POWER WIRE SIZE ; Feud WIRING IF
+REMOTE SWITCH
+L1/TYL2/TALS /T3IGRND FACTOR? WininG iF
+SWITCH IS MOUNTED
+24K —72K |12GA |12Ga |126a |12GA IN ELECTRIC. BOX
+A eiack 1 NOT USED WITH
+90K — |1oca |10ca |10ca fi2Ga {ware 12
+GREEN GND
+120K |8ca |8ca | 8cA |10Ga
+
+CIRC. PUMP
+
+BLACK
+
+|_ WHITE.
+
+NOTE: ALL WIRES ARE #18 UNLESS OTHERWISE NOTED
+
+GREEN GN
+
+= SEA PUMP
+
+ALL GROUND WIRES TO GROUND LUG IN BOX
+
+OPTIONAL WIRING FOR REVERSE CYCLE
+
+FIELD WIRING, SEE NOTE
+
+NOTES:
+SIZE WIRES FOR PUMP OR PUMP
+
+RELAY PANEL (PRP). PUMPS LARGER
+
+THAN 3/4HP REQUIRE A PRP, OR
+CWMC OTS WITH PUMP CONTACTORS.
+
+Dometic Corporation
+
+Marine Air
+
+MCW24-120K-RC
+380VAC/50HZ/3@ W/NEUTRAL, DDC CONTROL
+DATE: 2/11/99 |DWG BY: RMW PART NUMBER: |©
+SCALED NTS ~|APREY;RP—| 293510077 (= 2010173 [6 H
+
+PROPRIETARY NOTE: THE INFORMATION CONTAINED REV| DATE REVISION DESCRIPTION DWG | APR
+WITHIN THIS DOCUMENT IS THE PROPERTY OF DOMETIC
+CORPORATION. ANY ATTEMPTTO GOPY OR DISTRIBUTE |_A 113/00 | REMOVED PRP OPTION PER DCR#CAD018-00 MJS | DKM
+WITHOUT WRITTEN CONSENT FROM DOMETIC B | 4/17/00 | REV TO NEW DDC BOARD,CAD257-00 DKM | DKM
+itiabelehialetas Soee eR ON AWFUL AND C | 04/13/01 | ADD MIX SENSOR NOTE/120K,CAD335/36-01 RMW | JES
+: D 8/9/04 | REVISED FOR NEW DDC BOARD,CAD538-04 DRR | MFG
+REF. H2010173 FOR WITH NEUTRAL
+MIXED OUTLET WATER:
+SENSOR MUST BE PLACED
+DOWN STREAM OF ALL UNITS. BLACK #12
+FOR PROPER OPERATION. WHITE chm
+ONLY NEEDED ON STAGE 1. } | i] a
+SA Hdl. a8
+ONLY NEEDED IF USING L? LT TH] 12 T3 ° alle
+cwne. 230VAC SECONDARY e Kd |S S| 212
+RETURN WATER SENSOR TRANSFORMER EB | Ele
+MUST MAINTAIN THERMAL ui L2 L3 5 =| | 2
+WATER REPRESENTATIVEOP PEP H9S  seI°
+THE WATER RETURNING TO J Lig CH wale 3580—460V
+EACH STAGE. QI] ~]
+ol #| x 50-60/3¢
+APES
+. EEE POWER
+a+-+—L1
+WHITE #12
+-—L2
+MIXED SUPPLY s w =
+OUTLET | | WATER RETURN @ = L3
+WATER, SENSOR| SENSOR a = enn
+TO CWMC
+IF USED —— {| 7] =2 SEE NAME
+° = PLATE FOR
+el Ne 2 oe 7 WIRE SIZE
+al DIGITAL DIAGNOSTIC _ |
+CONTROLLER (DDC) oe r
+|
+i |
+|
+| L
+|
+Asie |
+Ld \ |
+it |
+im T
+TT [ry
+YELLOW My s S 5 SYSTEM CONTROL
+oS Vy z| =] 3 ae | SWITCH PLATE aloo a
+vetow | I S Ze SHOWN FROM REAR WW i a ist
+| i iy | ° a 3 °
+I 5 | e} oc} os] oe
+| LP HP FS | 5 & ~ E
+| | a ee
+REVERSING i NOTE: at al oS) Bf 8) Bl
+VALVE Beas ermemwe (/L_ fy of ol
+(OPTIONAL) 1 DETECTION (LPE) — “| =] e] @
+ly oO oO
+POWER WIRE SIZE 1 re slack LA Bee PN SHIELDED CABLE
+ee ee WHITE L2° :
+Li /THL2/TAL3/TAGRND 1 RELAY PANEL PLATE. IS USED,
+FACTORY WIRING IF.
+p+k-72k fr0ca fro foc aca | ! FIELD WIRING, SEE NOTE i sircrrie’@ox
+I I NOT USED WITH
+90K 8GA | 8GA | 8GA }10GA | | CWMC
+LA pack, Lt TO_3 PHASE
+120K |eca | 6ca | 6ca [aca po wie [2 SEA PUMP
+RELAY PANEL =
+
+NOTE: ALL WIRES ARE #18 UNLESS OTHERWISE NOTED
+
+ALL GROUND WIRES TO GROUND LUG IN
+
+BOX
+
+OPTIONAL WIRING FOR REVERSE CYCLE
+
+NOTES:
+
+SIZE WIRES FOR PUMP OR PUMP
+PUMPS LARGER
+THAN 3/4HP REQUIRE A PRP, OR
+CWMC OTS WITH PUMP CONTACTORS.
+
+RELAY PANEL (PRP).
+
+Dometic Corporation
+
+Marine Air
+
+MCW24-72K-RC
+380-460VAC/50-60Hz/30, NO NEUT. DDC CONTROL
+
+DATE: 12/15/99 [DWG BY: RMW | PARTNUMBER: [©
+SCALE: NTS |APRBY: ES 293-510136 3 H2010198 G
+
+D
+
+Tohietven CABLE
+FIELD WIRING IF
+REMOTE SWITCH
+PLATE IS USED,
+FACTORY WIRING IF
+SWITCH IS MOUNTED
+IN ELECTRIC BOX,
+
+PROPRIETARY NOTE: THE INFORMATION CONTAINED REV| DATE REVISION DESCRIPTION DWG | APR
+WITHIN THIS DOCUMENT IS THE PROPERTY OF DOMETIG
+CORPORATION. ANY ATTEMPT TO COPY OR DISTRIBUTE A 5/26/04 | REVISED DESIGNATORS ON CONTACTOR,CAD355-04 DRR | MFG
+WITHOUT WRITTEN CONSENT FROM DOMETIC B 8/7/04__| REV FOR NEW DDC BOARD,CAD538-04 DRR | MFG
+CORPORATION SHALL BE CONSIDERED UNLAWFUL AND
+CAN BE CONTESTED IN A COURT OF LAW.
+REF. H2010173 FOR WITH NEUTRAL OR H2010198 FOR WITH TRANSFORMER
+7 8
+nS | S]s}s
+IWS | BO a a} els
+oy] ? [le #] 2) 3
+e OF |=
+Ti) | 12 | |Ta2 L1 DEDICATED
+OES B95 230V DDC
+SHES POWER
+BLACK #12
+WHITE #12
+SUPPLY rH s80—460v
+G] RETURN -
+WATER |e! [é . a
+a il [Be Boewusr oc proces | | | = 50--60/3#
+5 DETECTION (LPE). 3 5 E
+woome || (a IP EEOC hey ———— —— + ° | oND
+S) pa, moves | SEE NAME
+PLATE FOR
+gS
+| WIRE SIZE
+|
+|
+|
+|
+|
+| S| S} os} Sl
+I Fs]
+i | re] ray a
+I t ee ee
+| |
+i. !
+_
+ie 43} mg cae.
+| | & 2 Fs | SHOWN FROM REAR
+| vorae serie sere
+I | |
+REVERSING | | |
+VALVE rt
+(OPTIONAL) i |
+/ =
+|
+It
+rd
+|
+It
+It
+rd
+|
+It
+It
+rd
+|
+It
+
+NOTE: ALL WIRES ARE #18 UNLESS OTHERWISE NOTED
+
+BLACK
+
+WHITE.
+
+FIELD WIRING, SEE NOTE
+
+BLACK
+WHITE
+
+Li TO
+iw
+
+CIRC. PUMP
+OR PUMP.
+
+RELAY PANEL
+
+L1 TO CIRC. PUMP
+OR PUMP.
+
+L2
+
+ALL GROUND WIRES TO GROUND LUG IN BOX
+
+OPTIONAL WIRING FOR REVERSE CYCLE
+
+RELAY PANEL
+
+NOTE:
+
+SIZE WIRE FOR PUMP
+
+OR PUMP RELAY PANEL
+(PRP). PUMPS LARGER
+
+THEN 3/4 HP REQUIRE
+A PRP.
+
+Dometic Corporation
+
+Marine Air
+
+SCW/MCW DDC, 380-460VAC/50-60HzZ/3
+NO NEUTRAL WITH DEDICATED 230V POWER FOR DDC
+
+DATE:
+
+9/7/00
+
+DWG BY: MJS
+
+PART NUMBER:
+
+SCALE:
+
+NTS
+
+APR BY: JES
+
+293-510172
+
+= H1510016 [2 B
+
+PROPRIETARY NOTE: THE INFORMATION CONTAINED REV| DATE REVISION DESCRIPTION DWG | APR
+WITHIN THIS DOCUMENT IS THE PROPERTY OF DOMETIC
+CORPORATION, ANY ATTEMPT TO COPY OR DISTRIBUTE H 1/22/02. | CONTACTOR TO RELAY,ADD RESISTOR,CAD062-02 DRR | PJM
+WITHOUT WRITTEN CONSENT FROM DOMETIC J | 10/16/03 | CORRECTED WIRE GUAGE,CAD764-03 DRR | GLD
+etnies See COUR TONER EME AND K | 11/17/03 | REVISED WIRE SIZE TABLE,CAD807-03 DRR | MFG
+, L 7/29/04 | SHOW FREQ DRIVE AS GENERIC ENTITY,CAD512-04 DRR | MFG
+M 8/9/04 | REVISED FOR NEW DDC BOARD,CAD538-04 DRR | MFG
+SYSTEM CONTROL
+SWITCH PLATE
+SHOWN FROM REAR |  sonwe sosmuea seve
+MIXED SUPPLY 7m : :
+OUTLET WATER |e] [E} Rete
+WATER SENSOR|*| [8] SENSOR
+TO CWMC SENSOR
+IF USED -—-—
+MIXED OUTLET WATER SENSOR MUST |
+BE PLACED DOWN STREAM OF ALL
+UNITS FOR PROPER OPERATION. l
+ONLY NEEDED FUSING CHMC. of Waoa
+RETURN WATER SENSOR MUST MAINTAIN [e] (2) =| — — 7 if{\~ —
+THERMAL CONTACT WITH CIRCULATING WATER Lage! MASTER FMT FREEZE. RETURN) Op t
+REPRESENTATIVE OF THE WATER” RETURNING of 7
+. “= DIGITAL DIAGNOSTIC ° SHIELDED CABLE
+CONTROLLER (0DC) ort FIELD WIRING IF
+ee = REMOTE SWITCH
+to ee Ta ro PLATE IS USED,
+IE Ir IB IF f 0 fice FACTORY WIRING IF
+5 PE 1c SWITCH IS MOUNTED
+ry E ‘al it IN ELECTRIC BOX.
+= 2 NOT USED WITH
+CWMC.
+cwR ‘SP ike
+COMP
+NOTE:
+DDC MUST BE PROGRAMMED
+TO ENABLE LOW PRESSURE
+DETECTION (LPE).
+allOllaligiiglialiolie
+i p OMPLI CHP LT SHPLI VP ’
+| | =
+| |
+BLK #12 | |
+WHT #12 | |
+| |
+| |
+1 1
+T T
+ee veuow_] | uo
+fo a / ) oP pate LP fd “| 2) 3] EH
+| TOSHIBA | SQUARE-D/TELEMECANIQUE “| op =F
+| FREQUENCY DRVE | qt FREQUENCY DRIVE UI
+a 3 2 LP] |HP] |Fs
+| CONTROL CONNECTONS | ol | CONTROL CONNECTIONS SERN
+| EITArTIACTS I Z| ee a a VALVE
+| “est ant #1 a] S| a] 2 (OPTIONAL)
+| I !
+| L + fay BLACK Li
+| | i WHITE L
+| | | GREEN GND
+| sR | wissen Lt
+Looor tt rit L , = CIRC. PUMP
+H H t! FIELD WIRING, SEE NOTE
+. tor ‘ BLACK ts
+i GREEN (SEE_CHART) Tt aaa CNU
+11 —s Iv
+LL. BLACK (SEE CHART) = SEA PUMP
+~ NOTES:
+NOTE: ALL WIRES ARE #18 UNLESS OTHERWISE NOTED SIZE WIRES FOR PUMP OR PUMP
+* 9 ALL GROUND WIRES TO GROUND LUG IN BOX RELAY PANEL (PRP). PUMPS LARGER
+L ---—-—- OPTIONAL WIRING FOR REVERSE CYCLE THAN 3/4HP REQUIRE A PRP, OR
+= 24% ALTERNATE WIRING FOR FREQ. DRIVESt CWMC OTS WITH PUMP CONTACTORS.
+COMP (*NOTE: L1/L3 USED FOR INPUT POWER)
+POWER WIRE SIZE - 7 7 -
+i fe foo Te Ts Tow Dometic Corporation Marine Air
+24K—48K |10GA [10GA |12G4 ]110GA ]10GA4 [1064 [126A
+60K—72K |8GA | 8CA | 10GA]]10GA]10GA]10GA]126GA MCW24-120K-RCDDC
+20K [oo [ome [on Poon foo Joos fro 230VAC/50-60Hz/3@ WITH FREQ DRIVE
+120K | 6GA ]6GA | 8GA }]6GA | 6GA | 6GA | BCA DATE: 5/13/99 |DWG BY: RMW PART NUMBER: |Q >
+im
+SCALE: NTS |APRBY: ES 293-510097 = H2010186 ir M
+
+PROPRIETARY NOTE: THE INFORMATION CONTAINED REV| DATE REVISION DESCRIPTION DWG | APR
+WITHIN THIS DOCUMENT IS THE PROPERTY OF DOMETICG
+CORPORATION. ANY ATTEMPT TO COPY OR DISTRIBUTE F | 11/27/01 | REPLACE CONTACTOR WITH RELAY,CAD1 183-01 DRR | PJM
+WITHOUT WRITTEN CONSENT FROM DOMETIC G | 12/12/01 | MOVE RESISTOR,CAD1241-01 DRR | PJM
+CORPORATION SHALL BE CONSIDERED UNLAWFUL AND H | 01/06/03 | ADDED RESISTOR,CAD01 1-03 DRR | JES
+CAN BE CONTESTED IN A COURT OF LAW. J_|_7/29/04_| SHOW FREQ DRIVE AS GENERIC ENTITY,CAD511-04 DRR | MFG
+K 8/9/04 | REVISED FOR NEW DDC BOARD,CAD538-04 DRR | MFG
+MIXED SUPPLY —] RETURN
+OUTLET WATER |6] |Z] WATER HoTHWE J9STHOD wETEVE
+WATER SENSOR|#| [8] SENSOR SYSTEM CONTROL | 1009 = 9A@ = TASH
+SENSOR SWITCH PLATE =
+SHOWN FROM REAR T
+1
+CA
+Tocwwo] pall.
+IF USED ml | a, ol <<
+of Wee er il 0 gla} S
+fo] Hien tr to —p-—— b}a
+Sa MASTER HUM FREEZE RETURN! © 7] T
+( ote a
+DIGITAL DIAGNOSTIC One SHIELDED CABLE
+CONTROLLER (DDC) on FIELD WIRING IF
+a ~ REMOTE SWITCH
+uD Ere —_ PLATE IS USED,
+E TF | Te 8 [o, FACTORY WIRING IF
+se ole SWITCH IS MOUNTED
+IE all ole IN ELECTRIC BOX.
+MIXED OUTLET WATER SENSOR MUST — 2 NOT USED WITH
+See BBA A CHM.
+ONLY NEEDED ON STAGE 1. . COMP cur SHP vw
+ONLY NEEDED IF USING CWMC.
+RETURN WATER SENSOR MUST MAINTAIN.
+THERMAL CONTACT WITH CIRCULATING WATER
+REPRESENTATIVE OF THE WATER RETURNING
+TQ EACH STAGE.
+allo alg
+° i g wa OMPLI Ci PL EV ?
+BLK #12 | I ta
+WHT #12 | | =
+| |
+| |
+| |
+30 | |
+POWER
+SUPPLY] | |
+al Ss | !
+lel: te | '
+sfele veuow} } I ul 2] 8
+FREQUENCY DRIVE lel 4 al a]
+SQUARE-D/ TELEMECANIQUE &] O15 .
+s mm ed te NOTE:
+CONTROL CONNECTIONS © “ Bee] 2] eg te} lye DDC MUST BE PROGRAMMED
+g alElS] x] x TO ENABLE LOW PRESSURE
+8 el Els] a] a REVERSING DETECTION (LPE).
+| VALVE
+TOSHIBA CONTROL CONNECTIONS } (OPTIONAL)
+ae a
+Snot T 7 | fav Black 1
+u J i WHITE
+i GREEN GND!
+LiW213 6 T1273_¢ aa
+A , - CIRC. PUMP
+FIELD WIRING, SEE NOTE
+M1 13 suack 1
+it WHITE, L
+BLACK (SEE CHART FOR SIZE) T2 ii GREEN GND
+WHITE _(SEE_CHART FOR SIZE cL V =e
+RED (SEE CHART FOR SIZE) COMP =
+GREEN _(SEE_CHART FOR SIZE: + - SEA PUMP
+= NOTES:
+NOTE: ALL WIRES ARE #18 UNLESS OTHERWISE NOTED - SIZE WIRES FOR PUMP OR PUMP
+ALL GROUND WIRES TO GROUND LUG IN BOX RELAY PANEL (PRP). PUMPS LARGER
+-—-- OPTIONAL WIRING FOR REVERSE CYCLE THAN 3/4HP REQUIRE A PRP, OR
+coe ee ALTERNATE WIRING FOR FREQ. DRIVES CWMC OTS WITH PUMP CONTACTORS.
+
+POWER WIRE Sze Dometic Corporation Marine Air
+
+I /11-2/79.3/TIcRND
+b4k—72k fioca frase |i 06a fi2ca MCW24-120K-RC/CL, 230VAC/50-60Hz/3°
+30K _ [86a | 86a | sca [rose DDC WITH FREQUENCY DRIVE
+120K }6GA | 66a | 6GA | BGA DATE: 5/10/99 |DWG BY: RMW PART NUMBER: |© >
+SCALE, NTS |APRBY. ES | 293510098 [= 2010184 & K
+
+PROPRIETARY NOTE: THE INFORMATION CONTAINED
+WITHIN THIS DOCUMENT IS THE PROPERTY OF DOMETIG
+CORPORATION. ANY ATTEMPT TO COPY OR DISTRIBUTE
+WITHOUT WRITTEN CONSENT FROM DOMETIC
+CORPORATION SHALL BE CONSIDERED UNLAWFUL AND
+CAN BE CONTESTED IN A COURT OF LAW.
+
+MIXED OUTLET WATER SENSOR MUST
+
+BE PLACED DOWN STREAM OF ALL
+
+UNITS FOR PROPER OPERATION.
+
+ONLY NEEDED ON STAGE 1.
+
+ONLY NEEDED IF USING CWMC.
+
+RETURN WATER SENSOR MUST MAINTAIN
+
+REV| DATE REVISION DESCRIPTION DWG | APR
+D_ | 04/24/00 | REV FOR NEW DDC BOARD,CAD274-00 RMW | JES
+E | 03/16/01 | ADD JUMPER NOTE TO DRIVE,CAD319-01 RMW | JES
+F | 7/24/01 | CORRECT AWG'S,TITLE BLOCK,CAD747-01 BAP | PJM
+G 8/7/04 | REV FOR NEW DDC BOARD,CAD538-04 DRR | MFG
+
+THERVAL CONTACT WITH! CIRCULATING WATER MIXED SUPPLY | i RETURN Howwe JonTHOD WaTEVe
+REPRESENTATIVE OUTLET WATER Ji] |2] WATER SYSTEM CONTROL | 4002 "386 = Tea
+WATER SENSOR]# 3) SENSOR SWITCH PLATE
+SENSOR SHOWN FROM REAR T 1 T
+SSI
+To cwac | _ aaa
+IF USED 7 a! S| =
+Loy LI
+° (Fy Fy Ey ° x} =| S
+SI fel tet ea ——_- —| t— =F a
+MASTER HILIM) FREEZE RETURN 201} I
+[2] ot v
+SET oS
+DIGITAL DIAGNOSTIC Orne SHIELDED CABLE
+CONTROLIER (DDC) bala FIELD WIRING IF
+a, _ REMOTE SWITCH
+" PLATE IS USED,
+oY FACTORY WIRING IF
+Fe SWITCH IS MOUNTED
+a IN ELECTRIC BOX.
+MIXED QUTLET WATER SENSOR MUST. NOT USED WITH
+BE PLACED DOWN STREAM OF ALL. CWMC.
+ONLY NEEDED IF USING CWMC.
+RETURN WATER SENSOR MUST MAINTAIN
+THERMAL CONTACT WITH CIRCULATING WATER
+REPRESENTATIVE OF THE WATER RETURNING
+TO EACH STAGE.
+allOHO OYVOWO
+a u 12 COMA Cl SHPl uw ?
+BLK #12 | 22
+WHT #12 | -
+ee |
+POWER L1 4
+SUPPLY L2 4 |
+w/NEUTRAL L3
+GROUND 6 af alg} |
+al oy? YELLOW
+ola uf SO] x
+A \ od ea ed YELLOW. || =| 2] 2 4s
+FREQUENCY DRIVE 5 Ele =e) a] 4g
+SQUARED TELEMECANIQUE 7 a
+CONTROL CONNECTIONS sg alate] ol «
+AL vOut aa 3 Se up| |HP NOTE:
+| alE]S] xl ys DDC MUST BE PROGRAMMED
+© a e]a] =| = REVERSING | TO ENABLE (Pe) PRESSURE
+DETECTION (LPE).
+TOSHIBA CONTROL CONNECTIONS (OPTIONAL)
+st _ cc ro
+IIS
+ul
+ta —-t a
+| GREEN _GNDJ
+L r CIRC. PUMP
+/ © FIELD WIRING, SEE NOTE
+T1 T3
+BLACK,
+i WHITE,
+BLACK {SEE CHART FOR SIZE) [| T2. i GREEN
+WHITE (SEE CHART FOR SIZE. tT V =
+RED (SEE CHART FOR SIZE: COMP =
+CREEN (SEE_CHART FOR SIZE) -
+NOTE: SEA PUMP
+
+NOTE: ALL WIRES ARE #18 UNLESS OTHERWISE NOTED
+
+ail
+
+— — — OPTIONAL WIRING FOR REVERSE CYCLE
+
+SIZE WIRES FOR PUMP OR
+PUMP RELAY PANEL (PRP).
+PUMPS LARGER THAN 3/4HP
+
+REQUIRE A PRP,OR CWMC OTS
+
+WITH PUMP CONTACTORS.
+
+POWER WIRE SIZE TABLE
+
+Li/tilte/ta3/tasRND
+
+Dometic Corporation
+
+Marine Air
+
+I24K—72K |12GA 126A |12GA 1264
+
+90K — |roga |10G4 10a |1 264
+
+SCW/MCW24-120K-RC/CL, 380VAC/50H2/38 W/NEUT
+DDC WITH TOSHIBA FREQUENCY DRIVE
+
+120K |8GA |8GA | 8GA ]10GA
+
+DATE:
+
+2/5199 |DWG BY: RMW
+
+SCALE:
+
+NTS APR BY: RP
+
+"pe3-510082 (¢ 1510001
+
+REV
+
+DDC - Digital Diagnostic Control
+
+SYSTEM CONTROL SWITCH
+(SHOWN FROM REAR)
+
+HOTIWE JONTHOS METEYE
+JOOS = FAO - TASH
+
+]_LED DISPLAY
+
+HAL
+
+TIT
+
+:
+
+[5]
+
+Ie]
+o ‘cin
+RED |
+ry wn
+IB Ob I “
+MIXED OUTLET ; me pe
+WATER OR ELEC on SHIELDED CABLE:
+HEAT SENSOR E al : a) FIELD WIRING IF
+REMOTE SWITCH
+USED ONLY WITH cw | ow | wy PLATE IS USED,
+cour FACTORY WIRING IF
+WITH THE CWMC SWITCH IS MOUNTED
+ON ELECTRIC BOX LID.
+
+CONNECT
+TO CWMC
+IF USED
+
+OVOVPOVOTOPOHO}O}}O
+l l [#] NUMBERS IN BOXES
+
+EN 2] REFER TO TEXT BELOW
+POWER PUMPS
+
+DIGITAL DIAGNOSTIC CONTROL (DDC)
+
+Follow these instructions to connect and set the programmable parameters of the DDC circuit board(s).
+All wires connected to DDC terminal block should have captive fork or ring type terminal connections.
+
+1. With main circuit breaker off, connect the System Control Switch wires to the circuit board as
+shown in the above diagram (if the switch is located on the electric box then it is already wired).
+
+2. Connect pump or Pump Relay Panel (PRP) wires. Wires connected to pumps should be tightly
+crimped and insulated with “heat shrink” wire wrap. Pumps larger than 3/4HP (559 watts) require a
+dedicated PRP. Each PRP should have its own circuit breaker sized for the pump, but not to exceed
+20 amps.
+
+3. Connect main power supply from a dedicated circuit breaker; see unit data plate for electrical
+specifications.
+
+4. With the System Control Switch tumed OFF, turn on the chiller’s circuit breaker. The DDC circuit
+board will briefly flash its software revision (e.g. “A32”) on its LED display, and then it will go
+blank.
+
+5. All critical DDC programmable parameters are preset at the factory. These parameters can be
+viewed by pressing the SELECT button and can then modified by pressing the SET button. If you
+wish to change any of them, only do so while the System Control Switch from the OFF position.
+Please refer to the DDC Programmable Parameters section below for complete information and
+instructions on how to modify each programmable parameter.
+
+VERY IMPORTANT: Proper setting of all the DDC Circuit Board programmable parameters must be
+completed and verified before starting the system! Please see the DDC Programmable Parameters
+section below for details on how to check and set the DDC programmable parameters. See also the
+DDC Operations Manual (L-2281) for more detailed information.
+
+29
+DDC Specifications
+
+e The DDC revision number is displayed for two seconds after the circuit breaker is switched on.
+
+e The return water in (“rtn”) and supply water out (“SUP”) temperatures are alternately displayed
+while the system is operating.
+
+e Seawater and chilled water pumps with more than 3/4HP (559 watts) must be controlled through a
+PRP because the relay on the DDC is not designed to handle the amp load of a larger pump.
+
+e The circulation pump runs continuously when the chiller power switch is on in heat or cool.
+
+e The retum water sensor controls the aquastat and is plugged into the DDC socket labeled
+“RETURN”.
+
+e The supply water sensor is a safety device that monitors freeze stat and high limit temperatures in
+reverse cycle chillers and is plugged into the DDC socket labeled “FREEZE”. The freeze stat opens
+at 38°F (3.3°C), closes at 50°F (10.0°C) and is ignored in heat mode. The high limit switch opens
+at 125°F (51.7°C), closes at 110°F (43.3°C) and is ignored in cool mode.
+
+DDC Programmable Parameters
+
+To check the DDC programmable parameters, press the SELECT button until you see the desired
+
+program item. The current setting will be displayed after a short delay. To modify the parameter
+
+setting, press and hold the SET button until the desired setting is displayed. Releasing and pressing the
+
+SET button again will move the setting in the opposite direction.
+
+The parameter settings that need to be checked and/or set are as follows in the order in which they will
+
+be displayed:
+
+CSP - Cooling Set Point - If a system has more than one chiller stage, set the CSP for stage #1 to 48°F (9°C), #2
+to 50°F (10°C), #3 to 52°F (11°C), #4 to 54°F (12°C), and #5 to 56°F (13°C). As the return water
+
+temperature decreases (in cool mode) the chillers will cycle off as the set point temperatures are
+reached and cycle on when the temperature 1s 2°F (1.1°C) above the set point.
+
+HSP - Heating Set Point - If a system has more than one chiller stage, set the HSP for stage #1 to 110°F (43°C),
+set #2 to 108°F (42°C), #3 to 106°F (41°C), #4 to 104°F (40°C), and #5 to 102°F (39°C). As the return
+water temperature increases (in heat mode) the chillers will cycle off as the set point temperatures are
+reached and cycle on when the temperature is 2°F (1.1°C) below the set point.
+
+dl — Staging Delay — If a system has more than one chiller stage, set the staging delay for chiller #1 to 30
+seconds, set chiller #2 to 60 seconds, #3 to 90, #4 to 120, and #5 to 150. The compressors will now
+come on at 30-second intervals.
+
+°F or °C — Temperature Units — Select the appropriate temperature units.
+
+re or EH — Reverse Cycle or Electric Heat — If the system is equipped with the electric heat option, select EH
+for this parameter.
+
+cle or con — Cycled or Continuous seawater pump operation — Select the desired seawater pump operation,
+either cycled on demand with the compressors or on continuously whenever the chiller breaker power is
+turned on. If set to “cle” the pump will come on 10 seconds before the compressor and cycle off 10
+seconds after the compressor shuts down.
+
+LPE or LPd — Low Pressure Freon detection enabled or disabled — If the system is equipped with a low
+pressure switch, this parameter must be set to LPE (enabled).
+
+AC — AC line voltage monitor — AC line voltage is displayed. Only authorized service personnel should adjust
+this parameter, if necessary.
+
+30
+Fault Display Codes (see also Trouble-Shooting Guidelines)
+
+HiP System goes off on High Pressure, lockout will occur after four faults, reset with system switch.
+LoP System goes off on Low Pressure, lockout will occur after four faults, reset with system switch.
+FLO Flow switch is open indicating inadequate chilled water flow through manifold.
+
+FrE Freeze Stat fault, supply water temperature is colder than 38°F (3°C).
+
+Sen Return Water Sensor has failed.
+
+HiL High Limit Switch fault, supply water temperature is hotter than 125°F (52°C).
+
+FSn_ Supply Water Sensor has failed.
+
+LAC Low AC voltage (less than 85 for 115VAC, and less than 170 for 230VAC).
+
+See the Trouble-Shooting Guidelines section for more information.
+
+Using the Bimini Jumpers for Trouble-Shooting
+
+WARNING: SWITCH MAIN POWER OFF BEFORE OPENING THE ELECTRICAL BOX!
+
+The Bimini jumpers can be used to force a system output on for trouble-shooting or emergency
+operation. These jumpers override all fault codes. The system should not be left unattended when
+any of the system outputs are forced on.
+
+The jumpers are labeled as follows:
+“COMP” = compressor
+
+“CWP” = circulation water pump
+“SWP” = seawater pump
+
+“VLV” = reversing valve
+
+Sequencing the Compressors
+
+In normal operation of a multi-stage system, the #1 compressor is always first on and last off, thereby
+logging more hours of run time than any of the other compressors. In order to average out the run time
+for all compressors over the life of the system, it is recommended to rotate the sequence of the lead
+compressor every six months. This can be done by resetting the cooling and heating set points and
+staging delays on each unit’s DDC. Before starting, label each compressor with its new designated
+number; the current DDC #1 takes last place, #2 becomes #1, #3 becomes #2, etc. After labeling is
+complete and main power has been disconnected, reset the “CSP”, “HSP” & “dl” programmable
+parameters per specifications in Section 3.03.
+
+IMPORTANT. If the pumps are connected directly to the lead compressor’s DDC (i.e., if there are no
+PRPs) then the pump wires must be moved to the new #1 DDC.
+
+NOTICE: Re-sequencing the compressors is unnecessary if the systems is controlled by the optional
+CWMC (Chilled Water Master Control).
+
+31
+START-UP OF THE SYSTEM
+
+The following procedure should be followed when starting the chilled water system. With the
+installation complete and the circulation circuit filled and purged of air:
+1. Open the sea cock valve to the seawater system.
+Open all manifold and air handler valves, if installed.
+Verify the flow switch is in the NO (Normally Open) position.
+Tum on all the system circuit breakers; chiller, pumps and air handlers.
+Open all the air handler water valves (if applicable) by adjusting their respective controllers.
+(Refer to air handler control manual.)
+Set desired cabin temperatures at air handler controls.
+Turn all chillers on (COOL or HEAT) at the system control switches.
+Check for a steady, solid stream of water from the overboard discharge.
+9. Verify that there is good airflow from each air handler.
+NOTE: Ina multiple unit system, never run one chiller in cool while running another one in heat.
+
+MAINTENANCE
+
+we wWN
+
+enn
+
+Chilled water systems require basic minimal maintenance to insure proper operation and long term
+reliability. Routine maintenance should be performed at frequent intervals. These intervals - daily,
+weekly, monthly - will vary from vessel to vessel due to its location and usage. Extended maintenance
+should be performed at semi-annual or annual intervals. Again, this will vary. Winterization of a
+system may be required for vessels stored or operating in extremely cold climates. As these items are
+performed over time, each vessel will develop its own “Maintenance Schedule”.
+
+ROUTINE MAINTENANCE
+
+Flow Switches: An annual check to confirm proper actuation/deactuation of the flow switches is
+recommended. While the chiller is running, turn off the chilled water pump. The chiller should shut
+down within seconds.
+
+The seawater strainers and thru-hull fittings must be inspected and cleaned regularly to provide
+sufficient seawater flow through the chiller’s condenser coil. Obstructed seawater flow will cause
+compressors to operate at higher pressures, temperatures and amperages causing excessive wear on
+internal compressor components and possible nuisance tripping on the pressure switches.
+e Strainer baskets should be emptied and inspected for marine growth on the basket wall. This
+should be removed prior to reinstallation.
+e Any silt, sand or marine debris should be removed from the strainer housing.
+
+The chilled water circulation circuit must be filled completely with water. Air in the circuit will inhibit
+performance and cause possible nuisance tripping of the flow switches. Return water pressure should
+be approximately 12psig while in cool mode and when the system is off. Return water pressure may
+get as high as 20psig in heat mode due to water expansion. Discharge water pressure should be 25-30
+psig while the system is running. Systems without gauges must rely on lack of cooling or heating from
+the air handlers, or audible noise in the pipes to determine that air exists in the circuit. Note:
+Continual recurrence of air in the system, or pressure loss, is a sign of a water leak in the circuit.
+
+32
+Return air filters for each air handler must be inspected and cleaned regularly to provide sufficient air
+flow through each unit. Obstructed air flow will cause poor performance of an air handler, resulting in
+reduced cooling or heating capacity.
+e Many filters are located on the back of the return air grille(s) or openings(s). Access the filter
+through the existing cabinetry or by removing part, or all, of the grille. Remove the filter and
+vacuum or wash it to remove particles, lint, etc. Do not use soaps or solvents when washing.
+
+Electrical connections should be inspected and tightened as needed. Heat and vibration can cause
+connectors to loosen, causing poor contact and voltage drop or arcing. This can cause components to
+operate poorly, nuisance trip, or prematurely fail. To service electrical components:
+e Disconnect main power supply before repairing or replacing components or wires.
+e Tighten all loose connections at terminal strip and components (contactors, timers, relays, etc.).
+e Inspect connectors for burn marks, frayed wires, etc. If any are found, the connector or
+connection should be repaired/replaced.
+e Voltage to the equipment should be checked with a meter periodically to insure a proper power
+supply. Compressors, pumps, fans, etc. are electrically rated with a +10% value for voltage.
+
+It is recommended that systems be operated regularly. Vessels not in use should have their chillers and
+air handlers cycled on 30-60 minutes once a month. Vessels in use should cycle on limited-use
+components in similar intervals to those above. Systems should also be cycled to their reverse mode
+(cool to heat, heat to cool). This helps to maintain pump seals and internal mechanical contacts, while
+reducing the fouling effect of marine growth in the seawater circuit.
+
+EXTENDED MAINTENANCE
+
+Condenser coils and seawater hoses below the waterline can become fouled over a period of time due
+to marine growth and/or scale build-up inside the coils. This both obstructs water flow and prohibits
+proper heat transfer, causing continuous compressor operation with high pressures, temperatures and
+amperages.
+e Condenser coils and seawater hoses can be flushed and cleaned by connecting a closed loop
+system and circulating a solution designed as a scale dissolver. See the “Seawater Condensing
+Coil Cleaning Procedure” in this manual.
+e Most authorized servicing dealers or large boatyards can provide this service.
+
+The seawater pump housing and impeller shroud should be checked for wear. Seals should be checked
+and lubricated according to each pump manufacturers recommendations. Worn or pitted impellers
+should be replaced. Any signs of galvanic corrosion should be addressed immediately.
+
+If the capacity of your air conditioning system is greater than or equal to 24,000 BTU/hr, the seawater
+pump is most likely air cooled and will need occasional oiling. See manufacturer’s labeling on the
+pump for maintenance instructions.
+
+Seawater pump manufacturer’s maintenance recommendations:
+
+Cleaning: Remove oil, dust, dirt, water and chemicals from exterior of motor and pump. Keep motor
+air inlet and outlet open. Blow out interior of open motors with clean compressed air at low
+pressure. Regularly drain moisture from TEFC motors.
+
+Labeled Motors: It is imperative for repair of a motor with Underwriters’ Laboratories label that
+original clearances be held: that all plugs, screws and other hardware be fastened securely, and that
+
+33
+parts replaced be exact duplicates or approved equals. Violation of any of the above invalidates
+
+Underwriters’ label.
+
+Lubrication: Pumps should require no maintenance, other than the motor bearings, according to the
+following instruction:
+
+e Double Shielded: When double shielded prelubricated bearings are furnished no lubrication is
+required for the life of the bearings. Inspect bearings periodically to determine the condition of
+the grease and replace the bearings if necessary.
+
+e Single Shielded w/Grease Fittings: When single shield bearings are furnished, periodic
+inspection, cleaning and relubrication is required. See motor manufacturer’s specific
+instructions.
+
+Air handler motorized water valves should be inspected for corrosion that may bind the gear.
+e With the air handler off, access the water valve and remove the rubber boot and the aluminum
+motor case. If rubber boot is missing, call the dealer and order MAS part number 331942.
+e Inspect the gears and remove any build-up on the motor gear and/or the valve gear.
+e Dry thoroughly and lubricate with a silicon spray or equivalent.
+e Manually operate the gear mechanism using the lever on the top of the valve before reassembly.
+
+Air handler condensate drain pans should be inspected for proper drainage.
+
+e Access each air handler and visually inspect the drain pan for standing water. If any significant
+water is present, check the condensate drain lines for improper installation (upward loops above
+the pan, kinked lines, etc.). Check the drain connection to the pan for any obstructions.
+
+e If no standing water is present, pour a quart of fresh water into the pan. Make sure it drains
+immediately. If not, check as above.
+
+All control probes and sensors should be inspected for proper location and fastening. Improperly
+located and/or secured probes will provide erroneous readings, causing improper operation.
+
+e Inspect all temperature probes and sensors on the chilled water unit.
+
+e Those inserted into probe well in the circulation circuit should be inserted all the way into the
+well, filled with a thermal mastic for efficient heat transfer, and insulated on the end to hold the
+probe in place and prohibit condensation.
+
+e Those externally fastened to coils, pipes, etc. should be securely fastened with thermal mastic
+between the contact surfaces and insulated when necessary to provide accurate readings.
+
+e Check all sensors at each air handler for proper location. Water sensors should be securely
+fastened and insulated on the supply connection (water inlet) of the air handler. If the built in
+air sensor on the controller display panel is not utilized, the remote air sensors should be located
+in the return air stream as close to the cabin area as possible without being in contact with any
+other hot or cold surface. All sensors should be securely fastened.
+
+Any rust or corrosion present should be remedied immediately. Rusting of components may be caused
+by exposed metal or the presence of water due to condensation from the chilled water circuit. Bare
+metal should be cleaned, primed and coated. Sources of condensation should be located and properly
+sealed. If corrosion is present, the source of the corrosion, either galvanic or chemical, should be
+determined and then should be dealt with in the appropriate manner.
+
+See “Sequencing the Compressors” in the DDC section of this manual for long term compressor
+maintenance.
+
+34
+WINTERIZATION AND THE USE OF GLYCOL
+
+Winterization of the chilled water circulation circuit is necessary for vessels stored in extremely cold
+climates. A glycol solution should be introduced into the circulation circuit to protect pipes and hoses
+from freezing and bursting. The percentage of glycol should be selected based on the following
+definitions of freeze protection and burst protection. Freeze protection should be provided for vessels
+that must remain operational in cold weather, or where cold weather start-ups may be required. Choose
+a solution that will prevent the formation of ice crystals at 5°F below the lowest anticipated system
+temperature. Burst protection should be provided for vessels that do not operate during the winter and
+cold weather start-up will not be required. The glycol solution will prevent bursting but not necessarily
+be high enough to maintain the fluid in a pumpable state.
+
+The following table provides freeze and burst protection temperatures for propylene glycol mixtures:
+
+| Volume Percent Glycol Concentration Required* |
+
+Minimum Ambient Propylene Glycol Propylene Glycol
+Temp (F/C) For Freeze For Burst Protection
+Protection
+
+20/-6.7 18 12
+10/-12.2 29 20
+
+0/-18 36 24
+-10/-23 42 28
+-20/-29 46 30
+-30/-34 50 33
+-40/-40 54 35
+-50/-46 57 35
+-60/-51 60 35
+
+*Contact manufacturer to verify that data is consistent with glycol to be used.
+
+The following procedures are recommended for winterizing:
+
+1. Shut off the fresh water fill valve to isolate the chilled water loop.
+
+2. Select the highest air handler with easy access and purge excess water pressure from the system at
+the air bleeder port. The water can be purged into a container or into the condensation pan of the
+air handler as long as the glycol solution is captured and not discharged overboard.
+
+3. Put the bleeder line into a container of pre-mixed glycol solution.
+
+4. Open an air bleeder port on an air handler located at the lowest point in the system. The water
+may be bled into a container or directly into the condensation pan of the air handler as long as the
+glycol solution is captured and not discharged overboard. When the glycol solution has been
+siphoned into the water circuit, close all bleeder ports.
+
+Purge the system of any air (see “Filling and Purging the Circulation Circuit”).
+
+Start the circulation pump to distribute the glycol solution throughout the chilled water circuit.
+
+7. Ifthe system is being winterized for burst protection it is necessary to have air pockets in each of
+the air handlers to provide room for expansion of the glycol as the solution changes phase from
+liquid to solid. In this case, do not purge the air from the system.
+
+nw
+
+Warning: For the purpose of protecting the environment, collect and discard discharged glycol
+solution in accordance with federal, state and/or local regulations.
+
+DE-WINTERIZING
+
+35
+To prepare the vessel for use in warmer temperatures, introduce a pre-mixed solution of no more than
+15% glycol using the same procedure outlined above for winterizing.
+
+SEAWATER CONDENSER COIL CLEANING PROCEDURE
+
+1. With the system turned off at the circuit breaker on the ships panel, disconnect the inlet and outlet
+connections of the condenser coil manifolds.
+
+2. Use chemical resistant hoses (MAS white 5/8” I.D.) and adapter connections to connect the inlet
+and outlet of the manifold to a chemical resistant, submersible pump (MAS PML-500 pump, etc.).
+
+3. Place the pump into a container filled with a 3-5% solution of muriatic or hydrochloric acid and
+fresh water. Use as large of a container as possible to hold the solution (5-25 gal.). Premixed, over
+the counter solutions can be used, or mix water proportionately with acid (muriatic or
+hydrochloric). Caution: avoid spilling or splashing the solution. Follow all warnings and
+recommendations given by the manufacturer of any acids or pre-mixed solutions.
+
+4. Power the pump and circulate the solution through the manifold for 15-45 minutes depending upon
+the size of the coils and the extent of the contamination. Visual inspection of the solution in the
+container should indicate when contamination removal has stopped.
+
+5. Circulate fresh water through the coil to flush any residual acid from the system.
+
+6. Restart the system and check operational parameters (pressures, amperage, etc.) to ensure thorough
+cleaning has taken place. Additional cleaning(s) may be necessary with extreme contamination.
+
+Warning: For the purpose of protecting the environment, dispose of any contaminated acid solutions
+in accordance with federal, state and/or local regulations.
+
+36
+TROUBLE-SHOOTING GUIDELINES
+
+FAULT
+
+FLO
+
+LoP
+
+HiP
+
+FrE
+
+Hil
+
+Sen
+FSn
+
+LAC
+
+POSSIBLE REASON
+
+Flow switch is open due to low
+or no chilled water flow.
+
+Low pressure switch open:
+refrigerant pressure is below
+35psig (will reset at 6Opsig).
+This has a nine-minute shut
+down delay.
+
+High pressure switch open:
+discharge pressure above
+
+425psig (will reset at 200psig).
+
+Freeze stat open: chilled water
+loop is below 38°F.
+
+High limit switch is open:
+chilled water loop is above
+125°F.
+
+Retum water sensor has failed.
+Supply water sensor has failed.
+
+Low AC voltage (<95 for
+11SVAC or <175 for 230VAC).
+
+CORRECTION
+
+¥ Pump or system may be air-locked: open fresh water
+fill valve and bleed system.
+
+¥ Circuit breaker for pump turned off: turn on circuit
+breaker.
+
+¥ Check that all shut-off valves are open.
+
+¥ Flow switch reed switch should be set to “NO”
+(Normally Open, factory setting).
+
+¥ Flow switch failure: replace switch.
+
+v Fix leaks or restrictions. Attach refrigerant gauges
+and check charge. When pressure rises above
+60psig, start chiller.
+
+¥ Check that chilled water is at correct glycol to water
+ratio, ensure that vessel has been de-winterized.
+
+High pressures may indicate lack of condenser cooling
+water: check seawater strainer for blockage, verify
+seawater flow, condenser coils may need cleaning.
+
+¥ Check DDC for proper Cooling Set Point (CSP)
+settings.
+
+¥ Chilled water pressure is low: check pressure gauge
+& add water (repair leaks if necessary).
+
+¥ Poor chilled water circulation: check for restriction
+or resize pump.
+
+¥ Check sensor placement and wiring.
+
+¥ Check that chilled water is at correct glycol to water
+ratio, ensure that vessel has been de-winterized.
+
+¥ Check DDC for proper Heating Set Point (HSP)
+settings.
+
+¥ Chilled water pressure is low: check pressure gauge
+& add water (repair leaks if necessary).
+
+¥ Poor chilled water circulation: check for restriction
+or resize pump.
+
+¥ Pump or system may be air-locked: open fresh water
+fill valve and bleed system.
+
+¥ Check sensor placement and wiring.
+
+Replace sensor.
+Replace sensor.
+
+Check power supply voltage.
+
+37
+
+TROUBLE-SHOOTING GUIDELINES
+
+FAULT
+
+System will not start.
+No power to chiller.
+
+System starts but
+trips circuit breaker.
+
+System starts but
+stops after a few
+minutes.
+
+POSSIBLE REASON
+
+Circuit Breaker at ship’s panel is
+off.
+
+Miswiring or bad connection at
+terminal strip in electrical box.
+
+Breaker is undersized.
+
+Not maintaining sufficient AC
+power on start-up.
+
+Electrical short.
+
+Loose or corroded electrical
+connections.
+
+Compressor start components are
+faulty.
+
+Inadequate condenser
+
+performance leading to high
+discharge pressure.
+
+System cycled on freeze stat.
+
+CORRECTION
+
+Tum on breaker(s) and monitor operation.
+
+Check wiring diagram and correct if
+inconsistent or repair bad connection.
+
+Verify breaker size against specifications on
+chiller data plate.
+
+Monitor voltage drop during start-up. Ifa
+significant drop occurs, check main wiring
+connections. Access larger power source if
+necessary.
+
+With power off, check between ground, L1,
+L2, and if applicable L3 for continuity.
+Check components for continuity between
+same. Correct or replace components
+where necessary.
+
+Check and repair as necessary.
+
+With wires removed, check each
+component for continuity or short.
+
+Check for seawater flow. Service pump or
+clean strainer or condenser coils as
+necessary.
+
+Insufficient water in chilled water loop, see
+“Filling & Purging the Circulation Circuit”
+section of this manual.
+
+Temperature set point too low, see
+“Thermostat Set Points” section of this
+manual.
+
+Contactor: To check a 230V coil on a contactor you should check to see if there is proper voltage to
+both sides of the coil, if there is correct voltage and the contactor is not pulled in, the contactor could
+be faulty. If there is not voltage to both sides of the contactor then something else is open in the
+
+control circuit.
+
+38
+
+MANUFACTURERS LIMITED WARRANTY AGREEMENT
+
+The following warranty is extended to cover products manufactured or supplied by Marine Air
+Systems Inc., and is subject to qualifications indicated. Marine Air Systems warrants for the periods
+set forth below that products manufactured or supplied by it will be free from defects in workmanship
+and material, provided such products are installed, operated and maintained in accordance with Marine
+Air Systems’ written instruction.
+
+ALL IMPLIED WARRANTIES INCLUDING MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE, ARE LIMITED TO THE TERMS AND PERIODS OF WARRANTY
+SET FORTH BELOW AND, TO THE EXTENT PERMITTED BY LAW, ANY AND ALL IMPLIED
+WARRANTIES ARE EXCLUDED.
+
+Components comprising a complete system on a new installation are warranted for a period of one (1)
+year from the date of installation, but not to exceed two (2) years from the date of manufacture at the
+Marine Air Systems factory. Marine Air Systems will pay labor and travel costs as outlined in its
+Schedule of Limited Warranty Allowances for removal and re-installation of such components for a
+period of one (1) year from the date of installation, but not to exceed two (2) years from the date of
+manufacture at Marine Air Systems factory. OEM installed equipment warranties begin with the
+commission date of a new vessel. Costs which exceed the schedule of limited warranty allowances,
+i.c., parts, labor, limited travel allowance, removal and re-installation time are the responsibility of the
+customer.
+
+Marine Air Systems Inc. will repair or replace, at its option, components found to be defective due
+to faulty materials or workmanship, when such components, examined by an authorized service dealer
+or a factory service representative, are found to have a defect for which the company is responsible.
+Replacement components are warranted for the duration of the remaining warranty period in effect on
+the original component.
+
+This limited warranty is extended in lieu of all other warranties, agreements or obligations, expressed
+or implied, concerning Marine Air Systems’ components. This limited warranty is extended only to the
+original purchaser and is not transferable. This limited warranty shall be governed by the laws of the
+State of Florida and gives the original first end user definite legal nghts.
+
+This limited warranty does not cover damages incidental and or consequential to the failure of Marine
+Air Systems’ equipment including but not limited to; normal wear, accident, misuse, abuse, negligence
+or improper installation, lack of reasonable and necessary maintenance, alteration, civil disturbance or
+act of God.
+
+No person or dealer is authorized to extend any other warranties or to assume any other liabilities on
+Marine Air Systems’ behalf, unless authorized in writing by an officer of Marine Air Systems.
+
+39
+SYSTEM SPECIFIC SETTINGS
+
+COMPONENT | SETTING (OR OTHER SPECS)
+
+NOTES
+
+40
+
+MAINTENANCE RECORD
+
+DATE |SERVICE PERFORMED
+SEQUENCING THE COMPRESSORS
+Date |Sequence Rotation | Comments
+
+Example
+
+14, 291, 3-52, 43
+
+Switched pump wires from original #1 to new #1 (no PRP).
+
+Al
+
+DISTRIBUTOR LISTING
+
+Alabama
+Arkansas
+Colorado
+Kansas
+Louisiana
+Mississippi
+Missouri
+Nevada
+New Mexico
+Oklahoma
+Texas
+
+Utah
+
+Georgia
+
+North Florida
+North Carolina
+South Carolina
+Tennessee
+
+Ifinois
+Indiana
+lowa
+Kentucky
+Michigan
+Minnesota
+N. Dakota
+Ohio
+
+S. Dakota
+Wisconsin
+
+Idaho
+Montana
+Oregon
+Washington
+Wyoming
+
+INTERNATIONAL
+
+AER Marine Supply Delaware
+
+2301 Nasa Road One Maryland
+
+Seabrook, TX 77586 Pennsylvania
+
+Contact: Richard S. Miller Virginia
+
+Tel: (800) 767-7606
+
+(281) 474-3276
+
+Fax: (281) 474-2714
+
+E-mail: rsmiller@aersupply.com
+New York
+New Jersey
+
+Beard Marine Savannah
+
+3101 River Drive
+
+Savannah, GA 31404
+
+Contact: Lynn Stork
+
+Tel: (800) 286-2674
+
+(912) 356-5222
+
+Fax: (912) 692-1006
+
+E-mail: beardsav @ aol.com Connecticut
+
+Website: www.beardmarine.com Maine
+Massachusetts
+
+New Hamphsire
+
+Midwest Marine Supply Rhode Island
+
+24300 Jefferson Avenue Vermont
+
+St. Clair Shores, MI 48080
+
+Contact: Dan Gruninger
+
+Tel: (586) 778-8950
+
+Fax: (586) 778-6108
+Arizona
+California
+Hawaii
+Mexico
+
+American Marine Contractors
+8313 46" Place West
+
+Mukilteo, WA 98275
+
+Contact: Gene Lawing
+
+Tel: (206) 660-2240
+
+Fax: (425) 740-0246
+
+E-mail: glawing @ earthlink.net
+
+Please contact us for international dealers & distributors.
+
+Ocean Options - Mid Atlantic
+2830 Solomons Island Road
+Edgewater, MD 21037
+Contact: Mike Bowden
+Tel: (800) 400-8043
+
+(410) 266-8033
+Fax: (410) 841-2461
+E-mail: Sales @ oceanoptions.com
+Website: www.oceanoptions.com
+
+Marine Specialists
+
+2231 5" Avenue, Unit 17
+Ronkonkoma, NY 11779
+
+Contact: Mike Budney
+
+Tel: (631) 580-0545
+
+Fax: (631) 580-0551
+
+E-mail: Sales @marinespecialists.com
+Website: www.marinespecialists.com
+
+Ocean Options
+
+95 Riverside Drive
+
+Tiverton, RI 02878
+
+Contact: Mike Bowden
+
+Tel: (401) 624-7334
+
+Fax: (401) 624-8050
+
+E-mail: Sales @ oceanoptions.com
+Website: www.oceanoptions.com
+
+Southern California Marine
+Enterprises
+
+1214 Rosecrans Street
+
+San Diego, CA 92106
+
+Tel: (888) 657-1606
+
+Fax: (619) 226-0496
+
+E-mail: sales @southerncalmarine.com
+Website: www.southerncalmarine.com
+@ Dometic izes
+
+Dometic Corporation
+Environmental Systems
+
+2000 N. Andrews Ave. Ext. + Pompano Beach, FL 33069-1497 USA
+Phone: 954-973-2477 + Facsimile: 954-979-4414
+
+Fleets Industrial Estate + 26 Willis Way + Poole, Dorset BH15 3SU, England
+Phone: +44(0)870 3306101 + Facsimile: +44(0)870 3306102
+
+Website: www.marineair.com + Email: sales@marineair.com
+
+@ Dometic The Sign of Comfort
+
+L-2164
