@@ -1,331 +1,378 @@
 """
 LLM service for the Doña Francisca Ship Management System POC.
 
-This module handles interactions with OpenAI and Google Gemini APIs for answering
-queries based on ship manual content.
+This module provides a unified interface for interacting with LLMs through LangChain,
+supporting both conversational QA and structured data extraction.
 """
 
 import os
+import logging
 import json
-import time
-from typing import Dict, List, Optional, Any, Tuple
+from typing import Dict, List, Any, Optional, Union, Type, TypeVar, get_type_hints
 
-import openai
-import google.generativeai as genai
 from dotenv import load_dotenv
+from pydantic import BaseModel, ValidationError
+
+from langchain_openai import ChatOpenAI
+from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain.prompts import ChatPromptTemplate
+from langchain.schema import StrOutputParser
+from langchain.output_parsers import PydanticOutputParser
+from langchain.schema.runnable import RunnablePassthrough
+from langchain.globals import set_debug
 
 # Load environment variables
 load_dotenv()
 
-# Configure OpenAI API
-openai.api_key = os.getenv("OPENAI_API_KEY")
-if not openai.api_key:
-    print("⚠️ OpenAI API key not found. OpenAI models will not be available.")
+# Configure logging
+logging.basicConfig(level=logging.INFO, 
+                    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+logger = logging.getLogger("llm_service")
 
-# Configure Google Gemini API
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-if GEMINI_API_KEY:
-    genai.configure(api_key=GEMINI_API_KEY)
-else:
-    print("⚠️ Gemini API key not found. Gemini models will not be available.")
+# Set debug mode if needed
+# set_debug(True)
 
-# Default models to use
-DEFAULT_OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4-turbo")
+# Model configuration
+DEFAULT_OPENAI_MODEL = os.getenv("OPENAI_API_MODEL", "gpt-4o-mini")
+DEFAULT_EXTRACTION_MODEL = "gpt-4o"  # Use GPT-4o specifically for extraction
 DEFAULT_GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.0-flash-lite")
+DEFAULT_PROVIDER = os.getenv("DEFAULT_PROVIDER", "gemini")
 
-# Default provider
-DEFAULT_PROVIDER = "gemini"  # Use Gemini as default for larger context window
+# Type variable for Pydantic model types
+ModelType = TypeVar('ModelType', bound=BaseModel)
 
-# Token limits for different models (conservative estimates)
-MODEL_TOKEN_LIMITS = {
-    # OpenAI models
-    "gpt-4o-mini": 150000,       # 200k context
-    
-    # Gemini models
-    "gemini-2.0-flash": 990000,      # 1M tokens
-    "gemini-2.0-flash-lite": 990000 # 1M tokens
-}
 
-def estimate_tokens(text: str) -> int:
+class LLMService:
     """
-    Estimate the number of tokens in a text.
-    This is a rough approximation - 1 token is about 4 chars in English.
+    Unified service for interacting with LLMs through LangChain.
+    Supports conversational QA and structured data extraction.
+    """
     
-    Args:
-        text (str): The text to estimate tokens for
+    def __init__(self, provider: str = DEFAULT_PROVIDER, model_name: Optional[str] = None):
+        """
+        Initialize the LLM service.
         
-    Returns:
-        int: Estimated token count
-    """
-    return len(text) // 4
-
-
-def truncate_content(manual_content: Dict[str, str], max_tokens: int = 100000) -> Tuple[Dict[str, str], bool]:
-    """
-    Truncate manual content to fit within token limits.
-    
-    Args:
-        manual_content (Dict[str, str]): Dictionary of manual name to content
-        max_tokens (int): Maximum allowed tokens
+        Args:
+            provider (str): The LLM provider to use ('openai' or 'gemini')
+            model_name (Optional[str]): Specific model name, or None to use default
+        """
+        self.provider = provider
+        self.model_name = model_name or self._get_default_model()
+        self.llm = self._initialize_llm()
         
-    Returns:
-        Tuple[Dict[str, str], bool]: (Truncated content, was_truncated flag)
-    """
-    # Reserve tokens for system prompt and user query
-    available_tokens = max_tokens - 2000  # Reserve 2000 tokens for prompts
-    
-    truncated_content = {}
-    was_truncated = False
-    
-    for name, content in manual_content.items():
-        estimated_tokens = estimate_tokens(content)
+    def _get_default_model(self) -> str:
+        """
+        Get the default model name based on the provider.
         
-        if estimated_tokens > available_tokens:
-            # Calculate how many characters to keep
-            chars_to_keep = available_tokens * 4
-            truncated_text = content[:chars_to_keep]
-            truncated_content[name] = truncated_text
-            was_truncated = True
-            print(f"Truncated manual {name} from ~{estimated_tokens} tokens to {available_tokens} tokens")
+        Returns:
+            str: Default model name
+        """
+        if self.provider == "openai":
+            return DEFAULT_OPENAI_MODEL
+        elif self.provider == "gemini":
+            return DEFAULT_GEMINI_MODEL
         else:
-            truncated_content[name] = content
+            raise ValueError(f"Unsupported provider: {self.provider}")
     
-    return truncated_content, was_truncated
-
-
-def create_prompt(query: str, manual_content: Dict[str, str]) -> str:
-    """
-    Create a prompt for the LLM with manual content and user query.
+    def _initialize_llm(self):
+        """
+        Initialize the appropriate LLM based on provider.
+        
+        Returns:
+            BaseChatModel: Initialized LLM instance
+        """
+        if self.provider == "openai":
+            api_key = os.getenv("OPENAI_API_KEY")
+            if not api_key:
+                raise ValueError("OpenAI API key not found in environment variables")
+            
+            return ChatOpenAI(
+                model_name=self.model_name,
+                temperature=0.3,
+                api_key=api_key
+            )
+            
+        elif self.provider == "gemini":
+            api_key = os.getenv("GEMINI_API_KEY")
+            if not api_key:
+                raise ValueError("Gemini API key not found in environment variables")
+            
+            return ChatGoogleGenerativeAI(
+                model=self.model_name,
+                temperature=0.3,
+                google_api_key=api_key
+            )
+        
+        else:
+            raise ValueError(f"Unsupported provider: {self.provider}")
     
-    Args:
-        query (str): The user's question
-        manual_content (Dict[str, str]): Dictionary mapping manual names to their content
+    def get_answer(self, query: str, manual_content: Dict[str, str]) -> Dict[str, Any]:
+        """
+        Get an answer from the LLM based on manual content.
         
-    Returns:
-        str: Formatted prompt for the LLM
-    """
-    # Compile the manual content into a single string with sections
-    compiled_content = ""
-    
-    for manual_name, content in manual_content.items():
-        # Add manual name as a section header
-        compiled_content += f"\n\n### MANUAL: {manual_name} ###\n\n"
-        
-        # Add the content (at this point content should already be truncated if needed)
-        compiled_content += content
-    
-    # Create the full prompt with instructions
-    prompt = f"""You are an assistant for the ship "Doña Francisca". Your task is to answer questions based ONLY on the information contained in the ship manual provided below.
-
-    If the answer cannot be found in the manual, state that you cannot find the information in the provided documentation.
-
-    The manual might be in Spanish or English. You should understand both languages and provide answers in the same language as the user's question.
-
-    SHIP MANUAL:
-    {compiled_content}
-
-    USER QUESTION:
-    {query}
-
-    ANSWER:
-    """
-    
-    return prompt
-
-
-def get_answer_openai(query: str, manual_content: Dict[str, str], model: Optional[str] = None) -> Dict[str, Any]:
-    """
-    Get an answer from OpenAI based on manual content.
-    
-    Args:
-        query (str): The user's question
-        manual_content (Dict[str, str]): Dictionary mapping manual names to their content
-        model (Optional[str], optional): OpenAI model to use. Defaults to None (uses DEFAULT_MODEL).
-        
-    Returns:
-        Dict[str, Any]: Dictionary containing the answer and related metadata
-    """
-    # Use specified model or default
-    model_to_use = model or DEFAULT_OPENAI_MODEL
-    
-    # Get model token limit
-    token_limit = MODEL_TOKEN_LIMITS.get(model_to_use, 100000)
-    
-    start_time = time.time()
-    
-    try:
-        # Truncate content if needed
-        truncated_content, was_truncated = truncate_content(manual_content, token_limit)
-        
-        # Create the prompt
-        prompt = create_prompt(query, truncated_content)
-        
-        # Log the estimated token count
-        estimated_prompt_tokens = estimate_tokens(prompt)
-        print(f"Estimated prompt tokens: {estimated_prompt_tokens}, Model limit: {token_limit}")
-        
-        # Call the OpenAI API
-        response = openai.chat.completions.create(
-            model=model_to_use,
-            messages=[
-                {"role": "system", "content": "You are a helpful assistant for the ship Doña Francisca."},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.3,
-            max_tokens=5000
-        )
-        
-        # Extract answer
-        answer = response.choices[0].message.content
-        
-        # Add a note if content was truncated
-        if was_truncated:
-            answer += "\n\n(Note: Some manual content was truncated due to length constraints. The answer may be incomplete.)"
-        
-        # Prepare sources - for the POC, we'll just list all manual names that were used
-        sources = list(manual_content.keys())
-        
-        process_time = time.time() - start_time
-        
-        return {
-            "answer": answer,
-            "sources": sources,
-            "error": None,
-            "was_truncated": was_truncated,
-            "provider": "openai",
-            "model": model_to_use,
-            "process_time": process_time,
-            "usage": {
-                "total_tokens": response.usage.total_tokens,
-                "prompt_tokens": response.usage.prompt_tokens,
-                "completion_tokens": response.usage.completion_tokens
+        Args:
+            query (str): The user's question
+            manual_content (Dict[str, str]): Dictionary mapping manual names to their content
+            
+        Returns:
+            Dict[str, Any]: Dictionary containing the answer and related metadata
+        """
+        if not manual_content:
+            return {
+                "answer": "No manual was selected. Please select a manual to search for information.",
+                "sources": [],
+                "error": None
             }
-        }
-    
-    except Exception as e:
-        error_message = str(e)
-        print(f"Error calling OpenAI API: {error_message}")
         
-        return {
-            "answer": f"Sorry, I encountered an error while trying to answer your question with OpenAI: {error_message}. The manual may be too large for processing. Please try again with a different manual or use Gemini.",
-            "sources": [],
-            "error": error_message,
-            "provider": "openai",
-            "model": model_to_use
-        }
+        try:
+            # Create a single string with all manual content
+            compiled_content = self._compile_manual_content(manual_content)
+            
+            # Create the prompt
+            prompt = ChatPromptTemplate.from_messages([
+                ("system", "You are an assistant for the ship 'Doña Francisca'. Your task is to answer questions based ONLY on the information contained in the ship manual provided. If the answer cannot be found in the manual, state that you cannot find the information in the provided documentation. The manual might be in any language, but you should be able to understand it and provide answers in the same language as the user's question."),
+                ("human", "SHIP MANUAL:\n{manual_content}\n\nUSER QUESTION:\n{query}\n\nANSWER:")
+            ])
+            
+            # Create the chain
+            chain = prompt | self.llm | StrOutputParser()
+            
+            # Run the chain
+            response = chain.invoke({
+                "manual_content": compiled_content,
+                "query": query
+            })
+            
+            # Return the result
+            return {
+                "answer": response,
+                "sources": list(manual_content.keys()),
+                "error": None,
+                "provider": self.provider,
+                "model": self.model_name
+            }
+            
+        except Exception as e:
+            error_message = str(e)
+            logger.error(f"Error calling LLM: {error_message}", exc_info=True)
+            
+            return {
+                "answer": f"Sorry, I encountered an error while trying to answer your question: {error_message}.",
+                "sources": [],
+                "error": error_message,
+                "provider": self.provider,
+                "model": self.model_name
+            }
+    
+    def extract_structured_data(self, 
+                              content: str, 
+                              output_model: Type[ModelType],
+                              instructions: Optional[str] = None,
+                              force_model: Optional[str] = None) -> Union[ModelType, Dict[str, Any]]:
+        """
+        Extract structured data from content using the LLM and a Pydantic model.
+        
+        Args:
+            content (str): The content to extract data from
+            output_model (Type[ModelType]): Pydantic model class defining the output structure
+            instructions (Optional[str]): Additional instructions for extraction
+            force_model (Optional[str]): Override the model to use for extraction
+            
+        Returns:
+            Union[ModelType, Dict[str, Any]]: Extracted data as Pydantic model or error dict
+        """
+        try:
+            # Use a specific extraction model when provider is OpenAI
+            original_llm = self.llm
+            if self.provider == "openai" and (force_model or self.model_name != DEFAULT_EXTRACTION_MODEL):
+                extraction_model = force_model or DEFAULT_EXTRACTION_MODEL
+                logger.info(f"Using specialized extraction model: {extraction_model}")
+                api_key = os.getenv("OPENAI_API_KEY")
+                extraction_llm = ChatOpenAI(
+                    model_name=extraction_model,
+                    temperature=0.2,  # Lower temperature for more precise extraction
+                    api_key=api_key
+                )
+                self.llm = extraction_llm
+            
+            # Create a Pydantic output parser
+            parser = PydanticOutputParser(pydantic_object=output_model)
+            
+            # Get model field descriptions for the prompt
+            model_schema = self._get_model_schema_description(output_model)
+            
+            # Create the base instructions
+            base_instructions = f"""
+            Extract the following information from the provided content.
+            Focus on understanding document structure and identifying patterns where this information might be found.
+            
+            {model_schema}
+            
+            Format your response as a valid JSON object with these exact field names.
+            If information is not found, use null for that field.
+            """
+            
+            # Combine with any additional instructions
+            full_instructions = f"{base_instructions}\n\n{instructions}" if instructions else base_instructions
+            
+            # Create the prompt
+            prompt = ChatPromptTemplate.from_messages([
+                ("system", """You are an assistant specialized in extracting structured information from technical documents in any language.
+
+Your task is to identify patterns of data presentation and information structures in documents regardless of their language.
+
+When extracting data:
+1. Analyze the general structure of the document to find relevant sections
+2. Identify common patterns like "label: value" or specification lists
+3. Look for sections with titles or headers that indicate information categories
+4. Pay attention to the hierarchical organization of data (sections, subsections, etc.)
+5. Extract values maintaining their original format, including units
+6. If a requested value is not in the document, use null
+7. Return your response as a valid JSON object
+
+Focus on understanding and extracting the underlying structure of the data, working with whatever language the document is written in."""),
+                ("human", "{instructions}\n\nCONTENT:\n{content}\n\nProvide only the JSON output:")
+            ])
+            
+            # Create the chain with format instructions
+            chain = (
+                {"instructions": lambda x: full_instructions + "\n\n" + parser.get_format_instructions(), 
+                 "content": RunnablePassthrough()}
+                | prompt 
+                | self.llm
+                | StrOutputParser()
+                | self._extract_json
+            )
+            
+            # Run the chain
+            result = chain.invoke(content)
+            
+            # Parse the result into the Pydantic model
+            parsed_data = output_model(**result)
+            
+            # Restore original LLM if we temporarily changed it
+            if self.llm is not original_llm:
+                self.llm = original_llm
+            
+            return parsed_data
+            
+        except ValidationError as e:
+            logger.error(f"Validation error: {str(e)}")
+            return {"error": f"Validation error: {str(e)}"}
+            
+        except Exception as e:
+            logger.error(f"Error extracting structured data: {str(e)}", exc_info=True)
+            # Restore original LLM if we temporarily changed it
+            if 'original_llm' in locals() and self.llm is not original_llm:
+                self.llm = original_llm
+            return {"error": f"Failed to extract structured data: {str(e)}"}
+    
+    def _compile_manual_content(self, manual_content: Dict[str, str]) -> str:
+        """
+        Compile multiple manual contents into a single string.
+        
+        Args:
+            manual_content (Dict[str, str]): Dictionary mapping manual names to their content
+            
+        Returns:
+            str: Compiled content string
+        """
+        compiled_content = ""
+        
+        for manual_name, content in manual_content.items():
+            # Add manual name as a section header
+            compiled_content += f"\n\n### MANUAL: {manual_name} ###\n\n"
+            compiled_content += content
+        
+        return compiled_content
+    
+    def _get_model_schema_description(self, model_class: Type[BaseModel]) -> str:
+        """
+        Generate a human-readable description of a Pydantic model's fields.
+        
+        Args:
+            model_class (Type[BaseModel]): Pydantic model class
+            
+        Returns:
+            str: Human-readable schema description
+        """
+        fields_info = []
+        
+        for field_name, field in model_class.model_fields.items():
+            description = field.description or field_name
+            fields_info.append(f"- {field_name}: {description}")
+        
+        return "\n".join(fields_info)
+    
+    @staticmethod
+    def _extract_json(text: str) -> Dict[str, Any]:
+        """
+        Extract JSON from text using various fallback methods.
+        
+        Args:
+            text (str): Text potentially containing JSON
+            
+        Returns:
+            Dict[str, Any]: Extracted JSON data
+        """
+        # Log the raw text (first 500 chars)
+        logger.info(f"Extracting JSON from text: {text[:500]}...")
+        
+        # Try direct JSON parsing first
+        try:
+            return json.loads(text.strip())
+        except json.JSONDecodeError:
+            pass
+        
+        # Remove markdown code block markers and try again
+        try:
+            cleaned_text = text.replace("```json", "").replace("```", "").strip()
+            return json.loads(cleaned_text)
+        except json.JSONDecodeError:
+            pass
+        
+        # Try using regex to find JSON object
+        import re
+        json_pattern = re.search(r'({[\s\S]*?})(?:\s*$|\n)', text)
+        if json_pattern:
+            try:
+                return json.loads(json_pattern.group(1))
+            except json.JSONDecodeError:
+                pass
+        
+        # More aggressive pattern match
+        json_pattern = re.search(r'{.*}', text, re.DOTALL)
+        if json_pattern:
+            try:
+                return json.loads(json_pattern.group(0))
+            except json.JSONDecodeError:
+                pass
+        
+        # If all extraction methods fail
+        raise ValueError("No valid JSON found in response")
 
 
-def get_answer_gemini(query: str, manual_content: Dict[str, str], model: Optional[str] = None) -> Dict[str, Any]:
-    """
-    Get an answer from Google Gemini based on manual content.
-    
-    Args:
-        query (str): The user's question
-        manual_content (Dict[str, str]): Dictionary mapping manual names to their content
-        model (Optional[str], optional): Gemini model to use. Defaults to None (uses DEFAULT_GEMINI_MODEL).
-        
-    Returns:
-        Dict[str, Any]: Dictionary containing the answer and related metadata
-    """
-    # Use specified model or default
-    model_to_use = model or DEFAULT_GEMINI_MODEL
-    
-    # Get model token limit
-    token_limit = MODEL_TOKEN_LIMITS.get(model_to_use, 900000)  # Default to 900k for Gemini
-    
-    start_time = time.time()
-    
-    try:
-        # Truncate content if needed
-        truncated_content, was_truncated = truncate_content(manual_content, token_limit)
-        
-        # Create the prompt
-        prompt = create_prompt(query, truncated_content)
-        
-        # Log the estimated token count
-        estimated_prompt_tokens = estimate_tokens(prompt)
-        print(f"Estimated prompt tokens for Gemini: {estimated_prompt_tokens}, Model limit: {token_limit}")
-        
-        # Configure the model
-        generation_config = {
-            "temperature": 0.3,
-            "top_p": 0.8,
-            "top_k": 40,
-            "max_output_tokens": 5000,
-        }
-        
-        # Initialize the Gemini model
-        model = genai.GenerativeModel(model_name=model_to_use, generation_config=generation_config)
-        
-        # Call the Gemini API
-        response = model.generate_content(prompt)
-        
-        # Extract answer
-        answer = response.text
-        
-        # Add a note if content was truncated
-        if was_truncated:
-            answer += "\n\n(Note: Some manual content was truncated due to length constraints. The answer may be incomplete.)"
-        
-        # Prepare sources
-        sources = list(manual_content.keys())
-        
-        process_time = time.time() - start_time
-        
-        return {
-            "answer": answer,
-            "sources": sources,
-            "error": None,
-            "was_truncated": was_truncated,
-            "provider": "gemini",
-            "model": model_to_use,
-            "process_time": process_time
-        }
-    
-    except Exception as e:
-        error_message = str(e)
-        print(f"Error calling Gemini API: {error_message}")
-        
-        return {
-            "answer": f"Sorry, I encountered an error while trying to answer your question with Gemini: {error_message}. Please try again or switch to OpenAI.",
-            "sources": [],
-            "error": error_message,
-            "provider": "gemini",
-            "model": model_to_use
-        }
-
+# Create a singleton instance for easy import
+default_llm_service = LLMService(provider=DEFAULT_PROVIDER)
 
 def get_answer(query: str, manual_content: Dict[str, str], provider: Optional[str] = None, model: Optional[str] = None) -> Dict[str, Any]:
     """
+    Legacy wrapper function for backward compatibility.
     Get an answer from the LLM based on manual content.
     
     Args:
         query (str): The user's question
         manual_content (Dict[str, str]): Dictionary mapping manual names to their content
-        provider (Optional[str]): The LLM provider to use ('openai' or 'gemini'). Defaults to DEFAULT_PROVIDER.
-        model (Optional[str]): Model to use. Defaults to None (uses provider's default model).
+        provider (Optional[str]): The LLM provider to use ('openai' or 'gemini')
+        model (Optional[str]): Model to use
         
     Returns:
         Dict[str, Any]: Dictionary containing the answer and related metadata
     """
-    if not manual_content:
-        return {
-            "answer": "No manual was selected. Please select a manual to search for information.",
-            "sources": [],
-            "error": None
-        }
+    service = default_llm_service
     
-    # Use specified provider or default
-    provider_to_use = provider or DEFAULT_PROVIDER
+    # Create a new service instance if provider or model is specified
+    if provider and provider != service.provider or model and model != service.model_name:
+        service = LLMService(provider=provider or service.provider, model_name=model)
     
-    # Call the appropriate provider
-    if provider_to_use == "openai":
-        return get_answer_openai(query, manual_content, model)
-    elif provider_to_use == "gemini":
-        return get_answer_gemini(query, manual_content, model)
-    else:
-        return {
-            "answer": f"Unknown provider: {provider_to_use}. Please use 'openai' or 'gemini'.",
-            "sources": [],
-            "error": f"Unknown provider: {provider_to_use}"
-        } 
+    return service.get_answer(query, manual_content) 

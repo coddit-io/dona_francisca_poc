@@ -1,117 +1,119 @@
 # Doña Francisca Ship Management System - POC
 
-A proof of concept for an AI-powered ship management system that centralizes vessel documentation and provides quick access to critical information through natural language queries.
+An AI-powered ship management system that helps crew access information from technical manuals and extract structured data from ship documentation.
 
 ## Overview
 
-This POC demonstrates how AI can be used to process and retrieve information from technical ship manuals, making it easier for crew members and administrators to access critical information quickly.
+The Doña Francisca Ship Management System POC (Proof of Concept) demonstrates how AI can be leveraged to:
+
+1. **Search and Query Ship Manuals**: Ask questions about ship specifications, systems, and procedures in natural language.
+2. **Extract Structured Data**: Automatically extract key information from manuals into structured formats for database integration.
+
+The system uses Large Language Models (LLMs) with both OpenAI and Google Gemini APIs to power these capabilities.
 
 ## Features
 
-- **Pre-loaded Documents**: Process ship manuals in TXT format from a static folder
-- **AI-Powered Chat**: Ask questions about the ship in natural language
-- **Quick Information Retrieval**: Get precise answers extracted from technical documentation
-- **Multiple AI Providers**: Switch between OpenAI and Google Gemini models
-- **Simple Interface**: Easy-to-use Streamlit interface for demonstration
+- **Manual Library**: Upload and manage ship manuals in TXT, PDF, and DOCX formats
+- **Chat Interface**: Ask questions about ship systems and get answers based on the manual content
+- **Data Extraction**: Extract structured data from manuals for categories like:
+  - General ship information
+  - Propulsion systems
+  - Electrical systems
+  - Certificates and documentation
+- **Multi-Provider Support**: Use either OpenAI or Google Gemini as the underlying AI provider
 
-## Tech Stack
-
-- **Frontend**: Streamlit
-- **Document Processing**: Text file processing
-- **AI Services**: OpenAI GPT models and Google Gemini models
-- **Dependency Management**: Poetry
-
-## Getting Started
+## Installation
 
 ### Prerequisites
 
-- Python 3.10 or higher
-- Poetry (dependency management)
-- API key for either OpenAI or Google Gemini (or both)
+- Python 3.10+
+- Poetry (for dependency management)
 
-### Installation
+### Setup
 
-1. Clone the repository
-2. Install dependencies:
-   ```
-   poetry install
-   ```
-3. Set up your environment variables:
-   ```
-   # Edit the .env file with your API key(s)
-   OPENAI_API_KEY=your_openai_api_key_here
-   OPENAI_MODEL=gpt-4o-mini
-   
-   # Google Gemini Settings
-   GEMINI_API_KEY=your_gemini_api_key_here
-   GEMINI_MODEL=gemini-2.0-flash-lite
-   ```
-4. Place ship manual TXT files in the `app/data/manuals` directory
-
-### Running the Application
-
-The easiest way to start the application is using the run script:
-```
-python run.py
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/dona-francisca-poc.git
+cd dona-francisca-poc
 ```
 
-Alternatively, you can start the Streamlit application directly:
+2. Install dependencies with Poetry:
+```bash
+poetry install
 ```
-poetry run streamlit run app/ui/main.py
+
+3. Create a `.env` file in the project root with your API keys:
+```
+OPENAI_API_KEY=your_openai_api_key_here
+GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
-## How to Use the POC
+You can use either OpenAI, Gemini, or both. At least one API key is required.
 
-### Preparing Ship Manuals
+### Adding Manuals
 
-1. **Convert Manuals to TXT**: For this POC, all manuals should be in plain text (.txt) format
-   - Use online PDF to TXT converters for PDF manuals
-   - For Word documents, use the "Save As" feature and select "Plain Text (.txt)"
-   - Place all converted files in the `app/data/manuals` directory
+Place your ship manuals in the `app/data/manuals` directory. The application supports:
 
-### Using the Interface
+- Text files (`.txt`)
+- PDF documents (`.pdf`)
+- Word documents (`.docx`)
 
-1. **Launch the Application**:
-   - Run `python run.py` from the project root
-   - The application will check for prerequisites and launch
-   - Access the web interface at http://localhost:8501
+## Running the Application
 
-2. **Select a Manual**:
-   - Use the radio buttons in the sidebar to select which manual to search
-   - Only one manual can be active at a time for optimal performance
-   - Each manual name is shown with its size for easy reference
+Start the application using:
 
-3. **Choose AI Provider**:
-   - Select either Gemini or OpenAI from the Settings section in the sidebar
-   - Gemini has a larger context window and may handle larger manuals better
-   - OpenAI may provide different response quality for certain types of queries
+```bash
+poetry run python run.py
+```
 
-4. **Ask Questions**:
-   - Type your question in the text input field at the bottom of the page
-   - Click the "Ask" button to submit
-   - The system will process your question and search through the selected manual
-   - Questions can be asked in either English or Spanish
-
-5. **View Answers**:
-   - The AI's response will appear in the chat history
-   - The label at the top of each response indicates which AI provider was used
-   - The answer is based solely on the information in the selected manual
-   - If the information is not found in the manual, the AI will indicate this
-   - The system shows response metrics like processing time and token usage
-
-### Example Questions to Try
-
-- "¿Cuáles son las características generales de la embarcación?" (with the GFD-Owner manual)
-- "What is the engine model number?" (with the DESPIECE_MMAA manual)
-- "How do I perform routine maintenance on the generator?" (with the DESPIECE_MMAA manual)
-- "¿Cuál es el procedimiento de emergencia en caso de fallo del motor?" (with the GFD-Owner manual)
+This will launch the Streamlit application. Navigate to the provided URL (typically http://localhost:8501) in your browser.
 
 ## Project Structure
 
-- `app/ui/` - Streamlit frontend code
-- `app/services/` - Document loading and LLM integration
-- `app/data/manuals/` - Storage location for ship manual documents
+```
+dona-francisca-poc/
+├── app/
+│   ├── data/
+│   │   ├── extracted/     # Stored extracted data
+│   │   └── manuals/       # Ship manuals storage
+│   ├── services/
+│   │   ├── document_loader.py  # Handles loading documents
+│   │   ├── data_extractor.py   # Extracts structured data using LLMs
+│   │   └── llm_service.py      # LLM integration service
+│   └── ui/
+│       └── main.py        # Streamlit UI
+├── run.py                 # Main entry point
+├── pyproject.toml         # Poetry dependency management
+└── README.md              # This file
+```
 
-## License
+## Usage
 
-This project is a Proof of Concept developed by Coddit.
+### Chat Interface
+
+1. Select a manual from the sidebar
+2. Type your question in the input box
+3. The AI will search through the manual and provide an answer based on the content
+
+### Data Extraction
+
+1. Navigate to the "Data Extraction" tab
+2. Select a manual to process
+3. Choose the categories of information to extract
+4. Click "Extract Data"
+5. View the extracted data in a structured format
+6. Export to JSON or CSV as needed
+
+## API Selection
+
+You can choose between OpenAI and Google Gemini as the AI provider in the settings panel. Gemini has a larger context window and may handle larger manuals better.
+
+## Development
+
+This is a Proof of Concept version. Future development plans include:
+
+- Integration with databases for persistent storage
+- Multi-manual search capabilities
+- Enhanced extraction of additional data categories
+- Training on specific ship manual formats for better extraction accuracy
+- API endpoints for integration with other systems

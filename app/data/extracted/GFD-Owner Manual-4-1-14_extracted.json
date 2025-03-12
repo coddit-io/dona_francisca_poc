@@ -1,0 +1,14 @@
+{
+  "general_info": {
+    "error": "Failed to extract structured data: Error code: 429 - {'error': {'message': 'Request too large for gpt-4o in organization org-ckIpDAWrkotwwerOtRVD18FC on tokens per min (TPM): Limit 30000, Requested 31850. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+  },
+  "propulsion": {
+    "error": "Failed to extract structured data: Error code: 429 - {'error': {'message': 'Request too large for gpt-4o in organization org-ckIpDAWrkotwwerOtRVD18FC on tokens per min (TPM): Limit 30000, Requested 31543. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+  },
+  "certificates": {
+    "error": "Failed to extract structured data: Error code: 429 - {'error': {'message': 'Request too large for gpt-4o in organization org-ckIpDAWrkotwwerOtRVD18FC on tokens per min (TPM): Limit 30000, Requested 31545. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+  },
+  "electrical_system": {
+    "error": "Failed to extract structured data: Error code: 429 - {'error': {'message': 'Request too large for gpt-4o in organization org-ckIpDAWrkotwwerOtRVD18FC on tokens per min (TPM): Limit 30000, Requested 31415. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+  }
+}

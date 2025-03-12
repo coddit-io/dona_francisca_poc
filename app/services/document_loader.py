@@ -8,6 +8,28 @@ predefined directory.
 import os
 from pathlib import Path
 from typing import Dict, List, Optional, Union
+import logging
+
+# Set up logging
+logging.basicConfig(level=logging.INFO,
+                    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+logger = logging.getLogger("document_loader")
+
+# Third-party libraries for document processing
+try:
+    import pypdf
+    from pypdf import PdfReader
+    PDF_SUPPORT = True
+except ImportError:
+    logger.warning("pypdf not installed, PDF support will not be available")
+    PDF_SUPPORT = False
+
+try:
+    import docx2txt
+    DOCX_SUPPORT = True
+except ImportError:
+    logger.warning("docx2txt not installed, DOCX support will not be available")
+    DOCX_SUPPORT = False
 
 # Base directory for manual files
 MANUALS_DIR = Path(__file__).parent.parent / "data" / "manuals"
@@ -23,11 +45,18 @@ def get_available_manuals() -> List[str]:
     if not MANUALS_DIR.exists():
         return []
     
-    # Get all .txt files in the manuals directory
-    return [
-        file.name for file in MANUALS_DIR.glob("*.txt")
-        if file.is_file()
-    ]
+    # Get all supported files in the manuals directory
+    supported_extensions = [".txt"]
+    if PDF_SUPPORT:
+        supported_extensions.append(".pdf")
+    if DOCX_SUPPORT:
+        supported_extensions.append(".docx")
+    
+    manuals = []
+    for ext in supported_extensions:
+        manuals.extend([file.name for file in MANUALS_DIR.glob(f"*{ext}") if file.is_file()])
+    
+    return manuals
 
 
 def load_document(filepath: Union[str, Path]) -> str:
@@ -50,17 +79,35 @@ def load_document(filepath: Union[str, Path]) -> str:
     if not filepath.exists():
         raise FileNotFoundError(f"File not found: {filepath}")
     
-    # Check if file is a text file
-    if filepath.suffix.lower() != '.txt':
-        raise ValueError(f"Unsupported file format: {filepath.suffix}. Only .txt files are supported.")
+    # Get file extension
+    file_ext = filepath.suffix.lower()
     
-    # Read the text file
+    # Process based on file type
+    if file_ext == '.txt':
+        return _load_text_file(filepath)
+    elif file_ext == '.pdf' and PDF_SUPPORT:
+        return _load_pdf_file(filepath)
+    elif file_ext == '.docx' and DOCX_SUPPORT:
+        return _load_docx_file(filepath)
+    else:
+        raise ValueError(f"Unsupported file format: {file_ext}. Supported formats: .txt, .pdf, .docx")
+
+
+def _load_text_file(filepath: Path) -> str:
+    """
+    Load content from a text file.
+    
+    Args:
+        filepath (Path): Path to the text file
+        
+    Returns:
+        str: Text content
+    """
     try:
         with open(filepath, 'r', encoding='utf-8') as file:
             content = file.read()
         
         # Basic text processing
-        # Remove excessive whitespace and normalize line breaks
         processed_content = "\n".join(line.strip() for line in content.splitlines() if line.strip())
         
         return processed_content
@@ -74,12 +121,65 @@ def load_document(filepath: Union[str, Path]) -> str:
             # Basic text processing
             processed_content = "\n".join(line.strip() for line in content.splitlines() if line.strip())
             
+            logger.info(f"Successfully loaded {filepath} with latin-1 encoding")
             return processed_content
         except Exception as e:
             raise ValueError(f"Error reading file {filepath}: {str(e)}")
     
     except Exception as e:
         raise ValueError(f"Error reading file {filepath}: {str(e)}")
+
+
+def _load_pdf_file(filepath: Path) -> str:
+    """
+    Load content from a PDF file.
+    
+    Args:
+        filepath (Path): Path to the PDF file
+        
+    Returns:
+        str: Extracted text content
+    """
+    try:
+        reader = PdfReader(filepath)
+        text_content = []
+        
+        # Extract text from each page
+        for page in reader.pages:
+            text_content.append(page.extract_text() or "")
+        
+        # Join all pages together with separation
+        processed_content = "\n\n".join(text_content)
+        
+        logger.info(f"Successfully extracted {len(text_content)} pages from {filepath}")
+        return processed_content
+    
+    except Exception as e:
+        raise ValueError(f"Error processing PDF file {filepath}: {str(e)}")
+
+
+def _load_docx_file(filepath: Path) -> str:
+    """
+    Load content from a DOCX file.
+    
+    Args:
+        filepath (Path): Path to the DOCX file
+        
+    Returns:
+        str: Extracted text content
+    """
+    try:
+        # Extract text from the DOCX file
+        text = docx2txt.process(filepath)
+        
+        # Basic processing
+        processed_content = "\n".join(line.strip() for line in text.splitlines() if line.strip())
+        
+        logger.info(f"Successfully extracted content from DOCX file {filepath}")
+        return processed_content
+    
+    except Exception as e:
+        raise ValueError(f"Error processing DOCX file {filepath}: {str(e)}")
 
 
 def load_selected_manuals(manual_names: Optional[List[str]] = None) -> Dict[str, str]:
@@ -103,8 +203,9 @@ def load_selected_manuals(manual_names: Optional[List[str]] = None) -> Dict[str,
         try:
             filepath = MANUALS_DIR / manual_name
             manual_contents[manual_name] = load_document(filepath)
+            logger.info(f"Loaded manual: {manual_name} ({len(manual_contents[manual_name])} characters)")
         except Exception as e:
-            print(f"Error loading manual {manual_name}: {str(e)}")
+            logger.error(f"Error loading manual {manual_name}: {str(e)}")
             # Continue with other manuals even if one fails
     
     return manual_contents
