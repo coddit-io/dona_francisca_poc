@@ -124,7 +124,7 @@ class DataExtractor:
     Uses LLMs to extract and validate data according to predefined schemas.
     """
     
-    def __init__(self, data_dir: Union[str, Path], llm_provider: str = "gemini"):
+    def __init__(self, data_dir: Union[str, Path], llm_provider: str = "openai"):
         """
         Initialize the data extractor.
         
@@ -134,54 +134,17 @@ class DataExtractor:
         """
         self.data_dir = Path(data_dir)
         self.data_dir.mkdir(exist_ok=True, parents=True)
-        self.llm_provider = llm_provider
-        self.llm_service = default_llm_service
         
-        # Always use OpenAI for extraction tasks, regardless of default provider
+        # Fixed model configuration - always use gpt-4o-mini for extraction
         self.extraction_provider = "openai"
-        
-        # Define model tiers for different extraction tasks
-        self.model_tiers = {
-            # Tier 1: Fast, lightweight scanning (lowest token cost)
-            "scan": {
-                "openai": "gpt-3.5-turbo", 
-                "gemini": "gemini-2.0-flash-lite"
-            },
-            # Tier 2: General extraction (medium token cost)
-            "extract": {
-                "openai": "gpt-4o-mini",
-                "gemini": "gemini-2.0-flash"
-            },
-            # Tier 3: Complex extraction (highest token cost)
-            "complex": {
-                "openai": "gpt-4o",
-                "gemini": "gemini-2.0-pro" # Updated to use the most powerful Gemini model
-            }
-        }
+        self.extraction_model = "gpt-4o-mini"
         
         # Extraction cache to avoid redundant work
         self._cache = {}
-
-    def _get_llm_for_tier(self, tier: str) -> LLMService:
-        """
-        Get an LLM service instance for the specified tier.
         
-        Args:
-            tier (str): The tier level ('scan', 'extract', or 'complex')
-            
-        Returns:
-            LLMService: LLM service configured for the specified tier
-        """
-        # Default to complex tier if invalid tier specified
-        if tier not in self.model_tiers:
-            tier = "complex"
-            
-        # Always use OpenAI for extraction tasks
-        provider = self.extraction_provider
-        model = self.model_tiers[tier].get(provider)
-        
-        # Return a new LLM service instance configured for this tier
-        return LLMService(provider=provider, model_name=model)
+        # Create extraction LLM service
+        self.llm_service = LLMService(provider=self.extraction_provider, model_name=self.extraction_model)
+        logger.info(f"DataExtractor initialized with {self.extraction_provider}/{self.extraction_model}")
 
     def extract_data_from_manual(self, 
                                manual_path: Union[str, Path], 
@@ -206,7 +169,7 @@ class DataExtractor:
             logger.info(f"Using cached extraction results for {manual_name}")
             return self._cache[cache_key]
         
-        logger.info(f"Starting extraction for manual: {manual_name} using OpenAI models")
+        logger.info(f"Starting extraction for manual: {manual_name} using {self.extraction_model}")
         
         # Check if manual has an extraction schema
         if manual_name not in EXTRACTION_SCHEMA:
@@ -238,9 +201,12 @@ class DataExtractor:
             logger.info(f"Processing category: {category}")
             model_class = schema[category]
             
-            # Extract data for this category using staged approach
-            category_data = self._extract_category_data_staged(
-                manual_content=manual_content,
+            # Find relevant sections to reduce token usage
+            relevant_content = self._find_relevant_sections(manual_content, category)
+            
+            # Extract data for this category
+            category_data = self._extract_category_data(
+                relevant_content=relevant_content,
                 category=category,
                 model_class=model_class
             )
@@ -346,7 +312,7 @@ class DataExtractor:
             for keyword in keywords:
                 if keyword.lower() in line_lower:
                     # Add this line index and some context around it
-                    context_range = 25  # Lines of context before and after (increased from 20)
+                    context_range = 25  # Lines of context before and after
                     start_idx = max(0, i - context_range)
                     end_idx = min(len(lines), i + context_range)
                     relevant_line_indices.extend(range(start_idx, end_idx))
@@ -370,8 +336,8 @@ class DataExtractor:
         # Extract sections with a bit more context
         relevant_content = []
         for section in sections:
-            start = max(0, section[0] - 10)  # Increased context from 5 to 10
-            end = min(len(lines), section[-1] + 10)  # Increased context from 5 to 10
+            start = max(0, section[0] - 10)
+            end = min(len(lines), section[-1] + 10)
             section_text = '\n'.join(lines[start:end])
             relevant_content.append(section_text)
         
@@ -382,118 +348,55 @@ class DataExtractor:
         if not combined_content:
             logger.warning(f"No relevant sections found for {category}")
             # Return more of the document - beginning, middle and end
-            head_lines = 200  # Increased from 100
+            head_lines = 200
             middle_start = max(0, len(lines) // 2 - 100)
             middle_end = min(len(lines), len(lines) // 2 + 100)
-            tail_lines = 200  # Increased from 100
+            tail_lines = 200
             combined_content = '\n'.join(lines[:head_lines]) + '\n\n[...]\n\n' + \
                               '\n'.join(lines[middle_start:middle_end]) + '\n\n[...]\n\n' + \
                               '\n'.join(lines[-tail_lines:])
         
         logger.info(f"Extracted {len(combined_content)} characters of relevant content for {category} from {len(manual_content)} total")
         return combined_content
-
-    def _extract_category_data_staged(self, 
-                                    manual_content: str, 
-                                    category: str, 
-                                    model_class: Type[BaseModel]) -> Union[Dict[str, Any], BaseModel]:
+    
+    def _extract_category_data(self, 
+                             relevant_content: str, 
+                             category: str, 
+                             model_class: Type[BaseModel]) -> Union[Dict[str, Any], BaseModel]:
         """
-        Extract data for a category using a staged approach with different model tiers.
-        Starts with lightweight models and escalates to more powerful ones when needed.
+        Extract data for a category using OpenAI's gpt-4o-mini model.
         
         Args:
-            manual_content (str): The manual content
+            relevant_content (str): The relevant manual content
             category (str): Category name to extract
             model_class (Type[BaseModel]): Pydantic model class for this category
             
         Returns:
             Union[Dict[str, Any], BaseModel]: Extracted data for the category or error dict
         """
-        logger.info(f"Beginning staged extraction for category: {category}")
+        logger.info(f"Extracting data for category: {category}")
         
-        # Stage 1: Use scan tier to find relevant sections
-        scan_llm = self._get_llm_for_tier("scan")
-        
-        # Use the _find_relevant_sections method to get relevant content
-        relevant_content = self._find_relevant_sections(manual_content, category)
-        
-        # Create standard instructions
+        # Create extraction instructions
         instructions = self._create_extraction_instructions(category)
         
-        # Track errors for potential retry with more powerful model
-        extraction_error = None
-        empty_fields_count = 0
-        
-        # Attempt extraction with progressively more powerful models
-        
-        # Stage 2: Try with mid-tier model first (good balance of performance vs. cost)
         try:
-            logger.info(f"Attempting extraction with 'extract' tier model for {category}")
-            extract_llm = self._get_llm_for_tier("extract")
-            
             # Use the LLM service to extract structured data
-            result = extract_llm.extract_structured_data(
+            result = self.llm_service.extract_structured_data(
                 content=relevant_content,
                 output_model=model_class,
-                instructions=instructions,
-                simplified=True  # Use simplified prompts for mid-tier models
+                instructions=instructions
             )
             
             # Check if an error was returned
             if isinstance(result, dict) and "error" in result:
-                extraction_error = result["error"]
-                logger.warning(f"Extract tier failed with: {extraction_error}. Will escalate to complex tier.")
-            else:
-                # Count empty fields to check extraction quality
-                empty_fields = sum(1 for v in result.model_dump().values() if v is None)
-                empty_fields_count = empty_fields
-                field_count = len(result.model_dump())
-                
-                # If more than 70% of fields are empty, might need a more powerful model
-                if empty_fields > field_count * 0.7:
-                    logger.warning(f"Extraction quality low: {empty_fields}/{field_count} empty fields. Will try complex model.")
-                else:
-                    # Good enough extraction quality
-                    return result.model_dump()
-                
-        except Exception as e:
-            extraction_error = str(e)
-            logger.warning(f"Extract tier extraction error: {extraction_error}. Will escalate to complex tier.")
-        
-        # Stage 3: Fall back to the most powerful model for challenging extractions
-        try:
-            logger.info(f"Attempting extraction with 'complex' tier model for {category}")
-            complex_llm = self._get_llm_for_tier("complex")
-            
-            # Enhanced instructions for difficult cases
-            enhanced_instructions = instructions + """
-            
-            ADDITIONAL GUIDANCE FOR CHALLENGING EXTRACTION:
-            - This content has been identified as especially difficult to extract accurately
-            - Pay special attention to contextual clues and implied information
-            - Look for information across different sections that may relate to the same fields
-            - Use logical inference based on technical domain knowledge when direct matches aren't found
-            """
-            
-            # Use the most powerful LLM for complex extraction
-            result = complex_llm.extract_structured_data(
-                content=relevant_content,
-                output_model=model_class,
-                instructions=enhanced_instructions,
-                simplified=False  # Use full prompting for complex models
-            )
-            
-            # Check if an error was returned
-            if isinstance(result, dict) and "error" in result:
-                logger.error(f"Complex tier extraction also failed: {result['error']}")
                 return result
                 
             # Return the model data as a dict
             return result.model_dump()
             
         except Exception as e:
-            logger.error(f"Unexpected error in complex tier extraction: {str(e)}", exc_info=True)
-            return {"error": f"Failed to extract data after multiple attempts: {str(e)}"}
+            logger.error(f"Error extracting data for {category}: {str(e)}")
+            return {"error": f"Failed to extract data: {str(e)}"}
     
     def _create_extraction_instructions(self, category: str) -> str:
         """

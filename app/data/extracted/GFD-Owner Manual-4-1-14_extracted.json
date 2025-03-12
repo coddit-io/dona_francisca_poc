@@ -22,13 +22,13 @@
     "potencia": "873 HP",
     "rpm": "2200",
     "combustible": "Diesel",
-    "helice": "Hélice de paso variable de 1400 mm",
+    "helice": "Hélice de paso variable de 1400 mm de diámetro",
     "reductora": "Caja Hundested CPG 32 - 3,96:1"
   },
   "electrical_system": {
     "generador": "Dos generadores de corriente alterna Caterpillar C4.4 50kW cada uno.",
-    "voltaje": "Sistema de 3 x 380 V - 50 Hz; Sistema de 3 x 220 V - 50 Hz; Sistema 2 x 24 VCC.",
-    "baterias": "Baterías de gel; potencia instalada: SERVICIO: 3000 Ah 24 baterías Mastervolt MVSV 2/1500 A dividido en 2 bancos de 12 baterías cada uno; COMUNICACIONES: 500 Ah compuesto por 12 baterías Mastervolt MVSV 2/500; MOTOR PRINCIPAL: 250 Ah un banco de baterías de 24 volts; GENERADORES: 100 Ah dos bancos de baterías de 24 volts.",
+    "voltaje": "Sistema de fuerza motriz 3 x 380 V- 50 Hz. Sistema de 3 x 220 V - 50 Hz. Sistema 2 x 24 VCC.",
+    "baterias": "Baterías de gel; potencia instalada: SERVICIO: 3000 Ah 24 baterías Mastervolt MVSV 2/1500 A dividido en 2 bancos de 12 baterías cada uno. COMUNICACIONES: 500 Ah compuesto por 12 baterías Mastervolt MVSV 2/500. MOTOR PRINCIPAL: 250 Ah un banco de baterías de 24 volts, para arranque del motor principal. GENERADORES: 100 Ah dos bancos de baterías de 24 volts, 100 Ah para arranque de los generadores.",
     "cargador": null,
     "inversor": null,
     "shore_power": null
