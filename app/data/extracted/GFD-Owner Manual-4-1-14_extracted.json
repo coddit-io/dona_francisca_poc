@@ -1,14 +1,36 @@
 {
   "general_info": {
-    "error": "Failed to extract structured data: Error code: 429 - {'error': {'message': 'Request too large for gpt-4o in organization org-ckIpDAWrkotwwerOtRVD18FC on tokens per min (TPM): Limit 30000, Requested 31850. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+    "nombre": "Dona Francisca",
+    "puerto": null,
+    "matricula": null,
+    "actividad": null,
+    "inscripcion": null,
+    "construido": "Astilleros Buquebus S.A.",
+    "año": null,
+    "material": "fibra de carbono",
+    "eslora": "52.55 Metros",
+    "manga": "3.6 Metros",
+    "calado": "3.5 Metros",
+    "puntal": null,
+    "tonelaje_bruto": "230 Toneladas"
   },
   "propulsion": {
-    "error": "Failed to extract structured data: Error code: 429 - {'error': {'message': 'Request too large for gpt-4o in organization org-ckIpDAWrkotwwerOtRVD18FC on tokens per min (TPM): Limit 30000, Requested 31543. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
-  },
-  "certificates": {
-    "error": "Failed to extract structured data: Error code: 429 - {'error': {'message': 'Request too large for gpt-4o in organization org-ckIpDAWrkotwwerOtRVD18FC on tokens per min (TPM): Limit 30000, Requested 31545. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+    "tipo_motor": "Diesel - 4 Tiempos; 6 Cilindros",
+    "marca": "Caterpillar",
+    "modelo": "C18 Acert",
+    "numero_serie": null,
+    "potencia": "873 HP",
+    "rpm": "2200",
+    "combustible": "Diesel",
+    "helice": "Hélice de paso variable de 1400 mm",
+    "reductora": "Caja Hundested CPG 32 - 3,96:1"
   },
   "electrical_system": {
-    "error": "Failed to extract structured data: Error code: 429 - {'error': {'message': 'Request too large for gpt-4o in organization org-ckIpDAWrkotwwerOtRVD18FC on tokens per min (TPM): Limit 30000, Requested 31415. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+    "generador": "Dos generadores de corriente alterna Caterpillar C4.4 50kW cada uno.",
+    "voltaje": "Sistema de 3 x 380 V - 50 Hz; Sistema de 3 x 220 V - 50 Hz; Sistema 2 x 24 VCC.",
+    "baterias": "Baterías de gel; potencia instalada: SERVICIO: 3000 Ah 24 baterías Mastervolt MVSV 2/1500 A dividido en 2 bancos de 12 baterías cada uno; COMUNICACIONES: 500 Ah compuesto por 12 baterías Mastervolt MVSV 2/500; MOTOR PRINCIPAL: 250 Ah un banco de baterías de 24 volts; GENERADORES: 100 Ah dos bancos de baterías de 24 volts.",
+    "cargador": null,
+    "inversor": null,
+    "shore_power": null
   }
 }
