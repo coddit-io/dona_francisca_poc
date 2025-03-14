@@ -1,0 +1,1538 @@
+“SY DOÑA FRANCISCA”
+
+Passage Plan
+
+by
+Andres Lopez
+
+From: PIRIÁPOLIS (UY)
+To: VALENCIA (ESP)
+
+Distance: 6085 nm
+Date: May to July 2023
+Duration: 42 days
+
+_)
+
+ls
+
+: a L
+
+A
+
+Ukraine-,
+
+A
+
+N50*03'51
+E080*512
+(50.0642,
+
+Vessel Specifications:
+Name: SY DOÑA FRANCISCA
+Type: Sailing Yacht (SY)
+Length Overall (LOA): 172 ft (52.43 m)
+Beam: 8,6m
+Draft: 36m
+Displacement: 206 GT
+Hull Material: Composite
+Rig Type: Schooner
+Sail Area: 1300m2
+Fuel capacity: 18000 lts
+Freshwater capacity: 3800 lts
+Black and Gray water capacity: 4500 lts
+Trimming: Hydraulic
+
+Relevant systems on board:
+Main engine:
+e CAT C18- 650 kw. at 1600 rpm has a 60 Its/h consumption
+Gen set:
+e 2 CAT C4.4 - 50kw has an avg. 4 lts/h consumption each.
+Watermaker:
+e SPECTRA FARALLON 2800 - 10600 Its/day
+
+Consumptions with Total Crew = 13 persons
+Fuel: 18000 / (60 x 24) = 12 days engine time at 9,5 kts = 2850 nm aprox.
+Under sail: 18000 / (4 x 24) = 187,5 days gen set only.
+
+Fresh water in Utilities: 10 lts per person (pp)
+Total consumption in 43 days: 5590 lts
+
+Fresh Drinking water: 1,5 lts pp
+Total consumption in 43 days: 838 lts
+Food Storage:
+Main Fridges:
+1. Fridge 1 (STB) , Capacity: 1000 liters Dimensions: 857 x 1650 x 717
+mm
+2. Fridge 2 (Center): Capacity: 520 liters, Dimensions: 444 x 1650 x 717
+mm
+3. Fridge 3 (PRT): Capacity: 820 liters, Dimensions: 800 x 1650 x 717 mm
+
+Food consumption:
+2200 calories/day/person x 13 people = 28,600 calories/day
+For 43 days, the total caloric requirement is 1,229,800 calories
+
+For food consumption we calculated based on a Chef on board who
+suggested the following plan:
+
+Fresh Food (First 7-10 Days):
+
+Meat (protein-rich, refrigerated):
+e Chicken: 12 kg (approx. 18,000 calories).
+e Beef: 10 kg (approx. 15,000 calories).
+e Fish: 8 kg (approx. 8,000 calories).
+
+Vegetables:
+
+Carrots: 8 kg (approx. 3,280 calories).
+Potatoes: 10 kg (approx. 8,000 calories).
+Onions: 5 kg (approx. 2,000 calories).
+
+Bell peppers: 5 kg (approx. 2,000 calories).
+Tomatoes: 8 kg (approx. 2,400 calories).
+
+Fruits:
+
+Apples: 10 kg (approx. 5,200 calories).
+Oranges: 10 kg (approx. 4,700 calories).
+Bananas: 10 kg (approx. 8,900 calories).
+Dry and Non-Perishable Food (43 Days)
+Dry and Non-Perishable Food (43 Days)
+Grains and Starch:
+e Rice: 30 kg (approx. 105,000 calories).
+e Pasta: 35 kg (approx. 126,000 calories).
+e Bread (long shelf life or dry/crackers): 25 kg (approx. 67,500 calories).
+
+Legumes:
+e Lentils: 10 kg (approx. 35,000 calories).
+e Beans (dried or canned): 10 kg (approx. 35,000 calories).
+
+Dairy and Fats:
+e Cheese (hard types like Parmesan or Gouda): 15 kg (approx. 54,000
+calories).
+Butter: 8 kg (approx. 58,000 calories).
+Milk (powdered): 5 kg (approx. 18,000 calories).
+Olive oil: 10 liters (approx. 88,000 calories).
+
+Snacks and Extras:
+e Nuts (almonds, peanuts, etc.): 8 kg (approx. 48,000 calories).
+Chocolate: 5 kg (approx. 26,500 calories).
+Jam/Peanut Butter: 5 kg (approx. 15,000 calories).
+Honey: 4 kg (approx. 13,200 calories).
+Canned Goods (Long Shelf Life)
+Tuna: 15 kg (approx. 25,500 calories).
+Canned tomatoes: 20 kg (approx. 7,000 calories).
+Canned fruits: 10 kg (approx. 7,500 calories).
+Communication:
+
+The following communication systems were onboard, ensuring reliable
+connectivity and safety during the voyage:
+
+Primary Communication Systems:
+
+Starlink Internet:
+e High-speed internet connection with global coverage for data
+communication and real-time updates.
+VHF Radio:
+e Primary short-range communication device for ship-to-ship and
+ship-to-shore contact.
+Inmarsat-C:
+e Satellite communication system for long-distance messaging, including
+distress alerts and position reporting.
+Iridium Satellite Phone:
+e Global satellite voice communication for emergency and routine calls.
+
+Safety and Emergency Communication
+
+EPIRB (GPS-equipped):
+e Emergency Position Indicating Radio Beacon for distress signal
+transmission to search and rescue authorities.
+
+AIS (Automatic Identification System):
+e Transceiver for vessel identification and real-time location sharing to
+nearby ships and coastal authorities.
+
+SART AIS (Search and Rescue Transponder):
+e AIS-enabled device to signal the vessel's position during emergencies,
+assisting in search and rescue operations.
+
+This setup, being close to ideal, will allow us to maintain efficient
+communication throughout the entire crossing. Redundancy is fulfilled with the
+VHF and Iridium systems, which, together, provide global communication
+coverage.
+
+For safety, the same applies. The EPIRB and Inmarsat-C systems ensure
+redundancy for distress signals, providing worldwide distress coverage.
+Navigation System and Equipment:
+The vessel is equipped with a comprehensive suite of navigation tools and
+resources, combining modern electronic systems with traditional methods and
+highly regarded publications to ensure safe and efficient passage planning
+and execution:
+
+Electronic and Traditional Charting:
+
+Electronic Charts:
+e Utilized through SDcards from Navionics, providing real-time, detailed
+navigation tools for the planned routes.
+
+Paper Charts:
+e Admiralty and regional charts for redundancy and precision.
+
+| 4201 S.E. COAST OF SOUTH AMERICA
+4202 EAST COAST OF SOUTH AMERICA
+[4215 RECIFE TO DAKAR
+
+4104 LISBON TO FREETOWN
+
+| 4301 MEDITERRANEAN SEA, WEST PART
+[3971 SÁO TOMÉ TO RIO DE JANEIRO
+
+529 RECIFE TO CABO DE SAO TOMÉ
+
+|540 BAÍA DE TODOS OS SANTOS
+
+3133 CASABLANCA TO ISLAS CANARIAS
+[1950 ARQUIPÉLAGO DOS ACORES
+
+1895 ILHA DE SÁO MIGUEL 34/03
+
+[1863 PUERTO MÁRMOLES TO P ROSARIO
+1702 IBIZA, FORMENTERA 8 S MALLORCA
+[4014 NORTH ATLANTIC, EASTERN PART
+4003 PLANNING CHART SOUTH ATLANTIC
+4004 PLANNING CHART NORTH ATLANTIC
+
+Planning and Reference Materials:
+
+Pilot Books:
+e Brazil Cruising Guide by Michel Ballete.
+e Atlantic Islands by Anne Hammick (4th Edition), offering detailed
+information on Atlantic stopovers.
+e Mediterranean Spain Pilot by Steve Pickard
+
+Tidal Almanac:
+e Covers tidal variations in multiple regions, critical for planning port
+entries and exits.
+https: /Wwww.tide-forecast.com/locations/Gibraltar-U-K/tides/llatest
+
+Admiralty Pilot Charts:
+e Atlas of Pilot Charts (South 8 North Atlantic), a key resource for
+assessing wind, current, and weather patterns (via MSI.NGA).
+
+Route Planning Resources:
+
+Jimmy Cornell's World Cruising Routes (5th Edition):
+e Afoundational resource for selecting optimal routes based on historical
+wind and current data.
+
+Corrientes Marinas:
+e A detailed guide for tidal currents, especially in the Strait of Gibraltar,
+available at Masmar Guide.
+
+Celestial Navigation:
+
+Sextant:
+e Onboard for traditional navigation, including sight reduction and
+meridian passage calculations.
+
+Nautical Almanac (2023):
+e For celestial navigation and astronomical calculations.
+Survival Equipment:
+
+The vessel is equipped with comprehensive survival equipment, meeting
+international safety standards and ensuring readiness for emergency
+situations. Below is a detailed inventory:
+
+Life-Saving Appliances:
+
+Life Vests:
+
+13 Auto-inflatable life vests for each person onboard,
+13 Standard life vests compliant with SOLAS.
+
+Liferafts:
+
+2 x Ocean-Approved Liferafts: Capacity: 8 persons each.
+
+Grab Bags:
+
+Each grab bag is prepared for extended survival on life rafts and
+includes:
+
+Food and Water:
+
+Rations for extended survival, vacuum-sealed for long shelf life.
+Medical Kit:
+
+First-aid supplies, including bandages, antiseptics, painkillers, and
+emergency medication.
+
+Fishing Gear:
+
+Basic fishing tools for food sourcing.
+
+Signaling Devices:
+
+Pyrotechnics: Hand flares, rocket flares, smoke signals.
+Whistles and reflective mirrors for visual signals.
+
+Survival Tools:
+
+Waterproof flashlight, multi-tools, and thermal blankets.
+Emergency Location Devices
+
+EPIRB (Emergency Position Indicating Radio Beacon):
+
+Assigned to be taken to the liferafts, ensuring global distress signals are
+transmitted to search and rescue authorities.
+
+SART (Search and Rescue Transponder):
+
+Dedicated to liferafts for enhanced location identification by rescue
+vessels and aircraft.
+Personal Protective Equipment:
+Immersion Suits:
+
+e Each crew member and passenger ¡is equipped with an immersion suit.
+Provides thermal protection and buoyancy in case of ship
+abandonment. This setup ensures the safety of all persons onboard,
+providing redundancy and meeting the highest standards for maritime
+survival readiness.
+
+Medical and First Aid Kit for Onboard Use
+
+Adrenaline - 1 mg, 1 ml (pre-filled syringe): 1 box
+
+Nitroglycerin - 1 mg, 20 tablets (for cardiac conditions): 1 box
+Captopril - 25 mg, 60 tablets (for hypertension): 3 boxes
+
+Almagate - 500 mg, 48 tablets (stomach antacid): 1 box
+
+Calcium Carbonate - 450 mg (stomach antacid): 3 boxes
+Metoclopramide/Domperidone - 10 mg, 30 tablets (for nausea and
+vomiting): 1 box
+
+Loperamide - 2 mg, 20 capsules (controls diarrhea symptoms): 1 box
+Paracetamol - 1 g, 20 tablets (reduces fever and pain): 1 box
+Ibuprofen - 600 mg (analgesic for pain): 2 boxes
+
+Dipyrone - 1 g injectable (for acute pain and fever): 57 ampoules
+Acetylsalicylic Acid (Aspirin) - 100 mg, 30 tablets: 1 box
+
+Loratadine - 10 mg (over-the-counter allergy treatment): 1 box
+Diclofenac Sodium - 50 mg, 40 tablets (for arthritis): 2 boxes
+Diclofenac Sodium - 1% topical gel, 60 g (for arthritis): 1 box
+Metamizole - 2 g, 50 ampoules (reduces fever, muscle spasms, and
+acute pain): 1 box
+
+Diazepam - 10 mg, 6 ampoules (sedative, muscle relaxant,
+anticonvulsant): 1 box
+
+Haloperidol - 2 mg oral solution (antipsychotic): 1 box
+Dimenhydrinate - 50 mg, 12 tablets (pediatric; for dizziness): 1 box
+Cetirizine - 10 mg, 20 tablets (for hives): 1 box
+
+Methylprednisolone - 40 mg, 3 ampoules (anti-inflammatory for
+arthritis): 1 box
+
+Saline Solution for Eye Washing - 200 ml: 1 bottle
+
+Oxybuprocaine - 0.2% eye drops, 10 ml (for painful eye conditions): 1
+bottle
+
+Cyclopentolate - 1% eye drops, 5 ml (causes pupil dilation): 1 bottle
+Naphazoline HCL with Boric Acid (for eye/nasal irritation): 1 box
+Levocetirizine (for nasal discharge): 1 box
+
+Povidone lodine - 10 units, 5 ml (antiseptic): 2 bottles
+70* Alcohol Solution - 50 ml: 2 bottles
+
+Chlorhexidine - 1% topical solution, 25 ml: 1 bottle
+
+Chlorhexidine - 2% topical solution, 100 ml (70% alcohol): 1 bottle
+Antiseptic Hand Hygiene Solution - 50 ml: 1 bottle
+
+Physiological Serum for Wound Cleaning - 20 ml: 3 bottles
+Glucocorticoid Powder (injectable for intestinal inflammation, asthma,
+allergies): 1 bottle
+
+Amoxicillin with Clavulanic Acid - 875 mg/125 mg (antibiotic): 2 boxes
+Rifaximin - 200 mg (antibiotic for traveler's diarrhea): 2 boxes
+Clindamycin - 300 mg (antibiotic): 2 boxes
+
+Ciprofloxacin - 500 mg (antibiotic): 3 boxes
+
+Medical Equipment
+
+Digital Blood Pressure Monitor: 2 units
+
+Hemostatic Compression Tourniquet: 1 unit
+
+Hemostatic Gel/Sponges (200x70x0.5 mm): 1 box
+
+Manual Resuscitation Device (AMBÚ Bag) with Adult Mask: 1 unit
+Mouth-to-Mouth Resuscitation Cannel (Guedel Tube):
+
+Size 43: 1 unit
+
+Size +4: 1 unit
+
+CPR Mask (HAND): 1 unit
+
+Elastic Bandage (7 cm x 4 m): 2 units
+
+Sterile Gauze Compresses (20 cm x 20 cm, 25 pcs): 1 box
+Hypoallergenic Adhesive Tape (5 cm x 10 cm): 1 roll
+
+Disposable Vinyl/Nitrile Gloves: 4 pairs
+
+Sterile Self-Adhesive Dressings (8 cm x 10 cm, 5 pcs): 1 box
+Sterile Compression Dressings: 1 box
+
+Sterile Hydrocolloid Dressings (5 cm x 5 cm, 3 pcs): 1 box
+
+Plastic Adhesive Bandages (6 cm x 1 m roll): 1 roll
+
+Adhesive Sutures (6 mm x 102 mm): 1 pack
+
+Impregnated Gauze Pads (7 cm x 9 cm, 20 pcs): 1 box
+
+Scissors (Straight, Sharp): 1 unit
+
+Dissection Tweezers (Straight, No Teeth): 1 unit
+
+Digital Clinical Thermometer: 1 unit
+
+Onboard Medical Guide: 1 copy
+
+Disposable Syringes (5 cc with needle): 2 units
+
+Malleable Aluminum Finger Splints (2 cm x 50 cm): 1 strip
+Inflatable Transparent Splints (Various Sizes): 1 set
+
+Rigid Adjustable Cervical Collar: 1 unit
+
+Sling/Triangular Bandage: 1 unit
+
+Thermal Blanket for Burns/Survivors: 1 unit
+Weather Forecasting and Monitoring Plan
+
+To ensure safe navigation and optimal planning, the following tools and
+methods will be used for weather forecasting and monitoring during the
+voyage:
+
+Long-Term Weather Planning
+
+Pilot Charts:
+
+Source: Admiralty Pilot Charts and Jimmy Cornell's books.
+Purpose: Analyze predominant winds, tides, wave heights, gale
+probabilities, and other seasonal patterns.
+
+Conclusion: Based on these studies, the best departure window
+is determined to be April to mid-May for favorable conditions.
+
+Short-Term Weather Forecasting
+
+Windy App:
+
+Access: Enabled via Starlink internet.
+
+Usage: Provides modeling forecasts with multiple prediction
+models depending on the region.
+
+Frequency: Weather updates will be checked multiple times daily
+to anticipate changes.
+
+Backup Communication and Forecasting
+
+Iridium Phones:
+
+Two units onboard: one mobile and one fixed.
+
+Plan: In the event of Starlink failure, the Iridium system will
+become the primary communication method.
+
+Designated Support: A designated person ashore will relay
+weather forecasts to the crew via Iridium.
+
+Garmin Device:
+
+Capability: Receives text messages through the Garmin app.
+Usage: Allows receipt of weather updates via contacts onshore
+with internet access.
+
+10
+Onboard Weather Instruments
+e Barometer: Monitors atmospheric pressure changes to detect
+approaching weather systems.
+e Thermometer: Tracks air and water temperature variations,
+which can signal weather changes.
+e Hygrometer: Monitors humidity levels to anticipate fog or
+unstable weather conditions.
+
+Worst-Case Scenarios
+Cloud Observation:
+Use traditional techniques to identify cloud types and formations (e.g.,
+cumulonimbus indicating storms).
+Relate cloud height and movement to potential weather changes.
+Preparation: Monitor all instruments closely and adjust the vessel's
+
+course or prepare for rough weather when indicators suggest instability.
+
+11
+Crew List with Roles.
+
+Leadership
+Andres (Master)
+e Role: Master of the vessel
+e Traits: | should be able to be decisive, calm under pressure, a strong
+communicator, and an inspirational leader.
+
+Engineering Team
+Gustavo (Chief Engineer)
+e Role: Oversees all mechanical and technical systems.
+e Traits: Methodical, organized, safety-focused, and a proactive problem
+solver.
+
+Richard (2nd Engineer)
+e Role: Assists in system operations and maintenance.
+e Traits: Detail-oriented, experienced, reliable, and collaborative.
+
+Sailing and Deck Team
+Pablo D (First Officer)
+e Role: Supervises deck operations and sail handling.
+e Traits: Natural leader, solution-focused, confident, and team-oriented.
+
+Alejandro (Deckhand)
+e Role: Assists with deck duties and maintains organization.
+e Traits: Tidy, responsive, disciplined, and dependable.
+
+Nenad (Deckhand)
+e Role: Manages rigging and daily routines.
+e Traits: Skilled, routine-oriented, adaptable, and hardworking.
+
+Emiliano (Deckhand/Carpenter)
+e Role: Handles repairs and minor improvements onboard.
+e Traits: Creative, resourceful, detail-oriented, and efficient.
+
+Agustín (Deckhand)
+e Role: Provides operational support and system insights.
+e Traits: Knowledgeable, quick thinker, solution-driven, and attentive.
+
+12
+Guillermo (Deckhand)
+e Role: Implements safety protocols and assists with towing knowledge.
+e Traits: Safety-conscious, pragmatic, observant, and dependable.
+
+Interior and Support
+Kea (Stewardess)
+e Role: Maintains cleanliness and interior order.
+e Traits: Organized, meticulous, approachable, and supportive.
+
+Sebastian (Chef)
+e Role: Prepares meals and manages provisioning.
+e Traits: Creative, charismatic, morale-booster, and detail-focused.
+
+Passengers/Support
+Julio and Pablo L (Owner's Sons)
+e Role: Assist with watchkeeping, fishing, cooking, and morale.
+e Traits: Energetic, cooperative, positive, and eager to learn.
+
+13
+Watchkeeping System
+
+Watchkeeping Rotations
+e Watch Duration: Each group is assigned 3-hour shifts.
+
+e Time Basis: Watches followed the "log hour," adjusted to the time
+
+zone corresponding to the vessel's longitude.
+
+Watch Groups and Schedule:
+Group 1:
+e Members: Andrés, Kea, and Agustín
+e Hours: 1500-1800 and 0300-0600
+
+Group 2:
+e Members: Pablo D, Julio, Emiliano, and Richard
+e Hours: 1800-2100 and 0600-0900
+
+Group 3:
+e Members: Alejandro, Nenad, and Pablo L
+e Hours: 2100-0000 and 1200-1500
+
+Logbook Entries
+After each watch, the responsible group recorded key operational data
+and noteworthy events in the vessel's logbook, including:
+Position: Latitude and longitude.
+Barometer: Atmospheric pressure readings.
+True Wind Speed: Measured wind speed.
+Speed Over Ground (SOG): The yacht's speed relative to the
+seabed.
+True Wind Direction: Wind direction relative to true north.
+Course Over Ground (COG): The yacht's actual course.
+Engine and Generator Use (if applicable):
+RPM (if under engine power).
+Engine hours.
+Generator in use (Generator 1 or Generator 2).
+Sailing Status: Whether the yacht was under sail only.
+
+Notable Events: Any incidents or observations worth mentioning.
+
+14
+Safety Management System (SMS) for SY DOÑA
+FRANCISCA
+
+Firefighting Protocol
+immediate Actions
+Raise the Alarm:
+1. Shout "Fire!" and alert all crew and passengers.
+2. Activate the fire alarm if applicable.
+
+Locate and Contain:
+1. Identify the location of the fire.
+2. Shut off fuel lines and ventilation to the affected area.
+3. Close doors and hatches to contain the fire.
+
+Extinguish:
+
+1. Use appropriate fire
+extinguishers:
+
+2. Class A: Water or foam for solid
+materials.
+
+3. Class B: Foam, CO», or dry
+powder for flammable liquids.
+
+4. Class C: CO: or dry powder for
+electrical fires.
+
+5. Avoid water on electrical or
+oil-based fires.
+
+Pal 1F]+] e] eo e!
+aje|=le 11 [e Ep
+
+Evacuate if Necessary:
+1. Don lifejackets.
+2. Prepare liferafts if the fire cannot be
+
+controlled.
+
+3. Follow-Up
+
+Conduct a headcount.
+
+5. Notify maritime authorities using
+VHF Chamnel 16 or satellite
+communication.
+
+=>
+
+15
+Man Overboard (MOB) Procedure
+Immediate Actions
+Raise the Alarm:
+1. Shout "Man Overboard!"
+2. Assign someone to keep the MOB in sight.
+
+Mark Position:
+1. Press the MOB button on the GPS or chart plotter.
+2. Deploy a lifebuoy and light.
+
+Recover MOB:
+1. Turn the vessel toward the MOB and execute a Williamson Turn or
+otherrecovery maneuver.
+2. Use the MOB recovery equipment (lifebuoy, harness, or sling).
+
+Medical Assessment:
+
+1. Once recovered, assess the MOB for hypothermia, injury, or shock.
+
+2. Follow-Up
+3. Notify maritime authorities if medical evacuation is required.
+
+16
+Abandon Ship Procedure
+immediate Actions
+Raise the Alarm:
+1. Shout "Abandon Ship!"
+2. Sound the general alarm.
+
+Don Safety Gear:
+1. Puton lifejackets and immersion suits.
+
+Prepare Liferafts:
+1. Deploy liferafts and secure them to the vessel.
+2. Grab grab bags, which include emergency supplies (EPIRB, flares,
+food water, first aid, etc.).
+
+Evacuate:
+1. Board liferafts in an orderly fashion, avoiding overloading.
+Cut the painter line once everyone is aboard.
+Follow-Up
+Activate the EPIRB and SART.
+Maintain communication using satellite phones or VHF.
+
+Sa»ao0N
+Medical Emergency Procedure
+Immediate Actions
+Assess the Situation:
+1. Determine the severity of the injury or illness.
+2. Administer first aid.
+
+Alert the Crew:
+1. Notify the captain and assign someone to assist.
+
+Contact a Medic: (+598 98 908 398 ALFONSO MEDIC)
+
+Use Starlink or Iridium to contact a medic or telemedicine service.
+Starlink: Use an internet-based medical consultation service.
+Iridium: Call emergency medical services or MRCC (Maritime
+RescueCoordination Center).
+
+The Maritime Rescue Coordination Centre (MRCC) in Uruguay:
+
+e Telephone: +598 2 916 1389
+e Alternate Telephone: +598 2 916 7922
+e Email: COMFLO _RADIOGARMADA MIL.UY
+
+MRCC Brazil:
+e Telephone: +55 21 2104 6056
+e Alternate Telephone: +55 21 2104 6863
+e Email: mrccbrazilGQmarinha.mil.br
+
+MRSC Funchal:
+e Telephone: +351 291 213 112
+e Email: mrsc.funchalGamn.pt
+
+MRCC Madrid:
+e Telephone: +34 91 755 9132
+e Email: CNCSOSASEMAR.ES
+
+MRCC Las Palmas:
+e Telephone: +34 928 467 757
+
+MRCC Tenerife:
+Telephone: +34 922 597 551
+
+18
+Provide:
+1. Vessel location (latitude/longitude).
+2. Patient's condition and symptoms.
+3. First aid administered.
+
+Evacuate if Necessary:
+1. Coordinate with the MRCC or local authorities for a medical evacuation
+if required.
+2. Follow-Up
+Document the incident in the logbook.
+4. Review the incident to improve procedures.
+
+om
+
+19
+A
+
+PROTOCOLO MAYDAY (DISTRESS CALL)
+VHF CANAL 16
+
+. Mayday, Mayday, Mayday
+
+This is... Doña Francisca, Doña Francisca, Doña Francisca, V7A6396....
+MMSI: 538072104
+
+Mayday, this is Doña Francisca. V7A6396.... MMSI: 538072104
+
+My position is... (latitude, longitude) [00*00.0*N/S,000*00.0*W/E]
+Situation:We are sinking, MOB, fire on board, etc.
+
+| NEED... (Immediate assistance, SAR service, etc)
+
+Additional information: Number of people on board, abandoning vessel, etc
+
+OVER...
+
+. Mayday, Mayday, Mayday
+
+Aquí... Doña Francisca, Doña Francisca, Doña Francisca, V7A6396....
+MMSI: 538072104
+
+Mayday, Aqui Doña Francisca. V7A6396.... MMSI: 5383072104
+
+Mi posición es...
+
+Lo que le ocurre al barco: se está hundiendo, tiene una persona por la
+borda, se está incendiando, etc.
+
+Necesito ... (lo que necesita de los demás, por ejemplo, ayuda para
+encontrar a la MOB, que se envíe un bote salvavidas, etc.)
+
+información adicional, por ejemplo, cuántas personas hay a bordo, si tienes
+un handy, si abandonas la embarcación, etc.
+
+Cambio...
+
+20
+PROTOCOLO PAN PAN (URGENCY CALL)
+
+DSC /VHF 16
+
+1. PAN PAN, PAN PAN, PAN PAN
+2. ALL STATIONS X 3
+
+e
+
+This is... Doña Francisca, Doña Francisca, Doña Francisca, V7A6396....
+
+WMIMSI: 538072104
+
+4. PAN PAN, this is Doña Francisca. V7A6396....MMSI: 538072104
+
+5. My position is... (latitude, longitude) [00*00.0*N/S,000*00.0*W/E]
+
+6. Situation: Agrounded, non fatal accident.
+
+7. |NEED... (Medic on the radio, towing)
+
+8. Additional information: Number of people on board, abandoning vessel, etc
+9. OVER...
+
+1. PAN PAN, PAN PAN, PAN PAN
+
+2. TODAS LAS ESTACIONES x 3
+
+3. Aquí... Doña Francisca, Doña Francisca, Doña Francisca, V7A6396....
+MMSI: 538072104
+
+4. PAN PAN, Aqui Doña Francisca V7A6396.... MMSI: 538072104
+
+5. Mi posición es...
+
+6. Lo que le ocurre al barco: Alguien herido o enfermo, el barco encalló, no
+funciona el motor y estamos a la deriva.
+
+7. Necesito ... (comunicación radio médica, asistencia de remolque, etc)
+
+8. información adicional, por ejemplo, cuántas personas hay a bordo, si tienes
+un handy, si abandonas la embarcación, etc.
+
+9. Cambio
+
+21
+Checklist before departure
+
+Engine and Hydraulic Systems
+Oil Levels:
+e Check oil levels in generators, main engine, and hydraulic oil tank
+(main engine room).
+
+Cooling Water Levels:
+e Inspect cooling water levels in generators and main engine.
+
+Sea Strainer:
+e Clean the sea strainer in the engine room (if not done recently).
+e Verify that sea cocks are open and water lines are clear for
+generators and the main engine.
+
+Battery System:
+e Close the main battery bank switch for the main engine starter.
+
+Fuel System:
+e Sound the daily diesel tank (below the main dining table).
+e Confirm that the fuel circuit valves from the daily tank to the Racor
+filters are open.
+e Ensure fuel supply and return valves for generators and the main
+engine are open.
+
+Electrical and Ventilation Systems
+Fuel Valve Solenoid:
+e Enable the Fuel Valve Solenoid switch on the 24V panel in the
+engine room.
+
+Rudder and Pitch Control:
+e Activate the Rudder and Pitch Control switches on the 380V
+panel in the engine room.
+
+Ventilation:
+e Enable the Engine Room Fan 1 and Fan 2 on the 380V panel.
+e Check that both fans operate. Reset if necessary (blue reset
+button).
+
+22
+Hydraulic System
+Hydraulic System Functionality:
+e With both generators and the main engine running, check the
+hydraulic load (50% and 100%) via the HMII hydraulic control
+panel at the helm station (port).
+
+Hydraulic Equipment test operation of:
+e All deck winches.
+Mainsail and schooner vang.
+Furlers for mainsail, schooner, staysail, and genoa.
+Bow and stern thrusters.
+Steering and Navigation Controls
+
+Steering System:
+
+e Verify the functioning of the wheel, autopilot, and joystick
+steering.
+
+Engine Controls:
+e Check the Rexroth controls (variable pitch propeller, navigation
+modes, and control stations).
+e Testengine start-up from the local engine room control,
+navigation station, and external helm.
+e Ensure the COMAP engine control is set to Remote mode for
+navigation station and helm operation.
+
+Pumps and Safety Systems
+Fire and Bilge Pumps:
+e Confirm suction and discharge valves for fire and bilge pumps are
+open.
+
+e Testoperation of the pumps using the 380V panel in the engine
+room.
+
+Emergency Fire/Bilge Pump (Bow) check:
+e Oil level and fuel tank level.
+e Valve operations.
+e Open the sea cock for bow intake (under the laundry room).
+
+23
+Green Power System
+Green Power Activation:
+e Enable the Green Power panel in the engine room.
+e Test hydraulic and steering systems using the Green Power
+system via the HMI control at the external helm.
+e Simulate loss of main power by disabling the 380V Rudder
+breaker in the engine room panel.
+
+24
+Route consideration, waypoints and planning
+
+Before starting the journey, the following waypoints were carefully plotted on
+both electronic and relevant paper charts. These waypoints are based on
+recommended routes, detailed study of pilot charts, and consideration of
+
+navigational dangers.
+
+Waypoints
+
+uh e
+
+“PP ona apo
+
+Lobos ( 35'05'5, 54'45'W)
+Plata N (35'0'S, 540)
+Tramandai (30105, 490 W)
+Marta (28405, 480)
+
+Frío (2304'8, 41014)
+
+Portacel (20'0'5, 37300)
+Ecuador (02470, 2623)
+Islas Aflánticas (30'20'N, 29'00'W]
+Gibraltar (35'55'N, 06'06'W]
+Mar Alboran (3634, 0118'WV)
+Baleares (38'50'N, 02'26'E)
+
+AN
+in
+
+O
+
+AE
+
+25
+Considerations:
+
+PIRIÁPOLIS - GIBRALTAR (5500 NM)
+
+Winds and Currents:
+
+It is essential to consider the prevailing winds and
+currents during the crossing, as well as identify
+potential ports of refuge if needed.
+
+Route from Plata N (NE Course):
+
+Northerly winds and south westerly currents
+dominate, complicating navigation. These
+conditions are particularly strong from October to
+April, peaking between December and February.
+Based on World Cruising Routes by Jimmy
+Cornell, northerly currents have also been
+recorded. Sailing is recommended between May
+and July to avoid these adverse conditions.
+
+Trade Winds:
+
+From March to August, southeasterly trade winds
+become more consistent, justifying the chosen
+departure window. These winds will assist
+navigation, especially after Cabo Frío, west of Rio
+de Janeiro.
+
+Brazilian Coast Traffic:
+
+The Brazilian coastline is heavily trafficked,
+particularly by small, poorly lit wooden fishing
+vessels, which are difficult to detect on radar. lt
+is advised to maintain at least a 50-mile offshore
+distance to avoid collisions.
+
+Coastal Navigation Hazards:
+
+Navigating near the coast requires caution due
+to regional hazards and variable wind patterns
+often encountered in coastal waters.
+
+Rio de Janeiro to Salvador de
+Bahia:
+
+After passing Rio de Janeiro, staying
+close to shore to avoid significant
+mileage offshore requires awareness
+of the Arbolos Islands, which are
+located within 50 miles. If the goal is
+to stop at Salvador de Bahia,
+proximity to these islands must be
+accounted for.
+
+26
+BRAZIL:
+
+Coordination centres for rescue at sea
+
+Coastal Zone There are five rescue coordination centres covering the The official ports of entry
+: coast of Brazil; these are, from north to south: Here ás a list of the official ports of entry into Brazil, in
+Accordin g to the do e o naval the various states of the country:
+
+3 (91) 3216 4030
+
+Brazil Cruising North coast
+. . ie . Manaus (Amazonas)
+Guide by Michel do de 2* Distrito aval Belém (Pará)
+3 01 23203711, 001) 33203730 Macapa (Amapál
+Ballete, vessels comando de Y Distrito aval Sáo Luis (Maranháo]
+hi : aaa ems (eN 23 esr2 Northeast coast
+within 12 miles of Comando 5 Dis a
+ar Salvamar Sul, Rio Grande do Sul Fortaleza (Ceará)
+the Brazilian 3 6530132336139 Natal (Rio Grande do Norte]
+[ . y Recife (Pernambuco)
+coastline must Maceió (Alagoas)
+. . . _ Salvador (Bahia)
+obtain authorization + E Ilheus (Bahia)
+and are subject to Southeast const
+. . . Vitória (Espírito Santo)
+immigration and Rio (Rio de Janciro]
+Angra dos Reis (Rio de Janeiro)
+health controls. Sepetiba (Rio de Janeiro]
+5áo 5ebasrido — (530 Paulo)
+Santos (Sao Paulo)
+South coast
+To complete entry Paranaguá [Paraná]
+procedures for Sao Francisco do Sul [Santa rina)
+Florianópolis [Santa rina)
+¡ Imbituba et Irajaí, rina)
+Brazil when Rio Grande [Rio Grande do Sul]
+
+necessary, vessels
+must use designated ports of entry authorized for such
+purposes.
+
+In Port: Administrative Formalities
+The following administrative steps must be completed in the specified order:
+
+Federal Police (Immigration):
+The captain and crew must present themselves in person at the Federal Police office with
+passports and the vessel's documentation.
+
+Customs (Alfandega dos Portos):
+Complete forms, including a special declaration of the vessel's estimated value. While an
+
+import tax is calculated based on this value, it is not charged.
+
+Health Ministry (Ministério de Saúde):
+
+Submit health forms and vaccination certificates. This office issues the "Certificado de Livre
+
+Prática" (Free Pratique Certificate).
+
+Port Authority (Capitania dos Portos):
+File an entry declaration free of charge. It is recommended to dress appropriately when
+visiting the office.
+
+Exiting the Country
+The same offices must be visited to complete departure formalities. Particular attention
+should be given to ensuring the Federal Police stamps the passports to document the exit.
+
+27
+RIO DE JANEIRO
+
+Two marinas are being considered as A AN
+
+D43'09,85W Rio Viest|
+
+potential stopover ports: Marina da Glória
+and the Yacht Club of Rio de Janeiro
+(ICRJ), as well as Enseada de Botafogo for
+anchoring. Both marinas are awaiting
+confirmation of their capacity to
+accommodate the SY DOÑA FRANCISCA.
+
+Marina da Glória
+
+VHF: 68
+
+Phone: +55 (21) 2205 6716
+Features:
+
+-Large capacity (-400 boats).
+-Served as a venue during the 2016
+Olympics.
+
+-Offers essential services such as
+freshwater, electricity (110V and 220V), and a fuel
+station.
+
+Provisioning:
+
+-Rio de Janeiro has some of the largest shopping
+centers and supermarkets in the country, including
+major chains like Carrefour.
+
+-Delivery services to the boat are available from
+locations such as Mercedes, Rua da Glória, Ultra, and
+Rua Candido Mendes.
+
+BAÍA DE GUANABARA OR BAÍA DE RIO
+
+Yacht Club of Rio de Janeiro (ICRJ)
+
+VHF: 67
+
+Features:
+
+-Does not have a marina but provides a large
+anchoring area.
+
+Options:
+
+-Mooring buoy.
+
+-Anchoring.
+
+-Services:
+
++5» 22"56,93' 043"10,31'W late Clube de Rio de. del
+6 » 22"56,80'5 043"10,60'W Clube de Regatas Guanabara
+97 + 2256.57'5047'09,59W Urea anchorage
+
+Boat-to-shore transfers available via VHF ;
+channel 67. ENSEADA OE BOTAFOGO
+
+Safety Note
+Extreme caution is advised at night due to reports of piracy and theft.
+
+28
+SALVADOR DE BAHÍA
+
+Bahia Marina
+
+VHF: 16 or 12
+
+Phone: +55 (71) 3320 8888
+
+Bahia Marina is a good option if stopping in Salvador becomes necessary. It offers ample
+berthing space and excellent anchorage areas outside the port. The marina also provides all
+the essential services for vessels and crew.
+
+Important Note
+Upon disembarking, it is mandatory to present the vessel's documentation and crew papers
+
+to the Port Authority (Capitania).
+
+4) 1 + 139,993 38"31,90'W lote Clube de ahia
+$29 1758,705 3831.50 Bahia Marina
+
+4-3 + 1259,075 39"31,35W OH Terminal Náutico
+L94+1700,1953872,05W Porto da Barra
+
+BAHÍA MARINA
+
+29
+Crossing the Equator
+When deciding the best time and location to cross the equator, it is crucial to consider both
+the point of origin and the destination. In this case, with the Strait of Gibraltar as the
+destination, it is recommended to gain as much easting as possible prior to crossing.
+
+Initial Route:
+
+Ifthe vessel opts for a non-stop passage, routes close
+to the Brazilian coastline should be avoided at the start
+of the journey. This is because the region is dominated
+by northeasterly winds, which can hinder progress.
+Instead, an offshore route should be followed until the
+southeasterly trade winds are encountered.
+
+Equator Crossing Strategy:
+
+The crossing should be made as far east as possible
+to maximize the advantage of the northeasterly trade
+winds encountered after passing through the Intertropical Convergence Zone (ITCZ).
+
+Adjusting for NE Winds:
+
+Should the vessel encounter persistent northeasterly winds that make it difficult to maintain
+the desired course, alternative routes and potential ports of call must be considered as
+contingencies. This ensures safety andflexibility in case weather conditions necessitate a
+change in strategy.
+
+30
+Azores - Gibraltar (984 NM)
+Marina de Ponta Delgada (37*44'N, 25”39'W/)
+Time Zone: UTC-1
+
+Alternate Route
+
+One alternative in case strong northeasterly winds make it impossible to maintain a course
+to Gibraltar is to head north toward the Azores. Although this route increases travel time, it ¡is
+relatively straightforward for a sailing vessel under favorable conditions.
+
+General Information
+
+Contact Information
+
+Marina de Ponta Delgada (37*44'N, 25”39'W/)
+VHF: 16, 62
+
+Phone: +351 296 281 510
+
+Visa Requirements:
+
+No visa is required for entry as the Azores,
+while an autonomous region of Portugal, is part ¡stas
+
+of the European Union. A valid passport a 7
+suffices for stays up to 90 days. Ñ
+
+Entry Formalities:
+
+Upon arrival, the yellow "Q" flag must be
+hoisted ifthe vessel is coming from outside
+the EU. Entry procedures may involve
+several offices:
+
+Port Authority (Capitania de Porto).
+Maritime Police.
+
+Customs (Alfandega).
+
+Immigration: Available at major ports
+like Ponta Delgada, Horta, Praia da Victoria, and Angra do Heroísmo.
+
+PoOoNnN->
+
+Weather and Conditions
+
+The weather in this latitude is highly variable, making extended stops inadvisable.
+
+Ponta Delgada (37”44'N, 25*39'W) is a recommended port of call for its accessibility and
+facilities.
+
+Recommended Sailing Season
+
+The best time for this route is May to September.
+
+June: The area between the Azores and the Iberian Peninsula is usually calm, with light
+winds. As the vessel approaches the Iberian coast, northerly winds become more
+predominant near lana.
+
+31
+Madeira - Gibraltar Route (690 NM)
+Funchal Port (32*38'36"N, 16%54'15"W)
+Time Zone: UTC+0
+Visa Requirements:
+No visa is required for entry, as Madeira is an autonomous region of Portugal and part of the
+European Union. A valid passport allows stays of up to 90 days.
+
+Entry Formalities:
+
+Upon arrival, hoist the yellow "Q" flag if
+arriving from outside the EU. Entry
+procedures may involve:
+
+e Port Authority (Capitania de
+
+Porto)
+
+National Republican Guard (GNR) +
+Maritime Police
+
+Customs (Alfandega)
+
+Immigration
+
+Port of Call: Funchal Port (32?38'36"N, 16%54'15"W)
+Phone: +351 291 232 717
+
+Navigational Considerations
+
+Wind Conditions:
+Northeasterly winds are common in this region.
+
+As the vessel approaches the Strait of Gibraltar, the winds may shift to easterly, requiring
+adjustments to the route and sail plan.
+
+32
+Canarias - Gibraltar Route (795 NM)
+Puerto Calero (Lanzarote) 2854'54"N, 13*42'28"W
+Time Zone: UTC / UTC+1 (Summer)
+
+Personal Documentation
+Same as for travel within the European Union. A valid passport allows stays of up to 90
+days. For longer stays, a residence card is required.
+
+Entry Regulations
+If arriving from outside Spain, you must go
+through immigration and port authorities.
+The process is generally straightforward,
+and marina authorities often assist with the
+procedures.
+
+Navigational Considerations
+Prevailing Winds:
+The area is dominated by northeasterly
+(NE) and northerly (N) winds.
+Ideally, wait for a low-pressure system in
+the region to bring southwesterly (SW) or
+southerly (S) winds to facilitate the passage
+to Gibraltar.
+
+Port of Call: Puerto Calero (Lanzarote)
+28754'54'"N, 13%42'28"W
+
+VHF Channels: 09, 16
+
+Phone: +34 08002000
+
+Features: Suitable for vessels up to 65m
+LOA.
+
+AAA OMIC
+
+Approaching Gibraltar:
+
+Udo
+Canarios
+
+é >
+
+Cor Faces
+€ E oÚ 5
+
+Gomera
+
+The Canary Islands
+Acceleration Zones
+
+s,
+
+If Levante winds (easterly) are forecasted near Gibraltar, it is advisable to wait until these
+winds subside. Levante winds are often strong and can significantly impact navigation and
+
+safety.
+
+33
+Potential Ports of Call on the Way to Gibraltar
+
+The following ports are being considered as possible stopovers en route to Gibraltar:
+
+Puerto de Mazagón
+
+Coordinates: 37%07'54"N, 06*50'17"W
+Location: Southeast of Huelva
+
+VHF: 16, 9
+
+Puerto de Cádiz (Marina Puerto América)
+Coordinates: 36*32'20"N, 06*16'57"W
+VHF: 16, 9
+
+Dique Mar
+ode Lowe "A
+
+34
+Puerto de Barbate
+Coordinates: 36”10'50"N, 05%55'27"W
+VHF: 16, 9
+
+Weather Monitoring
+Radio Tarifa broadcasts 24-hour weather reports, enabling the crew to determine the optimal
+time to cross the Strait of Gibraltar.
+
+35
+Strait of Gibraltar Crossing Considerations
+Current Directions:
+Eastbound currents: Up to 7 knots.
+Westbound currents: Up to 2 knots.
+
+Planning the Crossing:
+
+Timing the crossing is critical to take advantage of favorable eastbound currents when
+entering the Mediterranean.
+
+Keep the tide almanac for the current year at hand to plan the crossing efficiently.
+
+High Tide in GIBRALTAR HT+1h in GIBRALTAR
+
+Strait of Gibraltar Crossing
+
+From High Tide (PM) to High Tide + 3 hours (PM+3), the currents in the Strait of Gibraltar
+flow eastward, making this the ideal time to cross. The exact time of high tide can be
+checked via Radio Tarifa, which provides accurate tidal updates.
+
+36
+Final Approach: Gibraltar Strait Crossing
+After accounting for potential unforeseen events in the Atlantic Ocean, the voyage reaches
+the Strait of Gibraltar. As previously mentioned, understanding the tidal currents is crucial for
+a smooth and efficient crossing.
+
+Favorable Current Window:
+From high tide (PM) to approximately 5 hours after high tide, the currents flow eastward,
+making this the optimal time to cross into the Mediterranean.
+
+Preparation:
+Monitor tidal updates via Radio Tarifa and align the vessel's schedule to take advantage of
+the favorable current window for a more comfortable crossing.
+
+Winds and Currents in the Mediterranean
+Winds
+This stage ofthe voyage, though simpler, requires attention due to the specific
+characteristics of Mediterranean navigation. This zone, classified as Zone B, has short-range
+communication, primarily conducted via VHF, with occasional mobile signal coverage.
+
+Inthe Mediterranean, wind patterns and cycles differ
+significantly, with various wind types to consider: Tramontana
+
+Mistral: Strong northwesterly (NW) winds.
+Vendaval: Strong southwesterly (SW) winds.
+Sirocco: Warm southerly (S) winds.
+
+Levante: Easterly (E) winds.
+
+Gregale: Strong northeasterly (NE) winds.
+Meltemi: Northeasterly (NE) winds, predominant Mediodía
+
+in June.
+
+For the month of June, Meltemi winds are most common.
+
+These winds, an extension ofthe Asian Monsoons, are typically associated with stable and
+pleasant weather conditions.
+
+Currents and Tides
+Currents:
+Due to a water deficit in the Mediterranean caused by high evaporation rates, a significant
+inflow current enters from the Atlantic through the Strait of Gibraltar.
+
+Tides:
+
+The average tidal range is
+approximately 40 cm, which
+negates the need for detailed tidal
+studies for navigation within the
+Mediterranean.
+
+37
+Maritime Communications in Spain
+Spain provides a comprehensive system of maritime communications managed by
+Salvamento Marítimo (Maritime Rescue) and other authorities. These services include
+weather forecasts, navigational warnings, and emergency communication.
+
+Finisterre Radio
+
+La Coruña Radio
+Gijón Radio
+Santander Radio
+Bilbao Radio
+Barcelona Radio
+Valencia Radio
+Cabo de la Nao Radio
+9. Cartagena Radio
+10. Almería Radio
+11. Málaga Radio
+12. Tarifa Radio
+
+a
+
+DADARAON >
+
+13. Cádiz Radio
+
+14. Huelva Radio
+
+15. Las Palmas Radio
+16. Tenerife Radio
+
+For a voyage from Gibraltar to Valencia, the following stations are particularly relevant:
+
+Tarifa Radio: Covers the Strait of Gibraltar area, providing essential navigational and
+weather information.
+
+Cabo de la Nao Radio: Serves the southeastern coast, including the approach to Valencia,
+offering updates on maritime conditions.
+
+Monitoring these stations will ensure you receive timely information pertinent to your journey.
+
+Radio Tarifa
+Purpose:
+Weather forecasts, maritime safety information, and navigational warnings for the Strait of
+Gibraltar and surrounding waters.
+Broadcast Frequencies:
+VHF: Channel 16 (emergencies) and specific weather broadcast channels.
+MF: 2182 kHz (distress) and other frequencies for weather updates.
+Services:
+-24/7 weather forecasts and tidal information, essential for crossing the Strait of Gibraltar.
+-Safety and emergency services in the region.
+
+38
+Cabo de la Nao Radio
+Purpose:
+Maritime safety and weather forecasting for the Mediterranean coast of Spain.
+Broadcast Frequencies:
+VHF: Channel 16 (emergencies) and channels like 10 or 24 for routine weather updates..
+Services:
+Weather bulletins tailored for the Mediterranean region.
+-Navigation warnings, including updates on restricted areas or hazards.
+
+Final Destination: Valencia Mar, Spain
+
+Destination: Valencia Mar Marina
+Coordinates: 39*25'0"N, 0%19'0"W
+VHF Channel: 9
+
+Phone: +34 960 111 099
+
+Email: info valenciamar. com
+
+Traffic Avoidance
+
+Traffic Separation Scheme (TSS):
+
+Remain outside the TSS lanes as much as possible to avoid congestion with commercial
+traffic.
+
+Only enter the TSS when unavoidable, such as when crossing shipping lanes.
+Navigation Precautions:
+
+Monitor AIS to track nearby vessels.
+
+Maintain regular contact with maritime traffic services (VHF Channel 16) for updates on
+traffic density and safety information.
+
+39

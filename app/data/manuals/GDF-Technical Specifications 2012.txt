@@ -1,0 +1,2224 @@
+GOLETA
+
+SAL 7 Zo, TECHNICAL SPECIFICATIONS
+Odoña Francisca
+000 GENERAL GUIDANCE AND ADMINISTRATION
+000 GENERAL GUIDANCE AND ADMINISTRATION
+
+001 GENERAL ADMINISTRATIVE REQUIREMENTS
+
+General The puropose of the technical specification is to define the
+Administrative techical characteristics of the Vessel in ¡ts entirely.
+Requirements The technical specification must be read in conjunction
+
+with the general arrangement drawings.
+
+060 SHIP MAIN CHARACTERISTICS
+
+060 SHIP MAIN CHARACTERISTICS
+Principal Hull Principal Dimensions.
+Data LOA= 52.55m
+LOD= 45.80m
+LWL= 39.00m
+BEAM= 8.60m
+DRAFT= 3.50m
+LIGHT DISPLACEMENT= 230tn
+SAIL AREA= 1100m2
+
+DESIGNER= JAVIER SOTO ACEVAL
+
+070 GENERAL REQUIREMENTS FOR DESIGN AND CONSTRUCTION
+
+070 GENERAL REQUIREMENTS FOR DESIGN AND CONSTRUCTION
+Standars, Vessel to be designed using the metric system only.
+units, As far as not otherwise specified, International Standards
+languages to be basis for standards, dimensioning, quality of
+materials and performance.
+All plans, drawings, instruction manuals etc, To be written
+in English. Nameplates, notice-boards etc. to be written in
+English.
+Ship's name and port of registry to be in Latin letters,
+
+Workmanship All components of the structure of the boat shall fit
+together properly in accordance with good marine
+practice. All defective workmanship shall be replaced. Care
+should be taken to have all hull and exposed lines fair, and
+all joints tighly fitted and well fastened.
+
+071 ACCES TO COMPARTMENTS
+Access to Access for cleaning and painting shall be provided to all
+compartments compartmets and to all parts of the Vessel wherever
+necessary and possible,
+Access to equipment that may require service, shall always
+be provided.
+
+073 NOISE AND VIBRATION
+Vibrations The transmition of noise and vibration shall be kept to a
+minimum by means of insulating materials.
+A full study of the noise and vibrating insulation plan
+might be effected by using the consultancy of an
+expertise.
+100
+
+Noise limits
+
+078 MATERIALS
+Generalities
+
+Equipment
+identified by
+supplier or
+manufacturer
+
+Composite
+Materials
+
+Metals
+
+Plywood
+
+Glue
+
+Wood
+
+The noise levels in all Vessel compartments shall not
+exceed the following values:
+
+-Crew cabin: 72 dB(A)
+
+-Galley: 72 dB(A)
+
+-Saloon(s): 65 dB(A)
+
+-Guest Cabin: 65 dB(A)
+
+-Owner Cabin: 60 dB(A)
+
+-Outside cockpit 70 dB(A)
+
+The noise level at anchor condition with the engine off and
+generator on shall be in order of 5 dB(A) lower than the
+above levels in each compartment,
+
+Materials and workmanship throughout shall be consistent
+with the construction of a light hull to the highest
+standard, without sacrificing strength or stability.
+
+Patagonican reserves the right to substitute equipment
+identified in the Technical Specification by supplier or
+manufacturer, with equipment offering equal performance
+and quality. Patagonican shall notify to the Client any of
+such substitutions.
+
+Carbon fibre and carbon fibre hybrids will be extensively
+used. Glass fibres will be used to optimise the
+performance of the lamination as necesary.
+
+Lamination system will be infusion.
+
+Records of the materials, temperature(general), time and
+vacuum levels minimum and maximum as per materials
+manufacturer instrutions will be kept in file.
+
+The steel used for the construction of the ship sub-
+elements shall be made by approved processes. All sea
+water systems shall comply with the latest
+recommendations regarding avoidance of corrosion.
+Instruments, gauges, etc. Which are exposed to the
+weather shall be made of stainless steel or bronze where
+specified.
+
+All plywood shall be marine grade, as WBP or equivalent,
+produced to a recognized standard, faced with the timber
+which is specified on exposed or visible surfaces.
+
+Only epoxy, cold resorcinol or phenol adhesive glues of
+marine grade shall be used. The glues are to be applied in
+strict accordance with the manufacturer's instructions.
+
+All wood shall be quartersawn (unless specified
+otherwise), dressed on all sides, seasoned and free of
+knots, sap pockets, checks and other defects. Unless
+otherwise specified all deck joinery work shall be in teak;
+and shall have well-rounded corners to prevent injury to
+guests and crew.
+
+080 INTEGRATED LOGISTIC SUPPORT REQUIREMENTS
+
+086 TECHNICAL MANUALS AND OTHER DATA
+
+Manuals and
+Documents
+
+HULL STRUCTURE
+
+Manuals for use and maintenance for all the important
+equipment installed on the Vessel in english language shall
+be supplied. Both on paper and digital datas. User
+manuals and warranty certificates shall be provided for all
+the third parties equipment, supplied by the equipment
+suppliers.
+100
+
+110
+
+HULL STRUCTURE
+General
+
+Sanwich core
+materials
+
+Laminate
+Detail 1
+
+Laminate
+Detail 2
+
+Limber Holes
+
+Hull and Deck will be a sandwich construction, with
+longitudinal and transversal structure, vacuum consolidate
+and postcured at 45 degrees C,
+
+Deck will be laminated to the hull. The bonding lamination
+will be post-cured.
+
+Cabon fibre and hybrids will be extensively used for the
+construction of hull, deck and structural bulkheads. Glass
+fibre will be used where suitable to optimise the
+performance of the lamination.
+
+Core material will Corecell, with variable density or solid
+laminate in way of loaded fittings, concentrated loads and
+slamming area.
+
+Epoxy resin system will be adpoted.
+
+Shear ties will be incorporated in the sandwich lamination.
+All openings in hull and deck will have radiused corners
+and local additional reinforcement, capping and/or collars
+to maintain the structural integrity and rigidity.
+
+Openings or fittings which interrupt the longitudinal
+stiffening members of hull and deck (unidirectional tape,
+longitudinal stiffening members, etc.), will be suitable
+compensated.
+
+Changes in laminate thickness will be gradual.
+
+Changes from sandwich laminate to solid laminate will
+have a core taper of approx. 1:3.
+
+Framing and stiffener sections will be built up layer by
+layer using vacuum consolidation. Particular attention will
+be paid to achieve a satisfactory bond and structural
+continuity at the ends and intersections with other
+structural members.
+
+Discontinuities and sharp points in the structure will be
+avoided, and where the strenght of a stiffening member is
+impaired by any attachment of fttings, openings, drainage
+arrangements, etc., compensation by mean of additional
+lamination has to be provided.
+
+Secondary bonding onto cured laminates ¡is to be carried
+out after suitable preparation of existing laminate. This
+includes, removal of peel ply, saning, degreasing and
+drying as applicable to form high quality secondary bonds.
+Suitable fillets and radiuses will be provided in way of
+changes in laminate direction.
+
+Exposed edges of laminate cut in solid laminate will be
+sealed with resin, it the edge is in direct contact with sea
+water a capping of reinforcement will be provided.
+Exposed edges of laminate cut in sandwich panels will
+generally be sealed with a reinforcement of weight equal
+to that of the outer skin of the sandwich laminate unless
+otherwise specified.
+
+Limber holes will be arranged to provide drainage of any
+areas likely to accumulate liquids.
+
+No limber holes will be fitted in way of junctions of internal
+structure, unless specified.
+
+All limber holes cut in the structures will be reinforced with
+half tube laminated to the hull or an equivalent
+arrangement agreed with GDF.
+
+SHELL AND SUPPORTIG STRUCTURE
+
+111 SHEEL PLATING
+
+101 000 Construction Plan
+101 100 Structural Plan
+120
+
+Mould
+
+Resin
+preparation
+
+Hull
+lamination
+
+Carbon fiber
+reinf. 1
+
+Carbon fiber
+reinf. 2
+
+113 MASTS STEP STRUCTURE
+
+116 LONG. FRAMING
+Longitudinal
+framing
+
+117 TRANSV, FRAMING
+Transverse
+framing
+
+The hull shell will be produced on a mould suitable for
+vacuum consolidation and post curing of the epoxy resin
+system that is adpoted.
+
+Procedures in accordance with the resin manufacturer's
+recommendations.
+
+Certificates of calibration will form part of the Shipyard's
+quality control documentation.
+
+The hull lamination will be vacuum consolidated and post-
+cured at low temperature.
+
+The temperature, time and vacuum levels will be
+mainteined within the maximum/minimum levels given by
+resin manufacturer values.
+
+Reinforcements will be arranged to maintain continuity of
+strenght.
+
+Unidirectional laminates will be butted, side by side
+perpendicular to the fibre direction and with approximately
+50mm overlap in the longitudinal direction.
+
+Multiaxial and cloth lamination will have an overlap of
+approximately 25mm.
+
+Butts in adjacent plies will be staggered a minimum of
+100mm. Generaly, butts in plies in the same vertical plane
+are to be separated by a minimum of the five plies unless
+otherwise specified.
+
+All openings in the hull will have radiused corners and
+local additional renforcement, capping and/or collars to
+maintain the structural integrity of the hull lamination.
+Any openings or fittings which interrupt the longitudinal
+stiffening members, etc., will be suitable compensated.
+
+111 100 Hull Lay Up
+
+111 101 Hull Core Layup
+
+111 120 Truough Hull Fittings
+111 153 Reinf iwo Keel
+
+111 154 Reinf iwo Rudder
+111 155 Reinf ¡wo Chainplate
+111 160 False Bow Details
+
+113 110 Fwd Mast Step Structure
+113 111 Aft Mast Step Structure
+115 100 Bowsprit Attachment
+
+The yacht will be provided with longitudinal framing which
+supports the shell panels. In addition the scantling of the
+framing will be adequate to support the concentrated
+loads, such as keel, rudder and masts/rigging loads.
+
+116 101 Longitudinal Framing
+
+The yacht will be provided with transverse framing which
+supports the shell panels.
+
+In addition the scantlings of the framing will be adequate
+to support the concentrated loads, such as keel, rudder
+and masts/rigging loads.
+
+Where suitable for the interiors the transversal structures
+will be used as part of the furniture so that to reduce the
+final weight of the boat.
+
+117 101 Transversal Framing
+
+HULL STRUCTURAL BULKHEADS
+130
+
+122 TRANSVERSE STRUCTURAL BULKHEADS
+
+Bulkheads
+
+Watertight
+bulkheads
+
+Non-tight
+structural bhd
+
+Structural bulkheads will be a sandwich construction of
+carbon fibre, structural core of the material and thickness
+required by the scantling and epoxy resin system, vacuum
+consolidated and post-cured at low temperature,
+
+The following watertight bulkheads will be fitted:
+“forward collision bulkhead
+
+-engine compartment bulkheads (to gas tight also)
+-aft lazarette bulkhead
+
+Structural non-tight transverse bulkheads will be provided
+in sandwich composite materials. The bulkheads will
+provide support for the longitudinal hull and deck framing.
+Whenever possible the structural frames and bulkheads
+will fit as support for the interior panels and furniture, to
+reduce the weight of the construction.
+
+123 TRUNKS AND ENCLOSURES (STRUCTURAL)
+
+Fuel Tanks
+
+Fresh Water
+Tanks
+
+Black and Grey
+Water tanks
+
+Trunking
+
+HULL DECK
+
+131 MAIN DECK
+
+2x 4335 + 2x 3635 + 1 x 1057 (day tank) structural fuel
+tanks of a total capacity of approx. 16997 litres will be
+provided.
+
+Access will be provided by suitable inspection hatch to
+allow access to all internal surfaces of the tanks. Their
+internal surfaces will be coated with resin that is
+recommended by the resin manufacturer for the fuel oit
+tanks.
+
+Each tank will be provided with baffles, air vent pipe,
+connections to filler manifold and intake manifold. Each
+tank will be provided with a screw plug for manual dipstick
+Access.
+
+2 x 2570 structural fuel tanks of a total capacity of approx.
+5140 litres will be provided.
+
+Each tank will have ¡ts internal surfaces coatd with a non-
+toxic, non-tainting resin that is recommended by the resin
+manufacturer for potable water tanks,
+
+Acces will be provided by suitable inspection hatch to
+allow access to all internal surfaces of tanks.
+
+Each tank will be provided with baffles, air vent pipe,
+connections to filler manifold and intake manifold. Each
+tank is to be provided with a screw plug for manual
+dipstick access.
+
+1x 1825 + 1 x 1045 structural grey water tanks of a total
+capacity of approx. 2870 litres will be provided. Port Side
+only.
+
+1x 1175 + 1 x 664 structural black water tanks for a total
+capacity of approx. 1839 litres will be provided. Starboard
+Side only.
+
+All bulkheads or longitudinal sections will be provided with
+holes to facilitate sysems passage and will be provided
+with structural collars, capping and/or additional local
+lamination as necessary to maintain the structural
+continuity.
+
+122 201 Bulkheads GA
+
+122 202 Bulkheads Structure
+
+122 210 Systems Passages Detail
+122 220 Watertight Inspection Door
+
+123 200 Non Structural Tanks
+Mould The Deck lamination will be produced on 3 male moulds
+suitable for vacum consolidation and post curing of the
+epoxy resin system that is adopted.
+
+Deck Lamination The same high quality standards and criteria followed for
+the shell lamination will be maintained for the deck
+lamination and deck structures too.
+
+Deck Structure Support of main deck will be formed by transverse
+bulkheads, longitudinal stringers and transverse beams,
+Lamination and details will be as per hull structure.
+
+Foundations for Deep set foundations and reinforcement for all deck
+
+Deck Equipment equipment (tracks, hatches, winches, pedestals, cleats,
+blocks, etc.) will be of high density PVC foam inserts or
+single skin zones with additional local structure.
+
+Hull to Deck The hull to deck connection arrangement will maintain the
+Connection watertight and structural integrity of the hull envelope.
+Any discontinuities in this zone will be avoided as far as
+possible.
+131 100 Deck Lay Up
+131 101 Deck Core Layout
+131 110 Deck Core Recess
+131 160 Mast Collar
+131 400 Hull-Deck Joint Details
+150 COACHROOF
+General Main Coachroof will be made of a carbon fiber structure
+
+covered with mahogany
+panels on the interior and exterior faces plus teak on the
+top roof.
+
+151 000 Coachroof Construction
+151 400 Coachroof-Deck Joint Details
+160 SPECIAL STRUCTURES
+
+161 STRUCTURAL CASTINGS, FORGINGS AND EQUIV. WELDMENTS
+Chainplates Generally, all the chainplates reinforcement structures will
+be built in composite materials incorporated into the hull
+shell. Other metallic components for the shrouds
+construction, bushings and easily removable pins will be
+built in stainless stell, AISI 316 or 17/4 PH as necessary.
+
+161 100 Forestay Fitting Detail
+161 120 Inner Forestay Fitting Detail
+161 200 Shroud Chainplates
+161 300 Backstay System
+163 SEA CHEST
+Sea Chest No.2 sea chests, one port and one starboard, to supply
+
+sea water to all engines and systems.
+
+Each sea chest will be suitable sized to provide the
+
+maximum demand of all the users.
+
+The two sea chests are to be connected to the main sea
+
+water manifold by positive close valves and filters to insure
+
+perfect water decantation.
+
+A free inlet to the sea water manifold is foreseen for dry
+
+dock operation. Breather pipes/vent pipes to be fitted to
+
+the sea ¡nlet chests.
+
+163 100 Sea Chest Location
+167 HULL STRUCTURAL CLOSURES
+Tank Inspection Tank to be fitted with inspection hatches (standard
+Hatches dimension) with access from the cabin sole above.
+The hatch will be fitted by closely spaced bolts of stainless
+steel AISI 316 with neoprene gasket.
+
+167 110 Standard Inspetion Hatch
+190 SPECIAL PURPOSE SYSTEMS
+191 BALLAST, FIXED OR FLUID AND BUOYANCY UNITS
+Keel-General The keel is to be composed by an hydrodynamic steel
+blade and lead casting bulb.
+
+Keel-Structure The structure of the keel blade shall be high resistance
+steel type....
+All bolts used to join the blade structure and bulb shall be
+stainless steel AISI 316.
+
+Keel -Bulb To be a lead alloy casting containing 3,5% antimony by
+weight.
+191 200 Keel Construction Plan
+191 300 Trim Tab Construction Plan
+200 PROPULSION PLANT
+200 PROPULSION PLANT
+
+201 ENGINE ROOM GENERAL
+
+Machinery Room The following shall be located in the engine and/or pumps
+room:
+-One (1) Diesel propulsion engine Caterpillar C18 Acert
+876hp with reduction € variable pitch gear Hundested CPG
+32
+-Two (2) Generator sets Caterpillar C4.4 50kw each
+-Auxiliary machinery necessary for the function of the ship
+services
+-Exhaust gas piping for the main and auxiliary propulsion
+engines and the ventilation devices brand Gianneschi
+Watermaker Spectra Farallon 2800
+-Sewage Treatment Plant HMSA
+-Air-Conditioner central unit Dometic Marine Air
+216000BTU
+-Hydraulic Unit composed of reservoir and electric pump
+-Bilge filtering System RWO S Debit
+-Bilge and Firefighting pumps Gianneschi
+-Fresh Water pressure and filtering systems Gianneschi
+-One 250 liter boiler plus one 80 liter bolier both
+Gianneschi
+-Compressor Gianneschi
+-24, 220 and 380V Panels
+-Inverters
+-Other electrical devices
+
+Entrances and Access to engine room trough opening sound insulated
+
+Exits inspection panels.
+There will be two main access provided with
+aluminium/stainless steel gas/water tight doors, one
+forward to the main saloon and one aftward toward the
+aft corridor at the owner's cabin entrance. This two access
+are approved as Means of Scape by RINa. There will be
+two additional hatches to deck not operable during
+navigation.
+230
+
+240
+
+250
+
+233
+
+243
+
+245
+
+252
+
+256
+
+Floors and The flooring in the engine room shall consist of checkered
+
+Grids aluminum sheets 5mm thick, arranged in such a way as to
+support the weight of the heavy engines and machinery
+witout being deformed. Composite panel option to be
+study.
+The flooring surrounding the moving parts shall have
+adequate protection, avoiding dangerous open spaces.
+The grids and flooring shall be dismountable and provided
+with hatchways for access to the valves.
+
+Openings for The engine room ceiling shall have a dismountable panel
+Engine Removal Of a suitable dimension to allow the passage of the main
+propulsion engine.
+
+PROPULSION UNIT
+PROPULSION INTERNAL COMBUSTION ENGINES
+Main Engine Caterpillar C18 ACERT 876hp
+
+Characteristics
+Reduction Gear Hundested CPG 32 - 3,96:1
+
+TRANSMISION AND PROPULSOR SYSTEMS
+
+PROPULSION SHAFTING
+Shaft Line Hundested VP 91/2 HP/HP 1400mm diameter 4 blade
+Propeller made of Ni-Al-Bz
+651 HP (M556RPM. Hundested Shaft 1.4404. Ouside
+diameter 130mm, inside diameter 40mm
+
+Shaft Bracket Hundested custom made under JSA design
+PROPULSORS
+Propeller Hundested VP 91/2 HP/HP 1400mm diameter 4 blade
+
+Propeller made of Ni-Al-Bz
+651 HP OS556RPM
+
+PROPULSION SUPPORT SYS. (EXCEPT FUEL AND LUBE OIL)
+
+PROPULSION CONTROL SYSTEM
+Main Engine The engine control panel will be placed at the steering
+Controls external station, starboard side,
+Engine control include:
+-Stop push button
+-Start push button
+-Morse cable control
+Variable pitch control
+
+Main Engine Steering station monitoring panel to include:
+Monitoring and “Start contact
+Alarm Panel -Rev. Counter
+
+Voltmeter
+
+-Cooling Water Temperature
+-Engine Oil Pressure
+-Engine Water Temperature
+-Pitch Indicator
+
+Engine Room Panel to include:
+
+-Start contact
+
+-Engine Stop
+Main Engine Sound and visual alarm panel to include:
+Alarm Panel -Engine Water Temperature
+
+-Engine Oil Pressure
+-Engine Batteries Charging
+
+CIRCULATING AND COOLING SEA WATER SYSTEM
+
+201 200 Engine Room
+
+243 100 Shaft Line
+Engine sea System:
+water cooling -Intake of seawater to be from main sea water manifold
+system (see 163 sea chest)
+-Positive control valve is fitted on manifold
+-Outlet of cooling water to engine exhaust piping between
+the engine exhaust manifold and the acqua-lift silencer
+
+256 100 Circu.SCooling SeaWater Sys
+259 UPTAKES (INNER CASING)
+Exhaust System The exhaust gas has cooling water injected after the
+engine exhaust manifold.
+Wetted gas runs to acqua-lift G.R.P. muffler,
+Water and gas runs to outlet fitting about 350mm above
+the waterline.
+The exhaust should be fitted nearby the stern.
+A goose neck loop is fitted between the muffler and the
+outlet fitting on hull.
+
+300 ELECTRIC PLANT
+300 ELECTRIC PLANT
+301 GENERAL ARRANGEMENT-ELECTRICAL DRAWINGS
+Electrical The correct working of the electrical system will be insured
+General even during sailing up to 300 of heel.
+
+Intention of this project is to keep the number of cables to
+minimum and not to add weight to the vessel,
+
+301 100 Electrical GA
+302 MOTORS AND ASSOCIATED EQUIPMENT
+Motors and Electric motors shall be of the squirrel case type with class
+control gear 1 "F" insulation but temperature rise in accordance with
+class "B". With the exception of motors installed on open
+decks, all motors shall be of totally enclosed type (1P44)
+with watertight terminal boxes (IP56).
+Motors on open decks shall be suitable protected (IP56).
+Motor starters shall have minimum enclosure protection
+(1P23). Where motor starter are not located on the motor,
+start/stop pushbuttons (enclosure IP56) shall be installed
+near the motor.
+
+Motors and In general, motors shall be started direct on line. Where
+
+control gear 2 necessary, reduced voltage starting methods shall be
+applied to motors, in order to keep the system voltage dip
+within the value specified for the main generators.
+Particular consideration shall be given to the high transient
+currents which may occur during the switching of reduce
+voltage starters in the operation of pole changing motors
+and to limiting the supply voltage dip resulting from such
+high currents.
+
+304 ELECTRIC CABLES
+Wiring 1
+
+Wiring 2
+
+306 VOLTAGE
+Voltage-General
+
+Where feasible light weight cables will be used to reduce
+the weights.
+
+Wiring shall be of tinned stranded copper conductors PVC
+insulated (759), with neprene impervious sheathing, 959C
+or better.
+
+Cables shall be of the shielded type and adequately
+protected from mechanical damage and installed in
+accordance with the best marine practices.
+
+There shall be no wiring in the bilges as far as possible.
+Cables shall be crimped (compression) type terminations.
+Cable glands for equipment terminal boxes shall be
+suitable for the reception of wire braid protected cables.
+Switches, junction boxes etc., shall be readly accesible.
+Wherever possible, DC and AC wiring shall be in separate
+runs.
+
+Supports and ties shall be spaced at no more than 300mm
+apart.
+
+Cables within the hull area shall be installed on suitable
+trays and secured with plastic cable clips.
+
+Where cables penetrate, the watertight integrity of the
+bulkhead or deck shall be preserved by use of watertight
+single or multi-cable glands.
+
+Every cable in the vessel shall be tagged with it identifying
+number or component name at both ends. The identifying
+number number or component name shall be shown on
+the detailed wiring diagram. The tags shall be embossed
+or engraved in block letters and fastened with two
+fasteners wherever possible.
+
+All the metal frames for the panels, sub-panels, electrical
+motors, the electrical equipment in the galley and all the
+AC equipment shall be earthed.
+
+The grounding system realized with a heavy duty copper
+conductor all around the yacht will be connected to a
+grounding plate installed in the anchor system box under
+the waterline.
+
+The system will have the following rated voltage: 380V
+50Hz 3-phase main uses; 220V 50Hz AC mono phase for
+appliances, 24V DC for lighting, emergency lighting,
+electronic and alarms.
+
+310 ELECTRIC POWER GENERATION AND STORAGE
+311 SHIP SERVICE POWER GENERATION
+
+Generator Set
+
+Shore Power
+Supply
+
+Two(2) Caterpillar C4.4 50kw
+
+Two (2) 63amp, nominal 220V AC shore power connector
+shall be installed on aft peak and amidship, with a switch
+in an insulated junction box (waterproof IP65) in
+accordance with EEC regulations.
+
+Two (2) isolation transformer 380/220V-220V with power
+capacity of 13KW, isolated core ground rated shall be
+installed for ship protection.
+
+313 BATTERIES AND SERVICE FACILITIES
+Batteries
+General
+
+Batteries -
+Equipment
+Detail
+
+The accumulators will be installed on board in watertight
+not built-in boxes and divided as follows:
+
+a) One 24V, 250Ah battery system for starting main
+engine, capacity 20% above engine manufacturers
+recommendations.
+
+B) Two 24V, 100Ah battery system for starting generating
+system, capacity 20% above generator manufacturer
+recommendations.
+
+c) One 24V, 3500Ah battery system general service and
+green sailing condition.
+
+d) One 24V, 800Ah battery system for electronics and RTF
+station (radio), in accordance with the requirements for
+navigation.
+
+A parallel system between groups c) and a) will be
+provided.
+
+Will be "drifit" type, Mastervolt
+
+314 POWER CONVERSION EQUIPMENT
+
+Electrical
+General
+
+Electrical -
+Equipment Detail
+
+Two (2) 100Ah battery chargers for all batteries:
+
+One (1) Inverter 2.5Kw max (1.5Kw continuous sinusoidal
+for Hi-Fi system)
+
+One (1) Inverter 3.0Kw max (2.5Kw continuous sinusoidal
+for galley and sockets)
+
+Normally the battery systems a) and b) will be charged by
+the diesel engines (main engine and generators).
+
+The size of batteries chargers will be suitable for batteries
+full charging in approx. 8 hours.
+
+TO BE UPDATED BY SERVINTEL
+
+MASTERVOLT 24/100 Battery charger TBC
+MASTERVOLT 24/2500 Inverter TBC
+MASTERVOLT 24/3000 Inverter TBC
+
+TO BE UPDATED BY SERVINTEL
+
+320 POWER DISTRIBUTION SYSTEMS
+324 SWITCHGEAR AND PANELS
+
+Auxiliary
+Control System
+
+Main
+Switchboard
+Panels and
+Subpanels 1
+
+The electrical system is operated by a digital data
+command and control auxiliary system.
+
+The system is engineered in order to allow electro-
+mechanical operation in case of failure of any component
+of the auxiliary system.
+
+The following provisions apply to main panels and
+subpanels, as applicable, in consideration of the PLC
+auxiliary control system adopted:
+
+Circuit breakers shall be of a marine approved magnetic
+type. Double/triple pole breakers shall be used for all
+distribution circuits. Selector switchesand other
+switchboard components shall be marine approved. The
+switchboard enclosure shall be a metallic drip-proof
+enclosure of adequate sizing for easy maintenance of
+individual components.
+
+The electrical conductors for the internal connections shall
+be G5R and G5K type, carefully grouped in small PVC,
+flame-retarding raceways, easily inspected and supported
+in order to avoid vibration.
+
+The switchboard component mounting plate face shall
+have all circuit breakers, selector switches and indicators
+clearly labelledas to their function.
+
+TO BE COMPLETED BY CERVINIA
+Main Switchboard interconnections shall be made with properly
+Switchboard sized copper bus bars wherever possible.
+
+Panels and The main DC switchboard shall have adequate
+instrumentation to include line voltage, amperage, battery
+bank charge/discharge amperage metering, and ground
+fault and power source indicators.
+
+All the instruments shall be with 1,5% precision.
+
+Two(2) spare circuits breakers shall be installed in the
+220V distribution section and two(2) spare circuits
+breakers are to be installed in the 24V distribution section.
+Non-conducting handrails are to be provided on front and
+rear panels and non-conduction mats shall be provided at
+the front and rear of the switehboard. The switchboard
+shall be iluminated externally and internally by the main
+and emergency lighting systems.
+
+Subpanels 2
+
+330 LIGHTING SYSTEM
+331 100 General Lighting Arrangement
+332 LIGHTING FIXTURES
+Interior Lighting Automatic switch to be provided for lights inside every
+wardrobe.
+
+Deck Lighting Recessed lights for cockpit:
+-watertight lights under the first set of spreaders and
+above the upper one on both masts,
+-watertight lights at the bottoms for deck lighting.
+
+340 POWER GENERATION SUPPORT SYSTEM
+
+342 DIESEL SUPPORT SYSTEM
+Cooling System Sea water cooling system by heat exchanger on the
+engine cooling fluid circuit.
+
+Exhaust System Gas exhaust will discharge on transom or near to.
+Fumes will collect into a wet muffler like "Aqualift" where
+they will be a water jacketed and cooled with water from
+the generator exhaust,
+
+A gas/water separator is to be fitted.
+
+The gas will run to the outlet in flexible heat resistant
+pipes.
+
+Cooling water will discharge separately by an exhaust
+manifold under WL.
+
+Outboard water outlet will be fitted with suitable manual
+valves.
+
+400 COMMAND AND SURVEILLANCE
+420 NAVIGATION SYSTEM
+
+421 COMPASS MAGNETIC
+Compasses Two(2) magnetic compasses model "Sunto", "Danforth
+Constellation High Speed" or equivalent,
+
+422 NAVIGATION LIGHTS
+Side lights Navigation lights to be installed in accordance with current
+international rules for Prevention of Collision at Sea. All
+navigation lights are to be "Forcato" or equivalent, with a
+rated power of not less than 25w.
+
+Stern lights "Forcato" or equivalent, located on stern pulpit of rated
+power of not less than 25w.
+
+Anchor lights "Forcato" or equivalent, located on fwd mast head of rated
+power not less than 25w.
+360 deg Red "Forcato" or equivalent, located on top of fwd mast of
+rated power not less than 25w.
+
+Steaming light "Forcato" or equivalent, located on fwd mast at the 1st
+spreader level of rated power not less than 25w.
+
+Instrument Switch panels are to be backlit with dimmer for brightness
+lights control.
+423 RADIO NAV, SYS (GPS)
+Navigation GPS Garmin or Raymarine integrated with navigation system TBD
+System
+
+Man overboard M.O.B. botton connected to the GPS for an easy research.
+
+426 ELECTRICAL NAV, SYS (GIROCOMP/LOG/WIND/INTEGRATED SYS)
+
+Electrical Wind-depth-log-compass-autpilot integrated instruments,
+Navigation "Brookes 8 Gatehouse" Hydra 2000 with 4 Jumbos and 2
+System multi function displays on deck and 4 multi function
+
+display under deck (1owner cabin and crew cabin, 2 on
+the chart table).
+
+428 NAVIGATION CONTROL MONITORING
+Electronic Chart Raitheon Radar-chartplotter model. TBC
+
+System
+430 ENTERTAINMENT AND INTERIOR COMMUNICATIONS
+
+434 ENTERTAINMENT SYSTEMS
+Entertainment The following hi-fi systems shall be installed: TBD with
+owner
+
+436 ALARM, SAFETY AND WARNING SYSTEMS
+Alarm System To include:
+
+-High bilge level
+-High temperature engine room
+-Smoke detector
+-Overtime day tank
+-Low level day tank
+-Low level fresh water tank
+-Low level fuel tanks
+-High level gray water tank
+-High level black water tank
+-Low voltage tension service batteries
+-Low voltage tension starting batteries
+-Low voltage tension light batteries
+-Check navigation bulbs
+TO BE COMPLETED BY CERVINIA
+
+Hydraulics To include:
+Alarm System -Low level hydraulic oil
+-High temperature hydraulic oil
+-High temperature on electrical engine pump and
+electrohydraulic pump (PTO)
+-Hydraulic solenoid valves closed
+
+437 INICATING, ORDER AND METERING SYSTEMS (INCL. ALARMS)
+Tank gauges Tanks are to be provided with electrical gauges "SEIN SAN
+GIORGIO” or similar with digital level indicators (or with
+led) on the main electrical switehboard. Gauges are to be
+suitable for high/low level indication and excludable alarm
+for high and low level (from electric level gauge) are to be
+provided.
+
+440 EXTERIOR COMMUNICATIONS
+441 RADIO SYSTEMS (VHF, SSB, STACOM)
+VHF ICOM IC-M604 VHF Marine Transceiver or similar
+500
+
+460
+
+500
+
+510
+
+445 TELEPHONE AND FACSIMILE SYSTEMS
+
+Satellite Sytem
+Communication
+SSB
+
+TBD
+
+ICOM IC-M700PRO Radio Telephone or similar
+
+SURVELLIANCE SYSTEMS (UNDERWATER)
+
+461 ECHOS
+
+AUXILIARY SYSTEMS
+
+AUXILIARY SYSTEMS
+
+503 PUMPS
+
+OUNDERS
+Echosounder
+
+Pumps
+
+Integrated in the B8G System
+
+All pumps are to be provided with the delivery at the
+necessary head for the function they must perform.
+
+All pumps, if not specified otherwise, will have a bronze
+body and stainless steel axis.
+
+Anodes will be installed before and after the pumps,
+where applicable.
+
+All pumps and rotating machinery will be installed on
+antivibration mountings.
+
+505 GENERAL PIPING REQUIREMENTS
+
+General
+
+Color coding
+and labels
+
+Sea water fire
+fiahtina system
+Bilge System
+
+Fresh Water
+
+System
+Fuel and Lube
+
+Oil System
+
+Hydraulic
+System
+
+CLIMATE CONTROL
+
+Heating System
+
+512 VENTILATION SYSTEM
+
+All piping will be fixed securely, in such way as to allow
+easy access for the maintenance and to avoid vibration.
+All rigid piping will be flanged or with straub connections
+to allow easy disassembly.
+
+Metal piping sections are to be connected to maintain the
+electrical continuity.
+
+The tanks, valves and manifolds are to be built of a
+material compatible to the piping and, when metallic, are
+to be protected with anodes for the sea water and bilge
+system.
+
+Correct functioning of the system to be insured even when
+sailing under normal heeling condition.
+
+Piping is to be color coded according to the liquid
+contained and the direction of flow will be indicated by an
+arrow fixed on the pipes.
+
+Each valve is to be labelled.
+
+Sea water fire fighting system - Stainless Steel 316,
+
+Bilge system - Stainless Steel 316 piping with metallic
+valves inside the engine room; PVC (alternatively
+Polipropilene) piping and bronze/PVC valves outside, PVC
+piping will be not less than schedule 40 NPS with plain
+ends.
+
+Fresh water system - Polibutilene piping (Hepworth system).
+
+Stainless Steel piping and pumps.
+A service pump will be installed to provide oil change.
+
+High pressure flexible piping with steel connections and
+steel valves.
+
+511 COMPARTMENT HEATING SYTEM
+
+The heating system will be part of the air conditioning
+system.
+
+501 100 Systems General Arrangement
+501 105 Sea Chest Fast Location
+General
+
+Bathroom
+Ventilation
+
+Baths Equipment
+Detail
+
+Galley additional
+Ventilation
+
+Ducts, air inlets,
+filters and valves
+
+Galley Vent
+Equipment Detail
+
+An extraction system ¡is to be installed on board for
+bathrooms, laundry and galley.
+
+Bathroom will have a separate line from the kitchen
+ventilation. Special attention on discharge location is to be
+taken to avoid odor smelling on guest common areas on
+deck.
+
+All ventilation equipments will be installed on anti vibration
+mountings.
+
+Each Bathroom will have ¡ts own fan.
+
+Nine (9) Blowers about 4 m3/min deliv. One for each bath
+plus one for Laundry
+
+Option1: GER C202 Centrifugal Blower 12-24-230V Max.
+Deliv. 4.5 m3/min
+
+The extraction system for the galley will have a separated
+fan located in the galley area with a delivery of approx.
+600 m3/h.Galley Ventilation will flow as straight up as
+possible to deck and trough an odor filter.
+
+In general, the ducts and air inlets will be made of PVC.
+All the air conditioning and ventilation ducts will be
+insulated with rubber neoprene, rock wool or similar
+material of a suitable thickness.
+
+Quick shut down fittings manual or automatic, filters, nets,
+grids and valves shall be installed where necessary.
+
+The air inlets will be positioned in such way as to avoid
+the entrance of contaminated fumes.
+
+One (1) Blower about 25 m3/min deliv.
+Option 1: GER C503 Centrifugal Blower 24-230V Max.
+Deliv. 24m3/min
+
+513 MACHINERY SPACE VENTILATION SYSTEM
+
+Engine Room
+Ventilation
+
+Engine Room
+Ventilation
+Equipment Detail
+
+Engine room ventilation is arranged as follows:
+
+Intake: aspire trough grid/water trap on main deck -
+deckhouse sides, then duct to the engine room with an
+electric fan.
+
+Extraction: aspire trough grid/water trap on hull side or aft
+deck with fan maximum capacity of 1000m3/h.
+
+In duct air speed max 6-8 m/sec to avoid noise. Engine
+room full volume: 92.6m3 (less machinery).
+
+The air intake and discharge will fow trough suitable grills,
+traps to prevent occasional water leaks and water tight for
+adverse conditions.
+
+All air piping to and from the engine room must be
+provided with quick fastener for fire prevention.
+
+Intake: one (1) Blower Axial type about 200 m3/min deliv.
+Option 1: GRS: ELL/AP 506 max. Deliv. 210 m3/min
+Extraction: one (1) Blower Axial type about 100 m3/min
+deliv.
+
+Option 1: GER ELL/AP 359 max. Deliv. 120 m3/min
+
+514 AIR CONDITIONING SYSTEM
+
+512 100 Ventilation System Plan
+
+513 100 Engine Room Ventilation Sys
+General
+
+System
+compartimentation
+
+Equipment Detail
+
+Heating
+
+Air Purifier
+
+516 REFRIGERATION SYSTEM
+
+An air conditioning system is fitted for the living areas.
+The system will be designed as follows:
+
+One, two or three centralized unit(s) in engine room and
+fancoils fitted in the cabins, saloon(s) and galley will
+provide conditioning of the air.
+
+All rooms fitted with fancoils will have thermostat.
+
+The setting of cabin temperature will be achieved by
+acting on the fan speed either manually or automatically
+by the local thermostat.
+
+System is to operate into 5 to 370C sea water temperature
+Total System to delivery about 216.000 BTU
+
+The system is to be divided into 12 areas of operation as
+detailed:
+
+a. Owner Cabin 36.7m3 - Dometic 24 BTU
+
+b. Owner Office 22.2m3 - Dometic 12 BTU
+
+c. DeckHouse Saloon 55.7m3 - Dometic 48 BTU
+d. Main Saloon 85.5m3 - Dometic 52 BTU
+
+e. Guest Cabin Port 27.3m3 - Dometic 18 BTU
+f. Guest Cabin Stbd 27.3m3 - Dometic 18 BTU
+g. Guest Cabin Fwd 18.9m3 - Dometic 12 BTU
+h. Galley 26.7m3 - Dometic 24 BTU
+
+|. Crew Mess 30.4m3 - Dometic 9 BTU
+
+j. Skipper Cabin 20.0m3 - Dometic 12 BTU
+
+k. Crew Cabin Port 13.9m3 - Dometic 9 BTU
+
+|. Crew Cabin Stbd 13.9m3 - Dometic 9 BTU
+
+Air Handlers: by sector:
+
+a. Al: AT12DC+Chill Chaser; A2: AT12DC+Chill
+Chaser+Air Purifier
+
+b. B: AT12DC
+
+C. C1: AT24HV; C2: AT24HV
+
+d. D1: AT18DC+Air Purifier; D2: AT18DC+Air Purifier; D3:
+ATV18DC; D4: ATV18DC
+
+e. E: AT18DC
+
+f. F: ATÍ8DC
+
+g. G: ATV12DC
+
+h. H: AT24HV
+
+¡. 1: AT18HV
+
+j.J: AT12HV
+
+k. K: ATOHV
+
+l. 1: ATOHV
+
+Heating is provided by the same air conditioning system
+by reverse cycle. Additional electrical heat in owner cabin's
+air handlers Al 8 A2. Air handlers model ATV located on
+Main Saloon (D38:D4) and secondary cabin have electric
+heat included.
+
+Thermostats in the cabins for the air conditioning system
+are also to regulate the heating.
+
+System is to be ready to easily adapt fon an Antartic trip
+(electric heaters on fancoils and boiler for sea water intake
+if required by system provided)
+
+Dometic's Easy Breath air purifier system to be located
+both in owner's cabin and main saloon.
+
+514 100 Air Conditioning System
+Refrigeration
+
+Secondary
+Fridges
+
+The refrigeration system will be composed of one set of
+cell fridges and freezer and one separate stand alone top
+loading fridge/freezer brand Frigoboat/Veco.
+
+The set of customs cell fridges is composed of four
+different areas:
+
+1. Inboard full height: 569 liters Freezer;
+
+2. Center Top: 241 liters Fridge/Freezer setable
+temperature;
+
+3. Center Low: 142 liters 3 wardrove level fridge/freezer
+setable temperature;
+
+4. Outboard full height: 725 liters Fridge;
+
+The total capacity will be of approx. 1677 liters,
+
+Proper fridge drain system to be installed.
+
+The system will be charged by electrical compressors
+refrigerated by sea water trough heat exchangers.
+
+The boxes set at different temperatures will serve for
+safekeeping of frozen and deep-freezed foods and
+medium temperature storage supplies.
+
+Every refrigeration box will be equipped with a thermostat.
+
+The 83 liters top laded fridge/freezer will have variable
+temperature in order to be used with both porposes one a
+time. It is a self contained Frigoboat Unit refrigerated by
+air.
+
+One frigo-bar fridge CR50 Dometic to be installed into
+Owner's Cabin and one top loaded Dometic frigo-bar to be
+installed into the social cockpit on deck.
+
+517 AUXILIARY BOILERS AND OTHER HEAT SOURCES
+
+Hot Water System
+
+520 SEA WATER SYSTEMS
+
+Fresh water will be heated by two electric boilers that will
+circulate into two close hot water circuits. One 250 liters
+Gianneschi boiler with 3 heater elements of 3kw each will
+heat water for the main circuit that services galley,
+laundry, guest and crew. One 80 liter Gianneschi boiler
+with one 3kw element will service only the owner's area.
+Each circuite will have a circulation pump and mixer
+connected with the fresh water system. And automatic by
+pass will allow owner's circuit to take hot water from the
+main circuit in case temperature drops in ¡ts area.
+
+521 FIREMAIN AND FLUSHING (SEA WATER) SYSTEM
+
+Fire Fighting
+System
+
+Fire Fighting
+Pumps
+
+523 WASHDOWN SYSTEM
+
+A fire fighting manifold with a self priming pump will be
+provided.
+
+Water from the fire fighting system will supply deck wash
+and chain nozzles.
+
+An attachment is to be provided at Lazarette and Forepeak
+for fire fighting with international fitting.
+
+The pump will be connected trough the manifould with the
+Bile System
+
+One (1) self priming centrifugal pump Gianneschi ACM 502
+7.5kw will be provided.
+
+This pump will be the back up pump for the bilge system
+trough a by pass.
+Washdown The wash down system will be based on the fire system.
+System Water from the fire fighting system can be used at:
+-connection in forepeak
+-connection with chain wash nozzle at the bow
+-connection at the aft deck
+
+526 SCUPPERS AND DECK DRAINS
+Deck and Cockpit There will be scuppers installed at port and at starboard,
+Drainage in suitable position with drain overboard 15cm above the
+DWL with valve on hull.
+
+Cockpit The open cockpits on deck will have adequate drainage
+capable of self draining in upright and heeled condition.
+
+526 100 Deck Scuppers Plan
+528 PLUMBING DRAINAGE
+Sewage system Sinks and showers gray water will run to proper collecting
+general reservoirs and then will be discharged in the tank or
+outboard directly.
+The gray water reservoir pump to be automatic, self
+priming, submersible (one for each reservoir=
+automatically switched by a level gauge.
+Black water camings from the toilets to be discharged in
+the tank or outboard directly.
+
+Gray 8 Black Two(2) grey and two(2) black water holding tank with an
+
+water Holding approx capacity of 4709 litres will be provided.
+
+Tanks Care shall be taken to avoid liquid transpiration and/or any
+leaks or smell.
+
+To discharge the holding tank at the shore station a
+connection on top of the tank will be provided to operate
+from lazarette/forepeak TBD.
+
+Will be fitted an alarm at 80% full holding tank,
+
+Gray 8 Black Two (2) pumps mod .Gianneschi MVIGO 1.1kw will be
+water Pump installed to discharge the black and grey water tank and to
+trnasfer to Sewage Treatment Plant.
+
+Sewage One Sewage Treatment Plant HMSA ¡s to be installed in
+Treatment Plant Order to treat both black and grey water. The output will
+meet the RINA's Green Star requirements,
+
+528 100 Black 8 Grey Water System
+529 BILGE DRAINAGE
+Bilge System Bigle Systems ¡s triplicated this way:
+-3 self priming selfcontained pumps 24V DC located in
+Engine Room, Lazarette and Forepeak.
+-1 self priming pump 380V duplicated by manifould to the
+firesystem pump and conected to all compartments on
+board.
+-1 self priming diesel engine motor pump located in
+forepeak with connection to main bilge line and hose.
+Foot valves will allow easy cleaning and maintenance
+operations.
+All intake piping from the bilge manifolds are provided
+with suction roses with strainers.
+The fire fighting pump will be installed in parallel to the
+bilge pump for back up.
+Bilge drainage is to be by means of one self priming
+pump.
+Each suction branch will have a foot check valve located in
+the deepest area of the bilge and a grill strainer.
+Switches for the automatic start of the pump will be
+provided.
+A Manual bilge pump will also be provided.
+
+Bilge Pump - 3 Self Priming Pumps Gianneschi Maxi Sub 0.18Kw 24VDC
+Equipment Detail 1 Self Priming Pump Gianneschi ACM 502 7.5kw 380VAC
+1 Portable Engine Pump Diesel Gianneschi M-BMA 40 LD
+
+529 100 Bilge System
+530 FRESH WATER SYSTEMS
+
+531 DISTILLING PLANT
+
+Watermaker A 220V monophase or 380 3-phase reverse osmosis water
+maker performing min about 3001//h will be provided.
+The water maker will intake seawater from the main
+manifold and reverse desalted water into the fresh water
+tanks.
+It is calculated based on an average of 70 liters per person
+per day over 14 people max bed capacity onboard. The
+feature is supposed to cover the average consumption
+(14x70=980 liter) running 3 to 5 hours a day (196 to
+325liter/hour).
+
+Watermaker- One (1) HMSA 30/52 SW-Y (performing 430 |/h normal
+Equipment Detail condition - 250 |/h extreme weather)
+or One (1) SPECTRA Farallon 2800 (performing 442 |/h
+normal condition)
+or Two(2) SPECTRA Farallon 1800 (performing 280 |/h
+normal condition)
+
+531 100 Distilling Water System
+533 POTABLE WATER
+Faucets Will be Bronze made, brand Lefroy Brooks, polished brass
+or gold finish TBD.
+Water distribution To be provided by means of a 90 |/min fresh water pump
+system intaking from the fresh water tanks and distribuiting water
+at proper pressure through the distribution manifold.
+Hot and cold water in every toilet, in the galley and all
+other outlets onboard to be provided through a main line
+filled in by the autoclave and equipped with section valve
+to allow maintenance operation without interrupting water
+circulation to all services.
+Fresh water to be heated by one element of adequate
+capacity.
+The hot water main line is arranged as close loop, with a
+circulation pump and one 100 It boiler, wich make the hot
+water quickly available to the outlets. The boiler will have
+the tele heating from the engine.
+
+Water dist, Sys. One (1) Autoclave Gianneschi Gruppo 2 Jet 518
+Equipment Detail 230/400+24V 50Hz (dual 230/400 8, 24V)
+
+Fresh Water Shore water supply thorugh proper deck filler recessed in
+Intake deck or superstructure located on center line nearby
+forward crew access.
+Connections will be provided with the shore water system
+(aft deck filler with a pressure regulator to protect the
+onboard system)
+
+533 100 Fresh Water System
+540 FUELS AND LUBRIFICANTS, HANDLING AND STORAGE
+
+541 SHIP FUEL AND FUEL COMPENSATING SYSTEM
+
+Fuel feeding Fuel feeding from main fuel tanks to consuming systems
+
+system to be through a feeding manifold.
+The electric transfer pump will transfer the fuel from the
+tanks to the day tank (automatically) or by on/off valves to
+the main fuel tank(s).
+Fuel will be piped from the day tank to the main engine
+and generator feeding manifold.
+The feeding line will be fitted with quick shut off automatic
+valves. Fuel lines are made of Satinless Steel welded and
+connected with Starub Couplings fittings.
+
+Fuel Tanks Each tank, properly coated inside to insure perfect seal,
+will be equipped with inspection hatch, wash bulkheads,
+electril level gauge, manual dipstick, high/low level alarms
+(from the gauge), vent valve connected to the overflow
+manifold, connections with the filling manifold and with
+the transfer pumps suction manifold.
+
+Fuel Day Tank For gravity engine and generator supply, a non-structural
+inox fuel day tank is to be installed of a capacity of
+minimum 80l and equipped with high/low level gauge to
+switch on/off the electric transfer pump.
+
+The day tank will be provided with a level indicator, a cock
+and double on/off valve to allow drainage operations and
+occasional fuel draining.
+
+Overflow will be connected from the day tank to the fuel
+tank overflow manifold.
+
+Fuel Pumps To be provided 2 fuel transfer pumps (one back up) for
+automatic feeding of the day tank and for the fuel transfer
+(not automatic) from a tank to another.
+Operating of the fuel pump will be indicated on the proper
+alarm panel.
+Fuel Filters and
+Separator
+
+Fuel Piping
+
+Fuel Inlet System
+
+To be provided 3 filters model "Racor” or equivalent
+incorporating a water alarm gauge connected to the
+synoptic alarm panel on the putlet from the day tank for
+the fuel purification.
+
+Each filter will be suitable sized to supply fuel ti propulsor
+engine and two generating set. By pass arrangement allow
+to clean one filter per time with the engines running.
+
+A fuel filter will be placed before the transfer pump.
+
+Engine fuel is supplied by separate lines to the engines,
+connected to the daily tank with rubber piping with system
+cut-off by means of ball valves, with lever.
+
+Pump overflow return pipes from the engines to the daily
+tank, with piping the same as above.
+
+Fuel supply is to be to two deck fillers recesses, located on
+both sides and serving only the tanks located in the same
+side.
+
+Two fillers on each filler recess, each one serving directly
+by gravity one particular tank.
+
+541 100 Fuel System
+541 110 Fuel Transfer Manifold
+
+550 AIR, GAS, OIL CENTRALIZED SYSTEMS
+
+555 FIRE EXTINGUISHING SYSTEMS
+
+Fixed gas fire
+fighting system
+
+Portable
+Extinguishers
+
+An automatic fire extinguisher SEA FIRE, Fireboy or
+equivalent will be installed on the engine room. 3 outputs,
+one on each motor engine to be installed.
+
+Portable fire extinguishers as per CE classification to be
+supplied. All portable extinguishers must be stowed in a
+location convenient to the space protected.
+
+555 100 Fire Fighting System
+555 110 Fire Extinguishers and Escapes Plan
+
+556 HYDRAULIC FLUID CENTRALIZED SYSTEM
+
+General
+
+Equipment Detail
+
+An hidraulic system to operate all big loads onboard will
+be provided. It will have pumps both on each generator
+and to the main engine's gearbox. An electric pump will be
+used for green sailing operation using batteries.
+
+All components, calculation and installation is to be
+provided by Hydrosystems from Genova, Italy
+
+556 105 Hydraulic System Diagram
+556 110 Hydraulic System Piping
+
+560 SHIP CONTROL SYSTEMS
+
+561 STEERING CONTROL SYSTEMS
+
+General
+
+Steering Wheels
+
+Steering
+Quadrants
+
+The steering system will be one wheel system mounted on
+a central steering pedestal. The wheel will activate an
+hydraulic ram on the rudder quadrant.
+
+One Steering Wheel Classic Style Look Wodden Finish.
+Max. diam 1850mm. Effective diam 1750mm.
+
+The quadrant will be in carbon fibre. Two stoppers at 350
+each side will be provided.
+Emergency Tiller
+
+Automatic Pilot
+
+Automatic Pilot-
+Equipment Detail
+
+562 RUDDER
+General
+
+Rudder Structure
+
+Rudder € Bearings
+- Equipment
+Details
+
+568 SIDE THRUSTER
+General
+
+Equipment Detail
+
+An emergency tiller or emergency purchase will be fitted
+on the rudder stock to be operated from the deck if
+possible.
+
+The main hydraulic double ram system operates as
+Autopilot
+
+Custom Hydrosystems Italy
+
+561
+561
+
+The rudder geometry will maintain the hydrodynamic
+characteristics as required by the designer
+
+Carbon fiber
+
+Provider JP3 France
+
+562
+562
+
+Two side thrusters to be provided. One aft and one fwd,
+as closer to the extreems as possible keeping the distance
+below water required by the manufacturer. Both are to be
+retractable system.
+
+2 (two) Max Power R600 retractable for bow and stern
+thruster
+
+568
+568
+
+580 MECHANICAL HANDLING SYSTEMS
+
+581 ANCHOR HANDLING AND STOWAGE SYSTEMS
+
+Anchors and
+chains
+
+Anchor Windlass
+
+Chain locker
+
+Main anchor is dropped from the hull bottom (Wally
+anchor system). Anchor well and chain locker are placed in
+forepeak.
+
+Anchor guide in SS and anchor pipe in composite.
+
+Devil's clew to be installed.
+
+One (1) anchor, balanced type with high holding power of
+approx. 130 Kg (?TBD)
+
+One (1) chains 120m and 12mm diameter (?), made of
+high resistance steel.
+
+One (1) secondary anchor, 70 Kg Fortress or equivalent,
+10m chain of 10mm diam. and 60m line of 18mm diam.
+
+One (1) Aluminium Bronze Anchoring System Brand Muir
+or similar with a max pull force of 1,5 tons.
+
+One chain locker ¡is fitted in way of anchor trunks.
+
+581
+581
+
+582 MOORING AND TOWING SYSTEMS
+
+Mooring Cleats
+
+Mooring
+Capstands
+
+Custom made Brand Solymar Italy
+
+Custom made Brand Solymar Italy
+
+100 Steering System Plan
+110 Rudder Quadrant Plan
+
+100 Rudder Bearings
+110 Rudder Construction
+
+100 Bow Thruster Detail
+110 Stern Thruster Detail
+
+100 Wally type Anchor System
+110 External Anchor System
+Docking Lines Four (6) lines of 24mm, 50m long
+Two (4) lines of 24mm, 70m long
+
+582 100 Mooring System
+583 TENDERS, LIFERATS, TOYS-HANDLING AND STOWAGE SYS
+Liferafts Two (2) eight persons "Autoflug" or similar liferafts to be
+equipped with full flag administration equipment. The two
+liferafts should be stored in adequate and accesible places
+
+in the deck.
+Tender Lifting Ram attached to the main sail boom or small captive on
+System deck to be defined
+583 100 Tender Lifting System
+600 OUTFIT AND FURNISHINGS
+600 OUTFIT AND FURNISHINGS
+601 300 Typical Interior Details
+604 LOCKS, KEYS AND TAGS
+Hardware Lowe USA, Custom Made
+610 SHIP FITTINGS
+612 RAILS, STANCHIONS AND LIFELINES
+Lifelines To be stainless steel rod rigging AISI316, supported by
+
+stanchions and pulpits out of stainless steel tubes AISI316,
+
+612 100 Deck Stanchions Plan
+612 105 Stanchions Fixation Detail
+612 110 Stern 8: Terrace Pulpits
+613 CANVAS COVERS AND RELATED RIGGING
+Dodgers There will be foldable dodgers, solid, light and easily
+removable to cover each companionway.
+
+Canvas work There will be covers for fenders, steering pedestals,
+winches and sails on booms.
+
+613 100 Dodgers
+613 200 Bimini
+613 300 Boat Cover
+614 400 Deck Hardware Covers
+615 DECK AND COCKPIT FURNITURE
+Flagpole A wood flag pole will be installed.
+615 100 Deck Table
+617 FENDERS, MOORING-TOWING ROPES
+Fenders 10 (ten) fenders of cilindrical shape or inflatable type
+stored in the forepeak.
+
+618 SAFETY EQUIPMENT (EXCLUDING BOATS)
+
+Safety Equipment The following safety equipment will be installed: TO BE
+CHECKED
+-One(1) MOM 8 A Safety World
+-Twelve(12) Lifejackets type BFA Rescue 160
+-Two(2) Lifejackets for children type BFA Magic 100
+-Twelve(12) Life lines type BFA LIFELINE
+-One(1) Emergency pack of parachutes flares, hand flares
+and distress signals as per registered flag requirements.
+
+First Aid Kit One(1) "Arimar" or equivalent first aid kit suitable for
+cruising yachts of this dimension.
+
+620 INTERIOR LAYOUT Mahogany
+620 200 Interior General Arrangement
+620 210 Joiner Sections Detail
+622 FLOOR PLATES AND GRATINGS
+Cabin Sole TBD
+630
+
+Handrails Where necessary, stainless steel or wooden handrails to
+be fitted.
+
+623 LADDERS AND GANGWAYS (MANUALLY OPERATED)
+Gangway A carbon fiber structure covered with teak and mahogany
+gangway is to be provided.
+
+Swimming Ladder TBD
+
+624 NON-STRUCTURAL CLOSURES (HATCHES, ETC)
+Companionway Custom made
+
+Hatches Custom made
+Doors Custom made
+Doors Hinges TBD
+
+625 AIRPORTS, FIXED PORTLIGHT, AND WINDOWS
+
+PRESERVATIVES AND COVERINGS
+
+633 CATHODIC PROTECTION
+
+Anodes and Fixed sacrifical zinc anodes to instal on:
+lightning rod -Propeller head
+
+-Propeller Shaft
+
+-Ballast bulb
+
+-Salt Water piping
+-Anchor system box
+The vessel will be equiped with a lightning rod.
+
+634 DECK COVERING
+Teak Deck The teak will be of 12mm thick after final smoothing with
+
+staves of 6S5mm width overall. The teak employed shall be
+
+obtained from quartersavwn wood of the best quality.
+
+635 INSULATION (THERMAL AND ACOUSTICAL)
+Generator A rigid sound shield acoustic booth is to be fitted around
+each generator, easily removable for service operations.
+
+Fans Fans are to be mounted on anti vibration rubber
+mountings and connected to ducting via flexible
+connectors. Ducts, where necessary, are to be adequately
+insulated.
+
+622 100 Lower Deck Sole Arrangement
+622 110 Upper Deck Sole Arrangement
+622 200 Lower Deck Ceiling Plan
+622 210 Upper Deck Ceiling Plan
+
+623 100 Side Ladder
+623 200 Gangway
+
+624 120 Companionway to Saloon
+624 125 Companionway to Aft Area
+624 130 Companionway To Fwd Area
+
+625 100 Hull Portholes Details
+
+625 200 Deck Portlights
+625 300 Deck Airports
+
+634 100 Teak Deck Covering
+Pumps, All other auxiliary machinery and fittings are to be
+compressors, etc Mounted on antivibration mountings and elastically
+connected to pumps.
+Mounting shall be adequate so as to limit the movement of
+the machinery and avoid disconnection between coupling
+flanges and pipes.
+Pipes are to be adequately hung, without being too stiff,
+and insulated.
+Care is to be taken in the running and fixing of hydraulic
+pipes.
+Care ¡is to be taken in the isolation of the autopilot system.
+
+637 SHEATING
+
+Engine Room Engine room and pumps room walls to be made of
+insulated, heat resistant and fireproof material of adequate
+thickness,
+
+640 LIVING SPACES
+640 LIVING SPACES
+
+General The execution of the interiors is oriented to minimize
+weight, without sacrifying strenght and resistance of the
+components.
+
+Standard of Finish TBD with owner/designer
+
+641 OWNER BERTHING AND MESSING SPACES
+
+641 100 Owner Cabin Arrangement
+642 GUESTS BERTHING AND MESSING SPACES
+
+642 100 Guest Cabin Arrangement
+643 CREW BERTHING AND MESSING SPACES
+
+643 100 Crew Cabin Arrangement
+
+643 300 Crew Mess Arrangement
+644 SANITARY SPACES AND FIXTURES
+
+644 210 Owner Bath Arrangement
+
+644 220 Guest Bath Arrangement
+
+644 230 Crew Bath Arrangement
+645 LEISURE AND COMMUNITY SPACES
+
+645 100 Upper Saloon Arrangement
+
+645 200 Lower Saloon Arrangement
+
+650 SERVICE SPACES
+
+651 COMMISARY SPACES
+651 100 Galley Arrangement
+660 WORKING SPACES
+
+661 NAVIGATION AREA
+661 100 Navigation Area Arrangement
+665 WORKSHOP, LABS TEST AREAS (INCL, PORTABLE TOOLS, EQUIP.)
+
+670 STOWAGE SPACES
+
+671 LOCKERS AND SPECIAL STOWAGE
+674 FOREPACK AND LAZARETTE
+674 210 Lazarette Layout
+674 215 Forepack Layout
+680 PAINTING
+
+680 PAINTING
+700
+
+800
+
+900
+
+700
+
+710
+
+720
+
+800
+
+830
+
+962
+
+General Filler system to be adequate epoxy resin and micro
+ballons.
+The finishing glossy layers shall be applied by an "Awlgrip"
+approved contractor.
+Complete "Awlgrip" paint system (or of equivalent quality)
+is to be used for outside painting.
+The paint system must comply with the specifications
+stated by the supplier.
+Pain is to be sprayed and each layer hand polished.
+680
+SAIL RIG
+SAIL PLAN
+701
+MAST AND STANDING RIGGING
+711 MASTS AND SPARS GENERAL
+712 FWD MAST
+712
+712
+713 AFT MAST
+713
+713
+715 FWD BOOM
+715
+715
+717 AFT BOOM
+717
+717
+718 SPINNAKER POLE, JOCKEY POLE, BOWSPRIT
+718
+718
+719 STANDING RIGGING (INCL. MECH. TENSIONING DEVICES)
+SAILING EQUIPMENT
+721 RUNNING RIGGING
+722 TENSIONING DEVICES (EXCL. MECHANICAL FOR STANDING RIGGING)
+724 DECK HARDWARE (BLOCKS, RAILS, ETC)
+724
+724
+GENERAL ARRANGEMENT
+GENERAL ARRANGEMENT
+801
+801
+801
+801
+801
+BOAT GEOMETRY LINES
+831
+831
+831
+831
+831
+831
+831
+831
+SHIP ASSEMBLY AND SUPPORT SERVICES
+HULL MOULD
+962
+962
+
+962
+
+100
+
+100
+
+100
+110
+
+100
+110
+
+100
+110
+
+100
+110
+
+100
+110
+
+100
+105
+
+100
+200
+202
+300
+900
+
+110
+111
+120
+123
+130
+135
+190
+560
+
+100
+105
+110
+
+Painting Outboard View
+
+Sail Plan
+
+Fwd Mast GA
+Fwd Mast Construction Plan
+
+Aft Mast GA
+Aft Mast Construction Plan
+
+Fwd Boom GA
+Fwd Boom Construction Plan
+
+Aft Boom GA
+Aft Boom Construction Plan
+
+Bowsprit GA
+Bowsprit Construction Plan
+
+Deck Hardware
+Custom Hardware Detail
+
+Interiors GA
+
+Structures €: Systems GA
+Bulkheads Position
+
+Deck 8: Outboard Profile
+Commercial Drawing
+
+Hull Lines Plan
+
+False Bow Lines Plan
+Bulkheads Geometry
+Fresh Water 8 Fuel Tanks
+Deck Lines Plan
+Coachroof Lines Plan
+
+Keel Lines Plan
+
+Rudder Lines Plan
+
+Hull Mould Geometry
+Hull Mould Construction
+Hull Mould Inserts
+963
+
+965
+
+966
+
+980
+
+HULL TRANSOM MOULD
+
+Transom Mould Insert
+
+Deck Mould Geometry
+Deck Sheer Line Definition
+Deck Mould Construction
+Deck Mould Inserts
+
+Coachroof Mould Geometry
+Coachroof Mould Construction
+
+963 110
+DECK MOULD
+
+965 100
+
+965 101
+
+965 105
+
+965 110
+COACHROOF MOULD (IF COMPOSITE)
+
+966 100
+
+966 105
+CONTRACTUAL AND PRODUCTION SUPPORT SERVICE (INSURANCE, TRAILS, ETC)
+
+982 TRIALS
+
+986 TEST AND INSPECTION
